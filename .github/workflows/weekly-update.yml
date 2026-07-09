@@ -21,13 +21,10 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install dependencies
-        run: npm install
-
-      - name: Install Chromium (for resolving Google News redirect links)
-        run: npx playwright install --with-deps chromium
-
-      - name: Update news data
+      - name: Update news data (Naver News Search API)
+        env:
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
         run: node scripts/update-news.mjs
 
       - name: Commit and push if changed
