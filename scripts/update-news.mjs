@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import vm from 'node:vm';
+import { chromium } from 'playwright';
 
 const DATA_DIR = path.join(process.cwd(), 'data');
 const CURRENT_PATH = path.join(DATA_DIR, 'current-week-data.js');
@@ -16,6 +17,8 @@ const CATEGORIES = [
 
 const MAX_PER_CATEGORY = 5;
 const EXCLUDE_SOURCE_SUBSTR = ['MSN'];
+const UA =
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36';
 
 function loadWindowVar(filePath, varName) {
   const code = fs.readFileSync(filePath, 'utf8');
@@ -42,10 +45,7 @@ function stripTags(str) {
 
 async function fetchText(url) {
   const res = await fetch(url, {
-    headers: {
-      'User-Agent':
-        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36',
-    },
+    headers: { 'User-Agent': UA },
     redirect: 'follow',
   });
   return { text: await res.text(), finalUrl: res.url };
@@ -60,7 +60,27 @@ function formatDate(pubDate) {
   return `${yyyy}-${mm}-${dd}`;
 }
 
-async function fetchCategoryArticles(category) {
+// Google News RSS <link> values point at a news.google.com SPA shell that performs
+// a client-side (JS) redirect to the real publisher URL. A plain HTTP fetch can't
+// follow that, so a headless browser is used just to resolve the final URL.
+async function resolveGoogleNewsUrl(browser, googleUrl) {
+  const page = await browser.newPage({ userAgent: UA });
+  try {
+    await page.goto(googleUrl, { waitUntil: 'domcontentloaded', timeout: 20000 });
+    await page
+      .waitForFunction(() => !location.hostname.includes('news.google.com'), { timeout: 12000 })
+      .catch(() => {});
+    const finalUrl = page.url();
+    if (finalUrl.includes('news.google.com')) return null;
+    return finalUrl;
+  } catch {
+    return null;
+  } finally {
+    await page.close();
+  }
+}
+
+async function fetchCategoryArticles(browser, category) {
   const q = encodeURIComponent(`${category.query} when:7d`);
   const rssUrl = `https://news.google.com/rss/search?q=${q}&hl=ko&gl=KR&ceid=KR:ko`;
   const { text } = await fetchText(rssUrl);
@@ -85,19 +105,18 @@ async function fetchCategoryArticles(category) {
     if (!date) continue;
     if (EXCLUDE_SOURCE_SUBSTR.some((s) => source.toUpperCase().includes(s))) continue;
 
-    // Google News RSS titles are formatted as "Headline - Source"; strip that suffix.
     let title = rawTitle;
     if (source && title.endsWith(` - ${source}`)) {
       title = title.slice(0, -(source.length + 3));
     }
 
-    let finalUrl = rssLink;
+    const resolvedUrl = await resolveGoogleNewsUrl(browser, rssLink);
+    if (!resolvedUrl) continue; // Couldn't resolve to a real publisher URL; skip rather than link to Google's shell.
+    if (resolvedUrl.includes('msn.com')) continue;
+
     let summary = title;
     try {
-      const { text: html, finalUrl: resolvedUrl } = await fetchText(rssLink);
-      finalUrl = resolvedUrl || rssLink;
-      if (finalUrl.includes('msn.com')) continue;
-
+      const { text: html } = await fetchText(resolvedUrl);
       const ogMatch =
         html.match(/<meta[^>]+property=["']og:description["'][^>]+content=["']([^"']*)["']/i) ||
         html.match(/<meta[^>]+content=["']([^"']*)["'][^>]+property=["']og:description["']/i);
@@ -117,18 +136,17 @@ async function fetchCategoryArticles(category) {
       summary = `${summary.slice(0, 157).trim()}...`;
     }
 
-    results.push({ category: category.key, title, summary, source, date, url: finalUrl });
+    results.push({ category: category.key, title, summary, source, date, url: resolvedUrl });
   }
   return results;
 }
 
 function getPeriod(now) {
-  // Workflow is scheduled for 00:07 UTC == 09:07 KST on the same calendar day.
   const kstNow = new Date(now.getTime() + 9 * 60 * 60 * 1000);
-  const day = kstNow.getUTCDay(); // 0=Sun .. 1=Mon
+  const day = kstNow.getUTCDay();
   const daysSinceMonday = (day + 6) % 7;
   const periodEndDate = new Date(kstNow);
-  periodEndDate.setUTCDate(kstNow.getUTCDate() - daysSinceMonday - 1); // Sunday before this Monday
+  periodEndDate.setUTCDate(kstNow.getUTCDate() - daysSinceMonday - 1);
   const periodStartDate = new Date(periodEndDate);
   periodStartDate.setUTCDate(periodEndDate.getUTCDate() - 6);
 
@@ -163,14 +181,19 @@ async function main() {
     '0',
   )}+09:00`;
 
+  const browser = await chromium.launch();
   const allArticles = [];
-  for (const category of CATEGORIES) {
-    try {
-      const items = await fetchCategoryArticles(category);
-      allArticles.push(...items);
-    } catch (err) {
-      console.error(`Category "${category.key}" failed:`, err.message);
+  try {
+    for (const category of CATEGORIES) {
+      try {
+        const items = await fetchCategoryArticles(browser, category);
+        allArticles.push(...items);
+      } catch (err) {
+        console.error(`Category "${category.key}" failed:`, err.message);
+      }
     }
+  } finally {
+    await browser.close();
   }
 
   if (allArticles.length === 0) {
