@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>주간 뉴스 모니터링 | SK m&amp;service</title>
+<link rel="stylesheet" href="assets/style.css?v=57">
+</head>
+<body>
+
+<div class="topbar">
+  <div class="topbar__brand">
+    <div class="topbar__ci"><img src="assets/logo-skms-gray.png" alt="SK m&amp;service"></div>
+  </div>
+</div>
+
+<div class="app-shell">
+  <aside class="sidebar">
+    <nav class="sidebar__nav">
+      <a href="index.html" class="sidebar__link active">
+        <span class="sidebar__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 10.5 12 4l8 6.5"/><path d="M6 9.5V20h12V9.5"/><path d="M10 20v-6h4v6"/></svg></span>
+        <span>Home</span>
+      </a>
+      <a href="news-archive.html" class="sidebar__link">
+        <span class="sidebar__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="5" width="17" height="4.2" rx="1.4"/><path d="M4.5 9.5V18a1.6 1.6 0 0 0 1.6 1.6h11.8a1.6 1.6 0 0 0 1.6-1.6V9.5"/><path d="M10 13.2h4"/></svg></span>
+        <span>지난 뉴스</span>
+      </a>
+      <a href="news-stats.html" class="sidebar__link">
+        <span class="sidebar__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20V10"/><path d="M10 20V4"/><path d="M16 20v-7"/><path d="M3 20h18"/></svg></span>
+        <span>뉴스 통계</span>
+      </a>
+    </nav>
+  </aside>
+
+  <div class="main-area">
+    <main class="wrap">
+      <div class="hero-card hero-card--split">
+        <div class="hero-card__content">
+          <div class="hero-card__kicker">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5a5 5 0 0 0-5 5v3.2c0 .8-.3 1.6-.9 2.2L4.5 15.5h15l-1.6-1.6a3.1 3.1 0 0 1-.9-2.2V8.5a5 5 0 0 0-5-5Z"/><path d="M10 18.2a2 2 0 0 0 4 0"/></svg>
+            <span>이번 주 소식, 한눈에 쏙!</span>
+          </div>
+          <h1 class="site-title">
+            <span class="site-title__bold">주간</span><span class="site-title__script">뉴스</span><span class="site-title__bold">모니터링</span>
+            <span class="hero-card__period">
+              <span class="hero-card__period-badge">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="5" width="17" height="15" rx="2.4"/><path d="M8 3v4M16 3v4M3.5 10h17"/></svg>
+              </span>
+              <span id="periodLabel">기간 정보 불러오는 중…</span>
+            </span>
+          </h1>
+          <p class="site-tagline">
+            <span class="site-tagline__line1">주목해야 할 외부 동향과 주요 업계 소식!</span>
+            <span class="site-tagline__line2">바쁜 일상 속에서도 <span class="site-tagline__highlight">흐름을 놓치지 마세요!</span></span>
+          </p>
+        </div>
+        <div class="hero-card__visual">
+          <svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="120" cy="120" r="110" fill="#eaf5e1"/>
+            <circle cx="200" cy="52" r="12" fill="#dadfe5"/>
+            <circle cx="36" cy="188" r="9" fill="#7bc550" opacity="0.55"/>
+            <rect x="60" y="56" width="118" height="132" rx="12" fill="#ffffff" stroke="#5fa83a" stroke-width="4"/>
+            <rect x="78" y="78" width="82" height="11" rx="4" fill="#7bc550"/>
+            <rect x="78" y="100" width="82" height="6" rx="3" fill="#dadfe5"/>
+            <rect x="78" y="114" width="82" height="6" rx="3" fill="#dadfe5"/>
+            <rect x="78" y="128" width="54" height="6" rx="3" fill="#dadfe5"/>
+            <rect x="78" y="148" width="38" height="28" rx="6" fill="#eaf5e1"/>
+            <rect x="124" y="148" width="36" height="8" rx="4" fill="#7bc550"/>
+            <rect x="124" y="162" width="36" height="6" rx="3" fill="#dadfe5"/>
+            <circle cx="178" cy="66" r="23" fill="#5fa83a"/>
+            <path d="M170 60v12a2 2 0 0 0 2 2h4l7 6V52l-7 6h-4a2 2 0 0 0-2 2z" fill="#ffffff"/>
+          </svg>
+        </div>
+      </div>
+
+      <div class="section-title section-title--muted"><span class="bar"></span>WEEKLY NEWS LIST</div>
+      <div class="news-list" id="newsList"></div>
+      <div class="archive-empty" id="emptyState" style="display:none;">이번 주는 아직 소식이 도착하지 않았어요. 곧 채워질 예정입니다!</div>
+    </main>
+
+    <footer class="site-footer"><div class="site-footer__inner"><strong>SK m&amp;service</strong> · 매주 월요일 아침, 지난 한 주의 이야기를 새로 담아옵니다.</div></footer>
+  </div>
+</div>
+
+<script src="data/current-week-data.js"></script>
+<script src="assets/script.js"></script>
+<script>
+  (function () {
+    var data = window.CURRENT_WEEK || { articles: [] };
+
+    document.getElementById("periodLabel").textContent = data.periodLabel || "기간 정보 없음";
+
+    var listEl = document.getElementById("newsList");
+    var articles = data.articles || [];
+
+    if (articles.length === 0) {
+      document.getElementById("emptyState").style.display = "block";
+    } else {
+      articles.forEach(function (article) {
+        listEl.appendChild(window.NewsSite.buildNewsCard(article));
+      });
+    }
+
+    window.NewsSite.attachInteractionHandlers(listEl);
+  })();
+</script>
+</body>
+</html>
