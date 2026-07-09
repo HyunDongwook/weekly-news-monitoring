@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.06.29 ~ 2026.07.05",
   "periodStart": "2026-06-29",
   "periodEnd": "2026-07-05",
-  "generatedAt": "2026-07-09T16:34:40+09:00",
+  "generatedAt": "2026-07-09T16:40:51+09:00",
   "articles": [
     {
       "category": "welfare",
@@ -172,43 +172,43 @@ window.CURRENT_WEEK = {
     },
     {
       "category": "safety",
-      "title": "한국비계기술원 \"현장마다 다른 비계 안전기준 손질해야\"",
-      "summary": "이번 세미나는 '2026 산업안전보건의 달' 행사의 하나로 마련됐으며 건설사와 발주기관, 감리사, 안전관리자 등이 참석해 가설구조물 안전관리 개선 방안을 논의했다. 첫 번째 발표에 나선 이현섭 한국비계기술원...",
-      "source": "safetynews.co.kr",
+      "title": "\"AI가 설비점검땐 알아서 기계가동 차단\" 기아 오토랜드 광주 '산업안전...",
+      "summary": "기아는 오토랜드 광주가 고용노동부와 한국산업안전보건공단이 주관하는 '2026 AI·스마트 산업안전기술 우수사례 챌린지'에서 최고상인 고용노동부 장관상을 수상했다고 9일 밝혔다. 기아는 기존 'LOTO(Lock-Out, Tag-Out...",
+      "source": "catchnews.kr",
       "date": "2026-07-09",
-      "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=249465"
+      "url": "https://www.catchnews.kr/news/articleView.html?idxno=125996"
     },
     {
       "category": "safety",
-      "title": "현대건설, 건설안전 혁신기술 공유...스타트업 데모데이 열어",
-      "summary": "이 중 씨테크솔루션과 실리콘큐브는 현대건설과 협업해 개발한 모바일 기반 다국어 안전보건교육... 또 2022년부터 스타트업 공모전과 기술 실증 프로그램 등을 운영하며 건설산업 혁신 생태계 조성에 나서고 있다....",
-      "source": "idsn.co.kr",
+      "title": "[건설업계 6월 동향] 대우건설, 친환경 행보·안전강화···지속가능경...",
+      "summary": "이를 통해 대우건설은 고객만족 및 품질관리 AI 및 스마트건설 체계 구축 산업안전보건 관리 기후변화 대응 윤리ㆍ준법경영 등 5개 분야를 중대 이슈로 선정하고 관련 전략과 성과를 보고서에 담았다. 또한...",
+      "source": "wsobi.com",
       "date": "2026-07-09",
-      "url": "https://idsn.co.kr/news/view/1065598105763624"
+      "url": "http://www.wsobi.com/news/articleView.html?idxno=315009"
     },
     {
       "category": "safety",
-      "title": "코레카 '크린스킨', KCs 인증 니트릴 장갑 ‘스카이랩’ 출시",
-      "summary": "이번에 출시된 '크린스킨 스카이랩'은 한국산업안전보건공단의 KCs 인증을 받은 화학물질용 안전장갑이다. 유해 화학물질 및 바이러스 침투 저항성을 검증하는 유럽 규격인 EN ISO 374-1:2016 Type A와 EN ISO 374-5:2016(VIRUS)...",
-      "source": "thepowernews.co.kr",
+      "title": "최정호 시장 \"익산 대전환 결과로 증명\"",
+      "summary": "이와 함께 홀로그램 기반 AX 사업화 확산, 피지컬 AI 첨단산업, 문화·안전·보건 분야 사업에 대한 국비 지원도 요청했다. 국토교통부에서는 동익산역 진입도로 개설 사업의 조속한 추진을 강조했다. 아울러 전북권...",
+      "source": "hansbiz.co.kr",
       "date": "2026-07-09",
-      "url": "https://www.thepowernews.co.kr/view.php?ud=2026070916263491769aeda69934_7"
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=849408"
     },
     {
       "category": "safety",
-      "title": "고려대 안암병원, 원격진단 로봇·초정밀 암 진단 기술로 R&D 우수성과 ...",
-      "summary": "보건복지부와 한국보건산업진흥원은 매년 우수 연구성과를 발굴해 30선을 선정한다. 올해는 인공지능... 감염병 상황이나 의료 접근성이 낮은 환경에서 환자 상태를 안전하게 확인하는 데 활용된다. 안암병원은 이번...",
-      "source": "sentv.co.kr",
-      "date": "2026-07-09",
-      "url": "https://www.sentv.co.kr/article/view/sentv202607090179"
-    },
-    {
-      "category": "safety",
-      "title": "[인사] 공주시 2026년 하반기 7월 13일자",
+      "title": "공주시, 하반기 6급 이하 승진 및 전보 인사 단행",
       "summary": "(복직) ▲ 보건정책과 강아름 ▲ 건강관리과 전혜영 ▲ 질병관리과 이경희 ▲ 보건소 맹주희(승진) ▲ 유구읍... 국제밤산업박람회 조직위원회 파견) ▲ 안전총괄과 이한별(복직), 이장주 ▲ 지역활력과 서영은...",
-      "source": "goodmorningcc.com",
+      "source": "ccreview.co.kr",
       "date": "2026-07-09",
-      "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=448752"
+      "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=352433"
+    },
+    {
+      "category": "safety",
+      "title": "육군, AI 기반 다양한 안전사고 예방대책 논의",
+      "summary": "부대 제공 육군전투준비안전단은 9일 경기 고양시 킨텍스에서 열린 ‘2026 산업안전보건의 달’ 행사와 연계해 ‘육군 인공지능(AI) 안전관리 전략 세미나’를 개최했다. 군 안전사고를 예방하고 안전의식을 고취하기 위해...",
+      "source": "kookbang.dema.mil.kr",
+      "date": "2026-07-09",
+      "url": "https://kookbang.dema.mil.kr/newsWeb/20260710/2/ATCE_CTGR_0010030000/view.do"
     }
   ]
 };
