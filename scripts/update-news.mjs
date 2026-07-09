@@ -1,24 +1,24 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import vm from 'node:vm';
-import { chromium } from 'playwright';
 
 const DATA_DIR = path.join(process.cwd(), 'data');
 const CURRENT_PATH = path.join(DATA_DIR, 'current-week-data.js');
 const ARCHIVE_PATH = path.join(DATA_DIR, 'archive-data.js');
 
+const NAVER_CLIENT_ID = process.env.NAVER_CLIENT_ID;
+const NAVER_CLIENT_SECRET = process.env.NAVER_CLIENT_SECRET;
+
 const CATEGORIES = [
-  { key: 'welfare', query: '복지포인트 OR 바우처' },
-  { key: 'payment', query: '간편결제 OR 멤버십' },
+  { key: 'welfare', query: '복지포인트 바우처' },
+  { key: 'payment', query: '간편결제 멤버십' },
   { key: 'insurance', query: 'GA 보험대리점' },
-  { key: 'aicc', query: 'AICC OR AI 컨택센터' },
+  { key: 'aicc', query: 'AICC 컨택센터' },
   { key: 'safety', query: '산업안전 안전보건' },
 ];
 
 const MAX_PER_CATEGORY = 5;
-const EXCLUDE_SOURCE_SUBSTR = ['MSN'];
-const UA =
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36';
+const EXCLUDE_URL_SUBSTR = ['msn.com'];
 
 function loadWindowVar(filePath, varName) {
   const code = fs.readFileSync(filePath, 'utf8');
@@ -40,15 +40,7 @@ function decodeEntities(str) {
 }
 
 function stripTags(str) {
-  return decodeEntities(str.replace(/<[^>]*>/g, '')).trim();
-}
-
-async function fetchText(url) {
-  const res = await fetch(url, {
-    headers: { 'User-Agent': UA },
-    redirect: 'follow',
-  });
-  return { text: await res.text(), finalUrl: res.url };
+  return decodeEntities((str || '').replace(/<[^>]*>/g, '')).trim();
 }
 
 function formatDate(pubDate) {
@@ -60,93 +52,64 @@ function formatDate(pubDate) {
   return `${yyyy}-${mm}-${dd}`;
 }
 
-// Google News RSS <link> values point at a news.google.com SPA shell that performs
-// a client-side (JS) redirect to the real publisher URL. A plain HTTP fetch can't
-// follow that, so a headless browser is used just to resolve the final URL.
-async function resolveGoogleNewsUrl(browser, googleUrl) {
-  const page = await browser.newPage({ userAgent: UA });
-  try {
-    await page.goto(googleUrl, { waitUntil: 'domcontentloaded', timeout: 20000 });
-    await page
-      .waitForFunction(() => !location.hostname.includes('news.google.com'), { timeout: 12000 })
-      .catch(() => {});
-    const finalUrl = page.url();
-    if (finalUrl.includes('news.google.com')) return null;
-    return finalUrl;
-  } catch {
-    return null;
-  } finally {
-    await page.close();
+// Naver's official News Search API: returns the real publisher URL (originallink)
+// plus a ready-made Korean snippet (description) directly — no scraping, no
+// redirect-resolution, no headless browser, and no bot-detection risk.
+async function fetchCategoryArticles(category) {
+  const url = `https://openapi.naver.com/v1/search/news.json?query=${encodeURIComponent(
+    category.query,
+  )}&display=20&sort=date`;
+  const res = await fetch(url, {
+    headers: {
+      'X-Naver-Client-Id': NAVER_CLIENT_ID,
+      'X-Naver-Client-Secret': NAVER_CLIENT_SECRET,
+    },
+  });
+  if (!res.ok) {
+    throw new Error(`Naver API error ${res.status} ${res.statusText} for "${category.key}"`);
   }
-}
-
-async function fetchCategoryArticles(browser, category) {
-  const q = encodeURIComponent(`${category.query} when:7d`);
-  const rssUrl = `https://news.google.com/rss/search?q=${q}&hl=ko&gl=KR&ceid=KR:ko`;
-  const { text } = await fetchText(rssUrl);
-  const items = [...text.matchAll(/<item>([\s\S]*?)<\/item>/g)].map((m) => m[1]);
+  const data = await res.json();
+  const items = data.items || [];
 
   const results = [];
+  const seenUrls = new Set();
   for (const item of items) {
     if (results.length >= MAX_PER_CATEGORY) break;
 
-    const titleMatch = item.match(/<title>([\s\S]*?)<\/title>/);
-    const linkMatch = item.match(/<link>([\s\S]*?)<\/link>/);
-    const pubDateMatch = item.match(/<pubDate>([\s\S]*?)<\/pubDate>/);
-    const sourceMatch = item.match(/<source[^>]*>([\s\S]*?)<\/source>/);
+    const articleUrl = item.originallink || item.link;
+    if (!articleUrl) continue;
+    if (EXCLUDE_URL_SUBSTR.some((s) => articleUrl.toLowerCase().includes(s))) continue;
+    if (seenUrls.has(articleUrl)) continue;
 
-    if (!titleMatch || !linkMatch) continue;
-
-    const rawTitle = stripTags(titleMatch[1]);
-    const rssLink = stripTags(linkMatch[1]);
-    const source = sourceMatch ? stripTags(sourceMatch[1]) : '';
-    const date = pubDateMatch ? formatDate(pubDateMatch[1]) : null;
-
+    const date = formatDate(item.pubDate);
     if (!date) continue;
-    if (EXCLUDE_SOURCE_SUBSTR.some((s) => source.toUpperCase().includes(s))) continue;
 
-    let title = rawTitle;
-    if (source && title.endsWith(` - ${source}`)) {
-      title = title.slice(0, -(source.length + 3));
-    }
-
-    const resolvedUrl = await resolveGoogleNewsUrl(browser, rssLink);
-    if (!resolvedUrl) continue; // Couldn't resolve to a real publisher URL; skip rather than link to Google's shell.
-    if (resolvedUrl.includes('msn.com')) continue;
-
-    let summary = title;
-    try {
-      const { text: html } = await fetchText(resolvedUrl);
-      const ogMatch =
-        html.match(/<meta[^>]+property=["']og:description["'][^>]+content=["']([^"']*)["']/i) ||
-        html.match(/<meta[^>]+content=["']([^"']*)["'][^>]+property=["']og:description["']/i);
-      const descMatch =
-        html.match(/<meta[^>]+name=["']description["'][^>]+content=["']([^"']*)["']/i) ||
-        html.match(/<meta[^>]+content=["']([^"']*)["'][^>]+name=["']description["']/i);
-
-      const extracted = ogMatch?.[1] || descMatch?.[1];
-      if (extracted) {
-        summary = decodeEntities(extracted).trim();
-      }
-    } catch {
-      // Article page unreachable/unparseable: fall back to the headline as summary.
-    }
-
+    const title = stripTags(item.title);
+    let summary = stripTags(item.description);
     if (summary.length > 160) {
       summary = `${summary.slice(0, 157).trim()}...`;
     }
 
-    results.push({ category: category.key, title, summary, source, date, url: resolvedUrl });
+    let source = articleUrl;
+    try {
+      source = new URL(articleUrl).hostname.replace(/^www\./, '');
+    } catch {
+      // Keep the raw URL as a last-resort "source" label.
+    }
+
+    seenUrls.add(articleUrl);
+    results.push({ category: category.key, title, summary, source, date, url: articleUrl });
   }
   return results;
 }
 
 function getPeriod(now) {
+  // Workflow is scheduled for 00:07 UTC == 09:07 KST on the same calendar day.
   const kstNow = new Date(now.getTime() + 9 * 60 * 60 * 1000);
-  const day = kstNow.getUTCDay();
+  const day = kstNow.getUTCDay(); // 0=Sun .. 1=Mon
   const daysSinceMonday = (day + 6) % 7;
   const periodEndDate = new Date(kstNow);
-  periodEndDate.setUTCDate(kstNow.getUTCDate() - daysSinceMonday - 1);
+  periodEndDate.setUTCDate(kstNow.getUTCDate() - daysSinceMonday - 1); // Sunday before this Monday
   const periodStartDate = new Date(periodEndDate);
   periodStartDate.setUTCDate(periodEndDate.getUTCDate() - 6);
 
@@ -167,6 +130,11 @@ function getPeriod(now) {
 }
 
 async function main() {
+  if (!NAVER_CLIENT_ID || !NAVER_CLIENT_SECRET) {
+    console.error('NAVER_CLIENT_ID / NAVER_CLIENT_SECRET environment variables are required.');
+    process.exit(1);
+  }
+
   const now = new Date();
   const { periodStart, periodEnd, periodLabel } = getPeriod(now);
   const kst = new Date(now.getTime() + 9 * 60 * 60 * 1000);
@@ -181,19 +149,14 @@ async function main() {
     '0',
   )}+09:00`;
 
-  const browser = await chromium.launch();
   const allArticles = [];
-  try {
-    for (const category of CATEGORIES) {
-      try {
-        const items = await fetchCategoryArticles(browser, category);
-        allArticles.push(...items);
-      } catch (err) {
-        console.error(`Category "${category.key}" failed:`, err.message);
-      }
+  for (const category of CATEGORIES) {
+    try {
+      const items = await fetchCategoryArticles(category);
+      allArticles.push(...items);
+    } catch (err) {
+      console.error(`Category "${category.key}" failed:`, err.message);
     }
-  } finally {
-    await browser.close();
   }
 
   if (allArticles.length === 0) {
@@ -230,7 +193,7 @@ async function main() {
   const currentHeader = `/* ==========================================================================
    현재 주차 뉴스 데이터
    이 파일은 GitHub Actions(.github/workflows/weekly-update.yml)에 의해
-   매주 월요일 오전 9시(KST)에 자동으로 갱신됩니다.
+   매주 월요일 오전 9시(KST)에 자동으로 갱신됩니다. (네이버 뉴스 검색 API 사용)
    ========================================================================== */
 
 `;
