@@ -1,0 +1,113 @@
+/* ==========================================================================
+   지난 뉴스(아카이브) 데이터
+   매주 월요일 예약 작업이 실행될 때, 그 시점의 current-week-data.js 내용이
+   이 배열의 맨 앞(unshift)에 추가되어 계속 쌓입니다. (최신 주차가 배열 맨 앞)
+   ========================================================================== */
+
+window.ARCHIVE_WEEKS = [
+  /* ----- 아래는 레이아웃/분량 확인용 테스트 데이터입니다 (실제 운영 시 주당 25~30건 수준을 가정). 실제 자동 갱신이 쌓이기 시작하면 이 항목들은 지워주세요. ----- */
+  {
+    periodLabel: "2026.06.22 ~ 2026.06.28",
+    periodStart: "2026-06-22",
+    periodEnd: "2026-06-28",
+    articles: [
+      { category: "welfare", title: "정부, 하반기 근로자 복지포인트 지원 확대 발표", summary: "정부가 하반기부터 중소기업 근로자 대상 복지포인트 지원 규모를 확대한다고 발표했다.", source: "이투데이", date: "2026-06-22", url: "#" },
+      { category: "welfare", title: "이지웰, 기업복지 플랫폼 신규 파트너사 50곳 추가", summary: "이지웰이 복지 제휴처를 50곳 추가하며 서비스 이용 범위를 넓혔다.", source: "한겨레", date: "2026-06-23", url: "#" },
+      { category: "welfare", title: "베네피아, 공공기관 복지몰 리뉴얼 오픈", summary: "베네피아가 공공기관 전용 복지몰을 새단장해 다시 열었다.", source: "서울경제", date: "2026-06-24", url: "#" },
+      { category: "welfare", title: "고용노동부, 근로자휴가지원사업 참여기업 모집", summary: "고용노동부가 근로자휴가지원사업에 참여할 중소기업을 추가 모집한다고 밝혔다.", source: "매일노동뉴스", date: "2026-06-25", url: "#" },
+      { category: "welfare", title: "이제너두, 선택적 복지 포인트몰 리뉴얼", summary: "이제너두가 선택적 복지 포인트몰의 UI와 상품군을 새롭게 개편했다.", source: "아시아경제", date: "2026-06-26", url: "#" },
+      { category: "welfare", title: "중소기업중앙회, 복지제도 도입 컨설팅 지원 확대", summary: "중소기업중앙회가 복지제도 도입을 원하는 회원사 대상 무료 컨설팅을 확대한다.", source: "한국경제", date: "2026-06-27", url: "#" },
+      { category: "payment", title: "간편결제 업계, 하반기 수수료 개편 예고", summary: "주요 간편결제 업체들이 가맹점 수수료 체계를 하반기부터 개편할 예정이라고 밝혔다.", source: "머니투데이", date: "2026-06-23", url: "#" },
+      { category: "payment", title: "네이버페이, 복지포인트 연계 결제 서비스 시범운영", summary: "네이버페이가 기업 복지포인트와 연계한 결제 서비스를 시범 운영한다고 밝혔다.", source: "전자신문", date: "2026-06-24", url: "#" },
+      { category: "payment", title: "카카오페이, 소상공인 결제 수수료 인하 연장", summary: "카카오페이가 소상공인 대상 결제 수수료 인하 정책을 연말까지 연장했다.", source: "파이낸셜뉴스", date: "2026-06-25", url: "#" },
+      { category: "payment", title: "신한카드, 구독 서비스 통합 결제 이용자 100만 돌파", summary: "신한카드의 구독 통합 결제 서비스 이용자가 출시 반년 만에 100만 명을 넘었다.", source: "이데일리", date: "2026-06-26", url: "#" },
+      { category: "payment", title: "쿠팡, 와우멤버십 신규 혜택 추가", summary: "쿠팡이 와우멤버십 회원 대상 신규 혜택을 추가한다고 발표했다.", source: "한국경제", date: "2026-06-27", url: "#" },
+      { category: "payment", title: "토스, 모바일 상품권 결제 가맹점 확대", summary: "토스가 모바일 상품권으로 결제할 수 있는 가맹점을 대폭 확대했다.", source: "뉴시스", date: "2026-06-28", url: "#" },
+      { category: "insurance", title: "GA업계, 상반기 신계약 실적 발표", summary: "보험대리점(GA) 업계가 상반기 신계약 실적을 발표하며 성장세를 이어갔다고 밝혔다.", source: "한국일보", date: "2026-06-24", url: "#" },
+      { category: "insurance", title: "금융당국, GA 모집수수료 추가 점검 실시", summary: "금융당국이 보험대리점의 모집수수료 지급 실태를 추가로 점검한다고 밝혔다.", source: "연합인포맥스", date: "2026-06-25", url: "#" },
+      { category: "insurance", title: "삼성화재, 디지털 보험금 청구 대상 확대", summary: "삼성화재가 모바일 앱을 통한 디지털 보험금 청구 가능 대상을 확대했다.", source: "이데일리", date: "2026-06-26", url: "#" },
+      { category: "insurance", title: "손해보험협회, 보험사기 예방 교육 실시", summary: "손해보험협회가 대학생을 대상으로 한 보험사기 예방 교육을 실시했다.", source: "뉴시스", date: "2026-06-27", url: "#" },
+      { category: "insurance", title: "보험연구원, \"TM채널 개선 필요\" 보고서", summary: "보험연구원이 텔레마케팅(TM) 채널의 판매 관행 개선이 필요하다는 보고서를 냈다.", source: "연합인포맥스", date: "2026-06-22", url: "#" },
+      { category: "insurance", title: "교보생명, 헬스케어 연계 보험상품 출시", summary: "교보생명이 웨어러블 기기와 연계한 헬스케어 보험상품을 새로 출시했다.", source: "조선비즈", date: "2026-06-28", url: "#" },
+      { category: "aicc", title: "AICC 시장, 생성형 AI 도입 가속화", summary: "국내 AICC 업계가 생성형 AI 상담 솔루션 도입을 가속화하고 있다고 밝혔다.", source: "전자신문", date: "2026-06-25", url: "#" },
+      { category: "aicc", title: "LG유플러스, AI 상담봇 신규 버전 공개", summary: "LG유플러스가 고도화된 AI 상담봇 신규 버전을 공개했다.", source: "디지털타임스", date: "2026-06-26", url: "#" },
+      { category: "aicc", title: "KT, 콜센터 아웃소싱 계약 추가 수주", summary: "KT가 대형 금융사와 콜센터 아웃소싱 계약을 추가로 수주했다고 밝혔다.", source: "머니S", date: "2026-06-27", url: "#" },
+      { category: "aicc", title: "아웃소싱타임스, \"BPO 인력 수급난 지속\"", summary: "아웃소싱타임스가 BPO 업계의 상담 인력 수급난이 지속되고 있다고 보도했다.", source: "아웃소싱타임스", date: "2026-06-23", url: "#" },
+      { category: "aicc", title: "SK쉴더스, 재택 상담 조직 신설", summary: "SK쉴더스가 재택근무 기반 상담 전담 조직을 새로 신설했다.", source: "머니S", date: "2026-06-28", url: "#" },
+      { category: "safety", title: "여름철 앞두고 산업현장 안전점검 강화", summary: "고용노동부가 여름철을 앞두고 전국 산업현장 안전점검을 강화한다고 밝혔다.", source: "매일노동뉴스", date: "2026-06-26", url: "#" },
+      { category: "safety", title: "안전보건공단, 온열질환 예방 캠페인 시작", summary: "한국산업안전보건공단이 옥외 작업자 대상 온열질환 예방 캠페인을 시작했다.", source: "산업안전신문", date: "2026-06-22", url: "#" },
+      { category: "safety", title: "건설현장 추락사고 예방 장비 보급 확대", summary: "건설업계가 추락사고 예방을 위한 스마트 안전장비 보급을 확대하고 있다.", source: "건설경제", date: "2026-06-23", url: "#" },
+      { category: "safety", title: "고용노동부, 중대재해처벌법 위반 사업장 점검", summary: "고용노동부가 중대재해처벌법 위반 이력 사업장에 대한 특별점검을 실시했다.", source: "노동일보", date: "2026-06-24", url: "#" },
+      { category: "safety", title: "산업안전관리공단, 소규모 사업장 안전컨설팅 지원", summary: "산업안전관리공단이 50인 미만 소규모 사업장 대상 무료 안전컨설팅을 지원한다.", source: "매일노동뉴스", date: "2026-06-27", url: "#" }
+    ]
+  },
+  {
+    periodLabel: "2026.06.15 ~ 2026.06.21",
+    periodStart: "2026-06-15",
+    periodEnd: "2026-06-21",
+    articles: [
+      { category: "welfare", title: "기업복지 플랫폼 이용률, 전년 대비 20% 증가", summary: "기업복지 플랫폼 이용률이 전년 동기 대비 20% 증가한 것으로 나타났다.", source: "서울경제", date: "2026-06-16", url: "#" },
+      { category: "welfare", title: "베네피아, 중소기업 전용 복지 패키지 출시", summary: "베네피아가 중소기업을 위한 맞춤형 복지 패키지 상품을 새로 출시했다.", source: "한겨레", date: "2026-06-17", url: "#" },
+      { category: "welfare", title: "공공기관 선택적 복지제도 개편 논의", summary: "공공기관을 대상으로 한 선택적 복지제도 개편 방안이 논의되고 있다.", source: "국민일보", date: "2026-06-18", url: "#" },
+      { category: "welfare", title: "이지웰, 복지몰 입점 브랜드 100곳 돌파", summary: "이지웰 복지몰에 입점한 브랜드 수가 100곳을 넘어섰다.", source: "아시아경제", date: "2026-06-19", url: "#" },
+      { category: "welfare", title: "근로자휴가지원사업, 상반기 참여 인원 역대 최다", summary: "근로자휴가지원사업의 상반기 참여 인원이 역대 최다를 기록했다.", source: "매일노동뉴스", date: "2026-06-20", url: "#" },
+      { category: "payment", title: "구독경제 시장, 올해 두 자릿수 성장 전망", summary: "국내 구독경제 시장이 올해 두 자릿수 성장률을 기록할 것으로 전망됐다.", source: "아시아경제", date: "2026-06-17", url: "#" },
+      { category: "payment", title: "카카오페이, 복지포인트 결제 제휴처 확대", summary: "카카오페이가 기업 복지포인트로 결제 가능한 제휴처를 확대했다.", source: "머니투데이", date: "2026-06-18", url: "#" },
+      { category: "payment", title: "모바일 멤버십 앱, 하반기 통합 개편 예고", summary: "주요 유통업체들이 모바일 멤버십 앱을 하반기 중 통합 개편할 예정이라고 밝혔다.", source: "한국경제", date: "2026-06-19", url: "#" },
+      { category: "payment", title: "신한카드, 소상공인 결제 수수료 인하 발표", summary: "신한카드가 소상공인 가맹점을 대상으로 결제 수수료 인하를 발표했다.", source: "파이낸셜뉴스", date: "2026-06-20", url: "#" },
+      { category: "payment", title: "네이버페이, 정기구독 결제 실패율 개선", summary: "네이버페이가 정기구독 자동결제 실패율을 낮추는 시스템을 도입했다.", source: "전자신문", date: "2026-06-21", url: "#" },
+      { category: "insurance", title: "손해보험사, 상반기 실적 발표", summary: "주요 손해보험사들이 상반기 실적을 발표하며 대체로 양호한 성적을 냈다고 밝혔다.", source: "한국일보", date: "2026-06-16", url: "#" },
+      { category: "insurance", title: "금융당국, 보험 비교추천서비스 확대 검토", summary: "금융당국이 온라인 보험 비교추천서비스 대상 상품군 확대를 검토하고 있다.", source: "이데일리", date: "2026-06-17", url: "#" },
+      { category: "insurance", title: "GA협회, 설계사 교육 프로그램 신설", summary: "보험대리점(GA)협회가 신입 설계사 대상 표준 교육 프로그램을 신설했다.", source: "뉴시스", date: "2026-06-18", url: "#" },
+      { category: "insurance", title: "삼성생명, 헬스케어 특약 신상품 출시", summary: "삼성생명이 건강관리 연계 특약이 포함된 신상품을 출시했다.", source: "조선비즈", date: "2026-06-19", url: "#" },
+      { category: "insurance", title: "보험연구원, 고령자 보험가입 실태 조사 발표", summary: "보험연구원이 고령층의 보험가입 실태에 대한 조사 결과를 발표했다.", source: "연합인포맥스", date: "2026-06-20", url: "#" },
+      { category: "aicc", title: "BPO 업계, 재택근무 상담직 채용 확대", summary: "BPO 업계가 재택근무 기반 상담 인력 채용을 확대하고 있다고 밝혔다.", source: "아웃소싱타임스", date: "2026-06-18", url: "#" },
+      { category: "aicc", title: "KT, AICC 솔루션 중소기업 대상 확대 공급", summary: "KT가 AICC 솔루션을 중소기업 대상으로 확대 공급한다고 밝혔다.", source: "디지털타임스", date: "2026-06-19", url: "#" },
+      { category: "aicc", title: "LG유플러스, 상담 데이터 분석 서비스 출시", summary: "LG유플러스가 상담 데이터를 분석해 인사이트를 제공하는 서비스를 출시했다.", source: "전자신문", date: "2026-06-20", url: "#" },
+      { category: "aicc", title: "SK쉴더스, 콜센터 보안 솔루션 강화", summary: "SK쉴더스가 콜센터 개인정보 보호를 위한 보안 솔루션을 강화했다.", source: "머니S", date: "2026-06-16", url: "#" },
+      { category: "aicc", title: "아웃소싱타임스, \"AICC 시장 연 12% 성장\"", summary: "아웃소싱타임스가 국내 AICC 시장이 연평균 12% 성장하고 있다고 보도했다.", source: "아웃소싱타임스", date: "2026-06-21", url: "#" },
+      { category: "safety", title: "중대재해처벌법 시행 2주년, 산업계 반응은", summary: "중대재해처벌법 시행 2주년을 맞아 산업계의 다양한 반응이 나오고 있다.", source: "노동일보", date: "2026-06-19", url: "#" },
+      { category: "safety", title: "안전보건공단, 여름철 폭염 대응 지침 배포", summary: "한국산업안전보건공단이 여름철 폭염 대응을 위한 현장 지침을 배포했다.", source: "산업안전신문", date: "2026-06-16", url: "#" },
+      { category: "safety", title: "건설업계, 스마트 안전모 보급 확대", summary: "건설업계가 위험 상황을 감지하는 스마트 안전모 보급을 확대하고 있다.", source: "건설경제", date: "2026-06-17", url: "#" },
+      { category: "safety", title: "고용노동부, 여름철 온열질환 예방 특별점검", summary: "고용노동부가 여름철 온열질환 예방을 위한 현장 특별점검을 실시했다.", source: "매일노동뉴스", date: "2026-06-18", url: "#" },
+      { category: "safety", title: "산업안전관리공단, 안전교육 이수 기업 인센티브", summary: "산업안전관리공단이 안전교육을 이수한 기업에 인센티브를 제공하기로 했다.", source: "매일노동뉴스", date: "2026-06-20", url: "#" }
+    ]
+  },
+  {
+    periodLabel: "2026.06.08 ~ 2026.06.14",
+    periodStart: "2026-06-08",
+    periodEnd: "2026-06-14",
+    articles: [
+      { category: "welfare", title: "보건복지부, 사회복지시설 종사자 처우 개선안 발표", summary: "보건복지부가 사회복지시설 종사자의 처우 개선을 위한 방안을 발표했다.", source: "국민일보", date: "2026-06-09", url: "#" },
+      { category: "welfare", title: "베네피아, 복지 포인트 정산 시스템 개편", summary: "베네피아가 기업 복지 포인트 정산 시스템을 새롭게 개편했다.", source: "서울경제", date: "2026-06-10", url: "#" },
+      { category: "welfare", title: "이지웰, 지방자치단체 복지 플랫폼 구축 수주", summary: "이지웰이 한 지방자치단체의 공공 복지 플랫폼 구축 사업을 수주했다.", source: "아시아경제", date: "2026-06-11", url: "#" },
+      { category: "welfare", title: "근로자휴가지원사업, 예산 조기 소진 우려", summary: "근로자휴가지원사업의 올해 예산이 예년보다 빠르게 소진되고 있다는 우려가 나온다.", source: "매일노동뉴스", date: "2026-06-12", url: "#" },
+      { category: "welfare", title: "이제너두, 중견기업 대상 복지몰 신규 계약", summary: "이제너두가 여러 중견기업과 복지몰 신규 운영 계약을 체결했다.", source: "한국경제", date: "2026-06-13", url: "#" },
+      { category: "welfare", title: "삼구아이앤씨, 복지시설 위탁운영 사업 확대", summary: "삼구아이앤씨가 공공 복지시설 위탁운영 사업 영역을 확대하고 있다고 밝혔다.", source: "이투데이", date: "2026-06-14", url: "#" },
+      { category: "payment", title: "유통업계, 멤버십 통합 포인트제 도입 검토", summary: "주요 유통업체들이 계열사 간 멤버십 포인트를 통합하는 방안을 검토하고 있다.", source: "한국경제", date: "2026-06-09", url: "#" },
+      { category: "payment", title: "카카오페이, 정기결제 구독 관리 기능 출시", summary: "카카오페이가 여러 구독 서비스를 한눈에 관리하는 기능을 새로 출시했다.", source: "머니투데이", date: "2026-06-10", url: "#" },
+      { category: "payment", title: "네이버페이, 오프라인 가맹점 확대", summary: "네이버페이가 오프라인 결제 가능 가맹점을 큰 폭으로 확대했다.", source: "전자신문", date: "2026-06-11", url: "#" },
+      { category: "payment", title: "토스뱅크, 자동이체 캐시백 이벤트 진행", summary: "토스뱅크가 정기 자동이체 이용 고객 대상 캐시백 이벤트를 진행한다.", source: "뉴시스", date: "2026-06-12", url: "#" },
+      { category: "payment", title: "신세계포인트, 계열사 통합 멤버십 개편", summary: "신세계그룹이 계열사 간 통합 멤버십 제도를 개편했다고 밝혔다.", source: "헤럴드경제", date: "2026-06-13", url: "#" },
+      { category: "payment", title: "쿠팡페이, 소상공인 정산 주기 단축", summary: "쿠팡페이가 입점 소상공인 대상 대금 정산 주기를 단축한다고 밝혔다.", source: "브릿지경제", date: "2026-06-14", url: "#" },
+      { category: "insurance", title: "보험료 비교 플랫폼, 이용자 수 100만 돌파", summary: "온라인 보험료 비교 플랫폼 이용자 수가 100만 명을 돌파했다고 밝혔다.", source: "이데일리", date: "2026-06-09", url: "#" },
+      { category: "insurance", title: "금융감독원, 보험 불완전판매 점검 강화", summary: "금융감독원이 보험 불완전판매 관행에 대한 점검을 강화한다고 밝혔다.", source: "연합뉴스", date: "2026-06-10", url: "#" },
+      { category: "insurance", title: "GA업계, 디지털 전환 가속화", summary: "보험대리점(GA) 업계가 비대면 상담 등 디지털 전환에 속도를 내고 있다.", source: "한국일보", date: "2026-06-11", url: "#" },
+      { category: "insurance", title: "현대해상, 반려동물 보험 가입자 급증", summary: "현대해상의 반려동물 전용 보험 가입자 수가 빠르게 늘고 있다고 밝혔다.", source: "조선비즈", date: "2026-06-12", url: "#" },
+      { category: "insurance", title: "보험연구원, \"TM 채널 신뢰도 개선 필요\"", summary: "보험연구원이 텔레마케팅 채널의 소비자 신뢰도 개선이 필요하다는 보고서를 냈다.", source: "연합인포맥스", date: "2026-06-13", url: "#" },
+      { category: "insurance", title: "DB손해보험, 실손보험 청구 간소화 서비스 확대", summary: "DB손해보험이 실손보험금 청구 간소화 서비스 적용 병원을 확대했다.", source: "파이낸셜뉴스", date: "2026-06-14", url: "#" },
+      { category: "aicc", title: "BPO 업계, 하반기 채용 규모 확대 전망", summary: "BPO 업계가 하반기 상담 인력 채용 규모를 확대할 것으로 전망된다.", source: "아웃소싱타임스", date: "2026-06-09", url: "#" },
+      { category: "aicc", title: "AICC 시장, 중소기업 도입 사례 증가", summary: "중소기업의 AICC 솔루션 도입 사례가 늘고 있다고 업계가 밝혔다.", source: "전자신문", date: "2026-06-10", url: "#" },
+      { category: "aicc", title: "KT, 공공기관 대상 AICC 사업 수주", summary: "KT가 한 공공기관의 AICC 구축 사업을 수주했다고 밝혔다.", source: "디지털타임스", date: "2026-06-11", url: "#" },
+      { category: "aicc", title: "SK쉴더스, 상담원 감정노동 보호 프로그램 도입", summary: "SK쉴더스가 상담원의 감정노동 보호를 위한 프로그램을 새로 도입했다.", source: "머니S", date: "2026-06-12", url: "#" },
+      { category: "aicc", title: "LG유플러스, AI 통화 요약 서비스 확대", summary: "LG유플러스가 AI 기반 상담 통화 요약 서비스를 확대 적용했다.", source: "전자신문", date: "2026-06-13", url: "#" },
+      { category: "aicc", title: "아웃소싱타임스, \"콜센터 이직률 완화 추세\"", summary: "아웃소싱타임스가 콜센터 업계의 이직률이 완화되는 추세라고 보도했다.", source: "아웃소싱타임스", date: "2026-06-14", url: "#" },
+      { category: "safety", title: "고용노동부, 여름철 안전보건 특별대책 발표", summary: "고용노동부가 여름철을 대비한 산업현장 안전보건 특별대책을 발표했다.", source: "매일노동뉴스", date: "2026-06-09", url: "#" },
+      { category: "safety", title: "안전보건공단, 소규모 사업장 안전관리 지원 확대", summary: "한국산업안전보건공단이 50인 미만 소규모 사업장 안전관리 지원을 확대한다고 밝혔다.", source: "산업안전신문", date: "2026-06-10", url: "#" },
+      { category: "safety", title: "건설현장, 스마트 CCTV 안전관제 도입 확산", summary: "건설현장에서 사고 예방을 위한 스마트 CCTV 안전관제 도입이 확산되고 있다.", source: "건설경제", date: "2026-06-11", url: "#" },
+      { category: "safety", title: "중대재해처벌법, 하반기 적용 대상 확대 예고", summary: "중대재해처벌법의 하반기 적용 대상 사업장 범위가 확대될 예정이다.", source: "노동일보", date: "2026-06-12", url: "#" },
+      { category: "safety", title: "산업안전관리공단, 안전관제플랫폼 시범 운영", summary: "산업안전관리공단이 산업현장용 통합 안전관제플랫폼을 시범 운영한다고 밝혔다.", source: "매일노동뉴스", date: "2026-06-13", url: "#" },
+      { category: "safety", title: "물류업계, 야간작업 안전수칙 강화", summary: "물류업계가 야간 작업자 안전을 위한 자체 수칙을 강화하고 있다고 밝혔다.", source: "세계일보", date: "2026-06-14", url: "#" }
+    ]
+  }
+];
