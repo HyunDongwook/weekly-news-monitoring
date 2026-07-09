@@ -8,6 +8,12 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -38,3 +44,18 @@ jobs:
             git commit -m "Weekly news data update"
             git push
           fi
+
+      # Pushes made with the workflow's own GITHUB_TOKEN don't trigger GitHub
+      # Pages' classic "Deploy from a branch" auto-build, so this workflow
+      # deploys the site itself right after updating the data.
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
