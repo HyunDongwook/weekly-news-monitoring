@@ -28,12 +28,14 @@ jobs:
           node-version: '20'
 
       - name: Update news data (Naver News Search API)
+        if: false # TEMP disabled for manual redeploy-only run restore after
         env:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
         run: node scripts/update-news.mjs
 
       - name: Commit and push if changed
+        if: false # TEMP disabled for manual redeploy-only run restore after
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
