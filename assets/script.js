@@ -20,20 +20,20 @@
   /* ---------------- 아이콘 (부드럽고 둥근 스타일, currentColor 사용) ---------------- */
   var ICONS = {
     gift:
-      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="9.5" width="17" height="10" rx="2.2"/><path d="M3.5 13.5h17"/><path d="M12 9.5v10"/><path d="M12 9.5c-1.6 0-4.6-.6-4.6-3.1A2.4 2.4 0 0 1 9.7 4c2 0 2.3 3 2.3 5.5Z"/><path d="M12 9.5c1.6 0 4.6-.6 4.6-3.1A2.4 2.4 0 0 0 14.3 4c-2 0-2.3 3-2.3 5.5Z"/></svg>',
-    wallet:
-      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="6.5" width="18" height="13" rx="2.6"/><path d="M3 10.5h18"/><path d="M16.2 14.5a1.1 1.1 0 1 0 0 .1Z"/><path d="M7 6.5 12 3l5 3.5"/></svg>',
+'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="8" width="18" height="12" rx="1.6"/><path d="M3 12h18"/><path d="M12 8v12"/><path d="M12 8c-2.1 0-5.8-.7-5.8-3.6A2.7 2.7 0 0 1 9 1.8c2.4 0 3 3.7 3 6.2Z"/><path d="M12 8c2.1 0 5.8-.7 5.8-3.6A2.7 2.7 0 0 0 15 1.8c-2.4 0-3 3.7-3 6.2Z"/></svg>',    wallet:
+      wallet:
+       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="6.5" width="18" height="13" rx="2.6"/><path d="M3 10.5h18"/><path d="M16.2 14.5a1.1 1.1 0 1 0 0 .1Z"/><path d="M7 6.5 12 3l5 3.5"/></svg>',
     shield:
       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.3 5 5.9v5.4c0 4.6 3 7.9 7 9.4 4-1.5 7-4.8 7-9.4V5.9Z"/><path d="M8.8 12.1l2.2 2.2 4.2-4.4"/></svg>',
     headset:
-      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 13.2v-1.5a7.5 7.5 0 0 1 15 0v1.5"/><rect x="3.3" y="12.6" width="4" height="6" rx="1.8"/><rect x="16.7" y="12.6" width="4" height="6" rx="1.8"/><path d="M19.5 18.6a3.6 3.6 0 0 1-3.6 3.4h-2"/></svg>',
-    warning:
+'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 13v-2a8 8 0 0 1 16 0v2"/><rect x="2.7" y="12.4" width="4.3" height="6.6" rx="1.8"/><rect x="17" y="12.4" width="4.3" height="6.6" rx="1.8"/><path d="M21.3 19a4 4 0 0 1-4 3.6h-2.3"/></svg>',    warning:
+      warning:
       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.6 21 19.6a1 1 0 0 1-.9 1.5H3.9a1 1 0 0 1-.9-1.5L12 3.6Z" stroke-linejoin="round"/><path d="M12 10v4"/><path d="M12 17.2h.01"/></svg>',
      gear:
-        '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3.2"/><path d="M12 3.6v2.2M12 18.2v2.2M20.4 12h-2.2M5.8 12H3.6M17.5 6.5l-1.6 1.6M8.1 15.9l-1.6 1.6M17.5 17.5l-1.6-1.6M8.1 8.1 6.5 6.5"/></svg>',
-     megaphone:
-        '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 10.2v3.6c0 .9.7 1.6 1.6 1.6h1.4l7 3.6V5l-7 3.6H5.1c-.9 0-1.6.7-1.6 1.6Z"/><path d="M13.5 8.4a4 4 0 0 1 0 7.2"/><path d="M16.7 6a7.2 7.2 0 0 1 0 12"/></svg>',
-    thumb:
+'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4.3"/><path d="M12 2.5v5.2M12 21.5v-5.2M2.5 12h5.2M21.5 12h-5.2M5.3 5.3l3.7 3.7M18.7 5.3l-3.7 3.7M5.3 18.7l3.7-3.7M18.7 18.7l-3.7-3.7"/></svg>',     megaphone:
+        megaphone:
+'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 9.5v5c0 1 .8 1.8 1.8 1.8h1.6l8 4V3.7l-8 4H4.3c-1 0-1.8.8-1.8 1.8Z"/><path d="M14 7.5a5 5 0 0 1 0 9"/><path d="M17.5 5a8.3 8.3 0 0 1 0 14"/></svg>',    thumb:
+      thumb:
       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7.5 21H5.3a1.3 1.3 0 0 1-1.3-1.3v-7.4A1.3 1.3 0 0 1 5.3 11h2.2"/><path d="M7.5 11l4-6.7a2 2 0 0 1 3 .2c.4.6.5 1.3.3 2l-1 3.5h5.4a2.2 2.2 0 0 1 2.1 2.9l-2 6.5a2.2 2.2 0 0 1-2.1 1.6H10a2.5 2.5 0 0 1-2.5-2.5V11Z"/></svg>',
     eye:
       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M2.7 12S6 6 12 6s9.3 6 9.3 6-3.3 6-9.3 6-9.3-6-9.3-6Z"/><circle cx="12" cy="12" r="2.6"/></svg>',
