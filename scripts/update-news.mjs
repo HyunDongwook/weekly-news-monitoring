@@ -17,6 +17,33 @@ const CATEGORIES = [
   { key: 'safety', query: '산업안전 안전보건' },
 ];
 
+const SOURCE_NAME_MAP = {
+  'ibabynews.com': '베이비뉴스',
+  'breaknews.com': '브레이크뉴스',
+  'dynews.co.kr': '동양일보',
+  'ccdn.co.kr': '충청매일',
+  'namdonews.com': '남도일보',
+  'wikileaks-kr.org': '위키리크스한국',
+  'the-biz.co.kr': '더비즈',
+  'news.dealsitetv.com': '딜사이트경제TV',
+  'segye.com': '세계일보',
+  'kbanker.co.kr': '대한금융신문',
+  'edaily.co.kr': '이데일리',
+  'sisaon.co.kr': '시사오늘',
+  'ilyoseoul.co.kr': '일요서울',
+  'thebell.co.kr': '더벨',
+  'dailypop.kr': '데일리팝',
+  'fetv.co.kr': 'FETV',
+  'mt.co.kr': '머니투데이',
+  'itdaily.kr': '아이티데일리',
+  'thefirstmedia.net': '더퍼스트미디어',
+  'catchnews.kr': '캐치뉴스',
+  'wsobi.com': '여성소비자신문',
+  'hansbiz.co.kr': '한스경제',
+  'ccreview.co.kr': '충청리뷰',
+  'kookbang.dema.mil.kr': '국방일보',
+};
+
 const MAX_PER_CATEGORY = 5;
 const EXCLUDE_URL_SUBSTR = ['msn.com'];
 
@@ -92,7 +119,12 @@ async function fetchCategoryArticles(category) {
 
     let source = articleUrl;
     try {
-      source = new URL(articleUrl).hostname.replace(/^www\./, '');
+      const hostname = new URL(articleUrl).hostname.replace(/^www\./, '');
+      // Prefer the real Korean outlet name over the bare domain. If a new
+      // domain shows up that isn't in SOURCE_NAME_MAP yet, add it here
+      // (check the site's <title>/og:site_name) so future runs use the name
+      // automatically instead of falling back to the hostname.
+      source = SOURCE_NAME_MAP[hostname] || hostname;
     } catch {
       // Keep the raw URL as a last-resort "source" label.
     }
@@ -173,7 +205,17 @@ async function main() {
 
   try {
     const outgoing = loadWindowVar(CURRENT_PATH, 'CURRENT_WEEK');
-    if (outgoing && Array.isArray(outgoing.articles) && outgoing.articles.length > 0) {
+    if (
+      outgoing &&
+      Array.isArray(outgoing.articles) &&
+      outgoing.articles.length > 0 &&
+      outgoing.periodLabel !== periodLabel
+    ) {
+      // Only archive the outgoing "current" week once it's actually being
+      // replaced by a NEW period. If this run targets the same period as
+      // what's already current (e.g. a manual re-run/test within the same
+      // week), skip archiving so we don't create duplicate archive entries
+      // for the same week.
       const realArticles = outgoing.articles.filter((a) => a.url !== '#');
       if (realArticles.length > 0) {
         archive.unshift({
