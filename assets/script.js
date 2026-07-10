@@ -12,10 +12,9 @@
   // key는 데이터 파일(data/*.js)의 article.category 값과 일치해야 합니다.
   var CATEGORIES = {
     welfare: { label: "복지/바우처", cls: "cat-welfare", icon: "gift" },
-    payment: { label: "결제/멤버십", cls: "cat-payment", icon: "wallet" },
-    insurance: { label: "GA/보험", cls: "cat-insurance", icon: "shield" },
-    aicc: { label: "AICC/BPO", cls: "cat-aicc", icon: "headset" },
-    safety: { label: "산업안전", cls: "cat-safety", icon: "warning" }
+     solution: { label: "솔루션", cls: "cat-safety", icon: "gear" },
+     bpo: { label: "BPO", cls: "cat-aicc", icon: "headset" },
+     marketing: { label: "마케팅", cls: "cat-payment", icon: "megaphone" }
   };
 
   /* ---------------- 아이콘 (부드럽고 둥근 스타일, currentColor 사용) ---------------- */
@@ -30,6 +29,10 @@
       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 13.2v-1.5a7.5 7.5 0 0 1 15 0v1.5"/><rect x="3.3" y="12.6" width="4" height="6" rx="1.8"/><rect x="16.7" y="12.6" width="4" height="6" rx="1.8"/><path d="M19.5 18.6a3.6 3.6 0 0 1-3.6 3.4h-2"/></svg>',
     warning:
       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.6 21 19.6a1 1 0 0 1-.9 1.5H3.9a1 1 0 0 1-.9-1.5L12 3.6Z" stroke-linejoin="round"/><path d="M12 10v4"/><path d="M12 17.2h.01"/></svg>',
+     gear:
+        '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3.2"/><path d="M12 3.6v2.2M12 18.2v2.2M20.4 12h-2.2M5.8 12H3.6M17.5 6.5l-1.6 1.6M8.1 15.9l-1.6 1.6M17.5 17.5l-1.6-1.6M8.1 8.1 6.5 6.5"/></svg>',
+     megaphone:
+        '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 10.2v3.6c0 .9.7 1.6 1.6 1.6h1.4l7 3.6V5l-7 3.6H5.1c-.9 0-1.6.7-1.6 1.6Z"/><path d="M13.5 8.4a4 4 0 0 1 0 7.2"/><path d="M16.7 6a7.2 7.2 0 0 1 0 12"/></svg>',
     thumb:
       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7.5 21H5.3a1.3 1.3 0 0 1-1.3-1.3v-7.4A1.3 1.3 0 0 1 5.3 11h2.2"/><path d="M7.5 11l4-6.7a2 2 0 0 1 3 .2c.4.6.5 1.3.3 2l-1 3.5h5.4a2.2 2.2 0 0 1 2.1 2.9l-2 6.5a2.2 2.2 0 0 1-2.1 1.6H10a2.5 2.5 0 0 1-2.5-2.5V11Z"/></svg>',
     eye:
