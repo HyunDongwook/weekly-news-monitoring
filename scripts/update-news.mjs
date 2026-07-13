@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import { execSync } from 'node:child_process';
 
 const DATA_DIR = path.join(process.cwd(), 'data');
 const CANDIDATES_PATH = path.join(DATA_DIR, 'candidates.json');
@@ -349,6 +350,29 @@ async function main() {
   fs.writeFileSync(CANDIDATES_PATH, header + JSON.stringify(output, null, 2) + '\n');
 
   console.log(`Collected ${finalCandidates.length} candidates for ${periodLabel}.`);
+
+  // Self-contained commit: this lets the workflow that runs this script stay
+  // a plain "checkout + run script" job without needing its own git-add step
+  // to know about this specific file. Silently no-ops outside CI or when
+  // there's nothing new to commit.
+  if (process.env.GITHUB_ACTIONS === 'true') {
+    try {
+      execSync('git config user.name "github-actions[bot]"');
+      execSync('git config user.email "41898282+github-actions[bot]@users.noreply.github.com"');
+      execSync(`git add ${CANDIDATES_PATH}`);
+      execSync('git diff --cached --quiet', { stdio: 'ignore' });
+      console.log('No candidate changes to commit.');
+    } catch {
+      // git diff --cached --quiet exits non-zero when there IS a diff
+      try {
+        execSync('git commit -m "Weekly news candidates collected"', { stdio: 'inherit' });
+        execSync('git push', { stdio: 'inherit' });
+        console.log('Committed and pushed data/candidates.json.');
+      } catch (pushErr) {
+        console.error('Failed to commit/push candidates.json:', pushErr.message);
+      }
+    }
+  }
 }
 
 main().catch((err) => {
