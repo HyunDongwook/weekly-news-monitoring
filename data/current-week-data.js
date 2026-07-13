@@ -8,135 +8,167 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.07.06 ~ 2026.07.12",
   "periodStart": "2026-07-06",
   "periodEnd": "2026-07-12",
-  "generatedAt": "2026-07-13T11:09:38+09:00",
+  "generatedAt": "2026-07-13T11:57:50+09:00",
   "articles": [
     {
       "category": "welfare",
-      "title": "장성군, 내년도 임산물 분야 보조사업 수요조사 실시… 20일까지 접수",
-      "summary": "‘임산물 유통기반 조성사업’ △잔디 생산장비와 농약살포기 등을 지원하는... 지원을 희망하는 대상자는 오는 7월 20일까지 주민등록 소재지 행정복지센터를...",
-      "source": "브레이크뉴스",
+      "title": "[사회공헌 특집(166)] 우미그룹, 20년간 '건설 기반 공익' 길 개척…\"디...",
+      "summary": "공간복지 등 대규모 사회공헌 활동은 이미 S(Social) 부문의 핵심 축으로 자리 잡았다. 이는 단순 기부가 아니라 사회적 사각지대를 발굴하고 기업 전문성을 활용하는 실질적 ESG 활동으로 평가된다. Environment...",
+      "source": "economytalk.kr",
       "date": "2026-07-12",
-      "url": "http://www.breaknews.com/1221091"
+      "url": "http://www.economytalk.kr/news/articleView.html?idxno=422666"
     },
     {
       "category": "welfare",
-      "title": "[경남 브리핑 모음(7월13일)] 진주시, ‘월아산 숲속의 진주’, 연간 방...",
-      "summary": "특히 지역 약초농가 소득 증대는 물론 산청한방약초산업특구를 활용한 연구개발부터 생산, 가공, 유통까지 이어지는 원스톱 밸류체인을 완성할 것으로 기대된다. 산청군은 이번 방문을 계기로 보건복지부를 비롯해 관계...",
-      "source": "dnews.co.kr",
+      "title": "'함께 성장하는 사회'… 파라다이스복지재단, 오티즘 엑스포서 길 찾다",
+      "summary": "발달장애인을 위한 지원은 단순한 복지 서비스 제공을 넘어 가족과 교육 현장, 지역사회가 함께 연결되는 생태계를 만드는 과정이다. 파라다이스복지재단은 올해 오티즘 엑스포에서 교육·재활 현장의 경험을 공유하고...",
+      "source": "view.asiae.co.kr",
       "date": "2026-07-12",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607121204516430812"
+      "url": "https://view.asiae.co.kr/article/2026071308444211639"
     },
     {
       "category": "welfare",
-      "title": "15년 앞서간 가족친화가 표창으로…경과원, '인구정책 유공' 도지사 표...",
-      "summary": "중소·벤처기업 근로자 자녀까지 함께 돌보고 있다. 지역 산업 현장의 보육 공백을 메우는 역할까지 하는... 초기 지원을 강화했다. △배우자 출산 휴가 △난임 치료 휴가 △임신기·육아기 근로시간 단축 등 출산·양육...",
-      "source": "etoday.co.kr",
+      "title": "[요즘 부동산+/⑲]반도체가 바꾼 집값 공식…'셔세권'이 재편하는 수도...",
+      "summary": "부동산 플랫폼 자료를 분석하면 동탄구에서 전용 84㎡ 기준 실거래가 12억원을 넘는 공동주택 대부분이... 주가 상승에 따른 투자 수익과 성과급, 사내 복지제도가 동시에 작용하면서 일반 가계보다 주택 구매 여력이...",
+      "source": "businessplus.kr",
       "date": "2026-07-12",
-      "url": "https://www.etoday.co.kr/news/view/2602893"
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=114027"
     },
     {
       "category": "welfare",
-      "title": "\"한국 노동시장의 가장 큰 변화는 AI보다 노동시장의 이중구조\"",
-      "summary": "즉 같은 산업에서 일하더라도 임금과 복지, 승진 기회가 크게 차이 나는 구조가 청년들의 취업 전략에도... 특히, 유통, 물류, 플랫폼, 서비스업에서는 경기 상황에 따라 탄력적으로 인력을 운영하려는 움직임이 이어질...",
-      "source": "incheonin.com",
+      "title": "육군, 포천서 나라사랑 보금자리 429호 준공식 개최",
+      "summary": "육군본부와 충남사회복지공동모금회가 주관한 이날 준공식에는 김규하 육군참모총장과 이일용 5군단장, 나라사랑 보금자리 후원기업 및 포천시 관계자 등이 직접 참석해 이강인 옹의 입주를 축하했다. 이 옹은 15세에...",
+      "source": "yna.co.kr",
       "date": "2026-07-12",
-      "url": "http://www.incheonin.com/news/articleView.html?idxno=119260"
+      "url": "https://www.yna.co.kr/view/AKR20260713027200060?input=1195m"
     },
     {
       "category": "welfare",
-      "title": "코트라 \"獨 뒤흔든 K-콘텐츠…웹툰·캐릭터 IP로 유럽 영토 넓힌다\"",
-      "summary": "이번 행사 참가사 가운데 산업통상부 및 코트라 주관 '2026 유통기업 해외진출 지원사업'에 선정된... 참가가 기업인 아트박스는 프랑크푸르트 소재 아동복지시설인 '바이젠하우스 재단(Stiftung Waisenhaus)'에 600만원...",
-      "source": "pinpointnews.co.kr",
+      "title": "한국사회보장정보원, '사회적 연결의 날' 기념일 지정 공모전 진행",
+      "summary": "김현준 사보원 원장은 \"앞으로도 보건복지부와 함께 사회적 고립 예방 정책이 현장에서 효과적으로 추진될 수 있도록 적극 지원하고 국민 누구나 필요한 도움과 연결될 수 있는 사회안전망을 강화하는 데 최선을...",
+      "source": "g-enews.com",
       "date": "2026-07-12",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467770"
+      "url": "https://www.g-enews.com/view.php?ud=202607130848358602ea13369bfa_1"
     },
     {
       "category": "solution",
-      "title": "[단독] ESS 부품사 한중엔시에스, 해킹 의혹…설계도면·임직원 정보 유...",
-      "summary": "ERP 백업과 인사(HRM), 품질관리(QMS) 데이터베이스까지 함께 포함된 만큼 내부 시스템 전반이 침해됐을 가능성에 무게가 실린다. 이와 함께 임직원 △이름 △주민등록번호 △휴대전화 번호 △이메일 △계좌번호 등 민감...",
-      "source": "ngetnews.com",
-      "date": "2026-07-07",
-      "url": "https://www.ngetnews.com/news/articleView.html?idxno=551299"
+      "title": "케이웨더, 폭염 대비 전국 온열지수 예보 및 실황서비스 확대",
+      "summary": "한편 케이웨더는 올여름 안전관리 솔루션 수요 및 산업 확대의 기대가 높아짐에 따라 폭염 관리솔루션 사업의 경쟁력을 기반으로 폭염 관련주로 분류되는 등 시장의 관심을 받고 있다.",
+      "source": "전자신문",
+      "date": "2026-07-12",
+      "url": "https://www.etnews.com/20260713000014"
+    },
+    {
+      "category": "solution",
+      "title": "코나투스 ‘투루택시’ 가맹 1만대 돌파",
+      "summary": "모빌리티 플랫폼 기업 코나투스의 가맹 택시 브랜드 ‘투루택시’가 가맹 차량 1만대를 돌파했다.... 코나투스는 2018년 국내 최초 인공지능(AI) 기반 택시 동승 서비스 ‘반반택시’를 출시하며 모빌리티 시장에...",
+      "source": "이데일리",
+      "date": "2026-07-12",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02341926645514192"
+    },
+    {
+      "category": "solution",
+      "title": "“제로 트러스트는 클라우드·AI 시대 기업 보안의 출발점이다”",
+      "summary": "여기에는 데이터 유출, 거버넌스, 안전한 AI 도입 등 AI 관련 리스크를 고객과 논의할 수 있도록 지원하는 활동도 포함된다. 두 번째는 공동 시장 전략 협력이다. 수요 창출, 고객 참여, 솔루션 개발 영역에서 파트너와...",
+      "source": "전자신문",
+      "date": "2026-07-12",
+      "url": "https://www.etnews.com/20260710000017"
+    },
+    {
+      "category": "solution",
+      "title": "제네시스 스코티시 오픈 흥행…김주형 역사 썼다",
+      "summary": "제네시스는 글로벌 골프 대회를 통해 프리미엄 브랜드 가치를 지속적으로 확대하는 동시에 모터스포츠와 미래 모빌리티를 연결하는 차별화된 경험을 선보이며 글로벌 럭셔리 브랜드로서의 입지를 더욱 강화해...",
+      "source": "pointdaily.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311567"
+    },
+    {
+      "category": "solution",
+      "title": "다쏘시스템, '제16회 아크루티 혁신 경진대회' 개최",
+      "summary": "'아크루티 2026–2027'은 변화하는 글로벌 우선 과제를 반영해 ▲로보틱스 ▲지역사회 문제 해결 ▲헬스케어 혁신 ▲모빌리티 등 4대 핵심 주제를 중심으로 진행된다. 참가 학생들은 디자인 사고와 엔지니어링...",
+      "source": "ikld.kr",
+      "date": "2026-07-12",
+      "url": "http://www.ikld.kr/news/articleView.html?idxno=337455"
     },
     {
       "category": "bpo",
       "title": "베스핀글로벌, AIA생명 AI상담 어시스턴트 구축",
       "summary": "베스핀글로벌은 이번 생성형 AI 기반 컨택센터(AICC) 구축 사례를 바탕으로 AI 에이전트가 단순한 상담 보조를 넘어 상담사 교육, 품질 관리(QA), VOC 분석 등 콜센터 운영 전반의 디지털 전환(DX)을 주도할 수 있도록...",
-      "source": "mk.co.kr",
+      "source": "매일경제",
       "date": "2026-07-12",
       "url": "https://www.mk.co.kr/article/12096713"
     },
     {
       "category": "bpo",
-      "title": "베스핀글로벌, AIA생명 상담 현장에 AI 어시스턴트 심었다 \"폐쇄망서도...",
-      "summary": "폐쇄형 환경에서 SLM 조합만으로 실전 수준의 완성도를 구현한 사례는 국내 AICC(AI 컨택센터) 시장에서도... 기술로 돌파한 이번 사례는 폐쇄망 환경에 놓인 다른 금융사들의 AICC 구축 방향에도 참고점을 남길 전망이다.",
-      "source": "econovill.com",
+      "title": "코나투스 ‘투루택시’ 가맹 1만대 돌파",
+      "summary": "모빌리티 플랫폼 기업 코나투스의 가맹 택시 브랜드 ‘투루택시’가 가맹 차량 1만대를 돌파했다.... 지난해 인수한 대리운전 배차·관제 솔루션 운영사 CMNP와의 시너지도 본격화해 종합 모빌리티 솔루션 파트너로...",
+      "source": "이데일리",
       "date": "2026-07-12",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=744973"
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02341926645514192"
     },
     {
       "category": "bpo",
-      "title": "[Who Is ?] 전선규 미코 대표이사 회장",
-      "summary": "△부뜰정보시스템 인수로 AI·IT 사업 진출 미코가 2025년 12월 AI 컨택센터(AICC) 전문기업 부뜰정보시스템... 미코는 부뜰정보시스템의 AICC 기술과 AICESS의 AI 역량을 그룹 사업에 접목한다는 구상을 하고 있다. 제조...",
-      "source": "businesspost.co.kr",
+      "title": "[Tech & Now] SK쉴더스, 프로스트 앤드 설리번 '아태 고객 가치 리더십' ...",
+      "summary": "특히 AI 사이버보안 관제 플랫폼 '시큐디움(Secudium)'을 기반으로 한 대규모 관제 역량과 하이브리드 IT 환경에서의 보안 대응 지원을 높게 평가했다. 이와 함께 관리형 보안 서비스(MSS), 관리형 탐지·대응(MDR), 침해사고...",
+      "source": "ebn.co.kr",
       "date": "2026-07-12",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=441567"
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1716052"
     },
     {
       "category": "bpo",
-      "title": "호반그룹의 한진칼 지분집착 진짜 인수 신호탄일까?",
-      "summary": "또한 4.9%를 보유한 '대신 코어그로쓰 일반사모투자신탁'의 출자자인 SK에너지, 현대차, 기아, 효성, 삼구아이앤씨 등도 지분을 당분간 환매하지 않고 장기 유지하기로 뜻을 모았다. 이들 사모펀드는 2022년 8월 경영권...",
-      "source": "ilemonde.com",
+      "title": "E8, 261억 규모 식품 자율생산 설비 국책사업 개발 참여",
+      "summary": "피지컬 인공지능(AI) 운영 플랫폼 기업 E8(이에이트)는 한국식품연구원이 주관하는 전략연구사업 '면 제조... E8는 이 가운데 '면 제조 공정 초자동화를 위한 디지털트윈 구축' 과제를 맡아 면 제조공정의 통합 운영·관제와 3D...",
+      "source": "newsis.com",
       "date": "2026-07-12",
-      "url": "https://www.ilemonde.com/news/articleView.html?idxno=30331"
+      "url": "https://www.newsis.com/view/NISX20260713_0003706158"
     },
     {
       "category": "bpo",
-      "title": "[창간 34주년 특집] AI와 여행③여행산업 AI 도입 현황 | \"비개발자가 코...",
-      "summary": "노랑풍선 역시 향후 AICC(AI 컨택센터) 도입을 통해 VIP 고객을 대상으로 마치 전문 비서가 케어하는 듯한 컨시어지 형태의 상담 서비스를 제공하겠다는 로드맵을 구상하고 있다. 상품·미디어·상담 기록의 데이터 자산화...",
-      "source": "traveltimes.co.kr",
+      "title": "[인터뷰] \"국산 광트랜시버로 AI 네트워크 시대에 대응한다\"",
+      "summary": "그 노하우를 다음 고객사, 다음 데이터센터에 그대로 적용해 축적된 경험의 데이터베이스가 우리의 자산이 되었고, 비슷한 이슈가 다른 곳에서 재발하면 훨씬 빠르게 원인을 짚어내고 대응할 수 있게 됐다. 국제 표준의...",
+      "source": "아이티데일리",
       "date": "2026-07-12",
-      "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500052"
+      "url": "https://www.itdaily.kr/news/articleView.html?idxno=240347"
     },
     {
       "category": "marketing",
-      "title": "푸본현대생명, 채용전환형 인턴십 모집...15일 마감",
-      "summary": "이번 인턴십의 모집 분야는 보험대리점(GA) 영업, 법인 영업, 영업 기획, 영업 교육, HR 등 5개 분야다. 지원 자격은 국내 취업과 해외 출장에 결격 사유가 없어야 하며 오는 9월부터 11월까지 3개월 간 푸본현대생명...",
-      "source": "pointdaily.co.kr",
+      "title": "코스맥스, 日 후지신과 JV 설립…맞춤형 화장품 선보인다",
+      "summary": "코스맥스가 첫 진출 국가로 일본을 선택한 것은 오프라인 기반 맞춤형 처방·구독 모델을 안착시키기 적합한 시장이라는 판단에서다. 일본은 프리미엄 미용 서비스에 대한 소비자 수용도가 높고 미용사와 소비자 간...",
+      "source": "이데일리",
       "date": "2026-07-12",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311569"
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02345206645514192"
     },
     {
       "category": "marketing",
-      "title": "[예별손보 매각] 우협 'OK금융', 산적한 정상화 해법 찾기 본격화",
-      "summary": "법인보험대리점(GA)으로 이탈했다. 빠른 영업 재개를 위해서는 경력직 설계사 조직을 대규모로 영입하거나 GA채널을 적극 확충하는 것이 필수적이다.  걸림돌은 수백억원대의 비용과 규제다. GA업계에서는 일반적으로...",
-      "source": "topdaily.kr",
+      "title": "신세계百, 상반기 외국인 매출 5800억…올해 1조 간다",
+      "summary": "신세계백화점이 운영 중인 외국인 전용 멤버십 프로그램 역시 120여개국의 30만명 이상 가입자 수를 기록 중이다. 관광 명소와 K컬처 품은 랜드마크 전략 통했다 점포별로는 관광 수요와 입지 경쟁력이 실적을...",
+      "source": "view.asiae.co.kr",
       "date": "2026-07-12",
-      "url": "https://www.topdaily.kr/articles/110939"
+      "url": "https://view.asiae.co.kr/article/2026071308113442144"
     },
     {
       "category": "marketing",
-      "title": "[포토] 삼성화재, KGA에셋과 금융소비자 보호 협약 체결",
-      "summary": "삼성화재는 법인보험대리점(GA) KGA에셋과 금융소비자 보호를 위한 업무협약을 체결했다. 이번 협약에 따라 양측은 위·수탁 업무 관련 리스크 감소를 위한 내부통제, 민원 처리 및 예방 활동 등에 협력할 계획이다....",
-      "source": "FETV",
+      "title": "SK텔레콤, 여름 휴가철 로밍·멤버십 프로모션 운영",
+      "summary": "SK텔레콤이 여름 휴가철을 맞아 해외여행객을 위한 로밍 할인과 국내 여행객을 위한 T멤버십 프로모션을... T멤버십의 '클럽 T로밍' 이용 고객에게는 데이터 1GB 추가 제공과 귀국 후 사용할 수 있는 제휴 할인 혜택도...",
+      "source": "ngonews.kr",
       "date": "2026-07-12",
-      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=306267"
+      "url": "https://www.ngonews.kr/news/articleView.html?idxno=232755"
     },
     {
       "category": "marketing",
-      "title": "뉴패러다임, 위에이드 프리A 투자 단행",
-      "summary": "올해 100억원 규모의 신규 투자를 집행할 계획이다. AI, 디지털 헬스케어, SaaS, 커머스, 실버테크 등 4차 산업 기반 초기 창업기업을 적극 발굴해 스케일업 전문 액셀러레이터 역할을 강화한다는 방침이다.",
-      "source": "한스경제",
+      "title": "위즈코어, 국산 CAD '캐디안(CADian)' AI 시대 설계 생산성 플랫폼으로 ...",
+      "summary": "지속적인 구독료 부담으로 인해 오토캐드(AutoCAD) 대체 솔루션을 검토하는 기업이 증가하면서 높은... 반복적인 구독 비용 부담을 줄일 수 있다는 점도 기업 고객들의 관심을 끄는 요소다. 최근 기업들이 소프트웨어...",
+      "source": "ikld.kr",
       "date": "2026-07-12",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=849825"
+      "url": "http://www.ikld.kr/news/articleView.html?idxno=337457"
     },
     {
       "category": "marketing",
-      "title": "[보험사 이모저모] 삼성화재, 신한EZ손해보험, NH농협생명",
-      "summary": "사진=삼성화재  ◆삼성화재, 대형 법인보험대리점 KGA에셋과 소비자보호 업무협약 9000명 넘는 설계사가 활동하는 대형 GA와 건전한 영업 문화를 함께 만든다. 삼성화재는 최근 법인보험대리점(GA) KGA에셋과...",
-      "source": "bizwnews.com",
+      "title": "SKT, 여름휴가 맞아 ‘첫 로밍 70% 할인’…휴가철 멤버십 혜택 운영",
+      "summary": "T 멤버십 혜택을 운영한다고 13일 밝혔다. SKT는 해외여행객에게는 로밍 요금 할인과 데이터 확대 혜택을, 국내 여행객에게는 워터파크와 호텔 등 휴가 관련 멤버십 혜택을 제공한다. 먼저 해외여행을 준비하는...",
+      "source": "biz.heraldcorp.com",
       "date": "2026-07-12",
-      "url": "http://www.bizwnews.com/news/articleView.html?idxno=140455"
+      "url": "https://biz.heraldcorp.com/article/10806363?ref=naver"
     }
   ]
 };
