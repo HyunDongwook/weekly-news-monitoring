@@ -8,55 +8,47 @@
   "periodLabel": "2026.07.06 ~ 2026.07.12",
   "periodStart": "2026-07-06",
   "periodEnd": "2026-07-12",
-  "generatedAt": "2026-07-13T13:22:18+09:00",
+  "generatedAt": "2026-07-13T13:38:24+09:00",
   "articles": [
     {
       "category": "welfare",
-      "title": "[사회공헌 특집(166)] 우미그룹, 20년간 '건설 기반 공익' 길 개척…\"디...",
-      "summary": "공간복지 등 대규모 사회공헌 활동은 이미 S(Social) 부문의 핵심 축으로 자리 잡았다. 이는 단순 기부가 아니라 사회적 사각지대를 발굴하고 기업 전문성을 활용하는 실질적 ESG 활동으로 평가된다. Environment...",
-      "source": "economytalk.kr",
-      "date": "2026-07-12",
-      "url": "http://www.economytalk.kr/news/articleView.html?idxno=422666"
+      "title": "현대차그룹 노조 동시 파업 전선 확산…이번주 ‘하투’ 최대 고비",
+      "summary": "사측은 임금 6만5000원 인상과 성과금 200%+50만원, 선택형 복지포인트 연 70만원에서 80만원 인상, 4년 주기 선택형 종합검진, 장기근속 포상 방식 변경, 난임지원비 신설 등을 제시했다. 그러나 노조는 금속노조 공통...",
+      "source": "biz.heraldcorp.com",
+      "date": "2026-07-11",
+      "url": "https://biz.heraldcorp.com/article/10805349?ref=naver"
     },
     {
       "category": "welfare",
-      "title": "전남광주통합특별시, 청년 일경험 매칭 본격화…400명 선발 나선다",
-      "summary": "사회적경제기업, 사회복지기관 등 270여 사업장이 참여한다. 참여 사업장은 직무 내용과 근무환경, 필요 역량... 최종 선발 결과는 29일 전남광주청년통합플랫폼과 광주청년 일경험드림 누리집에 발표되며, 선발된 청년은...",
-      "source": "m-i.kr",
-      "date": "2026-07-12",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=1390624"
+      "title": "교육공무직노조 대전지부 \"복무·복지 차별 철폐\"…14일 총파업 예고",
+      "summary": "또한 대전지역 교육공무직의 맞춤형 복지비는 65만 원으로 전국 평균(71만3천 원)에도 못 미치는 최저 수준이며, 교육청 공무원의 복지포인트와도 큰 격차가 있다고 지적했다. 김호경 민주노총 대전지역본부 사무처장은...",
+      "source": "news1.kr",
+      "date": "2026-07-10",
+      "url": "https://www.news1.kr/local/daejeon-chungnam/6224510"
     },
     {
       "category": "welfare",
-      "title": "\"한국 노동시장의 가장 큰 변화는 AI보다 노동시장의 이중구조\"",
-      "summary": "복지, 승진 기회가 크게 차이 나는 구조가 청년들의 취업 전략에도 영향을 준다고 분석했다. 중소기업 공장... 기업에서는 계약직·기간제 활용이 일정 수준 유지될 가능성이 있다고 분석했다. 특히, 유통, 물류, 플랫폼...",
-      "source": "incheonin.com",
-      "date": "2026-07-12",
-      "url": "http://www.incheonin.com/news/articleView.html?idxno=119260"
+      "title": "[정책 인사이트] ‘지역화폐로 성과급 지급’ 법안 논란… ‘현금 지급...",
+      "summary": "대법원은 지난 2019년 기업의 복지포인트는 임금이 아니라고 판결하면서 근로기준법상 현금 지급 원칙을 근거로 들었다. “복지포인트를 임금으로 평가하는 것은 자칫 통화 지급 원칙의 근간을 흔들어 장차 사용자가 통화...",
+      "source": "biz.chosun.com",
+      "date": "2026-07-10",
+      "url": "https://biz.chosun.com/policy/policy_sub/2026/07/10/TTPP3R4VFJCCFCZEAHKXTY4Y6I/?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
       "category": "welfare",
-      "title": "전남 광주통합특별시 청년 일자리 잇는다",
-      "summary": "사회적경제기업, 사회복지기관 등 270여 드림터(사업장)가 참여한다. 참여드림터는 현장 부스를 통해... 선발 결과는 29일 전남광주청년통합플랫폼, 광주청년 일경험드림 누리집에 각각 게시될 예정이다. 선발된 청년은...",
-      "source": "이투데이",
-      "date": "2026-07-12",
-      "url": "https://www.etoday.co.kr/news/view/2602879"
+      "title": "[Who Is ?] 백홍주 원익큐엔씨 대표이사",
+      "summary": "급여가 5억1096만 원, 기타 근로소득(학자금, 복지포인트 등)이 2020만 원이었다. 2024년의 경우 5억이 채 안되게 보수를 받았다. 전년도와 비교해 최소 1억3천만 원 이상 줄었는데 이는 2022년과 2023년 사이닝 보너스...",
+      "source": "businesspost.co.kr",
+      "date": "2026-07-09",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=441495"
     },
     {
       "category": "welfare",
-      "title": "코트라 \"獨 뒤흔든 K-콘텐츠…웹툰·캐릭터 IP로 유럽 영토 넓힌다\"",
-      "summary": "최근 독일 내에서는 OTT(온라인동영상서비스)와 SNS(사회관계망서비스) 플랫폼을 기반으로 한 K-드라마, 웹툰... 참가가 기업인 아트박스는 프랑크푸르트 소재 아동복지시설인 '바이젠하우스 재단(Stiftung Waisenhaus)'에...",
-      "source": "pinpointnews.co.kr",
-      "date": "2026-07-12",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467770"
-    },
-    {
-      "category": "solution",
-      "title": "케이웨더, 폭염 대비 전국 온열지수 예보 및 실황서비스 확대",
-      "summary": "지난해부터 산업안전보건법 내 폭염 내용이 신설돼 관련 보건조치가 의무화됨에 따라, 사업주는 작업장에 체감온도계를 배치하고 장소별 체감온도, 조치사항 등을 보관해야 한다. 케이웨더 폭염 관리솔루션은 이러한...",
-      "source": "전자신문",
-      "date": "2026-07-12",
-      "url": "https://www.etnews.com/20260713000014"
+      "title": "박완수 \"민선9기 핵심은 산업 대전환… 도민과 함께 경남 대도약\"",
+      "summary": "경남도는 도민 멤버십 카드 도입과 4050 복지포인트, 지역 필수의료 확충, 청년 주거 지원, 안전서비스 강화 등 생활 밀착형 정책도 함께 추진할 계획이다. ◇ \"도민과 소통하는 도정으로 바꾸겠다\" 박 지사는 민선 9기 도정...",
+      "source": "ziksir.com",
+      "date": "2026-07-09",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=139534"
     },
     {
       "category": "solution",
@@ -68,27 +60,35 @@
     },
     {
       "category": "solution",
-      "title": "“제로 트러스트는 클라우드·AI 시대 기업 보안의 출발점이다”",
-      "summary": "고도화된 디지털 경제, 글로벌 경쟁력을 갖춘 기업, 클라우드·모빌리티·AI 기반 전환에 대한 강한 추진력을... 수요 창출, 고객 참여, 솔루션 개발 영역에서 파트너와 긴밀히 협력하고 있다. 세 번째는 서비스 수행 역량...",
-      "source": "전자신문",
+      "title": "오토노머스에이투지, 싱가포르서 'L4 로보셔틀' 공개",
+      "summary": "에이투지의 로이는 운전석이 없는 차량과 자율주행 기술, 운영 시스템이 결합한 피지컬 AI 기반 모빌리티 솔루션이다. 향후 NCS 임직원 대상 자율주행 셔틀 운행을 앞두고 있다. 더불어 현장에서는 AI 기반 레벨4...",
+      "source": "ajunews.com",
       "date": "2026-07-12",
-      "url": "https://www.etnews.com/20260710000017"
+      "url": "https://www.ajunews.com/view/20260713083617914"
     },
     {
       "category": "solution",
-      "title": "중진공·KB금융, 950개 중소기업 산업안전 강화 지원",
-      "summary": "산업안전구축 지원사업의 진행 상황을 점검하고, 안전 관리 우수 사례를 공유했다고 13일 밝혔다.... 연계해 안전 설비와 시스템 구축에 필요한 사업비를 지원하고 있다. 안전 물품 공급 분야에서는 신기술(NET)·신제품(NEP)...",
-      "source": "biz.chosun.com",
+      "title": "에이투지, 싱가포르서 레벨4 로보셔틀 'ROii' 공개…한·싱 원격주행 시...",
+      "summary": "ROii는 운전석이 없는 차량에 자율주행 기술과 운영 시스템을 결합한 피지컬 AI 기반 모빌리티 솔루션이다. 이날 현장에서는 한국과 싱가포르를 잇는 AI 기반 레벨4 원격제어주행 시연도 진행됐다. 싱가포르...",
+      "source": "이데일리",
       "date": "2026-07-12",
-      "url": "https://biz.chosun.com/industry/business-venture/2026/07/13/TQ6Q5NO7WVAIJM6AGBOUADAXSA/?utm_source=naver&utm_medium=original&utm_campaign=biz"
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02233686645514192"
     },
     {
       "category": "solution",
-      "title": "다쏘시스템, '제16회 아크루티 혁신 경진대회' 개최",
-      "summary": "혁신 ▲모빌리티 등 4대 핵심 주제를 중심으로 진행된다. 참가 학생들은 디자인 사고와 엔지니어링... 결선 진출자들은 글로벌 무대에서 자신들의 혁신 프로젝트와 솔루션을 선보이게 된다. 아크루티 참가 신청은...",
-      "source": "ikld.kr",
+      "title": "에이투지 로이 원격주행 싱가포르서 첫 시연, 화성과 실시간 연결",
+      "summary": "운전석 없는 차체와 자율주행 소프트웨어, 운영 시스템을 하나로 묶은 피지컬 AI 기반 모빌리티 솔루션으로 소개됐고, NCS 임직원을 태운 실제 운행이 뒤이어 예정돼 있어 현지 투입 시점에 관심이 쏠린다. 글로벌...",
+      "source": "econovill.com",
       "date": "2026-07-12",
-      "url": "http://www.ikld.kr/news/articleView.html?idxno=337455"
+      "url": "https://www.econovill.com/news/articleView.html?idxno=744971"
+    },
+    {
+      "category": "solution",
+      "title": "수원시, 전국 첫 AI 문화유산 안전관리 시스템 구축",
+      "summary": "모니터링 시스템’을 도입했다. 위험 상황이 발생하면 디지털 트윈 화면이 해당 위치로 자동 연동돼 관리자가 현장 상황을 실시간으로 파악할 수 있다. 수원시는 장안문 성곽 등 주요 거점에 경사계, 진동계, 열화상...",
+      "source": "sedaily.com",
+      "date": "2026-07-12",
+      "url": "https://www.sedaily.com/article/20066755?ref=naver"
     },
     {
       "category": "bpo",
@@ -132,30 +132,6 @@
     },
     {
       "category": "marketing",
-      "title": "신세계百, 상반기 외국인 매출 5800억…올해 1조 간다",
-      "summary": "편의 서비스 등이 외국인 고객들의 높은 호응을 이끌었다\"고 설명했다. 국적도 소비도 다양해졌다 외국인... 신세계백화점이 운영 중인 외국인 전용 멤버십 프로그램 역시 120여개국의 30만명 이상 가입자 수를 기록...",
-      "source": "view.asiae.co.kr",
-      "date": "2026-07-12",
-      "url": "https://view.asiae.co.kr/article/2026071308113442144"
-    },
-    {
-      "category": "marketing",
-      "title": "SK텔레콤, 여름 휴가철 로밍·멤버십 프로모션 운영",
-      "summary": "가족 단위 여행객을 위한 '가족로밍' 서비스도 함께 운영한다. 국내 여행객을 위한 T멤버십 혜택도 마련됐다. 13일부터 17일까지 진행되는 'T day Week2'는 'SUMMER LUCKY WEEK'를 주제로 운영되며, 캐리비안 베이와 오션월드...",
-      "source": "ngonews.kr",
-      "date": "2026-07-12",
-      "url": "https://www.ngonews.kr/news/articleView.html?idxno=232755"
-    },
-    {
-      "category": "marketing",
-      "title": "SKT, 여름휴가 맞아 ‘첫 로밍 70% 할인’…휴가철 멤버십 혜택 운영",
-      "summary": "속도로 서비스 이용할 수 있다. 국내 여행객들을 위한 혜택도 준비돼 있다. 이날부터 17일까지 진행되는 ‘T day Week2’는 여름 휴가 시즌에 맞춰 ‘SUMMER LUCKY WEEK’로 운영된다. T멤버십 고객은 ▷캐리비안 베이...",
-      "source": "biz.heraldcorp.com",
-      "date": "2026-07-12",
-      "url": "https://biz.heraldcorp.com/article/10806363?ref=naver"
-    },
-    {
-      "category": "marketing",
       "title": "푸본현대생명, 채용전환형 인턴십 모집...15일 마감",
       "summary": "이번 인턴십의 모집 분야는 보험대리점(GA) 영업, 법인 영업, 영업 기획, 영업 교육, HR 등 5개 분야다. 지원 자격은 국내 취업과 해외 출장에 결격 사유가 없어야 하며 오는 9월부터 11월까지 3개월 간 푸본현대생명...",
       "source": "pointdaily.co.kr",
@@ -164,171 +140,195 @@
     },
     {
       "category": "marketing",
-      "title": "롯데호텔·리조트 홈페이지 통합…객실 최대 20% 할인",
-      "summary": "이번 개편은 호텔 공식 홈페이지에서 호텔과 리조트 서비스를 모두 이용할 수 있는 단일 채널을 구축하고, 롯데호텔 리워즈 회원 약 380만명과 리조트 통합멤버십 회원 약 90만명을 하나의 회원 서비스로 연결해 약 470만...",
-      "source": "view.asiae.co.kr",
+      "title": "[예별손보 매각] 우협 'OK금융', 산적한 정상화 해법 찾기 본격화",
+      "summary": "지난해 상반기 말 기준 설계사 수도 284명에 불과했지만 이마저도  가교보험사 전환 과정에서 대부분 다른 보험사나 법인보험대리점(GA)으로 이탈했다. 빠른 영업 재개를 위해서는 경력직 설계사 조직을 대규모로...",
+      "source": "톱데일리",
       "date": "2026-07-12",
-      "url": "https://view.asiae.co.kr/article/2026071308381494560"
+      "url": "https://www.topdaily.kr/articles/110939"
     },
     {
-      "category": "welfare",
-      "title": "[부산ㆍ경남 대학 브리핑 모음(7월13일)] 경상국립대 간호대생, 미국 간...",
-      "summary": "◆ 국립창원대 경남CCMC, 예술창의 사회서비스 모델 보건복지부 현장간담회서 호평 초등돌봄 기반... 성장지원 플랫폼을 통해 교원창업기업과 자회사가 글로벌 시장까지 진출할 수 있도록 적극 지원하겠다\"고 말했다....",
-      "source": "dnews.co.kr",
+      "category": "marketing",
+      "title": "[포토] 삼성화재, KGA에셋과 금융소비자 보호 협약 체결",
+      "summary": "삼성화재는 법인보험대리점(GA) KGA에셋과 금융소비자 보호를 위한 업무협약을 체결했다. 이번 협약에 따라 양측은 위·수탁 업무 관련 리스크 감소를 위한 내부통제, 민원 처리 및 예방 활동 등에 협력할 계획이다....",
+      "source": "FETV",
       "date": "2026-07-12",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607112314219880786"
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=306267"
     },
     {
-      "category": "welfare",
-      "title": "도박이 삼킨 교실, 통장 뜯고 캄보디아 가고…졸업 후 '범죄지옥'",
-      "summary": "공짜로 웹툰을 보려고 접속한 불법 사이트에서 '꽁머니'(공짜 도박 포인트 충전) 이벤트를 한 것입니다. 재미... 염희정(성균관대 사회복지학과 박사과정)씨가 지난해 발표한 '인터넷 도박중독 청소년의 2차범죄 연구'에...",
-      "source": "news.sbs.co.kr",
-      "date": "2026-07-12",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008654172&plink=ORI&cooper=NAVER"
-    },
-    {
-      "category": "welfare",
-      "title": "국민연금, 외국인 비싸게 팔고 나갈 기회만 줬다[경제 인사이트]",
-      "summary": "10여년 동안 국내 주식 비중을 매년 0.5~0.8%포인트씩 줄여 20%대에서 14%대까지 왔는데, 갑자기 원칙을... 2015년 삼성물산 합병 때 국민연금의 찬성 투표에 외압을 행사한 문형표 전 보건복지부 장관과 홍완선 국민연금...",
-      "source": "view.asiae.co.kr",
-      "date": "2026-07-12",
-      "url": "https://view.asiae.co.kr/article/2026071307214114835"
-    },
-    {
-      "category": "welfare",
-      "title": "[오늘의 주요일정·13일] '내란 가담' 강호필 전 지작사령관 영장실질심...",
-      "summary": "현판식(기업지원과) ▲ 김상욱 울산시장 10:00 사회복지공동모금회 기후위기 지원사업 배분금 및 성금... 국회소통관) ▲ 플랫폼씨, 3대 메가프로젝트 규탄 기자회견 (13:00 참여연대 2층 아름드리홀) ■ 스포츠...",
-      "source": "safetimes.co.kr",
-      "date": "2026-07-12",
-      "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=244146"
-    },
-    {
-      "category": "welfare",
-      "title": "[AFL 칼럼] 지자체의 능동적 '스마트축산' 행정 요구돼",
-      "summary": "지금 축산현장은 경영 악화 속에서 악취 저감과 방역 강화, 폭염 대응, 탄소 감축, 동물복지 등 사회적... (AX) 플랫폼과 스마트화 확산을 단순히 중앙정부의 공모사업이나 예산 배정에만 의존해서는 안 된다. 지자체는 관내...",
-      "source": "aflnews.co.kr",
-      "date": "2026-07-12",
-      "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=324313"
-    },
-    {
-      "category": "welfare",
-      "title": "대웅·삼진·JW중외·종근당·한국유나이티드 '호재'",
-      "summary": "AI 생성 이미지 보건복지부가 혁신형 제약기업 인증 기준을 정비하면서 과거 인증에서... 대표적인 플랫폼 기업으로 2019년부터 2024년까지 총 14건의 기술수출 계약을 성사시켰다. 아리바이오도...",
-      "source": "dailymedi.com",
-      "date": "2026-07-12",
-      "url": "https://www.dailymedi.com/news/news_view.php?wr_id=938276"
-    },
-    {
-      "category": "welfare",
-      "title": "“종로형 일자리·상권 상생… 문화 자부심 지키며 민생 챙길 것”[민선...",
-      "summary": "“교통은 주민의 삶의 질과 도시 경쟁력을 좌우하는 핵심 기반이자 복지다. 평창·부암동은 도심이지만... 2022년 종로구청장 선거에서는 국회의원 출신인 국민의힘 정문헌 후보에게 4.4%포인트 차로 고배를 마셨지만, 6·3...",
-      "source": "seoul.co.kr",
-      "date": "2026-07-12",
-      "url": "https://www.seoul.co.kr/news/publicnews/seoul_local/today_seoul/2026/07/13/20260713021001?wlog_tag3=naver"
-    },
-    {
-      "category": "welfare",
-      "title": "김시은, 푸른 드레스와 함께 전한 우아한 근황",
-      "summary": "그는 목걸이와 장식이 돋보이는 액세서리를 더해 포인트를 주었고, \"Happiness\"라는 짧은 글을 남기며 사진을... 지역 복지관에 손편지를 함께 전달하는 기부에 참여해 선한 영향력을 전했다. 또한 롤모델로 전소민을...",
-      "source": "topstarnews.net",
-      "date": "2026-07-12",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16132333"
-    },
-    {
-      "category": "welfare",
-      "title": "수당도 바우처도 '줄줄'…통합 교육복지 시험대",
-      "summary": "꿈드리미 사용 기한이 임박하자 서점이나 안경점에서 먼저 결제한 뒤 매장 포인트나 장부에 잔액을 적립해... 현행 기준에 따라 2027년부터 현금성 복지 지출 비중이 전국 평균보다 높은 상위 8개 교육청은 보통교부금이...",
-      "source": "gjdream.com",
-      "date": "2026-07-12",
-      "url": "http://www.gjdream.com/news/articleView.html?idxno=670919"
-    },
-    {
-      "category": "welfare",
-      "title": "[한경에세이] 퇴직연금, 든든한 노후자금이 되려면",
-      "summary": "한동안 3000선도 넘기 힘들던 코스피 지수가 어느새 9000을 돌파했고, 하루에도 1000~2000포인트씩 오르내리는... 10%포인트 가까이 늘었다. 퇴직연금 계좌를 통한 상장지수펀드(ETF)투자도 48조7000억원 수준으로 최근 3년...",
-      "source": "hankyung.com",
-      "date": "2026-07-12",
-      "url": "https://www.hankyung.com/article/2026071202061"
-    },
-    {
-      "category": "welfare",
-      "title": "화천군 고향사랑 기부금 '10억원 목표' 확대",
-      "summary": "군도 이를 참고해 '화천 명품 농산물' 등 프리미엄 답례품을 집중 개발하고, 민간 플랫폼과의 협업, 지정... 4개 기업체 대표들이 김세훈 화천군수를 방문해 동시에 각각 300만원씩 모두 1200만원의 고향사랑 기부금을...",
-      "source": "kado.net",
-      "date": "2026-07-12",
-      "url": "https://www.kado.net/news/articleView.html?idxno=2060801"
-    },
-    {
-      "category": "welfare",
-      "title": "서울 양천구소상공인연합회, '상생 1.0·2.0·3.0'으로 지역경제 플랫폼...",
-      "summary": "「소상공인기본법」에 따르면 소상공인은 「중소기업기본법」상 소기업 가운데 업종별 매출액 기준을... 확대와 실질적인 혜택 제공을 통해 양천구를 대표하는 지역경제 플랫폼으로 성장해 나가겠다\"고 밝혔다.",
-      "source": "gukjenews.com",
-      "date": "2026-07-12",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3633643"
-    },
-    {
-      "category": "welfare",
-      "title": "칠곡군, 국내 첫 참외 부산물 활용한 친환경 가죽 개발 성공",
-      "summary": "지난 2024년 10월에는 친환경 식물성 소재 전문 기업과 공동 연구를 시작했고 같은해 12월 참외 가죽 원단... 협업 제품은 크라우드펀딩 플랫폼인 텀블벅에서 오는 15일까지 펀딩을 진행 중이다. 김재욱 칠곡군수는...",
-      "source": "biz.heraldcorp.com",
-      "date": "2026-07-12",
-      "url": "https://biz.heraldcorp.com/article/10806176?ref=naver"
-    },
-    {
-      "category": "welfare",
-      "title": "새마을금고중앙회, 기부 넘어선 ‘지역문제 해결형 금융’",
-      "summary": "새마을금고중앙회는 지난 9일 지역 복지시설과 경로당의 환경개선 사업을 통합한 사회공헌 브랜드... 2025년 말 전체 연체율은 5.08%로 전년 말 6.81%보다 1.73%포인트 하락했다. 지난해 6월 말 8.37%와 비교하면 3.29%포인트...",
-      "source": "sateconomy.co.kr",
-      "date": "2026-07-12",
-      "url": "http://sateconomy.co.kr/news/view/1065620134439197"
-    },
-    {
-      "category": "welfare",
-      "title": "<경상매일신문 민선 9기 단체장 인터뷰> 주낙영 경주시장 “더 큰 경주...",
-      "summary": "APEC 이후의 글로벌 전략, 세계 10대 관광도시 실현, 미래산업 육성, 청년 일자리 창출, 생활복지 확대와... SNS와 숏폼 콘텐츠 등 다양한 디지털 플랫폼을 적극 활용해 시민과 더욱 가까이 소통하고 시민이 정책 결정 과정에...",
-      "source": "ksmnews.co.kr",
-      "date": "2026-07-12",
-      "url": "https://www.ksmnews.co.kr/news/view.php?idx=613065"
-    },
-    {
-      "category": "welfare",
-      "title": "[NGO 현장]숫자에도 정치가 있다",
-      "summary": "매해 7월마다 보건복지부가 주최하는 중앙생활보장위원회에서 다음해 수급비를 결정짓는 기준중위소득을... 코스피가 몇 포인트 올랐는지, 자본시장이 얼마나 성장했는지는 매일같이 이야기하니 말이다. 경제 뉴스는...",
-      "source": "khan.co.kr",
-      "date": "2026-07-12",
-      "url": "https://www.khan.co.kr/article/202607121951015"
-    },
-    {
-      "category": "welfare",
-      "title": "[지령 10000호 특집] 사랑, 온기를 채우다… 중부일보 사회공헌",
-      "summary": "중부일보는 이 같은 철학 아래 창간 이후 꾸준히 장학사업과 도서보급, 김장나눔, 취약계층 지원, 복지시설... 이는 지역신문이 단순한 정보 전달자가 아니라 공동체를 움직이는 플랫폼이 될 수 있음을 보여준다....",
-      "source": "joongboo.com",
-      "date": "2026-07-12",
-      "url": "https://www.joongboo.com/news/articleView.html?idxno=363731195"
-    },
-    {
-      "category": "welfare",
-      "title": "통합특별시, 13일 청년 ‘드림만남의 날’",
-      "summary": "사회적경제기업, 사회복지기관 등 사업장 270여곳이 참여한다. 참여 사업장은 현장 부스에서 사업장별 직무... 선발 결과는 오는 29일 전남광주청년통합플랫폼, 광주청년 일경험드림 누리집에 각각 게시될 예정이다....",
-      "source": "jndn.com",
-      "date": "2026-07-12",
-      "url": "http://www.jndn.com/article.php?aid=1783849572435926003"
-    },
-    {
-      "category": "welfare",
-      "title": "[인천시 소식] '서울7호선 청라연장 관련 주민간담회' 개최, 2026년 문화...",
-      "summary": "박찬대 인천광역시장이 11일 청라3동 행정복지센터에서 열린 '서울7호선 청라연장 관련 주민간담회'에서... 통합 플랫폼 '문화곳간'을 통해 사업 종료 이후에도 시민·노동자·기업이 참여하고 후원하는 자생적 구조를...",
+      "category": "marketing",
+      "title": "[보험사 이모저모] 삼성화재, 신한EZ손해보험, NH농협생명",
+      "summary": "삼성화재가 대형 법인보험대리점 KGA에셋과 소비자보호 업무협약을 맺었다. 사진=삼성화재  ◆삼성화재, 대형 법인보험대리점 KGA에셋과 소비자보호 업무협약 9000명 넘는 설계사가 활동하는 대형 GA와 건전한 영업...",
       "source": "bizwnews.com",
       "date": "2026-07-12",
-      "url": "http://www.bizwnews.com/news/articleView.html?idxno=140472"
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=140455"
     },
     {
-      "category": "welfare",
-      "title": "'튼튼머니' 공공체육시설 등록 저조",
-      "summary": "이에 해당지역 주민들은 국고보조금으로 운영되는 전국 단위 복지 제도인 만큼 지역 간 혜택이 갈려서는 안... 튼튼머니는 스포츠 활동으로 포인트를 적립하는 인센티브 제도로 지난 2023년 공단 시범사업으로 시작해...",
-      "source": "kihoilbo.co.kr",
+      "category": "marketing",
+      "title": "공제회에 묶인 예다함, 라이프 플랫폼 경쟁 시험대",
+      "summary": "경쟁사 결합상품으로 선수금 크게 확대…예다함, 계열 시너지 제한 성장 둔화 상조업계 경쟁이 장례서비스에서 여행·렌털·헬스케어 등을 아우르는 '라이프 플랫폼' 경쟁으로 빠르게 이동하고 있다. 특히 관련...",
+      "source": "dealsite.co.kr",
       "date": "2026-07-12",
-      "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3028706"
+      "url": "https://dealsite.co.kr/articles/165095"
+    },
+    {
+      "category": "bpo",
+      "title": "통신 3사, 하반기 AI 투자 속도전…AIDC·AX 경쟁 본격화",
+      "summary": "AI 컨택센터(AICC)와 기업용 AI 플랫폼을 앞세워 기업 고객을 확보하는 한편 모듈형 데이터센터 공법과 액체·공기 하이브리드 냉각 기술을 적용해 구축 기간 단축과 에너지 효율 향상에도 나서고 있다. 차세대 보안...",
+      "source": "m-i.kr",
+      "date": "2026-07-12",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1390334"
+    },
+    {
+      "category": "marketing",
+      "title": "[N2 포커스] 1200%룰 확대 첫 달…전속 설계사 반등 속 GA 대형사 쏠림 ...",
+      "summary": "[그림=Gemini] [뉴스투데이=김태규 기자] 법인보험대리점(GA) 소속 설계사에 대한 판매수수료 상한 규제 '1200%룰'이 이달부터 시행되면서 보험업계 설계사 지형에 변화가 감지되고 있다. 전속 설계사는 올해 들어 넉 달째...",
+      "source": "news2day.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.news2day.co.kr/article/20260712500045"
+    },
+    {
+      "category": "marketing",
+      "title": "푸본현대생명, 채용전환형 인턴 모집…3개월 본사 근무",
+      "summary": "모집 부문은 ▲법인보험대리점(GA)영업 ▲법인영업 ▲영업기획 ▲영업교육 ▲인사(HR) 등 총 5개 부문이다. 지원 자격은 국내 취업 및 해외 출장에 결격사유가 없는 자로, 9월부터 11월까지 3개월간 본사에서 근무가...",
+      "source": "FETV",
+      "date": "2026-07-12",
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=306269"
+    },
+    {
+      "category": "marketing",
+      "title": "신세계百 상반기 외국인 매출 5800억…연간 1조원 넘긴다",
+      "summary": "외국인 매출 성장은 럭셔리 브랜드 경쟁력과 주요 점포의 입지, K팝과 미식 등 문화 콘텐츠, 결제·멤버십 서비스 강화가 함께 맞물린 결과로 분석된다. 외국인 관광객의 쇼핑 행태가 단체관광과 면세점 중심에서 개별...",
+      "source": "4th.kr",
+      "date": "2026-07-12",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2114632"
+    },
+    {
+      "category": "marketing",
+      "title": "日 보험대리점업계 \"수수료 제도 개선해야\"… 초당파 의원들도 지원 나...",
+      "summary": "일본 국회에서는 초당파 의원들과 금융청 관계자들이 참석한 가운데 보험대리점 현장의 어려움과 소비자 보호 문제를 논의하는 집회가 열렸다. '손해보험 대리점 문제를 생각하는 원내집회 실행위원회'는 지난달 12일...",
+      "source": "insnews.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91723"
+    },
+    {
+      "category": "marketing",
+      "title": "보험금 노리는 '제3자 리스크'… 당국, 요양병원 페이백 정조준",
+      "summary": "금융감독원(이하 금감원)이 보험상품에 내재한 '제3자 리스크'와 요양병원 페이백 행태, 법인보험대리점(GA)의 부당승환 영업까지 보험 부문 소비자 위험요인을 전방위로 점검했다. 이찬진 금감원장은 지난 6일 서울...",
+      "source": "insnews.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91720"
+    },
+    {
+      "category": "marketing",
+      "title": "보람그룹, 5년 연속 '사회공헌기업대상' ESG부문 대상 수상",
+      "summary": "보람그룹 관계자는 보람그룹 관계자는 \"이제 상조업계는 고객의 일상과 삶의 질을 함께 돌보는 라이프케어 산업으로 확장되고 있다\"며 \"보람그룹은 여기서 한 걸음 더 나아가 고객에게 필요한 서비스를 먼저 제안하는...",
+      "source": "job-post.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=220791"
+    },
+    {
+      "category": "marketing",
+      "title": "최윤 OK금융 회장, 예별손보 인수 '승부수'…종합금융그룹 속도",
+      "summary": "보험업 수익의 핵심인 장기보장성보험 판매를 확대하려면 전속 설계사와 법인보험대리점(GA) 채널 경쟁력을 다시 확보해야 한다. 그러나 MG손보 사태를 거치며 영업조직이 크게 약화된 상태여서 단기간 내 경쟁력을...",
+      "source": "asiatoday.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260710010003996"
+    },
+    {
+      "category": "marketing",
+      "title": "예별손보 놓친 태광, KDB생명 인수에 올인…생보 중형사 도약 기대",
+      "summary": "전속 설계사 및 보험대리점(GA) 의존도가 높았던 흥국생명과 달리, KDB생명은 산업은행 계열사 시절부터 쌓아온 '방카슈랑스' 네트워크를 보유하고 있다. 인수 성사 시 흥국생명은 방카슈랑스 영업망을 흡수할 수 있을...",
+      "source": "asiatoday.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260712010004331"
+    },
+    {
+      "category": "marketing",
+      "title": "2450만명이 모두 보험 고객일까…삼쩜삼 GA, ‘환급 DB’ 전환력 시험대",
+      "summary": "세금 환급 플랫폼 삼쩜삼이 2450만명에 달하는 누적 가입자를 기반으로 법인보험대리점(GA) 시장에 진출한다. 보험업계에서는 대규모 고객 기반이 초기 영업에 강점으로 작용할 수 있지만 전체 회원수와 실제 보험 상담에...",
+      "source": "viva100.com",
+      "date": "2026-07-12",
+      "url": "https://www.viva100.com/article/20260710500807"
+    },
+    {
+      "category": "marketing",
+      "title": "쿠팡, ‘로켓페이’로 간편결제 시장 본격 진출… 페이앱 경쟁 판도 흔...",
+      "summary": "쿠팡이 새로운 간편결제 서비스 ‘로켓페이’를 앞세워 국내 간편결제 시장 공략에 나선다. 수천만 명의 쿠팡 이용자를 기반으로 온라인을 넘어 오프라인 결제까지 서비스 영역을 확대하면서 기존 네이버페이와...",
+      "source": "viva100.com",
+      "date": "2026-07-12",
+      "url": "https://www.viva100.com/article/20260712500500"
+    },
+    {
+      "category": "marketing",
+      "title": "네·카·토 선불충전금, 전년比 11%↑…1兆 돌파 앞두고 '주춤'",
+      "summary": "국내 최대 이커머스 업체인 쿠팡이 자사 서비스에서만 사용하던 '쿠팡페이'를 범용 간편결제 서비스 '로켓페이'로 확대한다고 밝히면서다. 쿠팡페이의 2분기 말 선불충전금은 1149억8179만원으로, 기존...",
+      "source": "ajunews.com",
+      "date": "2026-07-12",
+      "url": "https://www.ajunews.com/view/20260712142230445"
+    },
+    {
+      "category": "marketing",
+      "title": "다양한 정보가 필요한 중장년에게 유용한 뉴스레터 [신철호의 실전 인생...",
+      "summary": "롱라이프랩은 국내외 시니어 비즈니스 사례와 고령사회 정책, 연구, 에이지테크와 실버산업의 흐름을 다루는 채널이다. 공식 홈페이지에서는 초고령사회와 관련된 비즈니스 기회를 분석해 매주 전한다고 소개한다....",
+      "source": "매일경제",
+      "date": "2026-07-12",
+      "url": "https://www.mk.co.kr/article/12096382"
+    },
+    {
+      "category": "marketing",
+      "title": "'한도 꽉 찼다' 캐피탈업계 렌털업 취급 한도 완제쯤",
+      "summary": "업계 관계자는 “요즘은 소유보단 구독 경제 중심으로 발전하고 있어 리스 시장은 정체된 반면 렌털 수요는 점점 늘고 있다”며 “캐피탈사에 적용되는 현행 규제가 시장의 수요와 맞지 않고 일부 캐피탈사의 경우 한도가...",
+      "source": "이데일리",
+      "date": "2026-07-12",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01895846645513864"
+    },
+    {
+      "category": "marketing",
+      "title": "보험업계, TC 영업조직 키운다…데이터 기반 영업 '군불'",
+      "summary": "보험사뿐 아니라 보험대리점(GA)업계서도 DB 기반 영업이 확대되고 있다. 최근에는 삼쩜삼 운영사 자비스앤빌런즈가 GA 등록을 마무리하면서 보험업 진출을 타진하고 있다. 업계는 2400만명 이상 고객DB를 보유한...",
+      "source": "전자신문",
+      "date": "2026-07-12",
+      "url": "https://www.etnews.com/20260710000136"
+    },
+    {
+      "category": "marketing",
+      "title": "[보험브리핑]NH농협생명·푸본현대생명·ABL생명",
+      "summary": "이번 인턴십 모집분야는 GA(보험대리점)영업, 법인영업, 영업기획, 영업교육, HR 총 5개 부분이다. 지원자격은 국내 취업 및 해외 출장에 결격사유가 없고, 9월부터 11월까지 3개월간 푸본현대생명 본사에서 근무가...",
+      "source": "metroseoul.co.kr",
+      "date": "2026-07-12",
+      "url": "http://www.metroseoul.co.kr/article/20260712500174"
+    },
+    {
+      "category": "marketing",
+      "title": "메트라이프, MDRT 앞세워 차별화…전속채널 경쟁력 높인다",
+      "summary": "최근 보험사들이 GA(법인보험대리점) 의존도를 높이는 가운데 회사는 전속 설계사 경쟁력 강화에 무게를 두며 차별화 전략을 이어가고 있다. 12일 메트라이프에 따르면 최근 2026 메트라이프 MDRT 데이를 개최했다....",
+      "source": "bloter.net",
+      "date": "2026-07-12",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=667867"
+    },
+    {
+      "category": "marketing",
+      "title": "고물가에 구독경제 수요↑…렌털업계, '보급→관리 플랫폼' 속도",
+      "summary": "고물가와 1인 가구 증가 등 구입 비용 부담에 따른 구독경제가 일상화하면서 소비자는 제품을 소유하기보다 일정 기간 이용하는 수요가 증가하고 있다. 이에 업체들은 렌털 계정을 기반으로 관리 서비스와 추가 제품을...",
+      "source": "news1.kr",
+      "date": "2026-07-12",
+      "url": "https://www.news1.kr/industry/general-industry/6222847"
+    },
+    {
+      "category": "marketing",
+      "title": "[챗ICT]테마파크에 요양원까지…이종사업 눈독 들이는 게임사",
+      "summary": "가장 최근에 진출한 분야는 실버 산업입니다. 지난해 신규 자회사 '보듬재활요양원'을 설립하고 재활·요양 서비스 시설을 운영하고 있습니다. 고령화 사회에 접어들면서 미래 성장성이 높다고 평가받는 실버 사업에...",
+      "source": "news.bizwatch.co.kr",
+      "date": "2026-07-12",
+      "url": "https://news.bizwatch.co.kr/article/mobile/2026/07/10/0030"
+    },
+    {
+      "category": "marketing",
+      "title": "\"완전판매·고객보호 다 잡는다\" 삼성화재, KGA에셋과 전격 MOU… GA 혁신...",
+      "summary": "국내 보험 시장에서 법인보험대리점(GA)의 영향력이 급격히 확대됨에 따라 무리한 스카우트 경쟁과 불완전판매 등 부작용을 해소하고 시장 건전성을 확보해야 한다는 목소리가 그 어느 때보다 높아지고 있다. 이에 따라...",
+      "source": "dailysmart.co.kr",
+      "date": "2026-07-12",
+      "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=126738"
     }
   ]
 };
