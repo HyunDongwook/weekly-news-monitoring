@@ -1,0 +1,2521 @@
+/* ==========================================================================
+   이번 주 뉴스 후보 목록 (자동 수집, 미가공)
+   .github/workflows/weekly-update.yml 에 의해 매주 월요일 오전 9시(KST)경
+   네이버 뉴스 검색 API로 자동 수집됩니다. 이 파일은 최종 발행본이 아니며,
+   내용을 읽고 충실도/중복/단신·광고성 여부를 판단하는 별도 큐레이션 이후
+   data/current-week-data.js 로 반영됩니다.
+   ========================================================================== */
+
+{
+  "periodLabel": "2026.07.06 ~ 2026.07.12",
+  "periodStart": "2026-07-06",
+  "periodEnd": "2026-07-12",
+  "generatedAt": "2026-07-13T17:38:24+09:00",
+  "candidateCount": 313,
+  "candidates": [
+    {
+      "title": "'70세 이상 버스비 지원' 서울시 조례 의결…시행은 언제?",
+      "summary": "기존에 지하철에만 치우쳐있던 어르신 교통복지 정책을 버스로 확장하는 한편, 수혜 연령을 만 65세에서 상향하고자 하는 것입니다. 실제 시행은 아직 적용 전입니다. 기존 수혜자가 혜택을 보지 못하는 상황이 예상되는...",
+      "source": "mbn.mk.co.kr",
+      "date": "2026-07-12",
+      "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5205481",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "관악구, 민선9기 6대 전략 58개 과제 확정",
+      "summary": "1인 가구 비율이 63.9%에 이르는 지역 특성을 반영해 노인종합복지타운 건립, 스마트 경로당 등 어르신 공간복지를 확대하고 교통약자 이동권 보장, 아동친화도시 고도화 등 생애주기별 복지정책도 넓힌다. 사진=민선 9기...",
+      "source": "gukjenews.com",
+      "date": "2026-07-12",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3633807",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "영암군, 공공 와이파이 생활 인프라 확대…연간 이용 700만 건 넘어",
+      "summary": "영암군은 공공장소 무료 와이파이 서비스를 확대하며 통신비 부담을 줄이고 정보 접근성을 높이는 디지털 복지 정책을 이어가고 있다. 전남광주통합특별시 영암군은 민선8기 공약사업으로 공공 와이파이 설치를...",
+      "source": "매일일보",
+      "date": "2026-07-12",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1390628",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "서울시, 70세 이상 버스요금 지원 조례 공포… \"의견 수렴할 것\"",
+      "summary": "그동안 지하철에만 집중했던 어르신 교통복지 정책을 버스로 확장하는 한편, 수혜 연령을 만 65세에서 상향한 것이다. 다만 기존 수혜자가 혜택을 보지 못하는 상황이 예상되는 만큼 시는 공청회를 열어 각계 의견을...",
+      "source": "view.asiae.co.kr",
+      "date": "2026-07-12",
+      "url": "https://view.asiae.co.kr/article/2026071308275428864",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "부산시, 복지 실태 조사로 시민 생활 개선 나선다…200가구 대상",
+      "summary": "진행되며 통계법에 따라 응답 내용은 비밀이 보장된다. 조사 결과는 2027년 1월 공표될 예정이다. 황순길 사회복지국장은 \"조사 결과를 기반으로 복지 정책의 정확도를 높이겠다\"며 \"시민들의 참여를 바란다\"고 말했다.",
+      "source": "newspim.com",
+      "date": "2026-07-12",
+      "url": "https://www.newspim.com/news/view/20260713000055",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "[치과 노무칼럼] 기간제 근로자 사용제한의 예외사유",
+      "summary": "전문적 지식·기술의 활용이 필요한 경우와 정부의 복지정책·실업대책 등에 따라 일자리를 제공하는 경우로서 대통령령으로 정하는 경우 6. 그 밖에 제1호부터 제5호까지에 준하는 합리적인 사유가 있는 경우 사용자가...",
+      "source": "dentalnews.or.kr",
+      "date": "2026-07-12",
+      "url": "https://www.dentalnews.or.kr/news/article.html?no=47670",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "김영욱 부산진구청장, 초복 맞아 삼계탕 나눔 봉사… “어르신 건강한 ...",
+      "summary": "김 구청장은 “어르신께서 건강한 모습으로 반겨주시는 모습을 보며 오히려 큰 힘과 위로를 받았다”며 “앞으로도 어르신들이 건강하고 행복한 노후를 보내실 수 있도록 세심한 복지정책과 현장 중심 행정을...",
+      "source": "sports.donga.com",
+      "date": "2026-07-12",
+      "url": "https://sports.donga.com/region/article/all/20260713/134283773/1",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "“70세부터 버스비 지원” 서울시, 관련 조례 제정안 공포",
+      "summary": "기존에 지하철에만 지원됐던 어르신 교통복지 정책을 버스로 확장하는 내용이다. 특히 혜택 나이를 만 65세에서 70세로 올리는 것이 핵심이다. 다만 실제 시행을 위해 해결할 숙제가 있다. 기존 수혜 대상이던 65~69세가...",
+      "source": "헤럴드경제",
+      "date": "2026-07-12",
+      "url": "https://biz.heraldcorp.com/article/10806263?ref=naver",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "조미숙 신임 동대문구 부구청장 부임…민선9기 구정 운영에 안정감 더한...",
+      "summary": "사회적 약자를 위한 정책 설계와 예산 운영 경험은 동대문구가 추진하는 복지정책의 실효성을 높이는 데 도움이 될 것으로 기대된다. 아울러 서울시 재정기획관으로 근무하며 쌓은 예산 편성과 재정 운용 경험 역시 민선9기...",
+      "source": "dailyt.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.dailyt.co.kr/newsView/dlt202607130005",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "서울시 버스·지하철 70세부터 공짜…언제부터 시행될까?",
+      "summary": "기존에 지하철에만 치우쳐있던 어르신 교통복지 정책을 버스로 확장하는 한편, 수혜 연령을 만 65세에서 상향하고자 하는 것입니다. 실제 시행은 아직 적용 전입니다. 기존 수혜자가 혜택을 보지 못하는 상황이...",
+      "source": "biz.sbs.co.kr",
+      "date": "2026-07-12",
+      "url": "https://biz.sbs.co.kr/article_hub/20000322024?division=NAVER",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "이재명 대통령 기다렸다가 편지 전했더니...이런 답변 돌아왔다",
+      "summary": "특히 복지 정책 외의 선거 공보물 내용은 이해하기 어려웠다. 현수막을 보면 어떤 공약은 이해할 수 없다. 공약 이야기를 하면 좋겠는데 정치 싸움 구호를 내건 현수막 같은 건 이해도 되지 않을뿐더러 불필요하다는 생각이...",
+      "source": "ohmynews.com",
+      "date": "2026-07-12",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003250300&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "[에듀플러스] 맞벌이 가정",
+      "summary": "덧붙여 맞벌이 가족을 위한 정부의 복지정책이나 서비스에 있어서도 이제는 부모의 취업 관련 객관적 조건 향상뿐 아니라, 맞벌이 가정에서 자라는 자녀의 심리·정서적 측면의 복지감 증진과, 맞벌이 어머니가 자신의...",
+      "source": "daejonilbo.com",
+      "date": "2026-07-12",
+      "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2287437",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "서울시, 자치법규 33건 공포…70세 이상 버스요금 지원 첫 근거",
+      "summary": "그동안 지하철에 편중돼 있던 어르신 교통복지 정책을 버스로 확장하는 동시에, 수혜 연령을 기존 만 65세에서 70세로 상향하는 것이 핵심이다. 다만 조례 공포와 별개로 실제 시행은 바로 이뤄지지 않는다. 연령 상향에...",
+      "source": "이데일리",
+      "date": "2026-07-12",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01781046645514192",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "서울시, 70세 이상 버스요금 지원 근거 마련…공청회 거쳐 추진",
+      "summary": "이는 기존 지하철 중심의 어르신 교통복지 정책을 버스까지 확대하는 한편, 지원 연령을 기존 만 65세에서 만 70세 이상으로 조정하는 내용을 담고 있다. 다만 실제 시행은 아직 확정되지 않았으며, 시는 기존 수혜자들의...",
+      "source": "munhwa.com",
+      "date": "2026-07-12",
+      "url": "https://www.munhwa.com/article/11602114?ref=naver",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "조미숙 신임 동대문구 부구청장 부임…서울시 요직 거친 행정 전문가",
+      "summary": "특히 서울시 복지기획관과 약자와의동행추진단장을 지낸 경험은 민선 9기 동대문구의 복지정책 방향과도 맞닿아 있다는 평가다. 동대문구는 민선 9기 출범 이후 ‘돌봄은 더 두텁게, 주민의 삶은 더 든든하게’를 복지...",
+      "source": "munhwa.com",
+      "date": "2026-07-12",
+      "url": "https://www.munhwa.com/article/11602107?ref=naver",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "강훈식 “부동산 토론회, 공급·세제 등 국민들 컨센서스 만드는 과정”",
+      "summary": "흔히 북유럽처럼 원유가 나는 나라들은 복지 정책이 잘 돼 있다. 지금 반도체 상황이 그렇다. 이것을 빠른 속도로 공급이 잘 되게 만들면 중장기적 성장 궤도로 만들 수 있다는 목표를 가지고 있고, 그것이 복지나 분배에...",
+      "source": "hani.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.hani.co.kr/arti/politics/bluehouse/1267917.html",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "“광주와 함께 화순을 한국 바이오헬스산업 거점 만들 것”",
+      "summary": "이는 기존 복지정책이 신청주의로 인해 신청을 하지 않으면 혜택을 못 받는 구조로 돼 있다. 이제 적극 행정을 통해 누락되는 분이 생기지 않도록 촘촘한 복지망을 구축하겠다.” -밀실정치를 하지 않겠다는 약속도 했는데....",
+      "source": "kmib.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.kmib.co.kr/article/view.asp?arcid=1783587594&code=11131425&cp=nv",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "검찰개혁은 숙정(肅正)이 아니라 국민을 더 두텁게 보호하는 제도의 완...",
+      "summary": "2012년 통합진보당 비례대표로 19대 국회에 입성했고, 국회 기획재정위원회에서 재벌개혁과 조세·복지 정책을 집중적으로 다뤘다. 이후 정의당 정책위의장과 사무총장 등을 맡아 당 정책 개발과 운영을 이끌었다. 현재는...",
+      "source": "newsverse.kr",
+      "date": "2026-07-12",
+      "url": "https://www.newsverse.kr/news/articleView.html?idxno=10926",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "내년부터 태백 65세 이상 시민, 해마다 24만원씩 목욕·이·미용 비용 받...",
+      "summary": "최현정 시 사회복지과장은 “시민들이 일상에서 체감하는 복지정책이 차질 없이 추진되도록 준비에 만전을 기하겠다”며 “민선9기 핵심공약을 단계적으로 실행해 시민이 체감하는 복지를 넓혀가겠다”고 말했다.",
+      "source": "kwnews.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.kwnews.co.kr/article/20260710500249",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "인제군 기획조정실 신설 조직개편 시동",
+      "summary": "행정복지국에는 자치행정과, 종합민원과, 세무회계과, 복지정책과, 통합돌봄과를 둔다. 관광경제국에는 관광과, 경제산업과, 체육과, 문화교육과를 둔다. 도시건설국에는 도시개발과, 건설과, 환경보호과, 산림정원과...",
+      "source": "kado.net",
+      "date": "2026-07-12",
+      "url": "https://www.kado.net/news/articleView.html?idxno=2060785",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "신공항·K-푸드·미디어아트 한자리에…경북, 미래 성장전략 홍보관 운...",
+      "summary": "(제공=경북도) 2026 명품대구경북박람회 또한 아이와 어르신이 함께하는 행복공동체 정책과 경북 첫걸음 연금, 어르신 건강밥상 등 복지 정책도 소개한다. 아울러 대구경북통합신공항과 영일만항, 슈퍼링크...",
+      "source": "gukjenews.com",
+      "date": "2026-07-12",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3632045",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "인천광역시, 청년정책사관학교 정책제안 공유회 개최",
+      "summary": "남영희 글로벌도시정무부시장은 청년들의 혁신적인 아이디어가 시민들이 체감할 수 있는 실질적인 복지 정책으로 실현될 수 있도록 행정적·재정적 지원을 아끼지 않겠다고 밝혔다.",
+      "source": "newstown.co.kr",
+      "date": "2026-07-12",
+      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=708914",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "영천시, 지역사회보장계획 수립 TF팀 회의 개최",
+      "summary": "한편, 영천시는 주민 의견수렴과 중간보고회, 최종보고회를 순차적으로 진행해 다양한 의견을 반영하고, 지역 특성과 주민 욕구에 부합하는 제6기 지역사회보장계획을 마련해 시민 중심의 복지정책을 추진할 계획이다.",
+      "source": "gukjenews.com",
+      "date": "2026-07-12",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3633621",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "화성 사회복지사 200여 명 한자리…화성특례시의회, 복지 지원 강화",
+      "summary": "/화성특례시의회 화성특례시의회가 지역사회 복지 최일선을 지키는 사회복지사들을 격려하며 현장 중심의 복지정책 지원 의지를 다시 한번 밝혔다. 시민과 가장 가까운 곳에서 돌봄과 복지 서비스를 실천하는...",
+      "source": "newstown.co.kr",
+      "date": "2026-07-12",
+      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=708899",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "'최고 복지는 일자리' 염두에 두고 섬기는 행정 실천할 것",
+      "summary": "■ 민생경제 회복과 복지정책 추진 방향은 고물가와 경기 침체가 길어지면서 소상공인과 취약계층을 비롯한 시민들의 생활 부담이 커지고 있다. 민생경제 회복의 핵심은 현장의 어려움을 줄이고, 지역 안에서 소비와...",
+      "source": "gnmaeil.com",
+      "date": "2026-07-12",
+      "url": "http://www.gnmaeil.com/news/articleView.html?idxno=590593",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "서울복지교육센터, 'AI 시대 사회복지사 역량' WISH 토크 개최",
+      "summary": "복지큐레이션 WISH는 기존 공유복지플랫폼을 확장한 지식공유 플랫폼으로, 사회복지 현장에 필요한 지식을 선별하고 현장의 질문을 실천으로 연결하기 위해 마련됐다. 이날 강연은 이세형 신구대학교 사회복지학과...",
+      "source": "뉴스1",
+      "date": "2026-07-12",
+      "url": "https://www.news1.kr/society/welfare-hr/6225352",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "정읍시 칠보행복이음센터, 농촌 복지 거점 '호평'",
+      "summary": "이학수 시장은 \"칠보행복이음센터는 단순한 문화나 여가 프로그램 운영을 넘어 생활 복지 플랫폼 몫을 다하고 있다\"며 \"앞으로도 중심지와 배후 마을을 잇는 주민 주도형 공동체 본보기가 될 수 있도록 적극 지원하겠다\"고...",
+      "source": "jeonmin.co.kr",
+      "date": "2026-07-12",
+      "url": "http://www.jeonmin.co.kr/news/articleView.html?idxno=443203",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "경기도, 반려동물과 교감… 반려마루화성 여름방학 청소년 봉사 프로그...",
+      "summary": "신청은 경기도동물보호복지플랫폼을 통해 가능하다. 경기도는 이번 프로그램을 통해 청소년들이 동물과의 교감을 바탕으로 생명존중 의식을 높이고, 유기동물 보호와 책임 있는 반려문화 확산에도 자연스럽게 참여하는...",
+      "source": "lecturernews.com",
+      "date": "2026-07-12",
+      "url": "https://www.lecturernews.com/news/articleView.html?idxno=206095",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "베스핀글로벌, AIA생명 AI상담 어시스턴트 구축",
+      "summary": "베스핀글로벌은 이번 생성형 AI 기반 컨택센터(AICC) 구축 사례를 바탕으로 AI 에이전트가 단순한 상담 보조를 넘어 상담사 교육, 품질 관리(QA), VOC 분석 등 콜센터 운영 전반의 디지털 전환(DX)을 주도할 수 있도록...",
+      "source": "매일경제",
+      "date": "2026-07-12",
+      "url": "https://www.mk.co.kr/article/12096713",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "베스핀글로벌, AIA생명 상담 현장에 AI 어시스턴트 심었다 \"폐쇄망서도...",
+      "summary": "폐쇄형 환경에서 SLM 조합만으로 실전 수준의 완성도를 구현한 사례는 국내 AICC(AI 컨택센터) 시장에서도... 기술로 돌파한 이번 사례는 폐쇄망 환경에 놓인 다른 금융사들의 AICC 구축 방향에도 참고점을 남길 전망이다.",
+      "source": "econovill.com",
+      "date": "2026-07-12",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=744973",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "[Who Is ?] 전선규 미코 대표이사 회장",
+      "summary": "△부뜰정보시스템 인수로 AI·IT 사업 진출 미코가 2025년 12월 AI 컨택센터(AICC) 전문기업 부뜰정보시스템... 미코는 부뜰정보시스템의 AICC 기술과 AICESS의 AI 역량을 그룹 사업에 접목한다는 구상을 하고 있다. 제조...",
+      "source": "비즈니스포스트",
+      "date": "2026-07-12",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=441567",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "[창간 34주년 특집] AI와 여행③여행산업 AI 도입 현황 | \"비개발자가 코...",
+      "summary": "노랑풍선 역시 향후 AICC(AI 컨택센터) 도입을 통해 VIP 고객을 대상으로 마치 전문 비서가 케어하는 듯한 컨시어지 형태의 상담 서비스를 제공하겠다는 로드맵을 구상하고 있다. 상품·미디어·상담 기록의 데이터 자산화...",
+      "source": "여행신문",
+      "date": "2026-07-12",
+      "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500052",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "통신 3사, 하반기 AI 투자 속도전…AIDC·AX 경쟁 본격화",
+      "summary": "AI 컨택센터(AICC)와 기업용 AI 플랫폼을 앞세워 기업 고객을 확보하는 한편 모듈형 데이터센터 공법과 액체·공기 하이브리드 냉각 기술을 적용해 구축 기간 단축과 에너지 효율 향상에도 나서고 있다. 차세대 보안...",
+      "source": "매일일보",
+      "date": "2026-07-12",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1390334",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "음성군, '먹깨비' 할인쿠폰 이벤트 진행…1만5000원 이상 주문 5000원 할...",
+      "summary": "소상공인에게 실질적인 혜택이 돌아가도록 다양한 지원 방안을 마련하겠다\"고 말했다. 한편, '먹깨비' 가맹점 등록은 먹깨비 사장님 사이트 또는 고객센터를 통해 가능하며, 소비자는 앱 설치 후 서비스를 이용할 수 있다.",
+      "source": "gukjenews.com",
+      "date": "2026-07-12",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3633584",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "\"속았다\" 한집배달 썼다가 반전…추가 비용도 냈는데 왜",
+      "summary": "고객센터에 문의하자 \"한집배달은 한 집만 배달하는 서비스가 아니라, 우선해서 먼저 배달하는 서비스\"라는 취지의 답변을 들었다고 했습니다. 그러면서 소비자 입장에서는 '한집배달'이라는 이름만 보면 내 음식만...",
+      "source": "news.sbs.co.kr",
+      "date": "2026-07-12",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008653937&plink=ORI&cooper=NAVER",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "한국에너지공단, 울산 전통시장 '우리동네 안심상점 프로젝트' 추진",
+      "summary": "이날 현장에서는 △KC인증 고용량 멀티탭 등 고효율 전기제품 및 일산화탄소 경보기 등 안전 물품 지원 △에너지 절약·화재예방을 위한 교육 및 캠페인 △불법촬영 방지를 위한 공중화장실 점검 △전통시장 고객센터...",
+      "source": "gasnews.com",
+      "date": "2026-07-12",
+      "url": "https://www.gasnews.com/news/articleView.html?idxno=126026",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "KB국민은행, 사회적 배려자 채권 최대 90% 감면-취약계층 대상 포용금융...",
+      "summary": "채무조정을 희망하는 고객은 전국 6개의 KB희망금융센터를 방문하거나 KB국민은행 고객센터를 통해 안내받을 수 있다. KB국민은행 관계자는 \"이번 채무감면은 채무로 어려움을 겪는 고객이 금융거래를 정상화하고 다시...",
+      "source": "techholic.co.kr",
+      "date": "2026-07-12",
+      "url": "http://www.techholic.co.kr/news/articleView.html?idxno=222075",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "금융업계, 경영진 워크숍 개최...특별 채무감면 실시...IR 성료...강북경...",
+      "summary": "채무조정을 희망하는 고객은 전국 6개의 KB희망금융센터를 방문하거나 KB국민은행 고객센터를 통해 안내받을 수 있다. KB금융그룹은 금융취약계층의 경제적 재기를 지원하기 위한 포용금융을 확대해오고 있다. 장기...",
+      "source": "여성소비자신문",
+      "date": "2026-07-12",
+      "url": "http://www.wsobi.com/news/articleView.html?idxno=315091",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "폐점 앞둔 홈플러스 떨이 할인…'계산 대기줄만 30분' 손님 북적",
+      "summary": "홈플러스는 이미 지난 1일부터 온라인 당일배송과 온라인 고객센터 운영을 멈췄습니다. 소비자들은 파격적인 할인 가격에 놀라면서도 홈플러스 사태에 안타까움을 표했습니다. ▶ 인터뷰 : 소비자 - \"좀 안타깝죠. 마음이...",
+      "source": "mbn.co.kr",
+      "date": "2026-07-12",
+      "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205453",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "잇단 정책 지원도 소용 없네...성장세 주춤 '알뜰폰' 경쟁력 시험대",
+      "summary": "알뜰폰은 기본료가 낮다는 장점이 있지만 단말기 구매 지원, 유무선 결합, 멤버십, 고객센터, 보안 투자 등에서는 통신 3사와 격차가 있다. 특히 가족 결합이나 인터넷·IPTV 결합을 이용하는 고객은 알뜰폰으로 갈아탈...",
+      "source": "digitaltoday.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683150",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "KB국민은행, 오늘부터 취약계층 특별 채무감면 시행…특수채권 원금 최...",
+      "summary": "채무조정을 희망하는 고객은 전국 6개 KB희망금융센터를 방문하거나 KB국민은행 고객센터를 통해 상담과 안내를 받을 수 있다. KB국민은행 관계자는 \"이번 채무감면 제도는 채무로 어려움을 겪는 고객들이 금융거래를...",
+      "source": "public25.com",
+      "date": "2026-07-12",
+      "url": "https://www.public25.com/news/articleView.html?idxno=50493",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "[이혁중 CISO의 현장 보안 인사이트-7] 서버가 뚫린 것인가, 조직이 뚫린...",
+      "summary": "고객센터는 어떤 안내를 해야 하는가? 이때부터 사고는 보안팀만의 일이 아니다. CPO, IT부서, 서비스 부서, 법무, 홍보, 고객센터 수장들이 모두 같은 테이블에...",
+      "source": "dailysecu.com",
+      "date": "2026-07-12",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207567",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "서울지노위, 서울신보에 콜센터 노동자 사용자성 있다",
+      "summary": "<자료사진 정기훈 기자> 서울지방노동위원회가 서울신용보증재단 고객센터 노동자들에 대한 재단의 사용자성을 인정했다. 위탁업체를 상대로 해결하기 어려웠던 노동환경과 안전 문제를 재단과 직접 교섭할 길이 열린...",
+      "source": "labortoday.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=235653",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "판매중지 당해도 이름 바꿔 재등장...온라인몰 가품 모니터링 '구멍 숭...",
+      "summary": "가품이 의심돼 반품을 요청했더니 에이블리 고객센터에서는 '판매자가 가품이 아니라고 했다'며 왕복 배송비를 제외하고 환불을 진행했다. 윤 씨가 항의하자 상담원은 \"입점한 마켓 측에서 정품이라고 하면 정품이라...",
+      "source": "consumernews.co.kr",
+      "date": "2026-07-12",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=759142",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "[소비자의눈] 광고 이미지와 다르게 컵 절반도 안 찬 젤라또...컴포즈커...",
+      "summary": "▲젤라또 메뉴 광고 사진(왼쪽)과 실제 소비자가 수령한 제품 김 씨는 사진을 첨부해 컴포즈커피 고객센터에 이의를 제기했다. 당시 상담원은 사진을 확인한 뒤 \"본인이 보기에도 제품에 문제가 있어 보인다\"고 인정하며...",
+      "source": "consumernews.co.kr",
+      "date": "2026-07-12",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=758815",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "경동고객센터 지분매각 토론회...울산시 인수위, 노사 주요쟁점 경청",
+      "summary": "울산시청 제공민선 9기 울산시장직 인수위원회가 지난 10일 시청 본관 4층 국제회의실에서 '경동도시가스 고객서비스센터 지분 매각 시민사회 토론회'를 열었다. 토론회에 참석한 경동도시가스, 민주노총 공공운수노조...",
+      "source": "ksilbo.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061901",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "에너지공단, 전통시장에 안전물품",
+      "summary": "또 에너지 절약과 화재 예방을 위한 교육·캠페인, 불법촬영 방지를 위한 공중화장실 점검, 전통시장 고객센터 단열필름 시공 등 상인과 이용객을 위한 활동도 진행됐다. 공단은 앞서 지난 8일에도 울주군 남창...",
+      "source": "ulsanpress.net",
+      "date": "2026-07-12",
+      "url": "https://www.ulsanpress.net/news/articleView.html?idxno=578981",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "경동도시가스 구조개편 따른 우려와 기대 공유",
+      "summary": "그는 고객센터 운영비가 도시가스회사가 지급하는 수수료와 도시가스 소매공급비용 체계와 연결돼 있는 만큼 노동조건과 안전관리 비용 문제도 노사 갈등만이 아니라 도시가스 공공성 차원에서 논의해야 한다고...",
+      "source": "ulsanpress.net",
+      "date": "2026-07-12",
+      "url": "https://www.ulsanpress.net/news/articleView.html?idxno=578911",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "공주소방서 여름철 재난 대비 올바른 신고문화 정착 나서!",
+      "summary": "비긴급 생활민원은 정부민원안내콜센터 110, 정전이나 전선 처짐, 전기설비 이상 등 전기 관련 민원은 한국전력 고객센터 123​을 이용하면 된다. 다만 화재, 인명구조, 응급환자 발생 등 긴급한 상황은 지체 없이 119로...",
+      "source": "ccdailynews.com",
+      "date": "2026-07-12",
+      "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2427509",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "KB국민은행 수급자·이재민 등 취약층 채무감면…포용금융 적극실천",
+      "summary": "채무조정을 희망하는 고객은 전국 6개 KB희망금융센터를 방문하거나 KB국민은행 고객센터에서 안내받습니다. KB국민은행 관계자는 \"이번 채무감면은 채무로 어려움을 겪는 고객이 금융거래를 정상화하고 다시...",
+      "source": "inthenews.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.inthenews.co.kr/news/article.html?no=89210",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "KB국민은행, 취약계층 특수채권 원금 최대 90% 감면",
+      "summary": "채무조정을 희망하는 고객은 전국 6개 KB희망금융센터를 방문하거나 고객센터를 통해 상담과 안내를 받을 수 있다. KB국민은행 관계자는 \"채무로 어려움을 겪는 고객이 금융거래를 정상화하고 다시 경제활동에 참여할 수...",
+      "source": "econovill.com",
+      "date": "2026-07-12",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=744955",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "김동신 센드버드 대표 “AI 에이전트 스튜어드로 환불까지 처리”",
+      "summary": "한국, 미국 시장을 중심으로 AI 고객센터 시장을 공략하겠다는 전략이다. 김동신(사진) 센드버드 대표는 최근 서울 송파구 롯데호텔 월드에서 기자들과 만나 “‘에이전트 스튜어드’로 시장의 패러다임을 바꾸고자...",
+      "source": "서울경제",
+      "date": "2026-07-12",
+      "url": "https://www.sedaily.com/article/20066740?ref=naver",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "KB국민은행, 취약계층에 특별채무감면…원금 최대 90% 깎아준다",
+      "summary": "채무조정을 희망하는 고객은 전국 6개의 KB희망금융센터를 방문하거나 국민은행 고객센터를 통해 안내받을 수 있다. 국민은행 관계자는 “고객의 재기와 자립을 지원하는 포용금융을 지속적으로 실천해 나가겠다”고...",
+      "source": "g-enews.com",
+      "date": "2026-07-12",
+      "url": "https://www.g-enews.com/view.php?ud=202607121736563056a6e8311f64_1",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "KB국민은행, 사회적 배려자 채무 지원",
+      "summary": "채무조정을 희망하는 고객은 전국 6개의 KB희망금융센터를 방문하거나 KB국민은행 고객센터를 통해 안내받을 수 있다. 감면율을 최대 90%까지 높이고 심사 절차까지 간소화한 점은 이번 제도가 형식적인 지원을 넘어...",
+      "source": "finomy.com",
+      "date": "2026-07-12",
+      "url": "http://www.finomy.com/news/articleView.html?idxno=257226",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "KB국민은행, 사회적 배려자 대상 채무 90% 감면 도입…신속 심사로 경제...",
+      "summary": "채무조정 상담을 원하는 서민들은 전국 6개 지역에 개설된 KB희망금융센터를 직접 방문하거나 고객센터 채널을 통해 세부 절차를 안내받으면 된다. KB국민은행은 장기간 정상적인 금융거래가 단절됐던 한계 차주들에게...",
+      "source": "ttlnews.com",
+      "date": "2026-07-12",
+      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3124841",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "KB국민은행, 사회적 배려자 특별 채무감면 제도 시행…채권 원금 최대 ...",
+      "summary": "채무조정을 희망하는 고객은 전국 6개 KB희망금융센터를 방문하거나 KB국민은행 고객센터를 통해 안내받을 수 있다. KB국민은행 관계자는 \"이번 채무 감면은 채무로 어려움을 겪는 고객이 금융거래를 정상화하고, 다시...",
+      "source": "kfenews.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=660262",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "KB국민은행, 내일(13일)부터 취약계층 채무 최대 90% 감면",
+      "summary": "채무조정을 희망하는 고객은 전국 6개 KB희망금융센터를 방문하거나 은행 고객센터를 통해 안내받을 수 있다. KB국민은행 관계자는 \"채무로 어려움을 겪는 고객이 금융거래를 정상화하고 다시 경제활동에 참여할 수...",
+      "source": "news.tf.co.kr",
+      "date": "2026-07-12",
+      "url": "https://news.tf.co.kr/read/economy/2342393.htm",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "KB국민은행·우리은행, 금융취약계층 보호 강화…채무감면·경찰 공조로...",
+      "summary": "신청은 전국 6개 KB희망금융센터 또는 KB국민은행 고객센터를 통해 가능하다. KB국민은행은 이번 제도를 통해 채무 부담을 완화하고 금융거래 정상화와 경제활동 복귀를 지원한다는 계획이다. 아울러 KB금융그룹은 올해 약...",
+      "source": "lcnews.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=204814",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "푸본현대생명, 채용전환형 인턴십 모집...15일 마감",
+      "summary": "이번 인턴십의 모집 분야는 보험대리점(GA) 영업, 법인 영업, 영업 기획, 영업 교육, HR 등 5개 분야다. 지원 자격은 국내 취업과 해외 출장에 결격 사유가 없어야 하며 오는 9월부터 11월까지 3개월 간 푸본현대생명...",
+      "source": "pointdaily.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311569",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "[예별손보 매각] 우협 'OK금융', 산적한 정상화 해법 찾기 본격화",
+      "summary": "법인보험대리점(GA)으로 이탈했다. 빠른 영업 재개를 위해서는 경력직 설계사 조직을 대규모로 영입하거나 GA채널을 적극 확충하는 것이 필수적이다.  걸림돌은 수백억원대의 비용과 규제다. GA업계에서는 일반적으로...",
+      "source": "톱데일리",
+      "date": "2026-07-12",
+      "url": "https://www.topdaily.kr/articles/110939",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "[포토] 삼성화재, KGA에셋과 금융소비자 보호 협약 체결",
+      "summary": "삼성화재는 법인보험대리점(GA) KGA에셋과 금융소비자 보호를 위한 업무협약을 체결했다. 이번 협약에 따라 양측은 위·수탁 업무 관련 리스크 감소를 위한 내부통제, 민원 처리 및 예방 활동 등에 협력할 계획이다....",
+      "source": "FETV",
+      "date": "2026-07-12",
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=306267",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "[보험사 이모저모] 삼성화재, 신한EZ손해보험, NH농협생명",
+      "summary": "사진=삼성화재  ◆삼성화재, 대형 법인보험대리점 KGA에셋과 소비자보호 업무협약 9000명 넘는 설계사가 활동하는 대형 GA와 건전한 영업 문화를 함께 만든다. 삼성화재는 최근 법인보험대리점(GA) KGA에셋과...",
+      "source": "bizwnews.com",
+      "date": "2026-07-12",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=140455",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "[N2 포커스] 1200%룰 확대 첫 달…전속 설계사 반등 속 GA 대형사 쏠림 ...",
+      "summary": "법인보험대리점(GA) 소속 설계사에 대한 판매수수료 상한 규제 '1200%룰'이 이달부터 시행되면서 보험업계 설계사 지형에 변화가 감지되고 있다. 전속 설계사는 올해 들어 넉 달째 몸집을 키운 반면, GA 업계에서는...",
+      "source": "뉴스투데이",
+      "date": "2026-07-12",
+      "url": "https://www.news2day.co.kr/article/20260712500045",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "푸본현대생명, 채용전환형 인턴 모집…3개월 본사 근무",
+      "summary": "모집 부문은 ▲법인보험대리점(GA)영업 ▲법인영업 ▲영업기획 ▲영업교육 ▲인사(HR) 등 총 5개 부문이다. 지원 자격은 국내 취업 및 해외 출장에 결격사유가 없는 자로, 9월부터 11월까지 3개월간 본사에서 근무가...",
+      "source": "FETV",
+      "date": "2026-07-12",
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=306269",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "日 보험대리점업계 \"수수료 제도 개선해야\"… 초당파 의원들도 지원 나...",
+      "summary": "일본의 보험대리점은 한국의 법인보험대리점(GA)과 유사한 형태로, 여러 보험사의 상품을 판매하는 독립 판매채널 역할을 한다. 참석자들은 보험사별로 다른 수수료 포인트 기준이 고객 맞춤형 상품 비교·추천을 어렵게...",
+      "source": "한국보험신문",
+      "date": "2026-07-12",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91723",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "보험금 노리는 '제3자 리스크'… 당국, 요양병원 페이백 정조준",
+      "summary": "금융감독원(이하 금감원)이 보험상품에 내재한 '제3자 리스크'와 요양병원 페이백 행태, 법인보험대리점(GA)... ■ GA 부당승환·방카 불완전판매도 도마 민생침해 측면에서는 GA의 데이터베이스(DB)영업이 도마에 올랐다....",
+      "source": "한국보험신문",
+      "date": "2026-07-12",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91720",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "성균관대 골프매니지먼트 트랙, 골프를 넘어 산업의 미래를 키우다",
+      "summary": "성균관대학교 스포츠과학대학과 ㈜GA코리아의 산학협력을 기반으로 KOREA CC와 GOLD CC에서 진행되는 필드 수업은 단순한 실기교육이 아니다. 학생들은 실제 골프장 운영과 서비스를 체험하며 현장에서 발생하는 문제를 직접...",
+      "source": "geconomy.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.geconomy.co.kr/news/article.html?no=321685",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "최윤 OK금융 회장, 예별손보 인수 '승부수'…종합금융그룹 속도",
+      "summary": "보험업 수익의 핵심인 장기보장성보험 판매를 확대하려면 전속 설계사와 법인보험대리점(GA) 채널 경쟁력을 다시 확보해야 한다. 그러나 MG손보 사태를 거치며 영업조직이 크게 약화된 상태여서 단기간 내 경쟁력을...",
+      "source": "아시아투데이",
+      "date": "2026-07-12",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260710010003996",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "예별손보 놓친 태광, KDB생명 인수에 올인…생보 중형사 도약 기대",
+      "summary": "전속 설계사 및 보험대리점(GA) 의존도가 높았던 흥국생명과 달리, KDB생명은 산업은행 계열사 시절부터 쌓아온 '방카슈랑스' 네트워크를 보유하고 있다. 인수 성사 시 흥국생명은 방카슈랑스 영업망을 흡수할 수 있을...",
+      "source": "아시아투데이",
+      "date": "2026-07-12",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260712010004331",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "2450만명이 모두 보험 고객일까…삼쩜삼 GA, ‘환급 DB’ 전환력 시험대",
+      "summary": "세금 환급 플랫폼 삼쩜삼이 2450만명에 달하는 누적 가입자를 기반으로 법인보험대리점(GA) 시장에 진출한다.... 업계에서는 플랫폼 GA의 경쟁력이 단순한 DB 규모보다 상담 동의율과 계약 전환율, 유지율에서 판가름 날...",
+      "source": "브릿지경제",
+      "date": "2026-07-12",
+      "url": "https://www.viva100.com/article/20260710500807",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "보험업계, TC 영업조직 키운다…데이터 기반 영업 '군불'",
+      "summary": "보험사뿐 아니라 보험대리점(GA)업계서도 DB 기반 영업이 확대되고 있다. 최근에는 삼쩜삼 운영사 자비스앤빌런즈가 GA 등록을 마무리하면서 보험업 진출을 타진하고 있다. 업계는 2400만명 이상 고객DB를 보유한...",
+      "source": "전자신문",
+      "date": "2026-07-12",
+      "url": "https://www.etnews.com/20260710000136",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "[보험브리핑]NH농협생명·푸본현대생명·ABL생명",
+      "summary": "이번 인턴십 모집분야는 GA(보험대리점)영업, 법인영업, 영업기획, 영업교육, HR 총 5개 부분이다. 지원자격은 국내 취업 및 해외 출장에 결격사유가 없고, 9월부터 11월까지 3개월간 푸본현대생명 본사에서 근무가...",
+      "source": "metroseoul.co.kr",
+      "date": "2026-07-12",
+      "url": "http://www.metroseoul.co.kr/article/20260712500174",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "메트라이프, MDRT 앞세워 차별화…전속채널 경쟁력 높인다",
+      "summary": "최근 보험사들이 GA(법인보험대리점) 의존도를 높이는 가운데 회사는 전속 설계사 경쟁력 강화에 무게를 두며 차별화 전략을 이어가고 있다. 12일 메트라이프에 따르면 최근 2026 메트라이프 MDRT 데이를 개최했다....",
+      "source": "bloter.net",
+      "date": "2026-07-12",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=667867",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "\"완전판매·고객보호 다 잡는다\" 삼성화재, KGA에셋과 전격 MOU… GA 혁신...",
+      "summary": "GA)의 영향력이 급격히 확대됨에 따라 무리한 스카우트 경쟁과 불완전판매 등 부작용을 해소하고 시장 건전성을 확보해야 한다는 목소리가 그 어느 때보다 높아지고 있다. 이에 따라 대형 보험사와 독립 GA 간의 소모적인...",
+      "source": "스마트경제",
+      "date": "2026-07-12",
+      "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=126738",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "보험업 손익 사이클 바닥 지나나…손보 중심 반등 기대",
+      "summary": "이달부터 초년도 선지급 수수료를 월납보험료의 1200%로 제한하는 제도가 법인보험대리점(GA) 채널로 확대 적용됐지만 시책 경쟁이 완전히 사라진 것은 아니라는 지적이 제기되고 있어서다. 과도한 신계약비 지출은...",
+      "source": "view.asiae.co.kr",
+      "date": "2026-07-12",
+      "url": "https://view.asiae.co.kr/article/2026071015263895433",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "보람그룹, 5년 연속 '사회공헌기업대상' ESG부문 대상 수상",
+      "summary": "보람그룹이 상조업의 뿌리인 '상부상조' 문화를 현대적인 ESG(환경·사회·지배구조) 가치로 발전시킨 성과를... 보람그룹 관계자는 보람그룹 관계자는 \"이제 상조업계는 고객의 일상과 삶의 질을 함께 돌보는 라이프케어...",
+      "source": "잡포스트",
+      "date": "2026-07-12",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=220791",
+      "matchedKeyword": "상조업"
+    },
+    {
+      "title": "신세계百, 상반기 외국인 매출 5800억…올해 1조 간다",
+      "summary": "신세계백화점이 운영 중인 외국인 전용 멤버십 프로그램 역시 120여개국의 30만명 이상 가입자 수를 기록 중이다. 관광 명소와 K컬처 품은 랜드마크 전략 통했다 점포별로는 관광 수요와 입지 경쟁력이 실적을...",
+      "source": "view.asiae.co.kr",
+      "date": "2026-07-12",
+      "url": "https://view.asiae.co.kr/article/2026071308113442144",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "SK텔레콤, 여름 휴가철 로밍·멤버십 프로모션 운영",
+      "summary": "SK텔레콤이 여름 휴가철을 맞아 해외여행객을 위한 로밍 할인과 국내 여행객을 위한 T멤버십 프로모션을... T멤버십의 '클럽 T로밍' 이용 고객에게는 데이터 1GB 추가 제공과 귀국 후 사용할 수 있는 제휴 할인 혜택도...",
+      "source": "ngonews.kr",
+      "date": "2026-07-12",
+      "url": "https://www.ngonews.kr/news/articleView.html?idxno=232755",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "SKT, 여름휴가 맞아 ‘첫 로밍 70% 할인’…휴가철 멤버십 혜택 운영",
+      "summary": "T 멤버십 혜택을 운영한다고 13일 밝혔다. SKT는 해외여행객에게는 로밍 요금 할인과 데이터 확대 혜택을, 국내 여행객에게는 워터파크와 호텔 등 휴가 관련 멤버십 혜택을 제공한다. 먼저 해외여행을 준비하는...",
+      "source": "헤럴드경제",
+      "date": "2026-07-12",
+      "url": "https://biz.heraldcorp.com/article/10806363?ref=naver",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "SSF샵, 여름 맞이 '썊핑데이' 개최...최대 15% 할인·10만 코인 페이백 제...",
+      "summary": "업계에서는 고물가 기조가 이어지는 가운데 패션업체들이 할인 행사와 라이브 커머스, 멤버십 혜택 등을 강화하며 온라인 고객 확보 경쟁에 나서고 있는 것으로 보고 있다. 특히 여름은 휴가와 계절 교체 수요가 맞물려...",
+      "source": "popcornnews.net",
+      "date": "2026-07-12",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=126351",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "롯데호텔·리조트 홈페이지 통합…객실 최대 20% 할인",
+      "summary": "이번 개편은 호텔 공식 홈페이지에서 호텔과 리조트 서비스를 모두 이용할 수 있는 단일 채널을 구축하고, 롯데호텔 리워즈 회원 약 380만명과 리조트 통합멤버십 회원 약 90만명을 하나의 회원 서비스로 연결해 약 470만...",
+      "source": "view.asiae.co.kr",
+      "date": "2026-07-12",
+      "url": "https://view.asiae.co.kr/article/2026071308381494560",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "신세계백화점, 외국인 매출 5800억원 '역대 최대'…연간 1조원 청신호",
+      "summary": "외국인 전용 멤버십 가입자도 120여 개국, 30만명을 넘어섰다. 신세계백화점은 가입자 데이터를 활용한 맞춤형 마케팅과 쇼핑 할인, 사은 혜택 등을 통해 재방문 고객을 확대하고 있다. 주요 점포의 관광·문화 콘텐츠를...",
+      "source": "매일일보",
+      "date": "2026-07-12",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1390670",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "외국인 몰리더니…신세계百, 상반기 매출 5800억 '사상 최대'",
+      "summary": "신세계백화점이 운영하는 외국인 전용 멤버십 프로그램도 현재 120여개국, 30만명 이상의 회원을 확보하고 있다. 신세계백화점은 핵심 점포들이 관광·쇼핑·문화 콘텐츠를 결합한 '랜드마크 전략'을 앞세워 외국인...",
+      "source": "hankyung.com",
+      "date": "2026-07-12",
+      "url": "https://www.hankyung.com/article/202607130579g",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "신세계백화점, 상반기 외국인 매출 5800억 '역대 최대'…K-쇼핑 랜드마크...",
+      "summary": "외국인 전용 멤버십 프로그램은 현재 120여 개국에서 30만명 이상의 가입자를 확보하며 해외 고객 관리와 재방문 확대를 위한 기반으로 자리 잡았다. 명동 본점은 K-팝과 럭셔리 브랜드를 결합한 대표 관광 명소로...",
+      "source": "joongangenews.com",
+      "date": "2026-07-12",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=532256",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "[슈가한의 푸드비즈 트렌드] 넷플릭스처럼 월회비 받는 레스토랑, 외식...",
+      "summary": "물론 멤버십 자체가 새로운 개념은 아니다. 예전 필자가 인터컨티넨탈 호텔에서 근무할 때도 제가 근무하는... 외식업계가 다시 멤버십에 주목하는 이유도 여기에 있다. 식당은 좌석을 파는 것이 아니라 팬을 만든다 미국...",
+      "source": "queen.co.kr",
+      "date": "2026-07-12",
+      "url": "http://www.queen.co.kr/news/articleView.html?idxno=459757",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "신세계百 올 상반기 외국인 매출 급증…5800억원 '역대 최대'",
+      "summary": "신세계백화점이 운영 중인 외국인 전용 멤버십 프로그램 역시 가입자 수가 30만명을 넘어섰습니다. 박주형 ㈜신세계 대표이사 사장은 \"신세계백화점은 K-쇼핑과 K-미식, K-콘텐츠를 한 곳에서 경험할 수 있는...",
+      "source": "biz.sbs.co.kr",
+      "date": "2026-07-12",
+      "url": "https://biz.sbs.co.kr/article_hub/20000322042?division=NAVER",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "[진단] 쿠팡 독주에 판 흔드는 네이버… 11번가·G마켓 '역직구'로 역전...",
+      "summary": "네이버플러스 멤버십 회원을 타깃으로 한 베타 서비스는 출시 2달 만에 누적 사용자 400만 명을 돌파하며 안착 가능성을 보여줬다. 사용자 반응도 즉각적이다. AI탭 안에서 상품과 장소 카드를 누르는 클릭률(CTR)은 20...",
+      "source": "economytalk.kr",
+      "date": "2026-07-12",
+      "url": "http://www.economytalk.kr/news/articleView.html?idxno=422618",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "\"핵심 통신서비스도 AI로 탈바꿈\"…SKT가 내건 자신감",
+      "summary": "SK텔레콤은 향후 영업전산, 회선관리, 과금시스템 등 모든 통합시스템을 AI 중심으로 구축해 초(超)개인화된 고객 요구를 즉각적으로 반영한 요금제와 멤버십 등을 설계·제공할 방침이다. 특히 모든 시스템에 걸쳐...",
+      "source": "뉴스1",
+      "date": "2026-07-12",
+      "url": "https://www.news1.kr/it-science/cc-newmedia/6224351",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "투자 늘리는 네이버, 몸집 줄이는 카카오...엇갈린 전략",
+      "summary": "당장 AI 서비스를 위한 AI 칩(GPU 등) 구매 비용과 네이버 멤버십 무료 배송 등으로 인한 커머스 비용, 400억원으로 추정되는 월드컵 중계권료 등이 반영된 것으로 분석된다. 대신 투자 효과는 이용자 지표에서 뚜렷이...",
+      "source": "chosun.com",
+      "date": "2026-07-12",
+      "url": "https://www.chosun.com/economy/tech_it/2026/07/13/G65QTROHGZD7NC4VYK3BC67QRE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "신세계百 상반기 외국인 매출 5천억 돌파, 사상 첫 연간 1조 기대 '글로...",
+      "summary": "이에 백화점이 운영 중인 외국인 전용 멤버십 프로그램 역시 120여 개국의 30만명 이상 가입자수를 기록 중이다. 신세계백화점 대표 점포들이 관광 · 쇼핑 · 문화 콘텐츠를 결합한 랜드마크 전략을 앞세워 외국인 고객...",
+      "source": "kdfnews.com",
+      "date": "2026-07-12",
+      "url": "http://www.kdfnews.com/news/articleView.html?idxno=185094",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "\"글로벌 쇼핑 랜드마크로\" 신세계百, 상반기 외국인 매출 5천억 돌파",
+      "summary": "신세계백화점이 운영 중인 외국인 전용 멤버십 프로그램 역시 120여 개국의 30만명 이상 가입자수를 기록 중이다. 쇼핑 할인과 사은 혜택, 편의 서비스를 강화해 고객 만족도를 높이는 동시에 데이터 기반 맞춤형...",
+      "source": "newsis.com",
+      "date": "2026-07-12",
+      "url": "https://www.newsis.com/view/NISX20260712_0003705816",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "신세계百, 사상 첫 외국인 연매출 ‘1조 클럽’ 청신호 켜졌다",
+      "summary": "신세계백화점은 외국인 고객 전용 멤버십도 확대하고 있다. 현재 120여 개국 30만명 이상이 가입했으며 쇼핑 할인과 사은 혜택, 편의 서비스를 제공하고 있다. 데이터 기반 맞춤형 마케팅을 통해 재방문율도 높이고...",
+      "source": "이투데이",
+      "date": "2026-07-12",
+      "url": "https://www.etoday.co.kr/news/view/2602806",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "신세계百, 상반기 외국인 매출 5천800억 원…전년비 120% 증가",
+      "summary": "신세계백화점이 운영 중인 외국인 전용 멤버십 프로그램 역시 가입자 수가 30만명을 넘어섰다. 명품 브랜드 경쟁력과 K-컬처 콘텐츠 등이 외국인 매출 신장의 배경이 됐다. 본점은 외국인 관광객이 가장 많이 찾는 명동...",
+      "source": "yna.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.yna.co.kr/view/AKR20260712044600030?input=1195m",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "\"리모델링 최대 1000만원↓\"…현대홈, '리바트 집테리어' 상담 방송 연다",
+      "summary": "방송을 통해 계약한 고객에게 계약 금액에 따라 최대 1000만원의 할인 혜택을 제공하고, 실측 상담 고객에게는 현대백화점그룹 통합 멤버십인 H포인트도 지급한다. 현대홈쇼핑은 13일 오후 6시 30분 TV라이브 방송을 통해...",
+      "source": "apnews.kr",
+      "date": "2026-07-12",
+      "url": "https://www.apnews.kr/news/articleView.html?idxno=3049717",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "[창간 34주년 특집] 인바운드 재조명③수익 방식 재편 | 같은 인바운드...",
+      "summary": "신세계에 따르면 캐세이, 메리어트 본보이 등 글로벌 멤버십 회원의 매장 사용 금액은 일반 개별 관광객 대비 약 2배 이상 높다. 이에 따라 신세계면세점은 K-푸드 큐레이션 공간을 열고, 글로벌 여행 멤버십과 제휴해...",
+      "source": "여행신문",
+      "date": "2026-07-12",
+      "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500056",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "\"태안에서 샷하고 구마모토에서 온천욕\"… 국경 허문 '하이브리드 회원...",
+      "summary": "과거 회원권이 특정 지역의 잔디를 밟기 위한 '입장권'에 불과했다면, 이제는 골퍼의 라이프스타일 전반을 아우르는 '자산형 하이브리드 멤버십'으로 진화하고 있다. 엔저로 일본 골프 여행 수요가 늘어난 가운데, 국내...",
+      "source": "fnnews.com",
+      "date": "2026-07-12",
+      "url": "http://www.fnnews.com/news/202607121835196163",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "‘집토끼’ 꽉 잡아라…이커머스 멤버십 더 큰 혜택",
+      "summary": "- 오프라인, 체험 앞세워 방문 유도 이(e)커머스업계가 신규 회원 유치보다 기존 멤버십 회원의 구매 빈도와... 12일 유통업계에 따르면 SSG닷컴은 지난 7일 유료 멤버십 ‘쓱7클럽’ 회원에게 결제액의 14%를 SSG머니로...",
+      "source": "kookje.co.kr",
+      "date": "2026-07-12",
+      "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260713.22012003434",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "백화점에 PB센터 유치 \"VIP고객 잡는다\"",
+      "summary": "VIP 멤버십인 에비뉴엘 고객이 SC제일은행의 자산 관리·금융 컨설팅을 받을 수 있도록 하는 게 주요... 현대는 최상위 등급인 '쟈스민 시그니처'를 신설했으며, 신세계는 최상위 VIP 전용 멤버십 '더 싱커스 테이블'을...",
+      "source": "매일경제",
+      "date": "2026-07-12",
+      "url": "https://www.mk.co.kr/article/12096561",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "네카오 2분기 호실적 전망…시장 시선은 AI 수익화로",
+      "summary": "쇼핑 경험을 개선해 네이버플러스 스토어와 멤버십 이용을 늘리고 거래액 확대까지 연결하려는 전략으로 풀이된다. 카카오는 카카오톡을 중심으로 한 플랫폼 생태계에 AI를 결합하는 데 집중하고 있다. 현재도 톡비즈...",
+      "source": "아주경제",
+      "date": "2026-07-12",
+      "url": "https://www.ajunews.com/view/20260712142424446",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "행운의 7 혜택…SSG닷컴, ‘쓱7클럽 위크’ 진행",
+      "summary": "SSG닷컴은 초복을 앞두고 오는 15일까지 멤버십 장보기 행사 ‘쓱7클럽 위크’를 진행한다. 이번... 먹거리를 특가에 준비했다”며 “계절 수요를 반영한 멤버십 전용 특가 상품을 지속 선보일 계획”이라고 말했다.",
+      "source": "sportsseoul.com",
+      "date": "2026-07-12",
+      "url": "https://www.sportsseoul.com/news/read/1622037?ref=naver",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "코나투스 ‘투루택시’ 가맹 1만대 돌파",
+      "summary": "모빌리티 플랫폼 기업 코나투스의 가맹 택시 브랜드 ‘투루택시’가 가맹 차량 1만대를 돌파했다.... 코나투스는 2018년 국내 최초 인공지능(AI) 기반 택시 동승 서비스 ‘반반택시’를 출시하며 모빌리티 시장에...",
+      "source": "이데일리",
+      "date": "2026-07-12",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02341926645514192",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "“제로 트러스트는 클라우드·AI 시대 기업 보안의 출발점이다”",
+      "summary": "고도화된 디지털 경제, 글로벌 경쟁력을 갖춘 기업, 클라우드·모빌리티·AI 기반 전환에 대한 강한 추진력을 동시에 갖추고 있다. 한국 기업들은 IT와 보안 아키텍처 현대화를 빠르게 추진하고 있다. 동시에 사이버 위험...",
+      "source": "전자신문",
+      "date": "2026-07-12",
+      "url": "https://www.etnews.com/20260710000017",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "제네시스 스코티시 오픈 흥행…김주형 역사 썼다",
+      "summary": "제네시스는 글로벌 골프 대회를 통해 프리미엄 브랜드 가치를 지속적으로 확대하는 동시에 모터스포츠와 미래 모빌리티를 연결하는 차별화된 경험을 선보이며 글로벌 럭셔리 브랜드로서의 입지를 더욱 강화해...",
+      "source": "pointdaily.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311567",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "신상진 \"성남 교통혁신 세계와 연결\"…'2027 EST 포럼' 국제 공조 본격화",
+      "summary": "이 자리에서 성남시의 사람 중심 스마트도시 정책과 미래 모빌리티 전략을 소개했으며, 유엔경제사회국(UN... 참석해 탄소중립 실현과 사람 중심의 지속가능 교통정책, 미래 모빌리티 발전 방안을 공유하는 국제회의다.",
+      "source": "bzeronews.com",
+      "date": "2026-07-12",
+      "url": "https://www.bzeronews.com/news/articleView.html?idxno=819968",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "다쏘시스템, '제16회 아크루티 혁신 경진대회' 개최",
+      "summary": "'아크루티 2026–2027'은 변화하는 글로벌 우선 과제를 반영해 ▲로보틱스 ▲지역사회 문제 해결 ▲헬스케어 혁신 ▲모빌리티 등 4대 핵심 주제를 중심으로 진행된다. 참가 학생들은 디자인 사고와 엔지니어링...",
+      "source": "ikld.kr",
+      "date": "2026-07-12",
+      "url": "http://www.ikld.kr/news/articleView.html?idxno=337455",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "우버, 여의도 한강수영장에 라운지 \"외국인 관광객 이동경험까지 잡는다...",
+      "summary": "글로벌 모빌리티 플랫폼 우버는 여의도 한강수영장에서 '우버 라운지'와 '우버 택시 승하차 구역' 운영을 시작했다고 13일 밝혔다. 서울시 미래한강본부 문화관광과가 진행하는 한강페스티벌의 민간협력사로 참여해 약 두...",
+      "source": "econovill.com",
+      "date": "2026-07-12",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=744984",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "모티브링크, 전기차 충전 고주파 자성소재 기술 개발",
+      "summary": "친환경 모빌리티 부품 전문 기업 모티브링크는 차세대 800V급 고전압 전기차 시스템에 대응할 수 있는 '고주파... 친환경 모빌리티 충천시스템의 핵심 소재기술을 확보하게 됐다고 설명했다. 모티브링크는 이번에 확보한...",
+      "source": "newsis.com",
+      "date": "2026-07-12",
+      "url": "https://www.newsis.com/view/NISX20260713_0003706113",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "김주형, 제네시스 스코티시 오픈 정상…제네시스 글로벌 골프 마케팅 존...",
+      "summary": "제네시스는 이번 대회를 통해 스포츠 후원을 넘어 브랜드 경험 확대와 미래 모빌리티 기술 홍보에 나섰다.... 다양한 모빌리티 영역으로 브랜드 확장을 시도하고 있다는 점을 보여준다. 제네시스는 최근 글로벌 럭셔리...",
+      "source": "press9.kr",
+      "date": "2026-07-12",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=79295",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "[경남 브리핑 모음(7월13일)] 진주시, ‘월아산 숲속의 진주’, 연간 방...",
+      "summary": "특히, 시는 이번 보고회에서 지역 강점인 ‘사통팔달 교통망’을 활용한 물류·미래 모빌리티 인프라 확충과 나노·수소·첨단 스마트농업 육성 등 지역 강점을 극대화할 맞춤형 성장 전략을 비중 있게 다뤘다. 아울러...",
+      "source": "dnews.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607121204516430812",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "원주시, 산자부 '산업혁신기반 구축사업' 공모 선정…100억 투입",
+      "summary": "특히 의료기기와 자동차부품 중심의 지원체계를 반도체, 미래모빌리티, 첨단바이오, AI 등 미래 전략산업으로 확대해 기업의 기술개발과 시제품 제작, 공정 개선, 성능 분석 등을 원스톱으로 지원한다. 2015년 설립된...",
+      "source": "enewstoday.co.kr",
+      "date": "2026-07-12",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447918",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "오토노머스에이투지, 싱가포르서 'L4 로보셔틀' 공개",
+      "summary": "기반 모빌리티 솔루션이다. 향후 NCS 임직원 대상 자율주행 셔틀 운행을 앞두고 있다. 더불어 현장에서는... AI 모빌리티 서비스를 선도하겠다”고 말했다. 한편 에이투지는 올해 누적 자율주행 거리 100만㎞를...",
+      "source": "아주경제",
+      "date": "2026-07-12",
+      "url": "https://www.ajunews.com/view/20260713083617914",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "경북TP, 수요특화 모듈형 LSV 글로벌 혁신 규제자유특구로 최종 지정",
+      "summary": "저속 모빌리티다. 특히 경상북도가 추진하는 '수요특화 모듈형 LSV'는 표준화된 하나의 기본 공용 플랫폼에... 하인성 경북TP 원장은 “이번 수요특화 모듈형 LSV 글로벌 혁신 규제자유특구 지정은 경북이 미래 모빌리티...",
+      "source": "전자신문",
+      "date": "2026-07-12",
+      "url": "https://www.etnews.com/20260713000010",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "에이투지, 싱가포르서 레벨4 로보셔틀 'ROii' 공개…한·싱 원격주행 시...",
+      "summary": "ROii는 운전석이 없는 차량에 자율주행 기술과 운영 시스템을 결합한 피지컬 AI 기반 모빌리티... 운영 역량을 바탕으로 싱가포르를 비롯한 글로벌 시장에서 피지컬 AI 모빌리티 서비스를 선도해 나가겠다”고 말했다.",
+      "source": "이데일리",
+      "date": "2026-07-12",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02233686645514192",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "에이투지 로이 원격주행 싱가포르서 첫 시연, 화성과 실시간 연결",
+      "summary": "운전석 없는 차체와 자율주행 소프트웨어, 운영 시스템을 하나로 묶은 피지컬 AI 기반 모빌리티 솔루션으로... 이어 싱가포르를 포함한 세계 시장에서 피지컬 AI 모빌리티 서비스를 이끌어가겠다는 포부도 덧붙였다....",
+      "source": "econovill.com",
+      "date": "2026-07-12",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=744971",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "'석화 위기' 서산 대산공단, 첨단소재로 'AX 체질개선' 나선다",
+      "summary": "범용 석유화학 제품 중심의 기존 산업 구조를 탈피해 반도체, 이차전지, 미래 모빌리티의 핵심인 고기능성 특수고분자 산업을 집중 육성하겠다는 구상이다. 충남도는 산업통상자원부가 주관하는 '고기능성 특수고분자...",
+      "source": "shinailbo.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040043",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "원주시, 산업혁신기반 구축사업 선정… AI 기반 제조혁신 거점 구축",
+      "summary": "국비 70억원 포함 총사업비 100억원 투입… 첨단 제조 인프라 고도화 반도체·미래모빌리티·첨단바이오까지... 특히 기존 의료기기와 자동차부품 중심의 지원체계를 반도체와 미래모빌리티, 첨단바이오, 인공지능(AI) 등...",
+      "source": "전자신문",
+      "date": "2026-07-12",
+      "url": "https://www.etnews.com/20260713000006",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "성남시, 유엔과 EST 포럼 성공 개최 협력 강화",
+      "summary": "신상진 시장은 \"2027년 EST 포럼은 지속가능한 교통과 미래 모빌리티 정책을 공유하는 국제협력의 장이 될... 아울러 대표단은 7일 유엔 고위급 정치포럼(HLPF) 공식 부대행사에서 사람 중심 스마트도시와 미래 모빌리티...",
+      "source": "enewstoday.co.kr",
+      "date": "2026-07-12",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447911",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "신상진 성남시장, 유엔·뉴욕 주요 기관과 협력 강화.. ‘2027 아시아 ES...",
+      "summary": "신 시장은 “2027년 EST 포럼을 지속가능한 교통과 미래 모빌리티 정책을 공유하는 국제협력의 장으로... 또한 유엔 고위급 정치포럼 공식 부대행사에서는 성남시의 사람 중심 스마트도시와 미래 모빌리티 정책을...",
+      "source": "sports.donga.com",
+      "date": "2026-07-12",
+      "url": "https://sports.donga.com/region/article/all/20260713/134284976/1",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "원콜, 위베어소프트 에이피넥스 기반 오픈 API 플랫폼 구축",
+      "summary": "장영휘 위베어소프트 대표는 \"실시간·대량 데이터 처리가 필수인 화물 운송 서비스에서 APINEX가 채택된 것은 제품 성능과 신뢰성을 입증한 사례\"라며 \"앞으로도 물류·모빌리티를 비롯해 데이터 연동 수요가 큰...",
+      "source": "cstimes.com",
+      "date": "2026-07-12",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=713144",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "오일머니, 세계 리튬 광산 접수 나선다",
+      "summary": "미래 모빌리티 시장의 핵심 원료인 리튬은 배터리 제조의 필수재이자 청정에너지 전환 레이스의 핵심 광물로 꼽힌다. 사우디는 중간 유통단계의 병목 현상을 피하기 위해 광산의 원자재 지분을 직접 매입하는 전략을...",
+      "source": "choicenews.co.kr",
+      "date": "2026-07-12",
+      "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=168026",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "키움운용, 현대차그룹 핵심 3사 담은 채권혼합 ETF 14일 상장",
+      "summary": "기아는 상용 전기차 목적기반모빌리티(PBV)에 물류로봇 팔을 장착하는 계획을 공개했고, 현대모비스는 로봇의 관절과 근육 역할을 하는 액추에이터를 공급할 예정인 것으로 알려졌다. 현대차와 기아, 현대모비스는...",
+      "source": "이데일리",
+      "date": "2026-07-12",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02063126645514192",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "'통하는 충남 준비위' 15일 도민 보고대회…세부 도정 과제 공개",
+      "summary": "인수위원회는 오는 15일 홍성 카이스트 모빌리티 연구소에서 도민 보고대회를 열고, 인공지능 수도 충남과 초광역 메가시티 조성 등 핵심 도정 목표와 전략을 발표할 예정입니다. 이와 함께 박 지사의 1호 결재인 '충효예...",
+      "source": "tjmbc.co.kr",
+      "date": "2026-07-12",
+      "url": "https://tjmbc.co.kr/NewsArticle/850591",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "신상진, 뉴욕서 국제협력 다졌다…2027 EST포럼 성공 개최 시동",
+      "summary": "신 시장은 이 자리에서 \"2027년 EST 포럼은 지속가능한 교통과 미래 모빌리티 정책을 공유하는 국제협력의... 앞서 7일 열린 유엔 고위급 정치포럼 공식 부대행사에서는 성남시의 사람 중심 스마트도시와 미래 모빌리티...",
+      "source": "view.asiae.co.kr",
+      "date": "2026-07-12",
+      "url": "https://view.asiae.co.kr/article/2026071308033095831",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "현대건설, 디에이치 방배 공개…'H 컬처클럽' 첫 적용",
+      "summary": "직접 재배한 채소를 활용할 수 있는 'H 클린팜', 수면 관리 솔루션 '헤이슬립', 맞춤형 운동 플랫폼 'H 헬시플레저', AI 학습관리 시스템 'H 스마트스터디', 이동형 로봇 '나노모빌리티' 등이 있다. 단지에는 강남 최대 규모의...",
+      "source": "sentv.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.sentv.co.kr/article/view/sentv202607130002",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "[TECH한주] 삼성 파운드리의 질주와 맞물린 국산 자율주행 칩의 독립, '...",
+      "summary": "글로벌 반도체 시장의 시선이 삼성의 첨단 미세 공정으로 쏠리는 가운데, 국내 모빌리티 반도체 생태계에서... 삼성 첨단 공정 인프라로 완성한 자율주행용 칩의 진입장벽 텔레칩스가 미래 모빌리티의 핵심 기업으로...",
+      "source": "테크월드",
+      "date": "2026-07-12",
+      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=404176",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "호반그룹의 한진칼 지분집착 진짜 인수 신호탄일까?",
+      "summary": "또한 4.9%를 보유한 '대신 코어그로쓰 일반사모투자신탁'의 출자자인 SK에너지, 현대차, 기아, 효성, 삼구아이앤씨 등도 지분을 당분간 환매하지 않고 장기 유지하기로 뜻을 모았다. 이들 사모펀드는 2022년 8월 경영권...",
+      "source": "ilemonde.com",
+      "date": "2026-07-12",
+      "url": "https://www.ilemonde.com/news/articleView.html?idxno=30331",
+      "matchedKeyword": "삼구아이앤씨"
+    },
+    {
+      "title": "다양한 정보가 필요한 중장년에게 유용한 뉴스레터 [신철호의 실전 인생...",
+      "summary": "롱라이프랩은 국내외 시니어 비즈니스 사례와 고령사회 정책, 연구, 에이지테크와 실버산업의 흐름을 다루는 채널이다. 공식 홈페이지에서는 초고령사회와 관련된 비즈니스 기회를 분석해 매주 전한다고 소개한다....",
+      "source": "매일경제",
+      "date": "2026-07-12",
+      "url": "https://www.mk.co.kr/article/12096382",
+      "matchedKeyword": "실버산업"
+    },
+    {
+      "title": "[챗ICT]테마파크에 요양원까지…이종사업 눈독 들이는 게임사",
+      "summary": "가장 최근에 진출한 분야는 실버 산업입니다. 지난해 신규 자회사 '보듬재활요양원'을 설립하고 재활·요양 서비스 시설을 운영하고 있습니다. 고령화 사회에 접어들면서 미래 성장성이 높다고 평가받는 실버 사업에...",
+      "source": "비즈워치",
+      "date": "2026-07-12",
+      "url": "https://news.bizwatch.co.kr/article/mobile/2026/07/10/0030",
+      "matchedKeyword": "실버산업"
+    },
+    {
+      "title": "[Tech & Now] SK쉴더스, 프로스트 앤드 설리번 '아태 고객 가치 리더십' ...",
+      "summary": "특히 AI 사이버보안 관제 플랫폼 '시큐디움(Secudium)'을 기반으로 한 대규모 관제 역량과 하이브리드 IT 환경에서의 보안 대응 지원을 높게 평가했다. 이와 함께 관리형 보안 서비스(MSS), 관리형 탐지·대응(MDR), 침해사고...",
+      "source": "ebn.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1716052",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "SK쉴더스, '아태 고객 가치 리더십' 사이버보안 우수 기업 선정",
+      "summary": "AI 사이버보안 관제 플랫폼인 '시큐디움(Secudium)'을 중심으로 한 운영 역량을 주요 강점으로 평가했다. 시큐디움은 하루 수십억 건의 보안 로그를 처리하는 대규모 관제 역량을 바탕으로 엔터프라이즈급 위협 탐지...",
+      "source": "cstimes.com",
+      "date": "2026-07-12",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=713158",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "[기고] 예방과 감시 사이의 합의",
+      "summary": "챗GPT와 오픈AI 일러스트 이미지 [사진=로이터 뉴스핌] 문제는 같은 관제 플랫폼이 다른 목적에도 열려 있다는 점이다. 지난해 비상계엄 사태 수사 과정에서, 군이 지자체 스마트도시 통합플랫폼으로 전국 CCTV 영상을...",
+      "source": "newspim.com",
+      "date": "2026-07-12",
+      "url": "https://www.newspim.com/news/view/20260713000069",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "[더벨][SK쉴더스 민기식호 출범 1년] 매출과 반대로 움직인 수익성, 통제...",
+      "summary": "물리보안 영역에서는 지능형 AI CCTV를 확대하고 사이버보안 분야에서는 AI 기반 보안 관제 플랫폼을 고도화해 부가가치를 높이겠다는 전략이다. AI 기술을 통해 현장 인력 의존도를 줄이고 영업비용 부담을...",
+      "source": "더벨",
+      "date": "2026-07-12",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607081633471160101741",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "\"밭·공장 자율주행으로 잇는다\"…대동그룹 '농업 피지컬 AI' 속도",
+      "summary": "있는 관제 플랫폼을 개발하고 있다\"고 설명했다. 운반로봇 경우 적재 중량은 300㎏ 수준으로 과수 농가 종일 작업에도 배터리가 부족하지 않도록 설계됐다. 지난해 농촌진흥청 '신기술 농업기계' 지정을 받았다. 예초...",
+      "source": "뉴스1",
+      "date": "2026-07-12",
+      "url": "https://www.news1.kr/industry/sb-founded/6222865",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "“송도는 포화, 영종은 기회”…인천 투자지도가 바뀌고 있다",
+      "summary": "이 사업에는 AI 기반 CCTV와 스마트 횡단보도, 지능형 교통체계, 실시간 환경 모니터링, 스마트 쿨링미스트, 버스도착정보시스템(BIT), 통합관제 플랫폼 등 다양한 스마트 인프라가 도입된다. 이를 통해 교통·안전·환경...",
+      "source": "dailian.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.dailian.co.kr/news/view/1665569/?sc=Naver",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "현대차그룹 노조 동시 파업 전선 확산…이번주 ‘하투’ 최대 고비",
+      "summary": "사측은 임금 6만5000원 인상과 성과금 200%+50만원, 선택형 복지포인트 연 70만원에서 80만원 인상, 4년 주기 선택형 종합검진, 장기근속 포상 방식 변경, 난임지원비 신설 등을 제시했다. 그러나 노조는 금속노조 공통...",
+      "source": "헤럴드경제",
+      "date": "2026-07-11",
+      "url": "https://biz.heraldcorp.com/article/10805349?ref=naver",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "“노동·주거·자산 격차와 불공정·불평등 심화가 청년세대 불안의 본...",
+      "summary": "주거 분야에서는 청년이 실제로 이용할 수 있는 주거 정책을 확인·신청할 수 있도록 국토교통부의 마이홈 등 주거복지 플랫폼을 고도화하는 방안이 논의됐다. 이와 함께 전세 대출 이용자의 성실 상환 능력을 후속 금융...",
+      "source": "세계일보",
+      "date": "2026-07-11",
+      "url": "https://www.segye.com/newsView/20260710513590?OutUrl=naver",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "[패트롤] 경기도-동두천시-양주시-의정부시-포천시",
+      "summary": "신청은 경기도동물보호복지플랫폼(animal.gg.go.kr)에서 접수할 수 있다. 동두천=에너지경제신문 강근주기자 동두천시가 중앙정부 정책에 따라 24세 이하 청소년부모에게 자녀 1인당 월 25만원의 아동양육비를 지원한다....",
+      "source": "ekn.kr",
+      "date": "2026-07-11",
+      "url": "https://www.ekn.kr/web/view.php?key=20260711029471498",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "[VC’s Pick]“IP 기업의 AX 전환 돕는다”…워트, 시리즈B 투자 유치",
+      "summary": "금용 복지 플랫폼 운영사 ‘리프트 베트남’ AI 기반 급여 선지급 금융 복지 플랫폼 ‘리프트(LIFT)’를 운영하는 리프트 베트남(LIFT Vietnam)이 존스앤로켓 등으로부터 시드 투자를 유치했다. 회사는 연내 추가로 투자...",
+      "source": "이데일리",
+      "date": "2026-07-11",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01836806645513536",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "[금융] 신한EZ손보 무사고환급 / 삼성화재 GA소비자보호 / 농협 시니어금...",
+      "summary": "◼︎ 삼성화재, KGA에셋과 금융소비자 보호 강화 협약 삼성화재는 법인보험대리점(GA) KGA에셋과 '금융소비자 보호 강화를 위한 업무협약(MOU)'을 지난 6월 26일 체결했다고 11일 밝혔다. 2009년 설립된 KGA에셋은 2025년 기준...",
+      "source": "webeconomy.co.kr",
+      "date": "2026-07-11",
+      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2229693",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "[CEO&뉴스] '권혁웅·이경근 체제' 한화생명, 종합금융 구축 '성큼'",
+      "summary": "권 대표는 그룹 내에서 전략과 투자, 글로벌 사업을 총괄해 온 '전략통'으로, 이 대표는 보험영업과 법인보험대리점(GA) 자회사 경영을 이끈 '영업통'으로 각자의 전문성을 바탕으로 종합금융 체제 구축에 속도를 내고...",
+      "source": "seoulfn.com",
+      "date": "2026-07-11",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=633121",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "\"행정학, 광고학과 줄줄이 폐지\" 충격...AI·반도체에 올인[차이나는 중...",
+      "summary": "당장 인공지능은 500만명, 실버산업·헬스케어도 500만명, 스마트제조는 450만명, 크로스보더 전자상거래는 400만명의 인재가 필요하다. 네트워크 보안(327만명), 저고도 경제(100만명), 녹색경제(100만명), 반도체(30만명)도...",
+      "source": "머니투데이",
+      "date": "2026-07-11",
+      "url": "https://www.mt.co.kr/opinion/2026/07/12/2026070914134039352",
+      "matchedKeyword": "실버산업"
+    },
+    {
+      "title": "교육공무직노조 대전지부 \"복무·복지 차별 철폐\"…14일 총파업 예고",
+      "summary": "또한 대전지역 교육공무직의 맞춤형 복지비는 65만 원으로 전국 평균(71만3천 원)에도 못 미치는 최저 수준이며, 교육청 공무원의 복지포인트와도 큰 격차가 있다고 지적했다. 김호경 민주노총 대전지역본부 사무처장은...",
+      "source": "뉴스1",
+      "date": "2026-07-10",
+      "url": "https://www.news1.kr/local/daejeon-chungnam/6224510",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "[정책 인사이트] ‘지역화폐로 성과급 지급’ 법안 논란… ‘현금 지급...",
+      "summary": "대법원은 지난 2019년 기업의 복지포인트는 임금이 아니라고 판결하면서 근로기준법상 현금 지급 원칙을 근거로 들었다. “복지포인트를 임금으로 평가하는 것은 자칫 통화 지급 원칙의 근간을 흔들어 장차 사용자가 통화...",
+      "source": "조선비즈",
+      "date": "2026-07-10",
+      "url": "https://biz.chosun.com/policy/policy_sub/2026/07/10/TTPP3R4VFJCCFCZEAHKXTY4Y6I/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "빈집, 도시의 결핍 아닌 자산…한국공간복지협회 창립포럼 개최",
+      "summary": "공간복지 플랫폼 구축에 힘쓰겠다”고 말했다. 올해 창립한 한국공간복지협회는 공간 디자인과 콘텐츠, 기획, 컨설팅, 마케팅 등 다양한 분야 전문가들이 참여하는 단체로, 공간을 매개로 삶의 질 향상과 사회적 연결망...",
+      "source": "이투데이",
+      "date": "2026-07-10",
+      "url": "https://www.etoday.co.kr/news/view/2602629",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "박홍근 \"청년 과감히 투자할 골든타임\"",
+      "summary": "주거와 결혼 분야에서는 국토교통부의 주거복지 플랫폼 고도화, 전세 대출 성실 상환자와의 후속 금융 지원 연계, 아동기까지의 자산 형성 프로그램 확대 방안 등이 논의됐다. 박홍근 장관은 \"청년의 삶은 복합적이고...",
+      "source": "news.tvchosun.com",
+      "date": "2026-07-10",
+      "url": "https://news.tvchosun.com/site/data/html_dir/2026/07/10/2026071090283.html",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "'청년 정책' 드라이브…'일자리·주거' 묘안은 없어",
+      "summary": "주거 분야에서는 '마이홈' 등 주거복지 플랫폼을 고도화하고 전세대출 금융 지원을 확대하는 방안이 논의됐습니다. 이 밖에도 자산 형성과 결혼 지원 방안 등이 함께 다뤄졌습니다. 기획처는 이번 토론회에서 제시된...",
+      "source": "newstomato.com",
+      "date": "2026-07-10",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1306843&inflow=N",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "박홍근 기획처 장관 \"청년 세대에 과감하게 투자할 골든 타임\"",
+      "summary": "주거 분야에서는 이용 가능한 주거정책을 확인·신청할 수 있도록 마이폼 등 주거복지 플랫폼을 고도화하고 전세대출 이용자의 성실 상환 이력 등을 후속 금융 지원과 연계하는 방안 등을 논의했다. 결혼 분야와 관련해선...",
+      "source": "busan.com",
+      "date": "2026-07-10",
+      "url": "https://www.busan.com/view/busan/view.php?code=2026071016430996828",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "\"불공정·불평등이 청년 불안 본질…정책 참여 늘려야\"",
+      "summary": "이에 따라 이용 가능한 주거정책을 확인·신청할 수 있도록 마이홈등 주거복지 플랫폼을 고도화하고, 전세대출 이용자의 성실 상환 이력 등을 후속 금융 지원과 연계하는 방안 등이 논의됐다. 이와 함께 결혼 분야 전문가는...",
+      "source": "newsis.com",
+      "date": "2026-07-10",
+      "url": "https://www.newsis.com/view/NISX20260710_0003704455",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "청년에 진심인 박홍근…이번엔 전문가 불러 일자리·주거 문제 등 논의",
+      "summary": "자산·주거·결혼 분야에서는 청년형 개인종합자산관리계좌(ISA) 등 기존 상품과의 연계성 강화, '마이홈' 등 주거복지 플랫폼 고도화는 물론 \"경제적 조건에 좌우되는 결혼·출산 제약을 깨기 위해 청년 자산 형성...",
+      "source": "view.asiae.co.kr",
+      "date": "2026-07-10",
+      "url": "https://view.asiae.co.kr/article/2026071008591333011",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "기획예산처, 청년정책 전문가 토론회…\"내년 예산안에 생애주기별 맞춤...",
+      "summary": "주거 분야에서는 기존 정책들을 한눈에 보고 신청할 수 있도록 '마이홈' 등 주거복지 플랫폼을 고도화하고, 전세대출 성실 상환 이력을 후속 금융 지원과 연계하는 방안이 논의됐습니다. 아울러 결혼과 출산이 경제적...",
+      "source": "news.bbsi.co.kr",
+      "date": "2026-07-10",
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4094367",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "“청년 맞춤형 경력형성 패키지·자산 지원 필요”··· 내년 예산안 반...",
+      "summary": "주거 분야에서는 청년들이 실제 이용 가능한 주거 지원 정책을 한눈에 확인하고 신청할 수 있도록 국토교통부의 ‘마이홈’ 등 주거복지 플랫폼을 고도화해야 한다는 의견이 제시됐다. 전세자금대출을 성실하게 상환한...",
+      "source": "khan.co.kr",
+      "date": "2026-07-10",
+      "url": "https://www.khan.co.kr/article/202607101347001",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "“청년 첫 일자리에 패키지 지원”",
+      "summary": "대안으로는 청년들이 이용 가능한 주거정책을 쉽게 확인하고 신청할 수 있도록 통합 주거복지 플랫폼인 ‘마이홈’을 고도화하는 방안이 논의됐다. 이와 함께 전세대출 이용자의 성실 상환 이력을 후속 금융 지원과...",
+      "source": "naeil.com",
+      "date": "2026-07-10",
+      "url": "https://www.naeil.com/news/read/594908?ref=naver",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "“경력직 선호에 청년 취업문 좁아져…中企 취업자에 주거비 등 패키지...",
+      "summary": "주거 분야에서는 청년이 이용할 수 있는 지원 정책을 확인하고 신청할 수 있도록 하는 주거복지 플랫폼을 고도화하는 방안도 거론됐다. 기획예산처는 이날 논의된 내용을 내년도 정부 예산안과 청년정책에 반영한다는...",
+      "source": "donga.com",
+      "date": "2026-07-10",
+      "url": "https://www.donga.com/news/Economy/article/all/20260710/134273035/1",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "'청년 격차 해소' 공들이는 정부…박홍근 \"과감히 투자할 골든 타임\"",
+      "summary": "주거 분야에서는 국토교통부의 '마이홈' 등 주거복지 플랫폼을 고도화해 접근성을 높이고 전세 대출 성실 상환 이력을 후속 금융 지원과 매개하는 방안이 다뤄졌다. 나아가 결혼·출산 제약 요인으로 꼽히는 고용과 주택...",
+      "source": "youthdaily.co.kr",
+      "date": "2026-07-10",
+      "url": "https://www.youthdaily.co.kr/news/article.html?no=222741",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "박홍근 \"지금이 청년세대에 전폭적 투자 단행할 골든타임\"",
+      "summary": "주거 분야에서는 이용 가능한 주거정책을 확인·신청할 수 있도록 마이폼 등 주거복지 플랫폼을 고도화하고 전세대출 이용자의 성실 상환 이력 등을 후속 금융 지원과 연계하는 방안 등을 논의했다. 결혼 분야와 관련해선...",
+      "source": "news.einfomax.co.kr",
+      "date": "2026-07-10",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4424385",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "\"청년정책, 생애경로 맞춰 재설계해야\"…기획처, 전문가 토론회",
+      "summary": "이용 가능한 주거정책을 확인하고 신청할 수 있도록 주거복지 플랫폼인 ‘마이홈’을 고도화하고, 전세대출 성실 상환 이력을 후속 금융지원과 연계하는 방안 등이 논의됐다. 결혼 분야에서는 고용 불안정, 주택 가격 상승...",
+      "source": "아주경제",
+      "date": "2026-07-10",
+      "url": "https://www.ajunews.com/view/20260710091355887",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "청년정책, 기업 지원보다 청년에 직접 투자…예산 개편 시동",
+      "summary": "이에 주거복지 플랫폼인 ‘마이홈’을 고도화하고, 전세대출 성실 상환 이력을 후속 금융지원과 연계하는 방안 등이 논의됐다. 결혼 분야에서는 고용 불안과 주택가격 상승, 자산 형성 부담이 결혼과 출산을 가로막는 주요...",
+      "source": "헤럴드경제",
+      "date": "2026-07-10",
+      "url": "https://biz.heraldcorp.com/article/10804739?ref=naver",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "기획처, 청년정책 전문가 토론회…\"생애주기별 정책 과제 논의\"",
+      "summary": "또 주거 분야에서는 청년 주거지원 정책과 실제 생애 경로 간 연계를 강화하고, 마이홈 등 주거복지 플랫폼을 고도화하는 한편 전세대출 성실 상환 이력을 후속 금융 지원과 연계하는 방안이 논의됐다. 결혼 분야에서는...",
+      "source": "뉴스1",
+      "date": "2026-07-10",
+      "url": "https://www.news1.kr/economy/trend/6223926",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "박홍근 \"청년의 삶, 난해한 고차방정식…과감하게 투자할 골든타임\"",
+      "summary": "주거 분야에서는 이용 가능한 주거정책을 확인·신청할 수 있도록 마이홈 등 주거복지 플랫폼을 고도화하고, 전세대출 이용자의 성실 상환 이력 등을 후속 금융 지원과 연계하는 방안 등이 논의됐다. 결혼 분야 전문가는...",
+      "source": "머니투데이",
+      "date": "2026-07-10",
+      "url": "https://www.mt.co.kr/economy/2026/07/10/2026071009222852278",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "GS네오텍, ‘제네시스 CX 이노베이트 2026’ 참가···Genesys Cloud를 품...",
+      "summary": "GS네오텍이 ‘제네시스 CX 이노베이트 2026’에 참가해 Genesys Cloud를 품은 모바일 AICC 플랫폼 ‘WiseN TM’을... GS네오텍은 이번 행사에서 AI 컨택센터(AICC)의 운영 효율과 고객 경험을 동시에 향상시킬 수 있는 주력...",
+      "source": "sports.khan.co.kr",
+      "date": "2026-07-10",
+      "url": "https://sports.khan.co.kr/article/202607102256003?pt=nv",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "[#클라우드 월드] KT클라우드 '여의도 DC 증설'·롯데이노 '스마트팜 AI ...",
+      "summary": "◆GS네오텍, '모바일 AICC 플랫폼' 공개…AI 상담원도 선봬 GS네오텍이 제네시스 행사에서 모바일 AICC 플랫폼 'WiseN TM'과 AI 상담원 'AVA'를 선보였다. 9일 페어몬트 앰배서더 서울에서 열린 '제네시스 CX 이노베이트 2026'에...",
+      "source": "newsworks.co.kr",
+      "date": "2026-07-10",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=846910",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "[ZD SW 투데이] 오케스트로, 과기정통부 '2026년 우수 기업부설연구소' ...",
+      "summary": "인성정보, 2026무역안보의날 장관상 수상(이미지=인성정보) ◆ GS네오텍, '제네시스 CX 이노베이트 2026' 참가 GS네오텍은 ‘제네시스 CX 이노베이트 2026’에 참가해 AI 컨택센터(AICC)의 운영 효율과 고객 경험을 동시에...",
+      "source": "zdnet.co.kr",
+      "date": "2026-07-10",
+      "url": "https://zdnet.co.kr/view/?no=20260710172715",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "GS네오텍, 차세대 AI 상담원 ‘AVA’·모바일 AICC 플랫폼 ‘WiseN TM’ 공...",
+      "summary": "GS네오텍이 ‘제네시스 CX 이노베이트 2026’에 참가해 모바일 AICC 플랫폼 ‘WiseN TM’과 차세대 AI 상담원... 모바일 AICC 플랫폼이다. 상담사는 하나의 앱을 통해 대표번호 기반 상담과 010 번호 기반 인바운드...",
+      "source": "kbsm.net",
+      "date": "2026-07-10",
+      "url": "https://www.kbsm.net/news/view.php?idx=526305",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "GS네오텍, Genesys Cloud 결합한 'WiseN TM' 선보여… 모바일 AICC 시장 공...",
+      "summary": "GS네오텍이 '제네시스 CX 이노베이트 2026'에서 Genesys Cloud와 결합한 모바일 AICC 플랫폼 'WiseN TM'을 공개하며... GS네오텍이 선보인 대표 솔루션은 모바일 AICC 플랫폼 'WiseN TM'이다. WiseN TM은 'Genesys Cloud WebRTC 소프트폰'과...",
+      "source": "gokorea.kr",
+      "date": "2026-07-10",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=871757",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "GS네오텍, '제네시스 CX 이노베이트 2026'서 모바일 AICC 플랫폼 'WiseN TM...",
+      "summary": "GS네오텍은 이번 행사에서 AI 컨택센터(AICC)의 운영 효율과 고객 경험을 동시에 높일 수 있는 주력 솔루션... 모바일 AICC 플랫폼이다. 상담사는 하나의 앱에서 대표번호와 010 번호 기반의 인바운드·아웃바운드...",
+      "source": "abcn.kr",
+      "date": "2026-07-10",
+      "url": "https://www.abcn.kr/news/articleView.html?idxno=89314",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "GS네오텍, 모바일 AICC·에이전틱 AI 공개…컨택센터 혁신 전략 제시",
+      "summary": "GS네오텍이 모바일 기반 AI 컨택센터(AICC) 플랫폼과 에이전틱 AI 상담원을 공개하며 차세대 고객경험(CX)... GS네오텍은 행사에서 모바일 AICC 플랫폼 '와이즈엔(WiseN) TM'과 AI 상담원 '아바(AVA)'를 공개했다. 와이즈엔 TM은...",
+      "source": "테크월드",
+      "date": "2026-07-10",
+      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=404141",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "AICESS·부뜰정보시스템 합병…'미코AI' 출범",
+      "summary": "통합 법인은 양사 기술을 결합해 AI 컨택센터(AICC), 상담 지원, 지식관리, 업무 자동화 사업을 강화한다. 기존 컨택센터 구축·운영 역량에 AI 모델 개발 능력을 더해 금융권 중심의 사업을 공공·민간 분야로 확대한다는...",
+      "source": "newsis.com",
+      "date": "2026-07-10",
+      "url": "https://www.newsis.com/view/NISX20260710_0003703976",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "[모빌로그] 현대차, ‘디 올 뉴 아반떼’ 글로벌 호평 행렬 外",
+      "summary": "컨택센터(AICC)로, 아마존 커넥트는 아마존웹서비스(AWS) 클라우드를 이용하는 지능형 AI 솔루션이다.... 또 SM하이플러스는 AICC의 연착륙으로 향후 운영 효율성과 함께 상담업무 역량도 강화될 것으로 내다보고 있다....",
+      "source": "딜사이트경제TV",
+      "date": "2026-07-10",
+      "url": "https://news.dealsitetv.com/articles/173127",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "[테크스냅] 안랩, '무역안보의 날' 산업부 장관 표창 수상",
+      "summary": "▲ GS네오텍은 지난 9일 '제네시스 CX 이노베이트 2026'에 참가해 모바일 AI컨택센터(AICC) 플랫폼 '와이즈엔 TM'을 공개했다고 10일 밝혔다. 와이즈엔 TM은 클라우드 기반 고객센터 솔루션과 모바일 법인폰 기반 발신 기능을...",
+      "source": "yna.co.kr",
+      "date": "2026-07-10",
+      "url": "https://www.yna.co.kr/view/AKR20260710051000017?input=1195m",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "GS네오텍, 모바일 AICC 플랫폼 ‘와이즈엔 TM’ 공개",
+      "summary": "컨택센터(AICC) 플랫폼과 에이전틱 인공지능(AI) 상담원을 선보였다고 10일 밝혔다. 이번 행사는 ‘고객경험... GS네오텍, ‘제네시스 CX 이노베이트 2026’ 참가 (사진=GS네오텍) GS네오텍은 행사에서 모바일 AICC 플랫폼...",
+      "source": "이데일리",
+      "date": "2026-07-10",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02997926645513208",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "[보험업계 동향] 삼성화재ㆍ신한라이프ㆍNH농협생명(7.10)",
+      "summary": "■ 삼성화재, KGA 에셋과 소비자보호 강화 MOU 체결 - GA 협력으로 보험 모집 투명성 제고 - 내부통제·민원... (사진=삼성화재) [위클리오늘=홍정기 기자] 삼성화재가 법인보험대리점(GA) KGA 에셋과 '금융소비자 보호 강화를...",
+      "source": "weeklytoday.com",
+      "date": "2026-07-10",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=784786",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "엠금융서비스, 창립 9주년… 조직·매출 동반 성장",
+      "summary": "법인보험대리점(GA)이다. 이후 사업부의 자율적인 영업 활동과 본사의 지원 체계를 결합한 운영 전략을... 대표하는 GA로 성장하는 시간이 돼야 한다\"며 \"구성원 모두가 자부심을 느끼는 회사를 만들어가겠다\"고...",
+      "source": "한국보험신문",
+      "date": "2026-07-10",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91792",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "에즈금융서비스, 허위사실 유포에 법적 대응…\"김앤장 선임·손해배상 ...",
+      "summary": "금융당국의 1,200%룰 시행 이후 법인보험대리점(GA) 업계의 설계사 영입 경쟁이 새로운 국면을 맞은 가운데... ◇ 에즈금융서비스, 김앤장 선임…허위사실 유포 법적 대응 10일 보험업계에 따르면 금융당국은 이달부터 GA 소속...",
+      "source": "fins.co.kr",
+      "date": "2026-07-10",
+      "url": "http://www.fins.co.kr/news/articleView.html?idxno=109127",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "예별손보 인수 눈앞 OK금융···자금 지원·영업력 확대 '과제'",
+      "summary": "특히 보험대리점(GA)의 영향력은 절대적이다. 전속 설계사를 늘려야할 뿐만 아니라, GA 설계사에 제공하는 판매 수수료를 크게 늘리는 작업이 필요하다. 하지만 예별손보의 영업 경쟁력은 크게 약화된 상황이다. 3월 말...",
+      "source": "sisajournal-e.com",
+      "date": "2026-07-10",
+      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422367",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "삼성화재, KGA에셋과 소비자보호 협력…GA 내부통제 강화",
+      "summary": "[사진=삼성화재] 삼성화재가 대형 법인보험대리점(GA)과 손잡고 금융소비자 보호 체계 강화에 나섰다.... 삼성화재는 주요 GA와의 협력을 확대해 소비자보호 중심의 거버넌스를 구축하고 사후 대응보다 예방에 무게를 둔...",
+      "source": "pinpointnews.co.kr",
+      "date": "2026-07-10",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467358",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "[금융계 동향] 삼성화재·KB국민카드·NH농협생명",
+      "summary": "민주신문=이한호 기자｜삼성화재는 법인보험대리점(GA) KGA에셋과 금융소비자 보호 강화를 위한 업무협약... 2009년 설립된 KGA에셋은 2025년 기준 9213명의 설계사가 활동하는 대형 GA다. 양사는 이번 협약을 통해 ▲위...",
+      "source": "iminju.net",
+      "date": "2026-07-10",
+      "url": "http://www.iminju.net/news/articleView.html?idxno=166546",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "\"계약자 대신 청약서 서명\"..DB손보 설계사 제재",
+      "summary": "/사진=DB손해보험 DB손해보험 소속 보험설계사가 보험계약자의 자필서명을 받지 않고 청약서에 대신 서명한 사실이 적발돼 금융당국의 제재 절차에 올랐다. 10일 금융당국에 따르면 금융감독원은 2일 디비손해보험...",
+      "source": "4th.kr",
+      "date": "2026-07-10",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2114574",
+      "matchedKeyword": "보험DB"
+    },
+    {
+      "title": "'소득기반 고용보험' 본격 시동…적용 기준 '월 보수 80만원' 개편",
+      "summary": "공단은 약 2510만 건에 달하는 국세청 소득 자료와 약 1550만 명의 고용보험 DB 자료를 연계해 개별 노동자의 소득 기반으로 보험료를 부과하고 정산할 수 있는 전산 시스템을 구축 중이다. 또한 사업주와 세무사 등 대행기관...",
+      "source": "mediapen.com",
+      "date": "2026-07-10",
+      "url": "https://www.mediapen.com/news/view/1109420",
+      "matchedKeyword": "보험DB"
+    },
+    {
+      "title": "고용보험, '주 15시간' 벽 낮춘다…소득 기준으로 사각지대 줄인다",
+      "summary": "정부가 활용 대상으로 보는 국세청 소득자료는 2025년 기준 약 2510만건, 고용보험 DB는 약 1550만명 규모다. 단순한 법령 개정이 아니라 방대한 소득자료를 사회보험 행정과 연결하는 전산·행정 체계 개편이 필요한 이유다....",
+      "source": "4th.kr",
+      "date": "2026-07-10",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2114557",
+      "matchedKeyword": "보험DB"
+    },
+    {
+      "title": "고용보험, ‘일한 시간’ 대신 ‘번 돈’으로 따진다…월 80만원 기준 전...",
+      "summary": "노동부에 따르면 연계 대상 자료는 2025년 기준 국세청 소득자료 약 2510만건과 고용보험 DB 자료 약 1550만명 규모다. 사업주의 신고 편의를 높이기 위한 시스템 개편도 진행된다. 고용·산재보험 토탈서비스 개편, 모바일 앱...",
+      "source": "thepowernews.co.kr",
+      "date": "2026-07-10",
+      "url": "https://www.thepowernews.co.kr/view.php?ud=202607101112059711de3f0aa1be_7",
+      "matchedKeyword": "보험DB"
+    },
+    {
+      "title": "고용보험 가입기준 '월 보수 80만원'…초단기 알바도 가입 가능하게",
+      "summary": "근로복지공단은 국세청 소득자료와 고용보험 DB자료를 매칭·연계해 개별 노동자의 소득을 바탕으로 고용 산재보험료를 부과·정산하기 위한 업무 프로세스를 새롭게 설계한다. 나아가 이를 전산 시스템에 반영하기 위한...",
+      "source": "newsfc.co.kr",
+      "date": "2026-07-10",
+      "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=79841",
+      "matchedKeyword": "보험DB"
+    },
+    {
+      "title": "'소득' 기반 고용보험 개편…\"월 60시간→ 월 80만원 이상\"",
+      "summary": "노동부는 개별 노동자의 소득을 바탕으로 고용·산재보험료를 부과·정산하기 위해 국세청 소득자료(약 2510만건, 2025년 기준)와 고용보험 DB자료(약 1550만명, 2025년 기준)를 매칭·연계한 업무프로세스를 새롭게 설계한다....",
+      "source": "머니투데이",
+      "date": "2026-07-10",
+      "url": "https://www.mt.co.kr/economy/2026/07/10/2026071010210313317",
+      "matchedKeyword": "보험DB"
+    },
+    {
+      "title": "초단시간 일해도 고용보험 가입…'소득기반 고용보험' 입법예고",
+      "summary": "근로복지공단은 국세청 소득자료와 고용보험 DB자료를 매칭·연계해 개별 노동자의 소득을 바탕으로 고용 산재보험료를 부과·정산하기 위한 업무 프로세스를 새롭게 설계한다. 나아가 이를 전산 시스템에 반영하기 위한...",
+      "source": "이데일리",
+      "date": "2026-07-10",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03266886645513208",
+      "matchedKeyword": "보험DB"
+    },
+    {
+      "title": "고용보험 가입기준 '월 보수 80만원'…하위법령 입법예고",
+      "summary": "국세청 소득자료 약 2510만 건(2025년 기준)과 고용보험 DB 약 1550만 명(2025년 기준)을 매칭·연계해 개별 노동자의 소득을 바탕으로 보험료를 부과·정산하는 업무프로세스를 새로 설계하고, 전산 시스템 인프라 구축도 추진...",
+      "source": "nocutnews.co.kr",
+      "date": "2026-07-10",
+      "url": "https://www.nocutnews.co.kr/news/6546113?utm_source=naver&utm_medium=article&utm_campaign=20260710100032",
+      "matchedKeyword": "보험DB"
+    },
+    {
+      "title": "[위클리오늘] 산업일반 소식_KCC, 보람그룹(7.10)",
+      "summary": "이번 수상은 상조업의 핵심 가치인 상부상조 정신을 ESG 경영으로 확장하고, 지역사회와 미래세대를 위한... 보람그룹 관계자는 \"이제 상조업계는 고객의 일상과 삶의 질을 함께 돌보는 라이프케어 산업으로 확장되고...",
+      "source": "weeklytoday.com",
+      "date": "2026-07-10",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=784279",
+      "matchedKeyword": "상조업"
+    },
+    {
+      "title": "보람그룹, 지속가능 사회공헌 성과 인정…'사회공헌기업대상' ESG부문 대...",
+      "summary": "상조업의 본질인 상부상조 정신을 ESG 경영으로 확장해온 점을 인정받아 5년 연속 수상의 영예를 안았다.... 보람그룹 관계자는 \"이제 상조업계는 고객의 일상과 삶의 질을 함께 돌보는 라이프케어 산업으로 확장되고...",
+      "source": "FETV",
+      "date": "2026-07-10",
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=306252",
+      "matchedKeyword": "상조업"
+    },
+    {
+      "title": "[민주 라이프] 보람그룹·소노인터내셔널·에듀윌",
+      "summary": "상조업의 본질인 상부상조 정신을 ESG 경영으로 확장해 온 점을 인정받아 5년 연속 수상의 영예를 안았다. 최근에는 직영 장례식장을 기반으로 ESG 활동을 강화하고 있다. 구체적으로 ▲동래봉생병원 공원 조성 후원...",
+      "source": "iminju.net",
+      "date": "2026-07-10",
+      "url": "http://www.iminju.net/news/articleView.html?idxno=166547",
+      "matchedKeyword": "상조업"
+    },
+    {
+      "title": "\"라이프케어로 가치 넓혔다\"… 보람그룹, ESG 사회공헌 5년 연속 인정",
+      "summary": "보람그룹은 상조업의 핵심 가치인 '상부상조' 정신을 ESG 경영으로 확장하고, 장기적인 사회공헌 활동을 지속해 온 점에서 높은 평가를 받았다. 보람그룹은 장례서비스를 기반으로 성장한 이후 웨딩과 크루즈, 헬스케어...",
+      "source": "매일일보",
+      "date": "2026-07-10",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1390431",
+      "matchedKeyword": "상조업"
+    },
+    {
+      "title": "[상조선수금 10조 시대] 2위 오른 교원라이프, 성장의 청구서",
+      "summary": "상조업계가 선수금 10조원, 가입자 1000만명 시대에 들어섰다. 고객이 미리 낸 장례비가 커지면서 상조회사의... 교원라이프가 보람그룹을 제치고 상조업계 2위에 올랐다. 장례 중심이던 상조상품을 여행·생활가전·교육...",
+      "source": "bloter.net",
+      "date": "2026-07-10",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=667818",
+      "matchedKeyword": "상조업"
+    },
+    {
+      "title": "보람그룹, '상부상조' 정신으로 사회공헌기업대상 5년 연속 수상",
+      "summary": "보람그룹은 상조업의 본질인 '상부상조' 정신을 ESG 경영으로 확장해 5년 연속 수상했다. 보람그룹은... 보람그룹 관계자는 \"상조업계는 고객의 일상과 삶의 질을 함께 돌보는 라이프케어 산업으로 확장되고 있다\"며...",
+      "source": "wolyo.co.kr",
+      "date": "2026-07-10",
+      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=314908",
+      "matchedKeyword": "상조업"
+    },
+    {
+      "title": "보람그룹, 사회공헌기업대상 5년 연속…지역밀착 ESG 인정",
+      "summary": "직영 장례식장 기반 지역 환원 활동 확대 PC 나눔·탁구단 후원·헌혈 캠페인 지속 ▲ 최요한 보람그룹 상무가 ‘사회공헌기업대상’ ESG부문 대상을 수상한 뒤 기념촬영을 하고 있다 [보람그룹] 보람그룹이 상조업의...",
+      "source": "sateconomy.co.kr",
+      "date": "2026-07-10",
+      "url": "https://sateconomy.co.kr/news/view/1065579425167912",
+      "matchedKeyword": "상조업"
+    },
+    {
+      "title": "보람그룹, 지역밀착 ESG 활동으로 5년 연속 대상",
+      "summary": "보람그룹은 상조업의 본질인 상부상조 정신을 ESG 경영으로 확장해온 점을 인정받아 5년 연속 수상했다. 보람그룹은 보람상조를 중심으로 장례 기반 상조 서비스를 넘어 고객 생애 전반을 아우르는 토털 라이프케어...",
+      "source": "popcornnews.net",
+      "date": "2026-07-10",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=126241",
+      "matchedKeyword": "상조업"
+    },
+    {
+      "title": "[뉴스워커_보람그룹] ESG 경영 인정받았다…'사회공헌기업대상' 5년 연속...",
+      "summary": "보람그룹은 상조업의 핵심 가치인 '상부상조' 정신을 ESG 경영으로 확장해온 공로를 인정받아 '2026... 보람그룹 관계자는 \"상조업은 이제 고객의 일상과 삶의 질을 함께 돌보는 라이프케어 산업으로 확장되고 있다\"며...",
+      "source": "newsworker.co.kr",
+      "date": "2026-07-10",
+      "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=435759",
+      "matchedKeyword": "상조업"
+    },
+    {
+      "title": "KCC, KISS 2026서 색채와 로봇 융합한 '종합 산업안전 솔루션' 공개",
+      "summary": "안전환경디자인 솔루션을 공개했다. 한국산업안전보건공단이 후원하며 올해 300여 개 기업이 1,200개 부스 규모로 참여해 산업재해 예방을 위한 최신 기술을 공유한 이번 전시회에서 KCC는 'Color for Safety(시각안전...",
+      "source": "kr.aving.net",
+      "date": "2026-07-10",
+      "url": "https://kr.aving.net/news/articleView.html?idxno=1812349",
+      "matchedKeyword": "산업 안전 솔루션"
+    },
+    {
+      "title": "K2 Safety, 국제안전보건전시회 참가…폭염 대응 안전장비 선봬",
+      "summary": "▲ (사진: K2 Safety 제공) K2 Safety는 이 밖에도 냉감 작업복과 계절성 안전용품 등 다양한 제품을 함께 전시하며 폭염 대응부터 작업자 보호까지 아우르는 산업안전 솔루션을 제안했다. 회사 측은 이번 전시를 단순한...",
+      "source": "idsn.co.kr",
+      "date": "2026-07-10",
+      "url": "https://idsn.co.kr/news/view/1065592932421980",
+      "matchedKeyword": "산업 안전 솔루션"
+    },
+    {
+      "title": "케이투세이프티, ‘KISS 2026’서 폭염 대응 산업안전 솔루션 공개",
+      "summary": "이 밖에도 K2 Safety는 냉감 의류와 계절성 안전용품 등 여름철 현장에 필수적인 제품들을 함께 선보이며, 폭염으로부터 작업자를 안전하게 보호할 수 있는 '토털 산업안전 솔루션'을 제안했다. 아울러 단순히 제품을...",
+      "source": "wowtv.co.kr",
+      "date": "2026-07-10",
+      "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607100332&t=NN",
+      "matchedKeyword": "산업 안전 솔루션"
+    },
+    {
+      "title": "K2 Safety, ‘KISS 2026’서 산업현장 폭염 대응 위한 팬웨어·안전화 전...",
+      "summary": "이 밖에도 K2 Safety는 냉감 의류와 계절성 안전용품 등 여름철 현장에 필수적인 제품들을 함께 선보이며, 폭염으로부터 작업자를 안전하게 보호할 수 있는 ‘토털 산업안전 솔루션’을 제안했다. 아울러 단순히 제품을...",
+      "source": "dt.co.kr",
+      "date": "2026-07-10",
+      "url": "https://www.dt.co.kr/article/12072231?ref=naver",
+      "matchedKeyword": "산업 안전 솔루션"
+    },
+    {
+      "title": "K2 Safety, 'KISS 2026' 참가… 팬웨어 앞세워 여름철 산업안전 시장 공략",
+      "summary": "이 밖에도 K2 Safety는 냉감 의류와 계절성 안전용품 등 여름철 현장에 필수적인 제품들을 함께 선보이며, 폭염으로부터 작업자를 안전하게 보호할 수 있는 '토털 산업안전 솔루션'을 제안했다. 또한 전시 부스에서는...",
+      "source": "fashionbiz.co.kr",
+      "date": "2026-07-10",
+      "url": "https://www.fashionbiz.co.kr/article/227809",
+      "matchedKeyword": "산업 안전 솔루션"
+    },
+    {
+      "title": "여수 한영대 사회복지학과, 일본 '선진 복지·의료·방재' 현장 누벼",
+      "summary": "이어 일본 최대 규모를 자랑하는 실버산업 전시관인 'ATC에이지레스센터'와 '고베국제생활의료관'을 잇달아 찾아 미래 실버 세대를 이끌 첨단 의료 헬스케어 기구와 실버 테크 트렌드를 직접 확인하며 시야를 넓혔다....",
+      "source": "netongs.com",
+      "date": "2026-07-10",
+      "url": "http://www.netongs.com/news/articleView.html?idxno=334005",
+      "matchedKeyword": "실버산업"
+    },
+    {
+      "title": "승강기안전공단, AI 침수 위험 승강기 안전예보시스템 본격 운영",
+      "summary": "특히 침수 시 이용자가 승강기에 갇히는 응급 상황에 대비해, 모바일 앱과 IoT 기기를 연계한 스마트 원격관제 플랫폼 고도화에 역량을 집중하고 있다. 또한 국내 승강기 설치 대수가 세계 3위에 달하는 환경에 맞춰 올해...",
+      "source": "cnbnews.com",
+      "date": "2026-07-10",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1007762",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "트로닉스, 초절전 스마트가로등 솔루션 기업 절대강자",
+      "summary": "트로닉스가 국내 처음으로 디지털서비스몰 서비스형 소프트웨어로 등록한 관제플랫폼도 공공구매 시장에서 호평받고 있다. 구독서비스 형태로 이용할 수 있기 때문에 정보시스템 도입에 어려움을 겪던 공공...",
+      "source": "sidae.com",
+      "date": "2026-07-10",
+      "url": "https://www.sidae.com/article/2026071007141932675",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "국립순천대, 전남 농식품 수도권 판로 확대 '성과'…메가쇼서 9450만원 ...",
+      "summary": "참가 업체들은 현장 판매뿐 아니라 대량 구매 상담과 OEM 생산 문의, 홈쇼핑 및 복지몰 입점 제안, 라이브커머스 연계 상담 등을 진행하며 수도권 유통시장 진출 가능성을 넓혔다. 특히 해남의 '다고'는 보리를 볶아 만든...",
+      "source": "polinews.co.kr",
+      "date": "2026-07-09",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=736559",
+      "matchedKeyword": "복지몰"
+    },
+    {
+      "title": "[Who Is ?] 백홍주 원익큐엔씨 대표이사",
+      "summary": "급여가 5억1096만 원, 기타 근로소득(학자금, 복지포인트 등)이 2020만 원이었다. 2024년의 경우 5억이 채 안되게 보수를 받았다. 전년도와 비교해 최소 1억3천만 원 이상 줄었는데 이는 2022년과 2023년 사이닝 보너스...",
+      "source": "비즈니스포스트",
+      "date": "2026-07-09",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=441495",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "박완수 \"민선9기 핵심은 산업 대전환… 도민과 함께 경남 대도약\"",
+      "summary": "경남도는 도민 멤버십 카드 도입과 4050 복지포인트, 지역 필수의료 확충, 청년 주거 지원, 안전서비스 강화 등 생활 밀착형 정책도 함께 추진할 계획이다. ◇ \"도민과 소통하는 도정으로 바꾸겠다\" 박 지사는 민선 9기 도정...",
+      "source": "ziksir.com",
+      "date": "2026-07-09",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=139534",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "간편결제 경쟁, 이제는 '포인트 생태계'로…네이버페이 확장 속도",
+      "summary": "해외 결제 네트워크와의 제휴를 통해 현재 72개 국가에서 포인트를 사용할 수 있도록 서비스를 운영하고 있으며, 기업 복지포인트와 제조·건설 현장의 안전 인센티브를 네이버페이 포인트로 지급하거나 전환해 사용할 수...",
+      "source": "위키리크스한국",
+      "date": "2026-07-09",
+      "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189555",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "[팩트체크] \"월급을 지역화폐로?\"...근로기준법 개정안 뜯어보니",
+      "summary": "아울러 일부 공공기관이나 기업에서 성과급 또는 복지포인트 일부를 지역사랑상품권으로 지급한 사례가 있는 만큼, 이번 개정안은 이러한 지급 방식의 법적 근거를 보다 명확히 하는 성격이라는 설명이다. ◆ 향후...",
+      "source": "polinews.co.kr",
+      "date": "2026-07-09",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=736531",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "경기 31개 시·군 '사회복지사 처우' 평가···성남·안성 등 7곳 최우수",
+      "summary": "③ 건강검진비와 복지포인트 지원 등 현장 종사자의 요구에 맞춘 지자체 자체 사업이 꾸준히 늘어나는 것으로 나타났다. Q&A Q. 경기도에서 사회복지종사자 처우개선 우수 지자체는 어디인가 A. 경기도사회복지사협회...",
+      "source": "womaneconomy.co.kr",
+      "date": "2026-07-09",
+      "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255988",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "파주시, 경기도 사회복지종사자 정책평가 A등급",
+      "summary": "주요 사업은 건강복지지원비, 저연차 복지종사자 청년복지포인트, 상해보험 지원 확대, 파주형 사회복지종사자 휴가제도, 은퇴준비 연수, 마음쉼 교육 등이다. 파주시는 지난해 평가 결과를 바탕으로 부족한 부분을...",
+      "source": "newstnt.com",
+      "date": "2026-07-09",
+      "url": "https://www.newstnt.com/news/articleView.html?idxno=709588",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "파주시, 조례 개정·제도 혁신으로 경기도 사회복지행정 모범도시 우뚝",
+      "summary": "파주시는 올해부터 건강복지지원비를 비롯해 저연차 사회복지종사자 청년복지포인트 지원, 상해보험 지원 확대, 파주형 사회복지종사자 휴가제도, 은퇴준비 연수, 마음쉼 교육 등 종사자의 건강과 안전, 휴식을 보장하는...",
+      "source": "gukjenews.com",
+      "date": "2026-07-09",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3630938",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "광주 광산구, 작은도서관 포인트로 관리비 지원",
+      "summary": "더쎈뉴스 / The CEN News 오동기 기자  |   전남광주통합특별시 광산구는 LH 광주전남지역본부, 비아농협과 함께 주민들의 작은도서관 이용을 활성화하고 공동주택 관리비 부담을 줄이기 위한 '주거복지 포인트 사업'을...",
+      "source": "mhns.co.kr",
+      "date": "2026-07-09",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=752801",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "파주시, 사회복지종사자 처우개선 정책평가 'A등급'…복지 현장 지원 성...",
+      "summary": "올해부터는 건강복지지원비 지급을 비롯해 저연차 사회복지종사자 청년복지포인트 지원, 상해보험 지원 확대, 파주형 사회복지종사자 휴가제도 운영, 은퇴준비 연수, 마음쉼 교육 등 종사자의 건강과 휴식, 안전한...",
+      "source": "ppss.kr",
+      "date": "2026-07-09",
+      "url": "https://www.ppss.kr/news/articleView.html?idxno=301564",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "[Tech & Now] 선익시스템, 인도 투자협의회 참석·SK인텔릭스, DDP에 '나무...",
+      "summary": "◆GS네오텍, '제네시스 CX 이노베이트 2026'서 모바일 AICC 플랫폼 공개 GS네오텍은 글로벌 고객경험(CX) 기업... GS네오텍은 이 자리에서 AI 컨택센터(AICC)의 운영 효율과 고객 경험 향상을 위한 주력 솔루션 2종을 선보였다....",
+      "source": "ebn.co.kr",
+      "date": "2026-07-09",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1715828",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "네이버 '엔클라우드챗' 9월 종료…단순 채팅 접고 AI 상담에 집중",
+      "summary": "네이버클라우드는 현재 AICC(인공지능 컨택센터) 사업을 확대하고 있다. 자체 거대언어모델(LLM)인 '하이퍼클로바X'를 기반으로 AI 챗봇과 AI 음성봇, AI 상담 어시스턴트 등 기업용 AI 서비스를 제공 중이다. 네이버는...",
+      "source": "news.mtn.co.kr",
+      "date": "2026-07-09",
+      "url": "https://news.mtn.co.kr/news-detail/2026070913251391054",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "SM하이플러스, AI 컨택센터 가동… 24시간 고객 응대 체계 구축",
+      "summary": "SM하이플러스는 고객 문의를 연중무휴 24시간 처리할 수 있는 AI 기반 컨택센터(AICC)를 구축하고 'AI 콜봇' 서비스를 운영한다고 8일 밝혔다. 이번 시스템은 아마존웹서비스(AWS)의 클라우드 기반 고객센터 솔루션인...",
+      "source": "pressman.kr",
+      "date": "2026-07-09",
+      "url": "https://www.pressman.kr/news/articleView.html?idxno=102689",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "SM그룹 SM하이플러스, AI 기반 컨택센터 도입…AX 가속도",
+      "summary": "컨택센터(AICC)로, 아마존 커넥트는 아마존웹서비스(AWS) 클라우드를 이용하는 지능형 AI 솔루션이다. 지난해... 또 SM하이플러스는 AICC의 연착륙으로 향후 운영 효율성과 함께 상담업무 역량도 강화될 것으로 내다보고...",
+      "source": "fieldnews.kr",
+      "date": "2026-07-09",
+      "url": "http://www.fieldnews.kr/news/articleView.html?idxno=29866",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "SM하이플러스, 하이패스 미납 민원에 AI 콜봇 도입",
+      "summary": "SM하이플러스는 아마존웹서비스(AWS)의 아마존 커넥트 기반 AI 컨택센터(AICC)를 활용한 AI 콜봇 서비스를 운영한다고 9일 밝혔다. 이 서비스는 하이패스 통행료 미납 여부 확인과 납부 절차 안내를 365일 24시간 지원한다....",
+      "source": "pointdaily.co.kr",
+      "date": "2026-07-09",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311397",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "KT, 3년간 18조원 투자…통신 넘어 AX 플랫폼 기업 전환 속도",
+      "summary": "금융 분야에서는 AI콘택트센터(AICC)와 세일즈 에이전트 등 에이전틱 AI 서비스를 확대한다. 공공 분야에서는 정부 AX 사업을 공략하고 제조와 의료 분야에서는 과학기술정보통신부 실증 사업 참여를 통해 피지컬 AI...",
+      "source": "ngetnews.com",
+      "date": "2026-07-09",
+      "url": "https://www.ngetnews.com/news/articleView.html?idxno=551294",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "[단독] KT 상담원이 117명 고객 상품권 '꿀꺽' …전산 허점이 범행 키웠...",
+      "summary": "최근 박윤영 KT 대표가 고객센터를 AI컨택센터(AICC)로 고도화하겠다고 밝혔지만 기본적인 고객 보호... 박윤영 대표는 7월 6일 취임 100일 기자간담회에서 AICC를 확대하고 상품과 서비스의 주도권을 고객에게 돌려주는...",
+      "source": "it.chosun.com",
+      "date": "2026-07-09",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165411",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "[기업들] 'AI·친환경' 혁신 바람…조직 정비와 공급 확대에 총력",
+      "summary": "SM그룹의 제조·서비스 부문 계열사인 SM하이플러스는 아마존웹서비스(AWS) 클라우드 기반의 지능형 AI 컨택센터(AICC)인 'AI 콜봇' 서비스를 오픈했다. 이번 서비스 도입으로 고속도로 하이패스 통행료 미납 확인 및 처리...",
+      "source": "데일리팝",
+      "date": "2026-07-09",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=100453",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "뤼튼AX, B2C 경험 살려 기업 AX로 확장...올해 매출 100억원 목표",
+      "summary": "대표적으로 AI 고객상담(AICC)이 있다. 콜센터·챗봇 상담을 AI가 대신 처리하는 서비스다. 뤼튼을 운영하며 쌓은 상담 데이터와 운영 노하우를 AI 서비스로 만들었다. 상담사 보조 모드 'AI 어드바이저'와 무인 상담...",
+      "source": "digitaltoday.co.kr",
+      "date": "2026-07-09",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682438",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "DB손보, 서비스품질지수 장기보험·자동차보험 2관왕",
+      "summary": "사진=DB손해보험  DB손해보험이 국내 최고 권위의 서비스 품질 평가에서 장기보험과 자동차보험 두 부문을 모두 석권하며 고객 서비스 역량을 입증했다. DB손보는 한국표준협회(KSA)가 주관하는 '2026 한국서비스품질지수...",
+      "source": "pointdaily.co.kr",
+      "date": "2026-07-09",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311336",
+      "matchedKeyword": "보험DB"
+    },
+    {
+      "title": "[경제소식] 'NH전남광주통합특별시 동행예금' 조기 완판",
+      "summary": "2026.7.9./사진=DB손해보험 DB손해보험, '2026 KS-SQI' 2개 부문 단독 1위 DB손해보험은 한국표준협회가 주관하는 '2026 한국서비스품질지수(KS-SQI)' 평가에서 장기보험과 자동차보험 부문 1위를 차지했다고 9일 밝혔다....",
+      "source": "4th.kr",
+      "date": "2026-07-09",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2114488",
+      "matchedKeyword": "보험DB"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 손해보험 소식...DB·KB 손해보험",
+      "summary": "DB손해보험이 고객이 직접 평가하는 서비스 품질 조사에서 장기보험과 자동차보험 부문 최초 동시 단독 1위를 차지하며 고객 서비스 경쟁력을 인정받았다. KB손해보험은 여름철 집중호우와 태풍에 따른 차량 침수...",
+      "source": "thevaluenews.co.kr",
+      "date": "2026-07-09",
+      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=199964",
+      "matchedKeyword": "보험DB"
+    },
+    {
+      "title": "[교원 세대교체 빌드업] '오너 2세' 장동하 체제 '상조업'…몸집 키우기...",
+      "summary": "교원라이프는 상조업을 기반으로 회원을 늘리며 외형 성장을 이끄는 '성장엔진' 역할을 하고 있다는... 공정거래위원회 상조업 현황에 따르면 올해 3월 말 기준 교원라이프의 선수금은 1조7369억원으로 집계됐다. 이는...",
+      "source": "딜사이트",
+      "date": "2026-07-09",
+      "url": "https://dealsite.co.kr/articles/164915",
+      "matchedKeyword": "상조업"
+    },
+    {
+      "title": "[상조선수금 10조 시대] 3조 선수금, 웅진 프리드라이프의 딜레마",
+      "summary": "상조업계가 선수금 10조원, 가입자 1000만명 시대에 들어섰다. 고객이 미리 낸 장례비가 커지면서 상조회사의... 상조업계 1위 웅진프리드라이프가 3조원대 선수금을 바탕으로 웅진그룹의 핵심 캐시카우로 떠오르고 있다....",
+      "source": "bloter.net",
+      "date": "2026-07-09",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=667651",
+      "matchedKeyword": "상조업"
+    },
+    {
+      "title": "LG전자, 대용량 상업용 세탁가전으로 B2B 시장 확대",
+      "summary": "유럽은 관광 산업과 실버 산업이 발달해 숙박시설과 의료·요양시설을 중심으로 대용량 세탁가전 수요가 있는 시장으로 꼽힌다. 신제품은 LG전자의 핵심 부품 기술에 AI를 결합한 ‘AI 코어테크’를 기반으로 세탁...",
+      "source": "thepowernews.co.kr",
+      "date": "2026-07-09",
+      "url": "https://www.thepowernews.co.kr/view.php?ud=202607091553049101de3f0aa1be_7",
+      "matchedKeyword": "실버산업"
+    },
+    {
+      "title": "유럽 호텔부터 공략…LG전자, 상업용 세탁 시장 키운다",
+      "summary": "관광 산업과 실버 산업이 발달한 유럽을 시작으로 호텔과 병원, 요양시설 등 대형 고객을 확보해 상업용 세탁 사업을 새로운 성장축으로 키운다는 전략이다. 10일 LG전자는 대용량 상업용 세탁가전 브랜드 ‘LG...",
+      "source": "서울경제",
+      "date": "2026-07-09",
+      "url": "https://www.sedaily.com/article/20065640?ref=naver",
+      "matchedKeyword": "실버산업"
+    },
+    {
+      "title": "LG전자, AI 탑재 대용량 상업용 세탁가전 출시…글로벌 B2B 공략 확대",
+      "summary": "특히 관광산업과 실버산업이 발달한 유럽에서 호텔, 병원, 요양시설 등을 중심으로 B2B 수요를 적극 공략한다는 전략이다. 시장조사업체 스카이퀘스트는 글로벌 상업용 세탁 시장이 2032년 약 108억달러 규모로 성장할...",
+      "source": "이데일리",
+      "date": "2026-07-09",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03368566645512880",
+      "matchedKeyword": "실버산업"
+    },
+    {
+      "title": "AI 세탁부터 정품 필터까지…LG전자, 가전 경쟁력 '성능·안전'에 초점",
+      "summary": "이번에는 관광 산업과 실버 산업이 발달한 유럽 시장을 시작으로 대용량 제품 수요 공략에 나선다. LG 프로페셔널은 핵심 부품 기술력에 AI를 더한 'AI 코어테크'를 기반으로 세탁·건조 성능과 에너지 효율을 높인 것이...",
+      "source": "whitepaper.co.kr",
+      "date": "2026-07-09",
+      "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264373",
+      "matchedKeyword": "실버산업"
+    },
+    {
+      "title": "LG전자, 대용량 상업가전 ‘LG 프로페셔널’ 출시",
+      "summary": "이번 신제품은 이달 유럽을 시작으로 아시아, 북미 등 주요 시장에 순차 출시되며, 특히 관광·실버 산업의 발달로 대용량 세탁 수요가 급증하고 있는 유럽의 호텔, 병원, 요양시설 등을 집중적으로 공략할 예정이다....",
+      "source": "busan.com",
+      "date": "2026-07-09",
+      "url": "https://www.busan.com/view/busan/view.php?code=2026070907100421704",
+      "matchedKeyword": "실버산업"
+    },
+    {
+      "title": "LG전자, AI 대용량 세탁가전으로 유럽 B2B 확대",
+      "summary": "유럽은 관광 산업과 실버 산업이 발달해 숙박시설과 의료·요양시설 중심의 상업용 세탁 수요가 꾸준한 시장으로 꼽힌다. 글로벌 시장조사기관 스카이퀘스트는 세계 상업용 세탁 시장이 2032년 약 108억달러 규모로...",
+      "source": "press9.kr",
+      "date": "2026-07-09",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=79142",
+      "matchedKeyword": "실버산업"
+    },
+    {
+      "title": "LS일렉트릭·LS전선 '일렉스 베트남 2026' 참가...HVDC 해저케이블 PQ 시...",
+      "summary": "K-EMS 2.0은 LS일렉트릭이 세계에서 5번째로 자체 개발에 성공한 국가 단위의 전력망 통합 관제 플랫폼이다. 발전 제어를 최적화해 운영 비용을 절감할 수 있으며 정밀한 실시간 안전성 분석을 통해 대규모 정전...",
+      "source": "여성소비자신문",
+      "date": "2026-07-09",
+      "url": "http://www.wsobi.com/news/articleView.html?idxno=315032",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "LS일렉트릭, '일렉스 베트남 2026' 참가...AI 데이터센터 및 토털 전력망...",
+      "summary": "디지털 전환 구역에서는 국가 전력망 통합 관제 플랫폼인 'K-EMS 2.0'을 전시한다. 에너지관리시스템(EMS)은 발전·송전·배전 설비를 실시간으로 통합 관리하는 시스템으로, 전력 수급 상황을 분석하고 계통 운영...",
+      "source": "econonews.co.kr",
+      "date": "2026-07-09",
+      "url": "http://www.econonews.co.kr/news/articleView.html?idxno=438494",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "LS일렉트릭, 베트남서 차세대 전력 솔루션 선보인다…아세안 시장 공략",
+      "summary": "K-EMS 2.0은 LS일렉트릭이 자체 개발한 국가 단위 전력망 통합 관제 플랫폼이다. 발전과 송배전 계통을 실시간으로 감시·분석하고 전력망 운영을 최적화해 전력 공급 안정성을 높이는 역할을 한다. 이를 통해 운영...",
+      "source": "econovill.com",
+      "date": "2026-07-09",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=744740",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "LS일렉트릭, '일렉스 베트남 2026' 참가…4개 존 구성해 전력 솔루션 전...",
+      "summary": "디지털 전환 존에서는 실시간 안전성 분석으로 대규모 정전 리스크를 제어하는 국가 단위 전력망 관제 플랫폼 'K-EMS 2.0'을 전시한다. 스마트 전력관리 및 스마트팩토리 존에서는 변압기와 차단기 등 핵심 기자재와...",
+      "source": "newsinside.kr",
+      "date": "2026-07-09",
+      "url": "https://www.newsinside.kr/news/articleView.html?idxno=4827811",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "LS일렉트릭, 베트남 전시회서 AI 전력기술 공개···아세안 공략 속도",
+      "summary": "LS일렉트릭이 세계에서 다섯 번째로 자체 개발한 국가 단위 전력망 통합 관제 플랫폼으로, 발전 제어 최적화와 실시간 안전성 분석을 통해 운영 효율을 높이고 대규모 정전 위험을 줄이는 것이 특징이다. '스마트...",
+      "source": "enewstoday.co.kr",
+      "date": "2026-07-09",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447300",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "[급등락주 짚어보기] ‘애국 기업’ 재조명에 한성기업 '上'…네이처셀...",
+      "summary": "AI 기반 영상관제와 통합관제 플랫폼 사업 확대 기대도 상승 재료로 작용했다. 웰킵스하이텍은 30.00% 상승한 1196원에 거래를 마감했다. 반도체·전자부품 관련 중소형주로 매수세가 유입되며 가격제한폭까지 올랐다....",
+      "source": "이투데이",
+      "date": "2026-07-09",
+      "url": "https://www.etoday.co.kr/news/view/2602165",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "폐자원은 수소로, 전력망은 AI로…에너지 전환 속도 낸다",
+      "summary": "전시 공간은 AI 데이터센터, 디지털 전환, 스마트 전력관리, 스마트팩토리 등으로 구성되며, 데이터센터용 전력 인프라와 국가 단위 전력망 통합 관제 플랫폼 'K-EMS 2.0', ESS 기반 솔루션 등을 소개한다. 전력 수요가...",
+      "source": "kdfnews.com",
+      "date": "2026-07-09",
+      "url": "http://www.kdfnews.com/news/articleView.html?idxno=185016",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "LS일렉트릭, 베트남서 아세안 전력시장 공략…AI 데이터센터·스마트팩...",
+      "summary": "디지털 전환존에서는 국가 단위 전력망 통합 관제 플랫폼 ‘K-EMS 2.0’을 공개한다. 이 플랫폼은 발전 제어를 최적화해 실시간 전력망 안전성을 분석해 대규모 정전 위험을 줄이는 데 초점을 맞췄다. 스마트...",
+      "source": "megaeconomy.co.kr",
+      "date": "2026-07-09",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065593687097029",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "LS일렉트릭, 베트남 전시회서 차세대 전력 솔루션 공개",
+      "summary": "디지털 전환 존은 국가 전력망 통합 관제 플랫폼인 'K-EMS 2.0'을 중심으로 꾸려진다. K-EMS 2.0은 발전 제어 최적화와 실시간 안전성 분석을 통해 전력망 운영 비용을 줄이고 대규모 정전 위험을 선제적으로 관리할 수...",
+      "source": "metroseoul.co.kr",
+      "date": "2026-07-09",
+      "url": "http://www.metroseoul.co.kr/article/20260709500341",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "제주도, AI 신호체계 도입 효과…애조로 통행속도 14% 향상",
+      "summary": "제주도는 지난 5월 AI와 사물인터넷(IoT)을 활용해 포트홀과 도로 파손, 결빙 위험 등을 실시간으로 관리하는 'AI 기반 도로 통합관제 플랫폼 구축 사업'에 착수하는 등 데이터 기반 스마트 도로 관리 체계 구축을...",
+      "source": "megaeconomy.co.kr",
+      "date": "2026-07-09",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591385282555",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "LS일렉트릭, 차세대 전력 솔루션 역량 '과시'…일렉스 베트남 참여",
+      "summary": "K-EMS 2.0은 LS일렉트릭이 세계에서 5번째로 자체 개발에 성공한 국가 단위의 전력망 통합 관제 플랫폼이다. 발전 제어를 최적화해 운영 비용을 획기적으로 절감할 수 있으며 정밀한 실시간 안전성 분석을 통해...",
+      "source": "e-platform.net",
+      "date": "2026-07-09",
+      "url": "http://www.e-platform.net/news/articleView.html?idxno=103712",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "LS일렉트릭, 차세대 전력 솔루션 앞세워 아세안 시장 '정조준'",
+      "summary": "K-EMS 2.0은 LS일렉트릭이 세계에서 5번째로 자체 개발에 성공한 국가 단위의 전력망 통합 관제 플랫폼이다. 발전 제어를 최적화해 운영 비용을 획기적으로 절감할 수 있으며 정밀한 실시간 안전성 분석을 통해...",
+      "source": "epj.co.kr",
+      "date": "2026-07-09",
+      "url": "http://www.epj.co.kr/news/articleView.html?idxno=38950",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "전력 수요 급증하는 아세안…LS일렉트릭 \"패키지 솔루션으로 승부\"",
+      "summary": "K-EMS 2.0은 발전 제어 최적화를 통해 운영 효율을 높이고 실시간 전력망 분석으로 대규모 정전 위험을 줄일 수 있는 국가 단위 전력망 통합 관제 플랫폼이다. 스마트 전력관리 존에서는 변압기와 배전반, 차단기 등...",
+      "source": "fnnews.com",
+      "date": "2026-07-09",
+      "url": "http://www.fnnews.com/news/202607091332349422",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "이노뎁, AI 정책 기대감에 상한가[특징주]",
+      "summary": "통합관제 플랫폼과 AI 영상분석 기술을 기반으로 지능형 관제 솔루션 공급 실적을 확보한 점을 강점으로 꼽았다. 올해 대형 수주도 이어졌다. 이노뎁은 올해 1분기 64억원 규모의 광주 첨단3지구 스마트서비스 구축...",
+      "source": "newsway.co.kr",
+      "date": "2026-07-09",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026070913512545562",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "LS일렉트릭, 아세안 시장 정조준…'일렉스 베트남' 참가",
+      "summary": "K-EMS 2.0은 국가 단위의 전력망 통합 관제 플랫폼이다. 발전 제어 최적화로 운영 비용을 절감할 수 있고, 실시간 안전성 분석을 통해 대규모 정전 리스크를 차단해 전력망 상태를 선제적으로 예측할 수 있다. 스마트...",
+      "source": "전자신문",
+      "date": "2026-07-09",
+      "url": "https://www.etnews.com/20260709000272",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "LS일렉트릭, 데이터센터·전력망 솔루션으로 아세안 공략",
+      "summary": "디지털 전환 구역에서는 국가 단위 전력망 통합 관제 플랫폼 ‘K-EMS 2.0’을 전시한다. LS일렉트릭은 이 플랫폼이 발전 제어 최적화와 실시간 안전성 분석을 통해 전력망 운영 효율을 높이는 기술이라고 설명했다. 스마트...",
+      "source": "thepowernews.co.kr",
+      "date": "2026-07-09",
+      "url": "https://www.thepowernews.co.kr/view.php?ud=202607091343545517de3f0aa1be_7",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "클로봇, 방사성폐기물 처분시설서 융합로봇 실증",
+      "summary": "클로봇은 이번 실증을 통해 고위험 산업시설용 통합관제 플랫폼의 사업성을 검증하고, 원전 해체와 소형모듈원전(SMR) 시장 진출 기반을 마련한다는 전략이다. 또한 실증 과정에서 확보한 운영 데이터는 국내 원전과...",
+      "source": "이데일리",
+      "date": "2026-07-09",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04063926645512880",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "[Who Is ?] 정지선 현대백화점그룹 회장 겸 현대백화점 대표이사",
+      "summary": "2021년에는 현대그린푸드를 통해 복지몰 위탁운영 서비스 업계 1위인 이지웰(현 현대이지웰)의 지분 28.26%와 경영권을 1250억 원에 인수했다. 이를 두고 유통업계에서는 이커머스 사업 역량 강화 및 사기업 복지몰 시장...",
+      "source": "비즈니스포스트",
+      "date": "2026-07-08",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=441583",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "캐릭터 팬덤·AI 전환·서비스 혁신… 유통가의 경험 재설계",
+      "summary": "현대이지웰은 복지몰의 사용 환경을 대형 B2C 온라인몰 수준으로 끌어올리는 데 집중하고 있다. 현대백화점그룹 계열 토탈 복지 솔루션 기업인 현대이지웰은 7일 '차세대 복지 시스템'을 도입해 기존 복지몰을 전면...",
+      "source": "pressman.kr",
+      "date": "2026-07-08",
+      "url": "https://www.pressman.kr/news/articleView.html?idxno=102653",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "옴니케어, KISS 2026서 신체·정신 아우르는 '임직원 통합 복지 솔루션'...",
+      "summary": "건강검진부터 복지몰, 정신건강 관리까지 아우르는 맞춤형 솔루션으로 시장을 공략한다는 전략이다.... 비타몰은 비타브릿지 회원들만 이용할 수 있는 폐쇄형 복지몰이다. 건강관리 용품 및 생활복지 상품을...",
+      "source": "kr.aving.net",
+      "date": "2026-07-08",
+      "url": "https://kr.aving.net/news/articleView.html?idxno=1812278",
+      "matchedKeyword": "복지몰"
+    },
+    {
+      "title": "LG, 협력사 상생·소외계층 지원 확대",
+      "summary": "'협력사 임직원 전용 복지몰'도 이용할 수 있도록 했다. LG는 LG전자 '상생형 스마트공장 지원 프로그램' 등 협력사 기술 경쟁력 향상도 힘을 쏟고 있다. 창원대와 'LG전자 글로컬대학기술센터'를 구축하는 등 지역...",
+      "source": "techm.kr",
+      "date": "2026-07-08",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=153224",
+      "matchedKeyword": "복지몰"
+    },
+    {
+      "title": "[협력사의 재발견①] 대금 지급부터 투자·기술까지…재계, 상생 영역 넓...",
+      "summary": "임직원 복지몰 가입 대상도 2차 이하 협력사 임직원으로 확대하고 하도급 대금 관련 분쟁을 예방하기 위한 분쟁조정기구도 계열사별로 설치·운영하기로 했다. 이번 협약으로 LG 공급망에 속한 약 1300개 협력사가...",
+      "source": "ebn.co.kr",
+      "date": "2026-07-08",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1715502",
+      "matchedKeyword": "복지몰"
+    },
+    {
+      "title": "\"넥타이 대신 편한 복장 OK\" 전주시, 매주 수요일 '캐주얼 데이'",
+      "summary": "전주시는 간부 공무원들의 대중교통 이용 릴레이 캠페인을 이어가는 한편, 매월 대중교통 이용 우수 직원 10명을 선정해 2만 원 상당의 복지포인트를 지급하는 등 참여를 독려할 예정이다. 조지훈 전주시장은 \"공직자가 먼저...",
+      "source": "view.asiae.co.kr",
+      "date": "2026-07-08",
+      "url": "https://view.asiae.co.kr/article/2026070821100918768",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "'지금 빨리 신청하세요'… 7월 청년 지원금 체크리스트",
+      "summary": "경기도 거주 근로 청년이라면 '청년복지포인트' 신청 기한도 놓치지 말아야 한다. 경기도 내 중소·중견기업, 소상공인업체, 비영리법인에 재직 중인 만 19~39세 청년 중 건강보험료 6개월 평균이 일정 기준(약 385만원...",
+      "source": "ggilbo.com",
+      "date": "2026-07-08",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1168192",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "“우리가 특별해지는 도시의 일상”",
+      "summary": "전주시는‘대중교통 이용의 날’과 연계해 운영 중인 간부 공무원 릴레이 캠페인을 지속하는 한편, 매월 대중교통 이용 우수 직원 10명을 선정해 복지포인트 2만 원의 인센티브를 제공한다. 조지훈 시장은 “우리가...",
+      "source": "sjbnews.com",
+      "date": "2026-07-08",
+      "url": "https://sjbnews.com/news/news.php?number=882555",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "수완휴먼시아3단지 작은도서관, 최대 1만원 관리비 할인",
+      "summary": "전남광주통합특별시 광산구가 작은도서관 이용을 활성화하고 주민들의 관리비 부담을 덜기 위한 '주거복지 포인트 사업'을 추진한다. 광산구는 8일 LH 광주전남지역본부, 비아농협과 주거복지 포인트 사업 추진을 위한...",
+      "source": "남도일보",
+      "date": "2026-07-08",
+      "url": "https://www.namdonews.com/news/articleView.html?idxno=916355",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "[인터뷰] 박완수 경남지사 “남해안특별법·하동경제자유구역청, 정부 ...",
+      "summary": "먼저 카드 한 장으로 쇼핑·문화·교통 등 생활 전반의 우대 혜택을 누리는 ‘경남도민 멤버십 카드’와, 중장년층에게 연 최대 10만 원을 지원하는 ‘4050 복지포인트’를 추진한다. 청년의 자립과 지역 정착을 돕는...",
+      "source": "busan.com",
+      "date": "2026-07-08",
+      "url": "https://www.busan.com/view/busan/view.php?code=2026070818245750980",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "복장은 자유롭게-출퇴근은 대중교통··· '매주 수요일은 'Casual Day'",
+      "summary": "시는 '대중교통 이용의 날'과 연계해 운영 중인 간부 공무원 릴레이 캠페인을 지속하는 한편, 매월 대중교통 이용 우수 직원 10명을 선정해 복지포인트 2만 원의 인센티브를 제공하는 등 참여 분위기를 지속적으로 확산시켜...",
+      "source": "jjn.co.kr",
+      "date": "2026-07-08",
+      "url": "http://www.jjn.co.kr/news/articleView.html?idxno=1045980",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "[전남광주소식]'제1회 일하는 시민예술제@광산' 개최 등",
+      "summary": "◇광산구, 아파트 입주민 도서관 이용 시 관리비 할인 전남광주통합특별시 광산구는 한국토지주택공사(LH) 광주전남본부, 비아농협과 '주거복지 포인트 사업' 업무협약을 진행했다고 8일 밝혔다. 협약에 따라...",
+      "source": "newsis.com",
+      "date": "2026-07-08",
+      "url": "https://www.newsis.com/view/NISX20260708_0003701477",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "전주시, 복장 간소화 정책 ‘캐주얼 데이’ 본격 운영",
+      "summary": "아울러 시는 ‘대중교통 이용의 날’과 연계해 운영 중인 간부 공무원 릴레이 캠페인을 지속하는 한편, 매월 대중교통 이용 우수 직원 10명을 선정해 복지포인트 2만 원의 인센티브를 제공하는 등 참여 분위기를 지속적으로...",
+      "source": "thepowernews.co.kr",
+      "date": "2026-07-08",
+      "url": "https://www.thepowernews.co.kr/view.php?ud=2026070818023022643dfcd109a8_7",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "시내버스 타고 청바지로 출근한 조지훈 전주시장…전주시, '캐주얼 데이...",
+      "summary": "시는 '대중교통 이용의 날'과 연계해 운영 중인 간부 공무원 릴레이 캠페인을 지속하는 한편, 매월 대중교통 이용 우수 직원 10명을 선정해 복지포인트 2만 원의 인센티브를 제공하는 등 참여 분위기를 지속적으로 확산시켜...",
+      "source": "news.tf.co.kr",
+      "date": "2026-07-08",
+      "url": "https://news.tf.co.kr/read/national/2341283.htm",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "박완수 경남도지사, ‘제조업 AI·체감복지’로 대도약 시동",
+      "summary": "전국 최초로 ‘경남도민 멤버십 카드’와 ‘4050 복지 포인트’를 도입해 전 생애주기별 체감 복지를 확대한다. 방학 중 아동 식사 지원과 어린이집 과일 간식...",
+      "source": "브레이크뉴스",
+      "date": "2026-07-08",
+      "url": "http://www.breaknews.com/1220220",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "박완수 지사 \"행정통합 계속 추진…2028년 통합 단체장 선출 협의할 것...",
+      "summary": "경남도민멤버십카드·4050세대 복지포인트·경남도민연금 시즌2 도입·여성 건강증진 지원 등 박 지사 1호 복지 공약도 포함됐다. 매년 녹조 현상이 반복되는 낙동강과 관련해 수질 개선과 생태문화관광 활성화 프로젝트도...",
+      "source": "idomin.com",
+      "date": "2026-07-08",
+      "url": "https://www.idomin.com/news/articleView.html?idxno=2009673",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "\"복지 근무 환경 개선해야\"…경기도 사회복지종사자 처우개선 토론회 개...",
+      "summary": "그는 예산이 증가함에 따라 사회복지종사자의 처우수당을 비롯해 건강검진비, 복지포인트 ,인권보호사업 등 지원 분야가 확대됐다고 호평했다. 다만, 31개 시군 중 11개 시군이 전체 처우개선 예산의 90% 이상을...",
+      "source": "joongboo.com",
+      "date": "2026-07-08",
+      "url": "https://www.joongboo.com/news/articleView.html?idxno=363730916",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "정장 대신 편한 옷 입고 출근…전주시청 수요일 풍경 바뀐다",
+      "summary": "내부에서 대중교통 이용 분위기를 자연스럽게 확산시킬 계획이다. 인센티브도 병행한다. 시는 간부공무원 릴레이 캠페인을 이어가고, 매월 대중교통 이용 우수 직원 10명을 선정해 복지포인트 2만원을 지급할 예정이다.",
+      "source": "betanews.net",
+      "date": "2026-07-08",
+      "url": "https://www.betanews.net/article/view/beta202607080108",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "LG유플러스 \"SaaS기반 '구독형 AICC'로 중소·중견기업 시장 겨냥\"",
+      "summary": "국내 AICC 시장은 KT, SK텔레콤 등 타통신사는 물론 SI(시스템 통합)회사, BPO(업무처리 아웃소싱)회사 등이 경쟁한다. 이 중 중소·중견기업 시장은 KT가 유선 가입자에 기반해 선점했고 LG유플러스가 추격한다....",
+      "source": "머니투데이",
+      "date": "2026-07-08",
+      "url": "https://www.mt.co.kr/tech/2026/07/09/2026070810371739415",
+      "matchedKeyword": "BPO"
+    },
+    {
+      "title": "[기술로 혁신을 설계하다, 이트너스 기업부설연구소] 〈2〉 “손안의 K-...",
+      "summary": "20여 년간 인사·총무 비즈니스 프로세스 아웃소싱(BPO) 서비스를 운영하며 축적한 현장 경험을 바탕으로... 진희창 이트너스 기업부설연구소 소장은 “이트너스가 만들고자 하는 것은 단순한 BPO 서비스가 아니라 기업의...",
+      "source": "전자신문",
+      "date": "2026-07-08",
+      "url": "https://www.etnews.com/20260708000083",
+      "matchedKeyword": "BPO"
+    },
+    {
+      "title": "[교원 세대교체 빌드업] '그룹 현금 창고' 교원프라퍼티, 든든한 뒷배 역...",
+      "summary": "다만 상조업을 하는 교원라이프는 선수금이 자산과 부채를 동시에 부풀리는 업종 특성이 있어 실질적으로 그룹 내 자산을 가장 많이 쥔 곳은 교원프라퍼티다. 교원프라퍼티는 자회사로 생활가전 렌탈 브랜드...",
+      "source": "딜사이트",
+      "date": "2026-07-08",
+      "url": "https://dealsite.co.kr/articles/164592",
+      "matchedKeyword": "상조업"
+    },
+    {
+      "title": "'초고령사회' 장례식장도 바뀐다…상조업계 '실버케어 플랫폼' 전환",
+      "summary": "대한민국이 초고령사회에 본격 진입하면서 상조업계가 장례식 중심 모델에서 벗어나 노후·돌봄·디지털... 방향으로 상조업 진흥법 제정을 요구해 왔다. 직영 장례식장·장례문화센터 등 실버케어 투자를 민간...",
+      "source": "뉴스1",
+      "date": "2026-07-08",
+      "url": "https://www.news1.kr/industry/sb-founded/6222032",
+      "matchedKeyword": "상조업"
+    },
+    {
+      "title": "[주요공시] 디바이스, 라온텍, 일성건설, 아난티, 엑셈, 셀트리온, 스트...",
+      "summary": "■ 현대이지웰(KOSDAQ, 090850)은 Miri Capital Management LLC의 약식 대량보유상황보고가 제출됐다. 보고자는 Miri Capital Management LLC이며, 보유비율은 5.25%에서 6.61%로 상승했다. 변동 주식 수는 30만6300주 증가다....",
+      "source": "kdpress.co.kr",
+      "date": "2026-07-07",
+      "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=206715",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "현대이지웰, AWS 기반 '차세대 복지 시스템' 도입",
+      "summary": "현대이지웰 CI. 사진=현대백화점 현대백화점그룹 계열 토탈 복지 솔루션 기업 현대이지웰이 대형 온라인몰 수준의 시스템 환경을 갖춘 '차세대 복지 시스템'을 도입하며 복지몰 서비스 개편에 나선다. 현대이지웰은...",
+      "source": "weekly.hankooki.com",
+      "date": "2026-07-07",
+      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7173289",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "'현백 계열사' 현대이지웰, 복지몰 전면 개편…\"직장인 복지포인트 쓸 ...",
+      "summary": "현대백화점그룹 계열사 현대이지웰이 기존 복지몰을 전면 개편한다. 현대이지웰은 시스템 인프라와 UI·UX를 대형 온라인몰 수준으로 제공하는 '차세대 복지 시스템'을 도입하겠다고 7일 밝혔다. 신규 시스템은 지난...",
+      "source": "financialpost.co.kr",
+      "date": "2026-07-07",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=265461",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "현대이지웰, 대형 온라인몰급 시스템 도입…기존 복지몰 전면 개편",
+      "summary": "현대백화점그룹 계열 복지 솔루션 기업 현대이지웰은 차세대 복지 시스템을 도입해 기존 복지몰을 전면... 현대이지웰은 업그레이드를 통해 그룹 편입 이후 증가하는 신규 복지몰 개설 수요에 한층 신속하게 대응할...",
+      "source": "newsworks.co.kr",
+      "date": "2026-07-07",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=846432",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "[유통가 오늘] 홈앤쇼핑ㆍ농심ㆍ남양유업ㆍ현대이지웰",
+      "summary": "\"직장인 복지포인트 쓸 맛 나겠네\" … 현대이지웰, 대형 온라인몰급 시스템 도입 현대백화점그룹 계열 토탈 복지 솔루션 기업 현대이지웰은 시스템 인프라와 UI(사용자 환경)·UX(사용자 경험)을 대형 B2C 온라인몰...",
+      "source": "cnbnews.com",
+      "date": "2026-07-07",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1007241",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "현대이지웰, 복지몰 시스템 전면 고도화…AI 추천부터 클라우드 전환까...",
+      "summary": "현대이지웰이 7일 차세대 복지 시스템을 도입해 복지몰 이용 편의성과 서비스 안정성을 높이고 고객사 확대 기반을 마련했다. 현대이지웰은 AI 기술과 클라우드 인프라를 적용한 차세대 복지 시스템을 도입하며 선택적...",
+      "source": "ezyeconomy.com",
+      "date": "2026-07-07",
+      "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=237210",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "삼성 '온누리 페스티벌' 통했다...유통가 가전 매출 급증, 내수 진작 마...",
+      "summary": "현재 11번가와 롯데온, 현대H몰, 우체국쇼핑, 현대이지웰 등에서는 온누리상품권 결제가 가능한 전용관을 운영하고 있으며 배달 플랫폼인 땡겨요와 먹깨비, 머먹지 등에서도 사용이 가능하다. 전용관에서는 신선식품과...",
+      "source": "popcornnews.net",
+      "date": "2026-07-07",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=125816",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "현대이지웰, ‘차세대 복지 시스템’ 도입…대형 온라인몰 수준 구현",
+      "summary": "현대백화점그룹 계열 토탈 복지 솔루션 기업 현대이지웰은 시스템 인프라와 UI(사용자 환경)·UX(사용자... 현대이지웰 관계자는 “기존 복지몰들이 사용자 편의성보다는 고객사 아이덴티티를 반영한 전용몰 개발이나...",
+      "source": "g-enews.com",
+      "date": "2026-07-07",
+      "url": "https://www.g-enews.com/view.php?ud=20260707161042429056c162803_1",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "현대백화점그룹, 복지 플랫폼·패션 매장 서비스 동시 강화",
+      "summary": "현대이지웰은 기업 복지 플랫폼의 운영 환경을 개선했고, 한섬은 오프라인 매장에서 고객 의견을 쉽게 접수할 수 있는 서비스를 도입했다. 현대이지웰은 클라우드 기반의 차세대 복지 시스템을 적용해 기업 복지몰...",
+      "source": "polinews.co.kr",
+      "date": "2026-07-07",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=736287",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "유통가는 지금…여름 고객 잡기 총력전",
+      "summary": "현대이지웰은 AI 기반 상품 추천과 재입고 알림 등을 적용한 차세대 복지 시스템을 도입했다. 맞춤형 복지몰 구축 기간은 기존 4주에서 1주로 단축됐으며, 직장인들이 보다 편리하게 이용할 수 있도록 사용자 환경도 대폭...",
+      "source": "sateconomy.co.kr",
+      "date": "2026-07-07",
+      "url": "https://sateconomy.co.kr/news/view/1065587679854275",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "현대백화점그룹 계열 현대이지웰, 복지몰 전면 개편···신기능 추가로...",
+      "summary": "현대백화점그룹 계열 토탈 복지 솔루션 기업 현대이지웰은 시스템 인프라와 UI·UX를 대형 B2C 온라인몰... 특히 현대이지웰은 이번 업그레이드를 통해 시스템 효율성이 크게 향상되면서 신규 맞춤형 복지몰 구축 기간이...",
+      "source": "ngonews.kr",
+      "date": "2026-07-07",
+      "url": "https://www.ngonews.kr/news/articleView.html?idxno=232356",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "호텔신라 쿠팡 창고43 外(유통家 이모저모)",
+      "summary": "복지몰 전면 개편…대형 온라인몰 수준 시스템 도입= 현대백화점그룹(대표 정지영) 계열 현대이지웰이 시스템 인프라와 사용자 환경을 대형 온라인몰 수준으로 끌어올린 '차세대 복지 시스템'을 도입하고 복지몰을 전면...",
+      "source": "newsclaim.co.kr",
+      "date": "2026-07-07",
+      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068678",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "현대百 계열사들이 '고객 이용 장벽' 간소화하는 이유",
+      "summary": "현대이지웰CI. 사진/현대백화점 현대백화점그룹 계열사들이 기업간 거래나 소비자와의 거래를 가리지 않고... 토탈 복지 솔루션 기업 현대이지웰은 대형 B2C 온라인몰 수준의 인프라를 갖춘 '차세대 복지 시스템'을...",
+      "source": "smedaily.co.kr",
+      "date": "2026-07-07",
+      "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=359872",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "현대이지웰, 복지몰 시스템 개편…구축 기간 1주로 단축",
+      "summary": "현대백화점그룹 현대이지웰이 복지몰 시스템 개편 내용을 발표했다고 7일 밝혔다. 현대이지웰은 클라우드 기반 인프라를 적용한 ‘차세대 복지 시스템’을 도입했다. 이번 개편은 기존 시스템을 클라우드 환경으로...",
+      "source": "lawissue.co.kr",
+      "date": "2026-07-07",
+      "url": "http://www.lawissue.co.kr/view.php?ud=202607071116132046204ead0791_12",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "현대이지웰, 복지몰 시스템 전면 개편…대형 온라인몰 수준 이용 환경",
+      "summary": "현대백화점그룹이 복지솔루션 계열사 현대이지웰의 복지몰 시스템을 대형 온라인몰 수준으로 전면 개편해 업계 선도에 나섰다. 현대백화점그룹은 현대이지웰이 시스템 인프라와 사용자 환경(UI)·경험(UX)을 대형 B2C...",
+      "source": "newsmap.co.kr",
+      "date": "2026-07-07",
+      "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=1251",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "현대이지웰, '차세대 복지 시스템' 도입…복지몰 대대적 개편",
+      "summary": "현대백화점그룹 계열 토탈 복지 솔루션 기업 현대이지웰이 대형 B2C 온라인몰 수준의 시스템 인프라와 UI... 현대이지웰 관계자는 \"기존 복지몰들이 사용자 편의성보다는 고객사 아이덴티티를 반영한 전용몰 개발이나...",
+      "source": "nextdaily.co.kr",
+      "date": "2026-07-07",
+      "url": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251070",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "현대이지웰, AI 추천·재입고 알림 넣은 차세대 복지몰 도입",
+      "summary": "현대백화점그룹 계열 복지 솔루션 기업 현대이지웰이 복지몰 시스템을 대형 온라인몰 수준으로 전면 개편한다. 현대이지웰은 7일 차세대 복지 시스템을 도입해 기존 복지몰을 개선한다고 밝혔다. 이번 개편의 핵심은...",
+      "source": "newsquest.co.kr",
+      "date": "2026-07-07",
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=269229",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "현대이지웰, 복지몰 개편→한섬 '스토어톡' 도입",
+      "summary": "현대이지웰은 대형 B2C 온라인몰 수준의 시스템 인프라와 UI·UX를 갖춘 '차세대 복지 시스템'을 도입해 기존 복지몰을 전면 개편한다. 사진=현대이지웰 기존 시스템 인프라를 아마존웹서비스(AWS) 클라우드 방식으로...",
+      "source": "slist.kr",
+      "date": "2026-07-07",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=750066",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "현대이지웰, 복지몰 시스템 고도화…클라우드 기반 운영 환경 구축",
+      "summary": "라이센스뉴스 = 최은경 기자 | 현대이지웰이 복지몰 시스템을 전면 개편한다. 클라우드 기반 인프라를 적용하고 사용자 환경(UI)과 경험(UX)을 개선해 기업 임직원이 이용하는 복지몰 운영 효율을 높인다. 현대이지웰은...",
+      "source": "lcnews.co.kr",
+      "date": "2026-07-07",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=204529",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "‘임금님표 이천한우’ 경쟁력 제고 온힘",
+      "summary": "NH싱씽몰(농협몰)과 우체국쇼핑, 기업 복지몰 등 온라인 판로도 넓히고 있다. 이같은 노력으로 ‘임금님표 이천한우’는 전국 최초 한우 지리적표시제 등록과 G마크(경기도지사 인증), 무항생제 축산물·로하스(LOHAS)...",
+      "source": "nongmin.com",
+      "date": "2026-07-07",
+      "url": "https://www.nongmin.com/article/20260706500747",
+      "matchedKeyword": "복지몰"
+    },
+    {
+      "title": "LG, 협력사 상생 강화…900억원 금융 지원 확대",
+      "summary": "임직원 복지몰 가입 대상도 2차 이하 협력사 임직원까지 넓힌다. 공정위는 이번 협약으로 LG 공급망에 속한 약 1,300개 협력사가 혜택을 받을 것으로 예상했다. 주병기 공정거래위원장은 \"대기업의 경쟁력과 지속...",
+      "source": "srtimes.kr",
+      "date": "2026-07-07",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=206963",
+      "matchedKeyword": "복지몰"
+    },
+    {
+      "title": "\"쇼핑몰 없이 링크 하나로\" 라온엠앤에스, 구독·렌탈 플랫폼 '나구만' ...",
+      "summary": "특히 나구만은 제조사, 총판, 협회, 프랜차이즈, 복지몰, 온라인 판매자, SNS 크리에이터, 인플루언서 등 다양한 사업자가 별도의 개발 비용 없이 렌탈 서비스를 운영할 수 있도록 설계됐다. 라온엠앤에스 관계자는 “렌탈은...",
+      "source": "beyondpost.co.kr",
+      "date": "2026-07-07",
+      "url": "http://www.beyondpost.co.kr/view.php?ud=202607071446032536d3244b4fed_30",
+      "matchedKeyword": "복지몰"
+    },
+    {
+      "title": "충북기업진흥원, 충북 플라스틱 제조업 근로자 유출 복지 지원사업",
+      "summary": "지급된 복지포인트는 온라인 복지몰을 통해 자기계발, 건강관리 등 복지서비스에 자율적으로 사용할 수 있다. 신형근 원장은 \"앞으로도 도내 기업과 근로자가 함께 성장할 수 있는 실질적인 지원책을 지속적으로 발굴하고...",
+      "source": "충청리뷰",
+      "date": "2026-07-07",
+      "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=352161",
+      "matchedKeyword": "복지몰"
+    },
+    {
+      "title": "LG, 2·3차 협력사까지 상생협력 확대…1300여社 혜택",
+      "summary": "LG는 약 9000억원 규모의 동반성장펀드 가운데 10% 이상을 2차 이하 협력사에 지원하고, 협력사 임직원이 이용할 수 있는 ‘협력사 임직원 전용 복지몰’도 개방하기로 했다. 하범종 사장은 “글로벌 시장에서 경쟁은...",
+      "source": "헤럴드경제",
+      "date": "2026-07-07",
+      "url": "https://biz.heraldcorp.com/article/10800735?ref=naver",
+      "matchedKeyword": "복지몰"
+    },
+    {
+      "title": "수호아이오, PBM 디지털 상품권 플랫폼 ‘티코페이’ 실증 완료",
+      "summary": "수호아이오 관계자는 “이번 국가 블록체인 실증사업을 통해 PBM 기반 디지털 상품권 플랫폼의 사업성과 기술력을 검증했다”며 “국내를 비롯해 말레이시아와 일본, 베트남 등 해외 실증과 공공 바우처 분야로...",
+      "source": "decenter.kr",
+      "date": "2026-07-07",
+      "url": "https://www.decenter.kr/article/20064760?ref=naverdc",
+      "matchedKeyword": "공공 바우처"
+    },
+    {
+      "title": "수호아이오, '티코페이' 실증 완료…부정유통·미정산 차단",
+      "summary": "수호아이오 담당자는 “검증된 기술과 아바클라우드 기반 운영 레퍼런스를 토대로 국내는 물론 말레이시아, 일본, 베트남 등 해외 실증과 공공 바우처 영역까지 확장해 나갈 계획”이라고 전했다.",
+      "source": "전자신문",
+      "date": "2026-07-07",
+      "url": "https://www.etnews.com/20260707000281",
+      "matchedKeyword": "공공 바우처"
+    },
+    {
+      "title": "수호아이오, AvaCloud 기반 PBM 디지털 상품권 플랫폼 'Tiko Pay' 실증 완...",
+      "summary": "실증과 공공 바우처 영역까지 확장해 나갈 계획\"이라고 밝혔다. 수호아이오는 이번 사업 성과를 토대로 외국인 관광객 대상 디지털 결제, 지역상품권, 민간 포인트·바우처 등 다양한 영역에서 블록체인 기반 정산...",
+      "source": "tokenpost.kr",
+      "date": "2026-07-07",
+      "url": "https://www.tokenpost.kr/news/blockchain/375534",
+      "matchedKeyword": "공공 바우처"
+    },
+    {
+      "title": "수호아이오, PBM 기반 디지털 상품권 실증 완료…외국인 관광객 결제 혁...",
+      "summary": "시장과 공공 바우처 분야까지 사업을 확대할 계획”이라고 말했다. Suho.io Completes PBM-Based Digital Gift Certificate Pilot… Embarks on Payment Innovation for Foreign Tourists Suho.io, a digital...",
+      "source": "venturesquare.net",
+      "date": "2026-07-07",
+      "url": "https://www.venturesquare.net/1096382/",
+      "matchedKeyword": "공공 바우처"
+    },
+    {
+      "title": "웅진 계열사 줄자본잠식…3조 선수금 누구 돈",
+      "summary": "웅진프리드라이프는 국내 상조업계 1위 사업자로, 학령인구 감소와 계열사 부실로 부담이 커진 웅진그룹... 상조업은 고객이 장기간 납입하는 선수금을 기반으로 운영된다. 장례 등 실제 서비스 제공 시점보다 훨씬 앞서...",
+      "source": "wemakenews.co.kr",
+      "date": "2026-07-07",
+      "url": "https://wemakenews.co.kr/news/view.php?no=25717",
+      "matchedKeyword": "상조업"
+    },
+    {
+      "title": "윤석금 회장 사재 투입에도…웅진 유동성 '적신호' 지속",
+      "summary": "상조업 특성상 매월 선수금이 꾸준히 유입되는 구조여서 그룹 내 사실상 유일한 안정적인 현금원으로... 한편, 상조업체는 할부거래법에 따라 소비자로부터 받은 선수금의 절반 이상을 은행 예치나 지급보증 등을 통해...",
+      "source": "1conomynews.co.kr",
+      "date": "2026-07-07",
+      "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=49444",
+      "matchedKeyword": "상조업"
+    },
+    {
+      "title": "[단독] ESS 부품사 한중엔시에스, 해킹 의혹…설계도면·임직원 정보 유...",
+      "summary": "ERP 백업과 인사(HRM), 품질관리(QMS) 데이터베이스까지 함께 포함된 만큼 내부 시스템 전반이 침해됐을 가능성에 무게가 실린다. 이와 함께 임직원 △이름 △주민등록번호 △휴대전화 번호 △이메일 △계좌번호 등 민감...",
+      "source": "ngetnews.com",
+      "date": "2026-07-07",
+      "url": "https://www.ngetnews.com/news/articleView.html?idxno=551299",
+      "matchedKeyword": "HRM"
+    },
+    {
+      "title": "실버주택, '액티브 시니어' 사로잡은 주거 트렌드는?",
+      "summary": "자산과 소비력을 갖춘 이른바 '액티브 시니어'층이 실버산업의 소비 주체로 떠올랐기 때문입니다. ▶ 인터뷰 : 심주하 / 남양주시 다산동 - \"은퇴를 그냥 쉬는 게 아니라 제2의 인생이라고 생각하거든요. 청소 식단 같은...",
+      "source": "mbn.co.kr",
+      "date": "2026-07-07",
+      "url": "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1423387",
+      "matchedKeyword": "실버산업"
+    },
+    {
+      "title": "\"미·중 패권갈등 심화 속…한·중 바이오 전략적 협력 강화해야\"",
+      "summary": "동북아시아는 세계적으로도 고령 인구가 밀집한 지역으로 향후 실버산업과 바이오헬스케어를 결합한 시장이 빠르게 확대될 것으로 예상된다. 또한 중국은 지난 3월 최대 정치행사인 양회(전국정치협상회의...",
+      "source": "뉴스1",
+      "date": "2026-07-07",
+      "url": "https://www.news1.kr/bio/general/6219911",
+      "matchedKeyword": "실버산업"
+    },
+    {
+      "title": "감출수록 더 보고 싶어지는 것들",
+      "summary": "36년간SK엠앤서비스 등 기업 현장에서 서비스·콘텐츠 기획, 교육, ESG, 상생협력 업무를 담당했다. 중소기업·스타트업 자문과 함께, 브랜드와 공간, 사람과 일상에서 발견한 인사이트를 수집하고 글로 기록하는 인사이트...",
+      "source": "cooknchefnews.com",
+      "date": "2026-07-06",
+      "url": "https://cooknchefnews.com/news/view/1065597892391289",
+      "matchedKeyword": "SK엠앤서비스"
+    },
+    {
+      "title": "삼성전자 덕에 온누리상품권 '대목'…온라인몰도 '낙수 효과' 기대",
+      "summary": "온누리상품권 결제가 가능한 쇼핑몰은 △11번가 △롯데온(On) △현대홈쇼핑(현대H몰) △우체국쇼핑 △현대이지웰 등이 있으며 △땡겨요 △먹깨비 △머먹지 등 배달앱에서도 사용할 수 있다. 각 쇼핑몰에서는 온누리상품권...",
+      "source": "ebn.co.kr",
+      "date": "2026-07-06",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1715204",
+      "matchedKeyword": "이지웰"
+    },
+    {
+      "title": "\"수년째 공터로 방치… 장애인들은 오늘도 불편함을 견딘다\"",
+      "summary": "전문가들은 \"장애인복지관은 선택적 복지시설이 아니라 지역사회 필수 공공인프라\"라며 \"행정은 정확한 공사 일정과 지연 사유를 투명하게 공개하고, 조속한 착공과 함께 임시 복지관 이용 불편을 최소화할 긴급 대책을...",
+      "source": "gjdream.com",
+      "date": "2026-07-06",
+      "url": "http://www.gjdream.com/news/articleView.html?idxno=670742",
+      "matchedKeyword": "선택적복지"
+    },
+    {
+      "title": "\"개발자가 직접 코딩하는 마지막 여름\"…웹케시 창업자의 AI 승부수",
+      "summary": "비즈플레이는 2016년 경비지출관리 서비스를 출시한 이후 출장·복지·식대·총무 등 기업 임직원 대상(B2E) 서비스로 사업 영역을 넓혀 현재 3만2,000여 개 고객사를 확보했다. 국내에서 유일하게 모든 카드사와 자동...",
+      "source": "hankookilbo.com",
+      "date": "2026-07-06",
+      "url": "https://www.hankookilbo.com/news/article/A2026070415290001171?did=NA",
+      "matchedKeyword": "B2E"
+    },
+    {
+      "title": "외국인관광객 환전 없이 QR 결제…수호아이오, '티코페이' 실증완료",
+      "summary": "실증과 공공 바우처 영역까지 확장해 나갈 계획”이라고 밝혔다. 수호아이오는 이번 사업 성과를 토대로 외국인 관광객 대상 디지털 결제, 지역상품권, 민간 포인트·바우처 등 다양한 영역에서 블록체인 기반 정산...",
+      "source": "이데일리",
+      "date": "2026-07-06",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02650246645512224",
+      "matchedKeyword": "공공 바우처"
+    },
+    {
+      "title": "'AI 및 로봇 기술' 라이드문, 'R&D혁신' 기업 선정",
+      "summary": "회사 측은 \"LLM(거대언어모델) 기반의 지능형 BPO(업무처리아웃소싱) 솔루션으로 병원의 5대 행정 영역을 자동화하고, 원무 상담 비용을 최대 90%까지 절감하고 있다\"고 말했다.",
+      "source": "머니투데이",
+      "date": "2026-07-06",
+      "url": "https://www.mt.co.kr/industry/2026/07/06/2026070317221715031",
+      "matchedKeyword": "BPO"
+    },
+    {
+      "title": "교원라이프, 선수금 1.65조 운용 “고위험 투자 없다”",
+      "summary": "측이 “상조업의 사업 특성과 회계기준이 반영된 구조일 뿐, 고위험 투자자산을 운용하고 있지 않다”고... 이에 대해 교원라이프는 “상조업은 고객과 장기간 계약을 유지하는 사업 특성상 단기 유동성 자산과 함께...",
+      "source": "sateconomy.co.kr",
+      "date": "2026-07-06",
+      "url": "http://sateconomy.co.kr/news/view/1065588445632182",
+      "matchedKeyword": "상조업"
+    },
+    {
+      "title": "박길호 엘비라이프 대표 취임…\"조합원 복지·생활서비스 강화\" 첫 일성",
+      "summary": "상조업은 고객이 장기간 비용을 맡기고 미래 서비스를 약속받는 구조인 만큼 신뢰와 안정성이 중요하다. 여기에 조합 출자회사라는 성격까지 더해져 조합원 복리 증진과 고객 서비스 품질 관리가 함께 요구된다. 유교에서...",
+      "source": "cfnews.kr",
+      "date": "2026-07-06",
+      "url": "https://www.cfnews.kr/news/article.html?no=109865",
+      "matchedKeyword": "상조업"
+    },
+    {
+      "title": "[기고]모두를 위한 관광, 기본사회로 전환의 필요조건",
+      "summary": "문화체육관광부는 기본사회 전환의 일환으로 ‘근로자 휴가 지원사업’ ‘지역사랑 휴가지원’ ‘숙박할인 지원’, 올해 도입한 ‘연박·섬 할인권’으로 대응하고 있다. 그러나 근로자 휴가 지원사업은 자영업자와...",
+      "source": "khan.co.kr",
+      "date": "2026-07-06",
+      "url": "https://www.khan.co.kr/article/202607061955005",
+      "matchedKeyword": "근로자휴가지원"
+    },
+    {
+      "title": "[장석영의 '실버 산업' 현황과 전망] <161> 초고령사회가 주목해야 할 두...",
+      "summary": "우리나라는 초고령사회로 진입하면서 노인 돌봄의 중요성이 어느 때보다 커지고 있다. 평균수명의 연장과 함께 치매, 경도인지장애 등 인지기능 저하를 경험하는 어르신들이 증가하면서 돌봄의 개념 또한 단순한 신체...",
+      "source": "youthdaily.co.kr",
+      "date": "2026-07-06",
+      "url": "https://www.youthdaily.co.kr/news/article.html?no=222336",
+      "matchedKeyword": "실버산업"
+    }
+  ]
+}
