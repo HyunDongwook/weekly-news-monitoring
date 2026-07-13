@@ -1,4 +1,4 @@
-name: Weekly News Update
+name: Weekly News Candidate Collection
 
 on:
   schedule:
@@ -8,15 +8,9 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
 
 jobs:
-  update:
+  collect:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -27,35 +21,24 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Update news data (Naver News Search API)
+      - name: Collect news candidates (Naver News Search API)
         env:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
         run: node scripts/update-news.mjs
 
-      - name: Commit and push if changed
+      # This step only stages the raw candidate list (data/candidates.json).
+      # Curation (reading each article, filtering out short news/photo/ad
+      # pieces, dropping duplicates) and publishing to current-week-data.js /
+      # archive-data.js happens separately, outside this workflow.
+      - name: Commit candidates if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/current-week-data.js data/archive-data.js
+          git add data/candidates.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Weekly news data update"
+            git commit -m "Weekly news candidates collected"
             git push
           fi
-
-      # Pushes made with the workflow's own GITHUB_TOKEN don't trigger GitHub
-      # Pages' classic "Deploy from a branch" auto-build, so this workflow
-      # deploys the site itself right after updating the data.
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: '.'
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
