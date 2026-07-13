@@ -187,7 +187,7 @@ const results = [];
   const seenUrls = new Set();
   const selectedTitleBigrams = [];
   for (const item of allItems) {
-    if (results.length >= MAX_PER_CATEGORY) break;
+    
 
   const articleUrl = item.originallink || item.link;
     if (!articleUrl) continue;
