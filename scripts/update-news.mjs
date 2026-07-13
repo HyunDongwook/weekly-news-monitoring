@@ -170,7 +170,7 @@ async function fetchQueryItems(query) {
 
 // A category now maps to a list of keywords instead of a single query, so we
 // call the API once per keyword and merge everything before deduping/capping.
-async function fetchCategoryArticles(category) {
+async function fetchCategoryArticles(category, periodStart, periodEnd) {
   const allItems = [];
   for (const keyword of category.keywords) {
     try {
@@ -195,7 +195,7 @@ const results = [];
     if (seenUrls.has(articleUrl)) continue;
 
   const date = formatDate(item.pubDate);
-    if (!date) continue;
+    if (!date) continue; if (date < periodStart || date > periodEnd) continue;
 
   const title = stripTags(item.title);
     if (isNearDuplicateTitle(title, selectedTitleBigrams)) continue;
@@ -267,7 +267,7 @@ const now = new Date();
 const allArticles = [];
   for (const category of CATEGORIES) {
     try {
-      const items = await fetchCategoryArticles(category);
+      const items = await fetchCategoryArticles(category, periodStart, periodEnd);
       allArticles.push(...items);
     } catch (err) {
       console.error(`Category "${category.key}" failed:`, err.message);
