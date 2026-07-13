@@ -279,7 +279,7 @@ if (allArticles.length === 0) {
   process.exit(1);
 }
 
-const TOTAL_ARTICLE_CAP = 40; allArticles.sort((a, b) => new Date(b.date) - new Date(a.date)); const seenGlobalUrls = new Set(); const dedupedArticles = []; for (const article of allArticles) { if (seenGlobalUrls.has(article.url)) continue; seenGlobalUrls.add(article.url); dedupedArticles.push(article); } const cappedArticles = dedupedArticles.slice(0, TOTAL_ARTICLE_CAP); let archive = [];
+const TOTAL_ARTICLE_CAP = 40; const MIN_PER_CATEGORY = 5; const seenGlobalUrls = new Set(); const uniqueArticles = []; for (const article of allArticles) { if (seenGlobalUrls.has(article.url)) continue; seenGlobalUrls.add(article.url); uniqueArticles.push(article); } uniqueArticles.sort((a, b) => new Date(b.date) - new Date(a.date)); const byCategory = {}; for (const article of uniqueArticles) { (byCategory[article.category] = byCategory[article.category] || []).push(article); } const usedUrls = new Set(); const cappedArticles = []; for (const category of CATEGORIES) { const items = (byCategory[category.key] || []).slice(0, MIN_PER_CATEGORY); for (const item of items) { if (!usedUrls.has(item.url)) { usedUrls.add(item.url); cappedArticles.push(item); } } } for (const article of uniqueArticles) { if (cappedArticles.length >= TOTAL_ARTICLE_CAP) break; if (usedUrls.has(article.url)) continue; usedUrls.add(article.url); cappedArticles.push(article); } let archive = [];
   try {
     archive = loadWindowVar(ARCHIVE_PATH, 'ARCHIVE_WEEKS') || [];
   } catch (err) {
