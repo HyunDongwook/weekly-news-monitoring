@@ -25,7 +25,7 @@ const CATEGORIES = [
                 '이제너두',
                 '기업복지 플랫폼',
                 '복지포인트',
-                '선택적복지제도',
+          '선택적복지제도',
                 'B2E 플랫폼',
                 '복지몰 운영',
                 '근로자휴가지원사업',
@@ -196,7 +196,9 @@ async function fetchQueryItems(query, periodStart) {
           const data = await res.json();
           const items = data.items || [];
           if (items.length === 0) break;
-          allItems.push(...items);
+          for (const item of items) {
+                  allItems.push({ ...item, _matchedKeyword: query });
+          }
           const oldestDate = formatDate(items[items.length - 1].pubDate);
           if (oldestDate && oldestDate < periodStart) break;
           if (items.length < 100) break;
@@ -234,11 +236,24 @@ async function fetchCategoryArticles(category, periodStart, periodEnd) {
           if (date < periodStart || date > periodEnd) continue;
 
       const title = stripTags(item.title);
-          if (isNearDuplicateTitle(title, selectedTitleBigrams)) continue;
+          const descriptionText = stripTags(item.description);
 
-      let summary = stripTags(item.description);
+      // Naver's news search appears to match on individual words rather than
+      // exact phrases, so a multi-word keyword like "기업복지 플랫폼" can match
+      // articles that merely contain "기업", "복지", and "플랫폼" as separate,
+      // unrelated words scattered through the text. Require the literal
+      // keyword phrase (ignoring whitespace) to actually appear in the
+      // title+description before accepting the article, to filter out these
+      // false positives.
+      const haystack = (title + descriptionText).replace(/\s+/g, '');
+          const needle = (item._matchedKeyword || '').replace(/\s+/g, '');
+          if (needle && !haystack.includes(needle)) continue;
+
+      if (isNearDuplicateTitle(title, selectedTitleBigrams)) continue;
+
+      let summary = descriptionText;
           if (summary.length > 160) {
-      summary = `${summary.slice(0, 157).trim()}...`;
+                  summary = `${summary.slice(0, 157).trim()}...`;
           }
 
       let source = articleUrl;
