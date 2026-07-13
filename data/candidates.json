@@ -10,8 +10,8 @@
   "periodLabel": "2026.07.06 ~ 2026.07.12",
   "periodStart": "2026-07-06",
   "periodEnd": "2026-07-12",
-  "generatedAt": "2026-07-13T17:38:24+09:00",
-  "candidateCount": 313,
+  "generatedAt": "2026-07-13T17:44:32+09:00",
+  "candidateCount": 334,
   "candidates": [
     {
       "title": "'70세 이상 버스비 지원' 서울시 조례 의결…시행은 언제?",
@@ -526,19 +526,19 @@
       "matchedKeyword": "GA"
     },
     {
-      "title": "日 보험대리점업계 \"수수료 제도 개선해야\"… 초당파 의원들도 지원 나...",
-      "summary": "일본의 보험대리점은 한국의 법인보험대리점(GA)과 유사한 형태로, 여러 보험사의 상품을 판매하는 독립 판매채널 역할을 한다. 참석자들은 보험사별로 다른 수수료 포인트 기준이 고객 맞춤형 상품 비교·추천을 어렵게...",
-      "source": "한국보험신문",
-      "date": "2026-07-12",
-      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91723",
-      "matchedKeyword": "GA"
-    },
-    {
       "title": "보험금 노리는 '제3자 리스크'… 당국, 요양병원 페이백 정조준",
       "summary": "금융감독원(이하 금감원)이 보험상품에 내재한 '제3자 리스크'와 요양병원 페이백 행태, 법인보험대리점(GA)... ■ GA 부당승환·방카 불완전판매도 도마 민생침해 측면에서는 GA의 데이터베이스(DB)영업이 도마에 올랐다....",
       "source": "한국보험신문",
       "date": "2026-07-12",
       "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91720",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "日 보험대리점업계 \"수수료 제도 개선해야\"… 초당파 의원들도 지원 나...",
+      "summary": "일본의 보험대리점은 한국의 법인보험대리점(GA)과 유사한 형태로, 여러 보험사의 상품을 판매하는 독립 판매채널 역할을 한다. 참석자들은 보험사별로 다른 수수료 포인트 기준이 고객 맞춤형 상품 비교·추천을 어렵게...",
+      "source": "한국보험신문",
+      "date": "2026-07-12",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91723",
       "matchedKeyword": "GA"
     },
     {
@@ -726,14 +726,6 @@
       "matchedKeyword": "멤버십"
     },
     {
-      "title": "신세계百 상반기 외국인 매출 5천억 돌파, 사상 첫 연간 1조 기대 '글로...",
-      "summary": "이에 백화점이 운영 중인 외국인 전용 멤버십 프로그램 역시 120여 개국의 30만명 이상 가입자수를 기록 중이다. 신세계백화점 대표 점포들이 관광 · 쇼핑 · 문화 콘텐츠를 결합한 랜드마크 전략을 앞세워 외국인 고객...",
-      "source": "kdfnews.com",
-      "date": "2026-07-12",
-      "url": "http://www.kdfnews.com/news/articleView.html?idxno=185094",
-      "matchedKeyword": "멤버십"
-    },
-    {
       "title": "\"글로벌 쇼핑 랜드마크로\" 신세계百, 상반기 외국인 매출 5천억 돌파",
       "summary": "신세계백화점이 운영 중인 외국인 전용 멤버십 프로그램 역시 120여 개국의 30만명 이상 가입자수를 기록 중이다. 쇼핑 할인과 사은 혜택, 편의 서비스를 강화해 고객 만족도를 높이는 동시에 데이터 기반 맞춤형...",
       "source": "newsis.com",
@@ -747,6 +739,14 @@
       "source": "이투데이",
       "date": "2026-07-12",
       "url": "https://www.etoday.co.kr/news/view/2602806",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "신세계百 상반기 외국인 매출 5천억 돌파, 사상 첫 연간 1조 기대 '글로...",
+      "summary": "이에 백화점이 운영 중인 외국인 전용 멤버십 프로그램 역시 120여 개국의 30만명 이상 가입자수를 기록 중이다. 신세계백화점 대표 점포들이 관광 · 쇼핑 · 문화 콘텐츠를 결합한 랜드마크 전략을 앞세워 외국인 고객...",
+      "source": "kdfnews.com",
+      "date": "2026-07-12",
+      "url": "http://www.kdfnews.com/news/articleView.html?idxno=185094",
       "matchedKeyword": "멤버십"
     },
     {
@@ -774,19 +774,19 @@
       "matchedKeyword": "멤버십"
     },
     {
-      "title": "\"태안에서 샷하고 구마모토에서 온천욕\"… 국경 허문 '하이브리드 회원...",
-      "summary": "과거 회원권이 특정 지역의 잔디를 밟기 위한 '입장권'에 불과했다면, 이제는 골퍼의 라이프스타일 전반을 아우르는 '자산형 하이브리드 멤버십'으로 진화하고 있다. 엔저로 일본 골프 여행 수요가 늘어난 가운데, 국내...",
-      "source": "fnnews.com",
-      "date": "2026-07-12",
-      "url": "http://www.fnnews.com/news/202607121835196163",
-      "matchedKeyword": "멤버십"
-    },
-    {
       "title": "‘집토끼’ 꽉 잡아라…이커머스 멤버십 더 큰 혜택",
       "summary": "- 오프라인, 체험 앞세워 방문 유도 이(e)커머스업계가 신규 회원 유치보다 기존 멤버십 회원의 구매 빈도와... 12일 유통업계에 따르면 SSG닷컴은 지난 7일 유료 멤버십 ‘쓱7클럽’ 회원에게 결제액의 14%를 SSG머니로...",
       "source": "kookje.co.kr",
       "date": "2026-07-12",
       "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260713.22012003434",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "\"태안에서 샷하고 구마모토에서 온천욕\"… 국경 허문 '하이브리드 회원...",
+      "summary": "과거 회원권이 특정 지역의 잔디를 밟기 위한 '입장권'에 불과했다면, 이제는 골퍼의 라이프스타일 전반을 아우르는 '자산형 하이브리드 멤버십'으로 진화하고 있다. 엔저로 일본 골프 여행 수요가 늘어난 가운데, 국내...",
+      "source": "fnnews.com",
+      "date": "2026-07-12",
+      "url": "http://www.fnnews.com/news/202607121835196163",
       "matchedKeyword": "멤버십"
     },
     {
@@ -814,6 +814,198 @@
       "matchedKeyword": "멤버십"
     },
     {
+      "title": "코스맥스, 日 후지신과 JV 설립…맞춤형 화장품 선보인다",
+      "summary": "코스맥스가 첫 진출 국가로 일본을 선택한 것은 오프라인 기반 맞춤형 처방·구독 모델을 안착시키기 적합한 시장이라는 판단에서다. 일본은 프리미엄 미용 서비스에 대한 소비자 수용도가 높고 미용사와 소비자 간...",
+      "source": "이데일리",
+      "date": "2026-07-12",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02345206645514192",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "위즈코어, 국산 CAD '캐디안(CADian)' AI 시대 설계 생산성 플랫폼으로 ...",
+      "summary": "지속적인 구독료 부담으로 인해 오토캐드(AutoCAD) 대체 솔루션을 검토하는 기업이 증가하면서 높은... 반복적인 구독 비용 부담을 줄일 수 있다는 점도 기업 고객들의 관심을 끄는 요소다. 최근 기업들이 소프트웨어...",
+      "source": "ikld.kr",
+      "date": "2026-07-12",
+      "url": "http://www.ikld.kr/news/articleView.html?idxno=337457",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "하나카드, 유료 AI 30종 한 번에 쓰는 ‘AI스마트팩’ 선봬",
+      "summary": "이투데이=전아현 기자 | 하나카드가 30종의 AI 서비스를 하나의 플랫폼에서 이용할 수 있는 유료 구독 서비스 ‘AI스마트팩’을 판매한다고 13일 밝혔다. AI스마트팩은 챗GPT와 제미나이, 클로드, 그록 등 대화형·생성형...",
+      "source": "이투데이",
+      "date": "2026-07-12",
+      "url": "https://www.etoday.co.kr/news/view/2602906",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "[Tech & Now] SK쉴더스, 프로스트 앤드 설리번 '아태 고객 가치 리더십' ...",
+      "summary": "약 95%에 달하는 높은 MDR 고객 유지율과 유연한 구독형 서비스 모델 역시 차별화 요소로 꼽혔다. 앞서 SK쉴더스는 지난해 'IDC 마켓스케이프: 아시아태평양 MDR 서비스 벤더 평가 2025'에서 국내 기업 중 유일하게 '메이저...",
+      "source": "ebn.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1716052",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "日 미용실 2만곳 유통망 활용…코스맥스, 맞춤형 화장품 해외 확장 '첫발...",
+      "summary": "처방·구독 모델 도입  화장품 ODM(제조자개발생산) 기업 코스맥스가 일본 미용 전문 기업과 손잡고 맞춤형... 코스맥스는 일본이 오프라인 기반 맞춤형 처방·구독 모델을 안착시키기에 적합한 시장이라고 판단해 첫...",
+      "source": "youthdaily.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.youthdaily.co.kr/news/article.html?no=222818",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "코스맥스 日 후지신과 맞손, AI 맞춤형 화장품 해외 확장",
+      "summary": "일본을 첫 진출국으로 선택한 것은 프리미엄 미용 서비스에 대한 소비자 수용도가 높고, 미용사와 고객 간 신뢰 관계가 견고해 오프라인 기반 맞춤형 처방 및 구독 서비스를 정착시키기 유리하다고 판단했기 때문이다....",
+      "source": "economist.co.kr",
+      "date": "2026-07-12",
+      "url": "https://economist.co.kr/article/view/ecn202607130003",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "뉴욕시, 전국 최초 ‘구독 함정’ 금지 규정 시행",
+      "summary": "뉴욕시가 소비자들이 구독 서비스를 해지하기 어렵게 만드는 이른바 ‘구독 함정(subscription trap)’과 숨겨진 추가 요금을 막기 위한 소비자 보호 정책을 도입한다. 지난 10일 조란 맘다니 뉴욕시장은 자동 갱신 구독...",
+      "source": "koreadaily.com",
+      "date": "2026-07-12",
+      "url": "https://www.koreadaily.com/article/20260712164718683",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "\"AI 처방 해외 첫 진출\" 코스맥스, 日 후지신과 맞춤형 화장품 합작법인...",
+      "summary": "일본은 프리미엄 미용 서비스에 대한 수요가 높고 미용사와 소비자 간 신뢰 관계가 강해 오프라인 기반 맞춤형 처방·구독 모델을 적용하기 적합한 시장으로 평가받는다. 코스맥스는 맞춤형 화장품 플랫폼 '3WAAU...",
+      "source": "newsis.com",
+      "date": "2026-07-12",
+      "url": "https://www.newsis.com/view/NISX20260713_0003706104",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "코스맥스, AI 맞춤 처방 들고 日 진출…글로벌 시장 공략 '첫발'",
+      "summary": "양사는 코스맥스의 AI 기반 맞춤형 화장품 처방·제조 기술과 후지신의 미용실 유통망을 결합해 오프라인 맞춤형 처방·구독 모델을 구축할 계획이다. 미용사와 고객 간 신뢰가 강하고 프리미엄 미용 서비스 수요가 높은...",
+      "source": "매일일보",
+      "date": "2026-07-12",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1390673",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "하나카드, 프리미엄 AI 30종 올인원 구독 서비스 'AI스마트팩' 출시",
+      "summary": "유료 구독 서비스 'AI스마트팩'을 출시했다고 13일 밝혔다. [이미지=하나카드]  하나카드는 30가지 프리미엄 AI 서비스를 하나의 플랫폼에서 제공하는 유료 구독 서비스 'AI스마트팩'을 출시했다고 13일 밝혔다. 챗GPT...",
+      "source": "joongangenews.com",
+      "date": "2026-07-12",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=532267",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "하나카드, AI 30종 구독에 가족 금융사기 보장 결합",
+      "summary": "하나카드는 30종의 프리미엄 AI를 한 플랫폼에서 이용하고 가족의 금융사기 피해까지 보장하는 구독 서비스... 여러 생성형 AI 서비스를 각각 구독할 때 발생하는 비용과 계정 관리 부담을 줄이는 데 초점을 맞췄다....",
+      "source": "press9.kr",
+      "date": "2026-07-12",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=79293",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "SK쉴더스, '아태 고객 가치 리더십' 사이버보안 우수 기업 선정",
+      "summary": "또한 고객 규모와 보안 성숙도에 맞춰 선택할 수 있는 구독형 서비스 모델과 유연한 서비스 운영 체계도 차별화된 경쟁력 요소로 평가했다. 김병무 사이버보안부문장(부사장)은 \"이번 선정은 고객이 직면한 다양한...",
+      "source": "cstimes.com",
+      "date": "2026-07-12",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=713158",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "\"임영웅 팬 잡는다\"…LG헬로비전, 트로트 특화 상품 선봬",
+      "summary": "'트롯초이스'는 트로트 예능 장르에 특화된 구독형 서비스로, 두터운 팬덤을 보유한 중장년층 시청자를 겨냥했다. 이용자는 TV조선 대표 트로트 오디션 프로그램인 '미스트롯'과 '미스터트롯' 시즌1부터 최신 시즌까지 한...",
+      "source": "ddaily.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.ddaily.co.kr/page/view/2026071308233786431",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "서울경제진흥원, 청년 영화인 발굴부터 산업 연계까지, 서울영화센터 역...",
+      "summary": "왓챠 피디아는 상영작 데이터베이스(DB) 등록과 구독권 지원을 맡았고, SLR렌트는 수상 감독에게 촬영 장비를 지원했다. 샌딩유는 배급지원상 수상작의 후속 배급을 연계했으며, 무비블록은 현장 참석이 어려운...",
+      "source": "enewstoday.co.kr",
+      "date": "2026-07-12",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447907",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "'생성형 AI 음성 플랫폼' 네오사피엔스, 코스닥 예심 통과…IPO 본격화",
+      "summary": "누적 가입자는 320만명에 달하며, 개인 콘텐츠 제작 시장을 넘어 방송·교육·홈쇼핑·게임 등 기업(B2B) 시장으로 사업을 확대해 안정적인 구독형 매출 구조를 구축했다. 최근에는 실시간 대화형 AI 분야로 사업 영역도...",
+      "source": "이데일리",
+      "date": "2026-07-12",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02132006645514192",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "코스맥스, 맞춤형 화장품으로 日 공략…후지신과 합작법인 설립",
+      "summary": "두 회사는 일본 미용실을 기반으로 맞춤형 화장품 처방과 구독 서비스를 결합한 현지 사업 모델을 구축할 계획이다. 이번 합작법인 설립은 코스맥스가 2023년 맞춤형 화장품 플랫폼을 선보인 이후 해외 시장에서 사업...",
+      "source": "헤럴드경제",
+      "date": "2026-07-12",
+      "url": "https://biz.heraldcorp.com/article/10806294?ref=naver",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "'세계 유일' 의료기기 반지형 혈압계…스카이랩스, 포스트 씨어스 될까",
+      "summary": "즉 병원 구독료나 플랫폼 사용료가 아니라 대웅제약이 구매하는 제품 물량에 비례해 매출이 발생하는 B2B 공급 모델이 회사의 핵심 사업 구조다. 씨어스(458870)가 병원으로부터 플랫폼 이용료를 받는 구독형...",
+      "source": "이데일리",
+      "date": "2026-07-12",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02069686645514192",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "[테슬라 독주…현대차 반격]북미 이어 한국도 FSD 라이트…'중국산'은 제...",
+      "summary": "한편 테슬라는 국내 FSD 판매 방식도 일시불에서 월 구독제로 전환하기로 결정했다. 지금은 약 900만원을 내고 FSD 기능을 구매하는 구조이지만, 오는 8월10일부터는 월 15만원의 구독료를 내고 FSD 기능을 사용할 수...",
+      "source": "view.asiae.co.kr",
+      "date": "2026-07-12",
+      "url": "https://view.asiae.co.kr/article/2026071307544861336",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "20년 휠체어 탄 아버지 위해 '걷는 로봇' 만든 아들",
+      "summary": "미국의 기술 전문 매체 해크스터아이오에 따르면, 구독자 570만 명을 보유한 미국의 로봇 전문 유튜버 제이크 레이저는 다발성 경화증(신경에 이상이 생겨 몸의 움직임에 어려움을 겪는 병)을 앓는 아버지를 위해 이동...",
+      "source": "kids.donga.com",
+      "date": "2026-07-12",
+      "url": "https://kids.donga.com/news/articleView.html?idxno=169349",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "[노규민의 연예기자 시점] 리센느의 서사, 갸루·사투리 설계자... god·2...",
+      "summary": "\" 그룹 리센느 리더 원이의 단독 채널 '안녕하세요원이입니다잘부탁드립니다'(이하 '안원잘부') 구독자가... 만에 구독자 10만 명을 돌파했다. 그리고 '거제 야호', '사투리' 등의 밈이 온라인상에서 퍼지면서 5월 이후 2개월...",
+      "source": "nc.press",
+      "date": "2026-07-12",
+      "url": "https://www.nc.press/news/articleView.html?idxno=620549",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "[의료 AX의 미래]⑦수가 공백·데이터 파편화 넘어야…지속가능한 AX의 ...",
+      "summary": "실제 많은 의료기관이 AI 소프트웨어를 구독형 서비스(SaaS) 형태로 도입하길 원하지만, 매달 발생하는... 소프트웨어 구독료와 유지보수 비용, 알고리즘 고도화 비용에 대한 안정적인 수가 보전 제도가 확립돼야만...",
+      "source": "view.asiae.co.kr",
+      "date": "2026-07-12",
+      "url": "https://view.asiae.co.kr/article/2026070215152886559",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "남다른 노하우에 확실한 지원이 더해졌다…올스타전 한화의 '비밀 공간...",
+      "summary": "한화 이글스의 공식 유튜브 '이글스TV'는 56.6만명(12일 기준)의 구독자를 보유하고 있다. 10개 구단 중 압도적... 남다른 기획력과 구단의 전폭적인 지원은 왜 '이글스TV'가 구독자 1위로 사랑받고 있는지 증명하기에...",
+      "source": "sportschosun.com",
+      "date": "2026-07-12",
+      "url": "https://www.sportschosun.com/baseball/2026-07-13/202607130100078820004955",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "[Pharma ESG-'S'][유한양행]인권평가 첫 공개·SCC 인증…선언에서 실행으...",
+      "summary": "사회공헌도 기부금은 늘었지만 자원봉사 참여율과 1인당 참여시간은 낮아졌다. 의약품 접근성에서는 '건강의 벗' 지면 발행과 정기 구독자, 노숙인 무료진료 인원, 취약계층 의약품 기부액이 줄었다.",
+      "source": "medicopharma.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=68670",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "“분노로 버텨낸 시간이 지금의 행복을 만들었어요”",
+      "summary": "120만 구독 ‘분노의 난임일기’ 김정옥 작가 웹툰 ‘분노의 난임일기’를 집필한 김정옥 작가에게 치열했던 난임의 시간과 생존기를 들었다. “난임 치료 기간의 고통을 그냥 사라지게 하고 싶지 않았어요.” 난임을...",
+      "source": "woman.donga.com",
+      "date": "2026-07-12",
+      "url": "https://woman.donga.com/3/all/12/6299833/1",
+      "matchedKeyword": "구독"
+    },
+    {
       "title": "코나투스 ‘투루택시’ 가맹 1만대 돌파",
       "summary": "모빌리티 플랫폼 기업 코나투스의 가맹 택시 브랜드 ‘투루택시’가 가맹 차량 1만대를 돌파했다.... 코나투스는 2018년 국내 최초 인공지능(AI) 기반 택시 동승 서비스 ‘반반택시’를 출시하며 모빌리티 시장에...",
       "source": "이데일리",
@@ -838,19 +1030,19 @@
       "matchedKeyword": "모빌리티"
     },
     {
-      "title": "신상진 \"성남 교통혁신 세계와 연결\"…'2027 EST 포럼' 국제 공조 본격화",
-      "summary": "이 자리에서 성남시의 사람 중심 스마트도시 정책과 미래 모빌리티 전략을 소개했으며, 유엔경제사회국(UN... 참석해 탄소중립 실현과 사람 중심의 지속가능 교통정책, 미래 모빌리티 발전 방안을 공유하는 국제회의다.",
-      "source": "bzeronews.com",
-      "date": "2026-07-12",
-      "url": "https://www.bzeronews.com/news/articleView.html?idxno=819968",
-      "matchedKeyword": "모빌리티"
-    },
-    {
       "title": "다쏘시스템, '제16회 아크루티 혁신 경진대회' 개최",
       "summary": "'아크루티 2026–2027'은 변화하는 글로벌 우선 과제를 반영해 ▲로보틱스 ▲지역사회 문제 해결 ▲헬스케어 혁신 ▲모빌리티 등 4대 핵심 주제를 중심으로 진행된다. 참가 학생들은 디자인 사고와 엔지니어링...",
       "source": "ikld.kr",
       "date": "2026-07-12",
       "url": "http://www.ikld.kr/news/articleView.html?idxno=337455",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "신상진 \"성남 교통혁신 세계와 연결\"…'2027 EST 포럼' 국제 공조 본격화",
+      "summary": "이 자리에서 성남시의 사람 중심 스마트도시 정책과 미래 모빌리티 전략을 소개했으며, 유엔경제사회국(UN... 참석해 탄소중립 실현과 사람 중심의 지속가능 교통정책, 미래 모빌리티 발전 방안을 공유하는 국제회의다.",
+      "source": "bzeronews.com",
+      "date": "2026-07-12",
+      "url": "https://www.bzeronews.com/news/articleView.html?idxno=819968",
       "matchedKeyword": "모빌리티"
     },
     {
@@ -894,19 +1086,19 @@
       "matchedKeyword": "모빌리티"
     },
     {
-      "title": "오토노머스에이투지, 싱가포르서 'L4 로보셔틀' 공개",
-      "summary": "기반 모빌리티 솔루션이다. 향후 NCS 임직원 대상 자율주행 셔틀 운행을 앞두고 있다. 더불어 현장에서는... AI 모빌리티 서비스를 선도하겠다”고 말했다. 한편 에이투지는 올해 누적 자율주행 거리 100만㎞를...",
-      "source": "아주경제",
-      "date": "2026-07-12",
-      "url": "https://www.ajunews.com/view/20260713083617914",
-      "matchedKeyword": "모빌리티"
-    },
-    {
       "title": "경북TP, 수요특화 모듈형 LSV 글로벌 혁신 규제자유특구로 최종 지정",
       "summary": "저속 모빌리티다. 특히 경상북도가 추진하는 '수요특화 모듈형 LSV'는 표준화된 하나의 기본 공용 플랫폼에... 하인성 경북TP 원장은 “이번 수요특화 모듈형 LSV 글로벌 혁신 규제자유특구 지정은 경북이 미래 모빌리티...",
       "source": "전자신문",
       "date": "2026-07-12",
       "url": "https://www.etnews.com/20260713000010",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "오토노머스에이투지, 싱가포르서 'L4 로보셔틀' 공개",
+      "summary": "기반 모빌리티 솔루션이다. 향후 NCS 임직원 대상 자율주행 셔틀 운행을 앞두고 있다. 더불어 현장에서는... AI 모빌리티 서비스를 선도하겠다”고 말했다. 한편 에이투지는 올해 누적 자율주행 거리 100만㎞를...",
+      "source": "아주경제",
+      "date": "2026-07-12",
+      "url": "https://www.ajunews.com/view/20260713083617914",
       "matchedKeyword": "모빌리티"
     },
     {
@@ -918,19 +1110,19 @@
       "matchedKeyword": "모빌리티"
     },
     {
-      "title": "에이투지 로이 원격주행 싱가포르서 첫 시연, 화성과 실시간 연결",
-      "summary": "운전석 없는 차체와 자율주행 소프트웨어, 운영 시스템을 하나로 묶은 피지컬 AI 기반 모빌리티 솔루션으로... 이어 싱가포르를 포함한 세계 시장에서 피지컬 AI 모빌리티 서비스를 이끌어가겠다는 포부도 덧붙였다....",
-      "source": "econovill.com",
-      "date": "2026-07-12",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=744971",
-      "matchedKeyword": "모빌리티"
-    },
-    {
       "title": "'석화 위기' 서산 대산공단, 첨단소재로 'AX 체질개선' 나선다",
       "summary": "범용 석유화학 제품 중심의 기존 산업 구조를 탈피해 반도체, 이차전지, 미래 모빌리티의 핵심인 고기능성 특수고분자 산업을 집중 육성하겠다는 구상이다. 충남도는 산업통상자원부가 주관하는 '고기능성 특수고분자...",
       "source": "shinailbo.co.kr",
       "date": "2026-07-12",
       "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040043",
+      "matchedKeyword": "모빌리티"
+    },
+    {
+      "title": "에이투지 로이 원격주행 싱가포르서 첫 시연, 화성과 실시간 연결",
+      "summary": "운전석 없는 차체와 자율주행 소프트웨어, 운영 시스템을 하나로 묶은 피지컬 AI 기반 모빌리티 솔루션으로... 이어 싱가포르를 포함한 세계 시장에서 피지컬 AI 모빌리티 서비스를 이끌어가겠다는 포부도 덧붙였다....",
+      "source": "econovill.com",
+      "date": "2026-07-12",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=744971",
       "matchedKeyword": "모빌리티"
     },
     {
@@ -1006,14 +1198,6 @@
       "matchedKeyword": "모빌리티"
     },
     {
-      "title": "[TECH한주] 삼성 파운드리의 질주와 맞물린 국산 자율주행 칩의 독립, '...",
-      "summary": "글로벌 반도체 시장의 시선이 삼성의 첨단 미세 공정으로 쏠리는 가운데, 국내 모빌리티 반도체 생태계에서... 삼성 첨단 공정 인프라로 완성한 자율주행용 칩의 진입장벽 텔레칩스가 미래 모빌리티의 핵심 기업으로...",
-      "source": "테크월드",
-      "date": "2026-07-12",
-      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=404176",
-      "matchedKeyword": "모빌리티"
-    },
-    {
       "title": "호반그룹의 한진칼 지분집착 진짜 인수 신호탄일까?",
       "summary": "또한 4.9%를 보유한 '대신 코어그로쓰 일반사모투자신탁'의 출자자인 SK에너지, 현대차, 기아, 효성, 삼구아이앤씨 등도 지분을 당분간 환매하지 않고 장기 유지하기로 뜻을 모았다. 이들 사모펀드는 2022년 8월 경영권...",
       "source": "ilemonde.com",
@@ -1036,22 +1220,6 @@
       "date": "2026-07-12",
       "url": "https://news.bizwatch.co.kr/article/mobile/2026/07/10/0030",
       "matchedKeyword": "실버산업"
-    },
-    {
-      "title": "[Tech & Now] SK쉴더스, 프로스트 앤드 설리번 '아태 고객 가치 리더십' ...",
-      "summary": "특히 AI 사이버보안 관제 플랫폼 '시큐디움(Secudium)'을 기반으로 한 대규모 관제 역량과 하이브리드 IT 환경에서의 보안 대응 지원을 높게 평가했다. 이와 함께 관리형 보안 서비스(MSS), 관리형 탐지·대응(MDR), 침해사고...",
-      "source": "ebn.co.kr",
-      "date": "2026-07-12",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1716052",
-      "matchedKeyword": "관제플랫폼"
-    },
-    {
-      "title": "SK쉴더스, '아태 고객 가치 리더십' 사이버보안 우수 기업 선정",
-      "summary": "AI 사이버보안 관제 플랫폼인 '시큐디움(Secudium)'을 중심으로 한 운영 역량을 주요 강점으로 평가했다. 시큐디움은 하루 수십억 건의 보안 로그를 처리하는 대규모 관제 역량을 바탕으로 엔터프라이즈급 위협 탐지...",
-      "source": "cstimes.com",
-      "date": "2026-07-12",
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=713158",
-      "matchedKeyword": "관제플랫폼"
     },
     {
       "title": "[기고] 예방과 감시 사이의 합의",
@@ -1246,19 +1414,19 @@
       "matchedKeyword": "복지플랫폼"
     },
     {
-      "title": "박홍근 \"지금이 청년세대에 전폭적 투자 단행할 골든타임\"",
-      "summary": "주거 분야에서는 이용 가능한 주거정책을 확인·신청할 수 있도록 마이폼 등 주거복지 플랫폼을 고도화하고 전세대출 이용자의 성실 상환 이력 등을 후속 금융 지원과 연계하는 방안 등을 논의했다. 결혼 분야와 관련해선...",
-      "source": "news.einfomax.co.kr",
-      "date": "2026-07-10",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4424385",
-      "matchedKeyword": "복지플랫폼"
-    },
-    {
       "title": "\"청년정책, 생애경로 맞춰 재설계해야\"…기획처, 전문가 토론회",
       "summary": "이용 가능한 주거정책을 확인하고 신청할 수 있도록 주거복지 플랫폼인 ‘마이홈’을 고도화하고, 전세대출 성실 상환 이력을 후속 금융지원과 연계하는 방안 등이 논의됐다. 결혼 분야에서는 고용 불안정, 주택 가격 상승...",
       "source": "아주경제",
       "date": "2026-07-10",
       "url": "https://www.ajunews.com/view/20260710091355887",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "박홍근 \"지금이 청년세대에 전폭적 투자 단행할 골든타임\"",
+      "summary": "주거 분야에서는 이용 가능한 주거정책을 확인·신청할 수 있도록 마이폼 등 주거복지 플랫폼을 고도화하고 전세대출 이용자의 성실 상환 이력 등을 후속 금융 지원과 연계하는 방안 등을 논의했다. 결혼 분야와 관련해선...",
+      "source": "news.einfomax.co.kr",
+      "date": "2026-07-10",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4424385",
       "matchedKeyword": "복지플랫폼"
     },
     {
@@ -1270,19 +1438,19 @@
       "matchedKeyword": "복지플랫폼"
     },
     {
-      "title": "기획처, 청년정책 전문가 토론회…\"생애주기별 정책 과제 논의\"",
-      "summary": "또 주거 분야에서는 청년 주거지원 정책과 실제 생애 경로 간 연계를 강화하고, 마이홈 등 주거복지 플랫폼을 고도화하는 한편 전세대출 성실 상환 이력을 후속 금융 지원과 연계하는 방안이 논의됐다. 결혼 분야에서는...",
-      "source": "뉴스1",
-      "date": "2026-07-10",
-      "url": "https://www.news1.kr/economy/trend/6223926",
-      "matchedKeyword": "복지플랫폼"
-    },
-    {
       "title": "박홍근 \"청년의 삶, 난해한 고차방정식…과감하게 투자할 골든타임\"",
       "summary": "주거 분야에서는 이용 가능한 주거정책을 확인·신청할 수 있도록 마이홈 등 주거복지 플랫폼을 고도화하고, 전세대출 이용자의 성실 상환 이력 등을 후속 금융 지원과 연계하는 방안 등이 논의됐다. 결혼 분야 전문가는...",
       "source": "머니투데이",
       "date": "2026-07-10",
       "url": "https://www.mt.co.kr/economy/2026/07/10/2026071009222852278",
+      "matchedKeyword": "복지플랫폼"
+    },
+    {
+      "title": "기획처, 청년정책 전문가 토론회…\"생애주기별 정책 과제 논의\"",
+      "summary": "또 주거 분야에서는 청년 주거지원 정책과 실제 생애 경로 간 연계를 강화하고, 마이홈 등 주거복지 플랫폼을 고도화하는 한편 전세대출 성실 상환 이력을 후속 금융 지원과 연계하는 방안이 논의됐다. 결혼 분야에서는...",
+      "source": "뉴스1",
+      "date": "2026-07-10",
+      "url": "https://www.news1.kr/economy/trend/6223926",
       "matchedKeyword": "복지플랫폼"
     },
     {
@@ -1982,19 +2150,19 @@
       "matchedKeyword": "관제플랫폼"
     },
     {
-      "title": "LS일렉트릭, 데이터센터·전력망 솔루션으로 아세안 공략",
-      "summary": "디지털 전환 구역에서는 국가 단위 전력망 통합 관제 플랫폼 ‘K-EMS 2.0’을 전시한다. LS일렉트릭은 이 플랫폼이 발전 제어 최적화와 실시간 안전성 분석을 통해 전력망 운영 효율을 높이는 기술이라고 설명했다. 스마트...",
-      "source": "thepowernews.co.kr",
-      "date": "2026-07-09",
-      "url": "https://www.thepowernews.co.kr/view.php?ud=202607091343545517de3f0aa1be_7",
-      "matchedKeyword": "관제플랫폼"
-    },
-    {
       "title": "클로봇, 방사성폐기물 처분시설서 융합로봇 실증",
       "summary": "클로봇은 이번 실증을 통해 고위험 산업시설용 통합관제 플랫폼의 사업성을 검증하고, 원전 해체와 소형모듈원전(SMR) 시장 진출 기반을 마련한다는 전략이다. 또한 실증 과정에서 확보한 운영 데이터는 국내 원전과...",
       "source": "이데일리",
       "date": "2026-07-09",
       "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04063926645512880",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "LS일렉트릭, 데이터센터·전력망 솔루션으로 아세안 공략",
+      "summary": "디지털 전환 구역에서는 국가 단위 전력망 통합 관제 플랫폼 ‘K-EMS 2.0’을 전시한다. LS일렉트릭은 이 플랫폼이 발전 제어 최적화와 실시간 안전성 분석을 통해 전력망 운영 효율을 높이는 기술이라고 설명했다. 스마트...",
+      "source": "thepowernews.co.kr",
+      "date": "2026-07-09",
+      "url": "https://www.thepowernews.co.kr/view.php?ud=202607091343545517de3f0aa1be_7",
       "matchedKeyword": "관제플랫폼"
     },
     {
