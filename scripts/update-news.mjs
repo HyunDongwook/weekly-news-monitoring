@@ -151,10 +151,10 @@ function formatDate(pubDate) {
 // Naver's official News Search API: returns the real publisher URL (originallink)
 // plus a ready-made Korean snippet (description) directly — no scraping, no
 // redirect-resolution, no headless browser, and no bot-detection risk.
-async function fetchQueryItems(query) {
+async function fetchQueryItems(query, periodStart) { const allItems = []; for (let page = 0; page < 5; page++) { const start = page * 100 + 1;
   const url = `https://openapi.naver.com/v1/search/news.json?query=${encodeURIComponent(
     query,
-    )}&display=30&sort=date`;
+    )}&display=100&start=${start}&sort=date`;
   const res = await fetch(url, {
     headers: {
       'X-Naver-Client-Id': NAVER_CLIENT_ID,
@@ -164,8 +164,8 @@ async function fetchQueryItems(query) {
   if (!res.ok) {
     throw new Error(`Naver API error ${res.status} ${res.statusText} for query "${query}"`);
   }
-  const data = await res.json();
-  return data.items || [];
+  const data = await res.json(); const items = data.items || []; if (items.length === 0) break; allItems.push(...items); const oldestDate = formatDate(items[items.length - 1].pubDate); if (oldestDate && oldestDate < periodStart) break; if (items.length < 100) break; }
+  return allItems;
 }
 
 // A category now maps to a list of keywords instead of a single query, so we
@@ -174,7 +174,7 @@ async function fetchCategoryArticles(category, periodStart, periodEnd) {
   const allItems = [];
   for (const keyword of category.keywords) {
     try {
-      const items = await fetchQueryItems(keyword);
+      const items = await fetchQueryItems(keyword, periodStart);
       allItems.push(...items);
     } catch (err) {
       console.error(`Keyword "${keyword}" (category "${category.key}") failed:`, err.message);
