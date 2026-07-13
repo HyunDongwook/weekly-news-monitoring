@@ -28,7 +28,7 @@ jobs:
           node-version: '20'
 
       - name: Update news data (Naver News Search API)
-        if: false # TEMP: redeploy trigger        
+        if: false # TEMP: redeploy trigger
         env:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
