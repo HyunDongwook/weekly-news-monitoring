@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.07.06 ~ 2026.07.12",
   "periodStart": "2026-07-06",
   "periodEnd": "2026-07-12",
-  "generatedAt": "2026-07-13T12:36:38+09:00",
+  "generatedAt": "2026-07-13T12:45:41+09:00",
   "articles": [
     {
       "category": "welfare",
@@ -49,6 +49,126 @@ window.CURRENT_WEEK = {
       "source": "g-enews.com",
       "date": "2026-07-12",
       "url": "https://www.g-enews.com/view.php?ud=202607130848358602ea13369bfa_1"
+    },
+    {
+      "category": "solution",
+      "title": "케이웨더, 폭염 대비 전국 온열지수 예보 및 실황서비스 확대",
+      "summary": "한편 케이웨더는 올여름 안전관리 솔루션 수요 및 산업 확대의 기대가 높아짐에 따라 폭염 관리솔루션 사업의 경쟁력을 기반으로 폭염 관련주로 분류되는 등 시장의 관심을 받고 있다.",
+      "source": "전자신문",
+      "date": "2026-07-12",
+      "url": "https://www.etnews.com/20260713000014"
+    },
+    {
+      "category": "solution",
+      "title": "코나투스 ‘투루택시’ 가맹 1만대 돌파",
+      "summary": "모빌리티 플랫폼 기업 코나투스의 가맹 택시 브랜드 ‘투루택시’가 가맹 차량 1만대를 돌파했다.... 코나투스는 2018년 국내 최초 인공지능(AI) 기반 택시 동승 서비스 ‘반반택시’를 출시하며 모빌리티 시장에...",
+      "source": "이데일리",
+      "date": "2026-07-12",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02341926645514192"
+    },
+    {
+      "category": "solution",
+      "title": "“제로 트러스트는 클라우드·AI 시대 기업 보안의 출발점이다”",
+      "summary": "여기에는 데이터 유출, 거버넌스, 안전한 AI 도입 등 AI 관련 리스크를 고객과 논의할 수 있도록 지원하는 활동도 포함된다. 두 번째는 공동 시장 전략 협력이다. 수요 창출, 고객 참여, 솔루션 개발 영역에서 파트너와...",
+      "source": "전자신문",
+      "date": "2026-07-12",
+      "url": "https://www.etnews.com/20260710000017"
+    },
+    {
+      "category": "solution",
+      "title": "제네시스 스코티시 오픈 흥행…김주형 역사 썼다",
+      "summary": "제네시스는 글로벌 골프 대회를 통해 프리미엄 브랜드 가치를 지속적으로 확대하는 동시에 모터스포츠와 미래 모빌리티를 연결하는 차별화된 경험을 선보이며 글로벌 럭셔리 브랜드로서의 입지를 더욱 강화해...",
+      "source": "pointdaily.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311567"
+    },
+    {
+      "category": "solution",
+      "title": "신상진 \"성남 교통혁신 세계와 연결\"…'2027 EST 포럼' 국제 공조 본격화",
+      "summary": "이 자리에서 성남시의 사람 중심 스마트도시 정책과 미래 모빌리티 전략을 소개했으며, 유엔경제사회국(UN... 참석해 탄소중립 실현과 사람 중심의 지속가능 교통정책, 미래 모빌리티 발전 방안을 공유하는 국제회의다.",
+      "source": "bzeronews.com",
+      "date": "2026-07-12",
+      "url": "https://www.bzeronews.com/news/articleView.html?idxno=819968"
+    },
+    {
+      "category": "bpo",
+      "title": "베스핀글로벌, AIA생명 AI상담 어시스턴트 구축",
+      "summary": "베스핀글로벌은 이번 생성형 AI 기반 컨택센터(AICC) 구축 사례를 바탕으로 AI 에이전트가 단순한 상담 보조를 넘어 상담사 교육, 품질 관리(QA), VOC 분석 등 콜센터 운영 전반의 디지털 전환(DX)을 주도할 수 있도록...",
+      "source": "매일경제",
+      "date": "2026-07-12",
+      "url": "https://www.mk.co.kr/article/12096713"
+    },
+    {
+      "category": "bpo",
+      "title": "[Tech & Now] SK쉴더스, 프로스트 앤드 설리번 '아태 고객 가치 리더십' ...",
+      "summary": "특히 AI 사이버보안 관제 플랫폼 '시큐디움(Secudium)'을 기반으로 한 대규모 관제 역량과 하이브리드 IT 환경에서의 보안 대응 지원을 높게 평가했다. 이와 함께 관리형 보안 서비스(MSS), 관리형 탐지·대응(MDR), 침해사고...",
+      "source": "ebn.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1716052"
+    },
+    {
+      "category": "bpo",
+      "title": "E8, 261억 규모 식품 자율생산 설비 국책사업 개발 참여",
+      "summary": "피지컬 인공지능(AI) 운영 플랫폼 기업 E8(이에이트)는 한국식품연구원이 주관하는 전략연구사업 '면 제조... E8는 이 가운데 '면 제조 공정 초자동화를 위한 디지털트윈 구축' 과제를 맡아 면 제조공정의 통합 운영·관제와 3D...",
+      "source": "newsis.com",
+      "date": "2026-07-12",
+      "url": "https://www.newsis.com/view/NISX20260713_0003706158"
+    },
+    {
+      "category": "bpo",
+      "title": "[인터뷰] \"국산 광트랜시버로 AI 네트워크 시대에 대응한다\"",
+      "summary": "그 노하우를 다음 고객사, 다음 데이터센터에 그대로 적용해 축적된 경험의 데이터베이스가 우리의 자산이 되었고, 비슷한 이슈가 다른 곳에서 재발하면 훨씬 빠르게 원인을 짚어내고 대응할 수 있게 됐다. 국제 표준의...",
+      "source": "아이티데일리",
+      "date": "2026-07-12",
+      "url": "https://www.itdaily.kr/news/articleView.html?idxno=240347"
+    },
+    {
+      "category": "bpo",
+      "title": "음성군, '먹깨비' 할인쿠폰 이벤트 진행…1만5000원 이상 주문 5000원 할...",
+      "summary": "소상공인에게 실질적인 혜택이 돌아가도록 다양한 지원 방안을 마련하겠다\"고 말했다. 한편, '먹깨비' 가맹점 등록은 먹깨비 사장님 사이트 또는 고객센터를 통해 가능하며, 소비자는 앱 설치 후 서비스를 이용할 수 있다.",
+      "source": "gukjenews.com",
+      "date": "2026-07-12",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3633584"
+    },
+    {
+      "category": "marketing",
+      "title": "코스맥스, 日 후지신과 JV 설립…맞춤형 화장품 선보인다",
+      "summary": "코스맥스가 첫 진출 국가로 일본을 선택한 것은 오프라인 기반 맞춤형 처방·구독 모델을 안착시키기 적합한 시장이라는 판단에서다. 일본은 프리미엄 미용 서비스에 대한 소비자 수용도가 높고 미용사와 소비자 간...",
+      "source": "이데일리",
+      "date": "2026-07-12",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02345206645514192"
+    },
+    {
+      "category": "marketing",
+      "title": "신세계百, 상반기 외국인 매출 5800억…올해 1조 간다",
+      "summary": "신세계백화점이 운영 중인 외국인 전용 멤버십 프로그램 역시 120여개국의 30만명 이상 가입자 수를 기록 중이다. 관광 명소와 K컬처 품은 랜드마크 전략 통했다 점포별로는 관광 수요와 입지 경쟁력이 실적을...",
+      "source": "view.asiae.co.kr",
+      "date": "2026-07-12",
+      "url": "https://view.asiae.co.kr/article/2026071308113442144"
+    },
+    {
+      "category": "marketing",
+      "title": "SK텔레콤, 여름 휴가철 로밍·멤버십 프로모션 운영",
+      "summary": "SK텔레콤이 여름 휴가철을 맞아 해외여행객을 위한 로밍 할인과 국내 여행객을 위한 T멤버십 프로모션을... T멤버십의 '클럽 T로밍' 이용 고객에게는 데이터 1GB 추가 제공과 귀국 후 사용할 수 있는 제휴 할인 혜택도...",
+      "source": "ngonews.kr",
+      "date": "2026-07-12",
+      "url": "https://www.ngonews.kr/news/articleView.html?idxno=232755"
+    },
+    {
+      "category": "marketing",
+      "title": "위즈코어, 국산 CAD '캐디안(CADian)' AI 시대 설계 생산성 플랫폼으로 ...",
+      "summary": "지속적인 구독료 부담으로 인해 오토캐드(AutoCAD) 대체 솔루션을 검토하는 기업이 증가하면서 높은... 반복적인 구독 비용 부담을 줄일 수 있다는 점도 기업 고객들의 관심을 끄는 요소다. 최근 기업들이 소프트웨어...",
+      "source": "ikld.kr",
+      "date": "2026-07-12",
+      "url": "http://www.ikld.kr/news/articleView.html?idxno=337457"
+    },
+    {
+      "category": "marketing",
+      "title": "SKT, 여름휴가 맞아 ‘첫 로밍 70% 할인’…휴가철 멤버십 혜택 운영",
+      "summary": "T 멤버십 혜택을 운영한다고 13일 밝혔다. SKT는 해외여행객에게는 로밍 요금 할인과 데이터 확대 혜택을, 국내 여행객에게는 워터파크와 호텔 등 휴가 관련 멤버십 혜택을 제공한다. 먼저 해외여행을 준비하는...",
+      "source": "biz.heraldcorp.com",
+      "date": "2026-07-12",
+      "url": "https://biz.heraldcorp.com/article/10806363?ref=naver"
     },
     {
       "category": "welfare",
@@ -116,6 +236,14 @@ window.CURRENT_WEEK = {
     },
     {
       "category": "welfare",
+      "title": "파라다이스복지재단, 오티즘 엑스포 참가…\"발달장애 지원 이어갈 것\"",
+      "summary": "올해 행사에는 보건복지부와 한국장애인고용공단 등 국내외 120여 개 기관과 기업이 참여했다. 파라다이스복지재단은 이번 행사에 기금을 후원하며 안정적인 박람회 개최를 지원했다. 현장 부스에서는 자체 개발한 교육...",
+      "source": "newsis.com",
+      "date": "2026-07-12",
+      "url": "https://www.newsis.com/view/NISX20260713_0003706100"
+    },
+    {
+      "category": "welfare",
       "title": "김종훈 한미글로벌 회장, 인구의 날 '모란장' 수훈… \"기업이 인구회복...",
       "summary": "평소 '기업이 인구회복의 길에 앞장선다'는 신념을 지니고 있는 김종훈 회장은 인구문제를 단순한 복지 문제가 아닌 국가 존립 및 지속가능성과 직결된 과제로 보고 기업의 적극적인 참여와 제도 마련의 필요성을...",
       "source": "ikld.kr",
@@ -137,14 +265,6 @@ window.CURRENT_WEEK = {
       "source": "dnews.co.kr",
       "date": "2026-07-12",
       "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607121204516430812"
-    },
-    {
-      "category": "welfare",
-      "title": "파라다이스복지재단, 오티즘 엑스포 참가…\"발달장애 지원 이어갈 것\"",
-      "summary": "올해 행사에는 보건복지부와 한국장애인고용공단 등 국내외 120여 개 기관과 기업이 참여했다. 파라다이스복지재단은 이번 행사에 기금을 후원하며 안정적인 박람회 개최를 지원했다. 현장 부스에서는 자체 개발한 교육...",
-      "source": "newsis.com",
-      "date": "2026-07-12",
-      "url": "https://www.newsis.com/view/NISX20260713_0003706100"
     },
     {
       "category": "welfare",
@@ -180,19 +300,19 @@ window.CURRENT_WEEK = {
     },
     {
       "category": "welfare",
-      "title": "[인사] 대전시",
-      "summary": "이낙중 △기업지원정책과 구본숙 △창업진흥과 백혜성 △에너지정책과 서용필 △자치행정과 김현진 △문화예술과 최경호 △의료정책과 최은영 △식의약안전과 김영아 △장애인복지과 장수진 △교육도서관과 이민호...",
-      "source": "gukjenews.com",
-      "date": "2026-07-12",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3633811"
-    },
-    {
-      "category": "welfare",
       "title": "관악구, 민선9기 6대 전략 58개 과제 확정",
       "summary": "'혁신과 상생의 더불어 경제' 분야에서는 '관악S밸리 3.0' 사업으로 벤처·창업기업을 1천 개 이상 유치하고... 1인 가구 비율이 63.9%에 이르는 지역 특성을 반영해 노인종합복지타운 건립, 스마트 경로당 등 어르신...",
       "source": "gukjenews.com",
       "date": "2026-07-12",
       "url": "https://www.gukjenews.com/news/articleView.html?idxno=3633807"
+    },
+    {
+      "category": "welfare",
+      "title": "[인사] 대전시",
+      "summary": "이낙중 △기업지원정책과 구본숙 △창업진흥과 백혜성 △에너지정책과 서용필 △자치행정과 김현진 △문화예술과 최경호 △의료정책과 최은영 △식의약안전과 김영아 △장애인복지과 장수진 △교육도서관과 이민호...",
+      "source": "gukjenews.com",
+      "date": "2026-07-12",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3633811"
     },
     {
       "category": "welfare",
@@ -209,126 +329,6 @@ window.CURRENT_WEEK = {
       "source": "shinailbo.co.kr",
       "date": "2026-07-12",
       "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040069"
-    },
-    {
-      "category": "welfare",
-      "title": "\"돌봄 걱정 덜어요\"…남동구, 참여 병원 12곳으로 확대",
-      "summary": "병원에서 퇴원을 앞둔 어르신 환자를 선정해 구청에 의뢰하면, 남동구는 보건·의료 서비스와 가사 지원 등 환자 맞춤형 돌봄 및 복지 서비스를 신속하게 연계해 지원하게 됩니다. 남동구청은 의료기관의 적극적인 참여를...",
-      "source": "news.skbroadband.com",
-      "date": "2026-07-12",
-      "url": "https://news.skbroadband.com/news/articleView.html?idxno=231823"
-    },
-    {
-      "category": "welfare",
-      "title": "대전시, 5급 승진교육대상자 38명 선발",
-      "summary": "이낙중 ▲기업지원정책과 구본숙 ▲창업진흥과 백혜성 ▲에너지정책과 서용필 ▲자치행정과 김현진 ▲문화예술과 최경호 ▲의료정책과 최은영 ▲식의약안전과 김영아 ▲장애인복지과 장수진 ▲교육도서관과 이민호...",
-      "source": "shinailbo.co.kr",
-      "date": "2026-07-12",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039729"
-    },
-    {
-      "category": "welfare",
-      "title": "[기획] 대구 달서구, 결혼장려10년 성과를 묻다(상)",
-      "summary": "나머지 196쌍은 달서구가 2017년부터 기업·병원·복지기관·금융기관·민간단체 등과 체결한 결혼·출산 업무협약 참여기관에서 자체적으로 발생한 성혼 사례를 집계한 실적이었다. 현재 결혼·출산 업무협약을 체결한...",
-      "source": "ekn.kr",
-      "date": "2026-07-12",
-      "url": "https://www.ekn.kr/web/view.php?key=20260711023011494"
-    },
-    {
-      "category": "welfare",
-      "title": "함양연꽃의집, 2025년 사회복지시설 평가 최고등급 획득",
-      "summary": "이번 A등급 획득은 함양연꽃의집이 이용자 중심의 복지서비스를 지속적으로 실천하고, 안전하고 체계적인 운영체계를 구축해 온 노력이 높이 평가받은 결과다. 김재성 원장은 \"이번 A등급은 모든 종사자들의 헌신과...",
-      "source": "enewstoday.co.kr",
-      "date": "2026-07-12",
-      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447895"
-    },
-    {
-      "category": "welfare",
-      "title": "미세먼지 취약 계층에 마스크·공기청정기 보급",
-      "summary": "또 발전소나 시멘트 생산 공장이 있는 지역의 사회복지 시설 등 2곳에는 미세먼지 방진망을 설치합니다. 재원은 발전소와 시멘트 생산 기업이 기부한 돈으로 충당합니다.",
-      "source": "news.kbs.co.kr",
-      "date": "2026-07-12",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608790&ref=A"
-    },
-    {
-      "category": "welfare",
-      "title": "신안군, 정책자문위 출범…6개 분과로 지역 현안 해결 추진",
-      "summary": "신안군은 군정의 핵심 추진과제로 농어촌 르네상스, 육·해상 교통혁신, 해피100 의료복지, 고품격 체류형 관광 육성, 신재생에너지 성장동력 등 다양한 분야를 제시했다. 여기에 더해 현장의 목소리를 직접 반영하기 위해...",
-      "source": "kmib.co.kr",
-      "date": "2026-07-12",
-      "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030101721&code=61121111&cp=nv"
-    },
-    {
-      "category": "welfare",
-      "title": "60년 만에 되찾은 이름…수원시 베테랑 팀장의 힘",
-      "summary": "건강보험을 이용할 수 없었고, 복지서비스와 금융서비스도 받을 수 없었다. 안정적인 취업도 어려웠다. 강씨의 바람은 특별한 게 아니었다. 보통사람처럼 병원에 가고, 일하고, 금융거래를 하는 일상이었다. 강씨는...",
-      "source": "sedaily.com",
-      "date": "2026-07-12",
-      "url": "https://www.sedaily.com/article/20066821?ref=naver"
-    },
-    {
-      "category": "welfare",
-      "title": "전남광주통합특별시, 청년 일경험 매칭 본격화…400명 선발 나선다",
-      "summary": "행사에는 광주신용보증재단과 광주경영자총협회, 한국알프스㈜, 무등기업을 비롯해 공공기관, 중소·중견기업, 창업기업, 사회적경제기업, 사회복지기관 등 270여 사업장이 참여한다. 참여 사업장은 직무 내용과...",
-      "source": "m-i.kr",
-      "date": "2026-07-12",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=1390624"
-    },
-    {
-      "category": "welfare",
-      "title": "영암군, 공공 와이파이 생활 인프라 확대…연간 이용 700만 건 넘어",
-      "summary": "영암군은 공공장소 무료 와이파이 서비스를 확대하며 통신비 부담을 줄이고 정보 접근성을 높이는 디지털 복지 정책을 이어가고 있다. 전남광주통합특별시 영암군은 민선8기 공약사업으로 공공 와이파이 설치를...",
-      "source": "m-i.kr",
-      "date": "2026-07-12",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=1390628"
-    },
-    {
-      "category": "welfare",
-      "title": "전남 광주통합특별시 청년 일자리 잇는다",
-      "summary": "이번 행사에는 광주신용보증재단, 광주경영자총협회, 한국알프스(주), 무동기업 등 공공기관, 지역 중소‧중견기업, 창업기업, 사회적경제기업, 사회복지기관 등 270여 드림터(사업장)가 참여한다. 참여드림터는 현장...",
-      "source": "이투데이",
-      "date": "2026-07-12",
-      "url": "https://www.etoday.co.kr/news/view/2602879"
-    },
-    {
-      "category": "welfare",
-      "title": "㈜서한, 국토부 상호협력평가 최우수·대구시 워라밸 경영 최우수상 수...",
-      "summary": "경영기업 우수사례 공모’에서는 대구시장상 최우수상을 수상했다. 서한은 원거리 현장 근무자 지원, 출산장려금과 양육비 지원, 가족 여가시간 보장, 건강검진 확대 등 임직원의 일과 삶의 균형을 위한 다양한 복지제도...",
-      "source": "biz.heraldcorp.com",
-      "date": "2026-07-12",
-      "url": "https://biz.heraldcorp.com/article/10806304?ref=naver"
-    },
-    {
-      "category": "welfare",
-      "title": "\"한국 노동시장의 가장 큰 변화는 AI보다 노동시장의 이중구조\"",
-      "summary": "즉 같은 산업에서 일하더라도 임금과 복지, 승진 기회가 크게 차이 나는 구조가 청년들의 취업 전략에도 영향을 준다고 분석했다. 중소기업 공장[사진=연합뉴스TV] 한국 노동시장의 미래를 어떻게 전망했습니까? OECD는...",
-      "source": "incheonin.com",
-      "date": "2026-07-12",
-      "url": "http://www.incheonin.com/news/articleView.html?idxno=119260"
-    },
-    {
-      "category": "welfare",
-      "title": "부산시, 복지 실태 조사로 시민 생활 개선 나선다…200가구 대상",
-      "summary": "2026년 복지실태조사 포스터[사진=부산시] 2026.07.13 조사는 시민 생활실태와 복지 수요, 서비스 이용 현황 등을 파악해 향후 정책 수립과 추진에 활용하기 위해 시행된다. 국가데이터처 승인을 받아 2년 주기로 진행되는...",
-      "source": "newspim.com",
-      "date": "2026-07-12",
-      "url": "https://www.newspim.com/news/view/20260713000055"
-    },
-    {
-      "category": "welfare",
-      "title": "서울시, 70세 이상 버스요금 지원 조례 공포… \"의견 수렴할 것\"",
-      "summary": "그동안 지하철에만 집중했던 어르신 교통복지 정책을 버스로 확장하는 한편, 수혜 연령을 만 65세에서 상향한 것이다. 다만 기존 수혜자가 혜택을 보지 못하는 상황이 예상되는 만큼 시는 공청회를 열어 각계 의견을...",
-      "source": "view.asiae.co.kr",
-      "date": "2026-07-12",
-      "url": "https://view.asiae.co.kr/article/2026071308275428864"
-    },
-    {
-      "category": "welfare",
-      "title": "[치과 노무칼럼] 기간제 근로자 사용제한의 예외사유",
-      "summary": "전문적 지식·기술의 활용이 필요한 경우와 정부의 복지정책·실업대책 등에 따라 일자리를 제공하는... ■관리자, 전문가 및 관련종사자의 근로소득이 7,653만2,000원 이상(2026년 기준)인 경우 ①의회·정부 및 기업의...",
-      "source": "dentalnews.or.kr",
-      "date": "2026-07-12",
-      "url": "https://www.dentalnews.or.kr/news/article.html?no=47670"
     }
   ]
 };
