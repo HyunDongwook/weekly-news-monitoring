@@ -8,14 +8,30 @@
 (function () {
   "use strict";
 
-  /* ---------------- 카테고리 정의 ---------------- */
-  // key는 데이터 파일(data/*.js)의 article.category 값과 일치해야 합니다.
-  var CATEGORIES = {
-    welfare: { label: "복지/바우처", cls: "cat-welfare", icon: "gift" },
-     solution: { label: "솔루션", cls: "cat-safety", icon: "gear" },
-     bpo: { label: "BPO", cls: "cat-aicc", icon: "headset" },
-     marketing: { label: "마케팅", cls: "cat-payment", icon: "megaphone" }
-  };
+  /* ---------------- 아이콘 팔레트 ---------------- */
+  // 기사는 더 이상 카테고리로 분류하지 않습니다. 카드마다 보기 좋은 변화를 주기 위해
+  // 기사 id를 기준으로 이 팔레트 중 하나를 고정적으로(=새로고침해도 항상 같게) 골라 씁니다.
+  var PALETTE = [
+    { cls: "cat-welfare", icon: "gift" },
+    { cls: "cat-payment", icon: "wallet" },
+    { cls: "cat-aicc", icon: "headset" },
+    { cls: "cat-safety", icon: "gear" }
+  ];
+
+  function paletteFor(id) {
+    var idx = Math.abs(hashCode(id)) % PALETTE.length;
+    return PALETTE[idx];
+  }
+
+  function hashCode(str) {
+    var h = 0;
+    str = String(str || "");
+    for (var i = 0; i < str.length; i++) {
+      h = (h << 5) - h + str.charCodeAt(i);
+      h |= 0;
+    }
+    return h;
+  }
 
   /* ---------------- 아이콘 (부드럽고 둥근 스타일, currentColor 사용) ---------------- */
   var ICONS = {
@@ -102,19 +118,19 @@
 
   /* ---------------- 카드/행 렌더링 ---------------- */
 
-  function categoryBadgeHtml(catKey, size) {
-    var cat = CATEGORIES[catKey] || CATEGORIES.welfare;
+  function iconBadgeHtml(id, size) {
+    var pal = paletteFor(id);
     if (size === "dot") {
       return (
-        '<span class="archive-row__badge ' + cat.cls + '" title="' + escapeHtml(cat.label) + '">' +
-        (ICONS[cat.icon] || "") +
+        '<span class="archive-row__badge ' + pal.cls + '">' +
+        (ICONS[pal.icon] || "") +
         "</span>"
       );
     }
     return (
-      '<span class="news-card__category ' + cat.cls + '">' +
-      (ICONS[cat.icon] || "") +
-      "<span>" + escapeHtml(cat.label) + "</span></span>"
+      '<span class="news-card__category ' + pal.cls + '">' +
+      (ICONS[pal.icon] || "") +
+      "</span>"
     );
   }
 
@@ -123,15 +139,15 @@
     var viewCount = getCount("view", id);
     var recCount = getCount("rec", id);
     var url = escapeHtml(article.url || "#");
-    var cat = CATEGORIES[article.category] || CATEGORIES.welfare;
-    var photoUrl = "https://picsum.photos/seed/" + encodeURIComponent((article.category || "news") + "-" + id) + "/160/160";
+    var pal = paletteFor(id);
+    var photoUrl = "https://picsum.photos/seed/" + encodeURIComponent("news-" + id) + "/160/160";
 
     var card = document.createElement("div");
     card.className = "news-card";
     card.innerHTML =
       '<div class="news-card__top">' +
-        '<div class="news-card__thumb ' + cat.cls + '" style="background-image:url(\'' + photoUrl + '\')">' +
-          (ICONS[cat.icon] || "") +
+        '<div class="news-card__thumb ' + pal.cls + '" style="background-image:url(\'' + photoUrl + '\')">' +
+          (ICONS[pal.icon] || "") +
         "</div>" +
         '<div class="news-card__body">' +
           '<h3 class="news-card__title" data-role="title" data-url="' + url + '" data-id="' + id + '">' +
@@ -168,7 +184,7 @@
     var row = document.createElement("div");
     row.className = "archive-row";
     row.innerHTML =
-      categoryBadgeHtml(article.category, "dot") +
+      iconBadgeHtml(id, "dot") +
       '<div class="archive-row__title" data-role="title" data-url="' + url + '" data-id="' + id + '">' +
         escapeHtml(article.title) +
       "</div>" +
@@ -219,7 +235,7 @@
   /* ---------------- 공개 API ---------------- */
 
   window.NewsSite = {
-    CATEGORIES: CATEGORIES,
+    PALETTE: PALETTE,
     ICONS: ICONS,
     escapeHtml: escapeHtml,
     getArticleId: getArticleId,
