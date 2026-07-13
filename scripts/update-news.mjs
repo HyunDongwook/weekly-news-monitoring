@@ -25,7 +25,7 @@ const CATEGORIES = [
                 '이제너두',
                 '기업복지 플랫폼',
                 '복지포인트',
-          '선택적복지제도',
+                '선택적복지제도',
                 'B2E 플랫폼',
                 '복지몰 운영',
                 '근로자휴가지원사업',
@@ -97,6 +97,21 @@ const SOURCE_NAME_MAP = {
     'mk.co.kr': '매일경제',
     'traveltimes.co.kr': '여행신문',
     'topdaily.kr': '톱데일리',
+    'biz.heraldcorp.com': '헤럴드경제',
+    'news1.kr': '뉴스1',
+    'biz.chosun.com': '조선비즈',
+    'ajunews.com': '아주경제',
+    'businesspost.co.kr': '비즈니스포스트',
+    'dailysmart.co.kr': '스마트경제',
+    'dealsite.co.kr': '딜사이트',
+    'news2day.co.kr': '뉴스투데이',
+    'insnews.co.kr': '한국보험신문',
+    'job-post.co.kr': '잡포스트',
+    'asiatoday.co.kr': '아시아투데이',
+    'viva100.com': '브릿지경제',
+    'm-i.kr': '매일일보',
+    'news.bizwatch.co.kr': '비즈워치',
+    'sedaily.com': '서울경제',
 };
 
 const EXCLUDE_URL_SUBSTR = ['msn.com'];
@@ -200,7 +215,7 @@ async function fetchQueryItems(query, periodStart) {
                   allItems.push({ ...item, _matchedKeyword: query });
           }
           const oldestDate = formatDate(items[items.length - 1].pubDate);
-          if (oldestDate && oldestDate < periodStart) break;
+    if (oldestDate && oldestDate < periodStart) break;
           if (items.length < 100) break;
     }
     return allItems;
