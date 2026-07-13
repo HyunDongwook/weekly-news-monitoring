@@ -73,7 +73,7 @@ const SOURCE_NAME_MAP = {
   'kookbang.dema.mil.kr': '국방일보', 'gosiweek.com': '피앤피뉴스', 'etnews.com': '전자신문', 'epnc.co.kr': '테크월드', 'etoday.co.kr': '이투데이', 'mk.co.kr': '매일경제', 'traveltimes.co.kr': '여행신문', 'topdaily.kr': '톱데일리',
 };
 
-const MAX_PER_CATEGORY = 5;
+
 const EXCLUDE_URL_SUBSTR = ['msn.com'];
 
 // Two article titles that share at least this fraction of character bigrams
@@ -279,7 +279,7 @@ if (allArticles.length === 0) {
   process.exit(1);
 }
 
-let archive = [];
+const TOTAL_ARTICLE_CAP = 40; allArticles.sort((a, b) => new Date(b.date) - new Date(a.date)); const seenGlobalUrls = new Set(); const dedupedArticles = []; for (const article of allArticles) { if (seenGlobalUrls.has(article.url)) continue; seenGlobalUrls.add(article.url); dedupedArticles.push(article); } const cappedArticles = dedupedArticles.slice(0, TOTAL_ARTICLE_CAP); let archive = [];
   try {
     archive = loadWindowVar(ARCHIVE_PATH, 'ARCHIVE_WEEKS') || [];
   } catch (err) {
@@ -308,7 +308,7 @@ try {
   console.error('Could not read existing current-week-data.js:', err.message);
 }
 
-const currentWeek = { periodLabel, periodStart, periodEnd, generatedAt, articles: allArticles };
+const currentWeek = { periodLabel, periodStart, periodEnd, generatedAt, articles: cappedArticles };
 
 const currentHeader = `/* ==========================================================================
 현재 주차 뉴스 데이터
