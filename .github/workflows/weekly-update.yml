@@ -31,11 +31,11 @@ jobs:
         env:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
-        run: echo "TEMP redeploy - skipped news update"
+        run: node scripts/update-news.mjs
 
       - name: Commit and push if changed
         run: |
-          echo "TEMP redeploy - skipped commit"; exit 0
+          git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/current-week-data.js data/archive-data.js
           if git diff --cached --quiet; then
