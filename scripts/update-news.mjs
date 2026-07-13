@@ -70,7 +70,7 @@ const SOURCE_NAME_MAP = {
   'wsobi.com': '여성소비자신문',
   'hansbiz.co.kr': '한스경제',
   'ccreview.co.kr': '충청리뷰',
-  'kookbang.dema.mil.kr': '국방일보', 'gosiweek.com': '피앤피뉴스', 'etnews.com': '전자신문', 'epnc.co.kr': '테크월드',
+  'kookbang.dema.mil.kr': '국방일보', 'gosiweek.com': '피앤피뉴스', 'etnews.com': '전자신문', 'epnc.co.kr': '테크월드', 'etoday.co.kr': '이투데이', 'mk.co.kr': '매일경제', 'traveltimes.co.kr': '여행신문', 'topdaily.kr': '톱데일리',
 };
 
 const MAX_PER_CATEGORY = 5;
