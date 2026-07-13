@@ -1,14 +1,14 @@
 /* ==========================================================================
-현재 주차 뉴스 데이터
-이 파일은 GitHub Actions(.github/workflows/weekly-update.yml)에 의해
-매주 월요일 오전 9시(KST)에 자동으로 갱신됩니다. (네이버 뉴스 검색 API 사용)
-========================================================================== */
+  현재 주차 뉴스 데이터
+  이 파일은 GitHub Actions(.github/workflows/weekly-update.yml)에 의해
+  매주 월요일 오전 9시(KST)에 자동으로 갱신됩니다. (네이버 뉴스 검색 API 사용)
+  ========================================================================== */
 
-window.CURRENT_WEEK = {
+  window.CURRENT_WEEK = {
   "periodLabel": "2026.07.06 ~ 2026.07.12",
   "periodStart": "2026-07-06",
   "periodEnd": "2026-07-12",
-  "generatedAt": "2026-07-13T12:45:41+09:00",
+  "generatedAt": "2026-07-13T13:22:18+09:00",
   "articles": [
     {
       "category": "welfare",
@@ -20,40 +20,40 @@ window.CURRENT_WEEK = {
     },
     {
       "category": "welfare",
-      "title": "'함께 성장하는 사회'… 파라다이스복지재단, 오티즘 엑스포서 길 찾다",
-      "summary": "발달장애인을 위한 지원은 단순한 복지 서비스 제공을 넘어 가족과 교육 현장, 지역사회가 함께 연결되는 생태계를 만드는 과정이다. 파라다이스복지재단은 올해 오티즘 엑스포에서 교육·재활 현장의 경험을 공유하고...",
-      "source": "view.asiae.co.kr",
+      "title": "전남광주통합특별시, 청년 일경험 매칭 본격화…400명 선발 나선다",
+      "summary": "사회적경제기업, 사회복지기관 등 270여 사업장이 참여한다. 참여 사업장은 직무 내용과 근무환경, 필요 역량... 최종 선발 결과는 29일 전남광주청년통합플랫폼과 광주청년 일경험드림 누리집에 발표되며, 선발된 청년은...",
+      "source": "m-i.kr",
       "date": "2026-07-12",
-      "url": "https://view.asiae.co.kr/article/2026071308444211639"
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1390624"
     },
     {
       "category": "welfare",
-      "title": "[요즘 부동산+/⑲]반도체가 바꾼 집값 공식…'셔세권'이 재편하는 수도...",
-      "summary": "부동산 플랫폼 자료를 분석하면 동탄구에서 전용 84㎡ 기준 실거래가 12억원을 넘는 공동주택 대부분이... 주가 상승에 따른 투자 수익과 성과급, 사내 복지제도가 동시에 작용하면서 일반 가계보다 주택 구매 여력이...",
-      "source": "businessplus.kr",
+      "title": "\"한국 노동시장의 가장 큰 변화는 AI보다 노동시장의 이중구조\"",
+      "summary": "복지, 승진 기회가 크게 차이 나는 구조가 청년들의 취업 전략에도 영향을 준다고 분석했다. 중소기업 공장... 기업에서는 계약직·기간제 활용이 일정 수준 유지될 가능성이 있다고 분석했다. 특히, 유통, 물류, 플랫폼...",
+      "source": "incheonin.com",
       "date": "2026-07-12",
-      "url": "https://www.businessplus.kr/news/articleView.html?idxno=114027"
+      "url": "http://www.incheonin.com/news/articleView.html?idxno=119260"
     },
     {
       "category": "welfare",
-      "title": "육군, 포천서 나라사랑 보금자리 429호 준공식 개최",
-      "summary": "육군본부와 충남사회복지공동모금회가 주관한 이날 준공식에는 김규하 육군참모총장과 이일용 5군단장, 나라사랑 보금자리 후원기업 및 포천시 관계자 등이 직접 참석해 이강인 옹의 입주를 축하했다. 이 옹은 15세에...",
-      "source": "yna.co.kr",
+      "title": "전남 광주통합특별시 청년 일자리 잇는다",
+      "summary": "사회적경제기업, 사회복지기관 등 270여 드림터(사업장)가 참여한다. 참여드림터는 현장 부스를 통해... 선발 결과는 29일 전남광주청년통합플랫폼, 광주청년 일경험드림 누리집에 각각 게시될 예정이다. 선발된 청년은...",
+      "source": "이투데이",
       "date": "2026-07-12",
-      "url": "https://www.yna.co.kr/view/AKR20260713027200060?input=1195m"
+      "url": "https://www.etoday.co.kr/news/view/2602879"
     },
     {
       "category": "welfare",
-      "title": "한국사회보장정보원, '사회적 연결의 날' 기념일 지정 공모전 진행",
-      "summary": "김현준 사보원 원장은 \"앞으로도 보건복지부와 함께 사회적 고립 예방 정책이 현장에서 효과적으로 추진될 수 있도록 적극 지원하고 국민 누구나 필요한 도움과 연결될 수 있는 사회안전망을 강화하는 데 최선을...",
-      "source": "g-enews.com",
+      "title": "코트라 \"獨 뒤흔든 K-콘텐츠…웹툰·캐릭터 IP로 유럽 영토 넓힌다\"",
+      "summary": "최근 독일 내에서는 OTT(온라인동영상서비스)와 SNS(사회관계망서비스) 플랫폼을 기반으로 한 K-드라마, 웹툰... 참가가 기업인 아트박스는 프랑크푸르트 소재 아동복지시설인 '바이젠하우스 재단(Stiftung Waisenhaus)'에...",
+      "source": "pinpointnews.co.kr",
       "date": "2026-07-12",
-      "url": "https://www.g-enews.com/view.php?ud=202607130848358602ea13369bfa_1"
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467770"
     },
     {
       "category": "solution",
       "title": "케이웨더, 폭염 대비 전국 온열지수 예보 및 실황서비스 확대",
-      "summary": "한편 케이웨더는 올여름 안전관리 솔루션 수요 및 산업 확대의 기대가 높아짐에 따라 폭염 관리솔루션 사업의 경쟁력을 기반으로 폭염 관련주로 분류되는 등 시장의 관심을 받고 있다.",
+      "summary": "지난해부터 산업안전보건법 내 폭염 내용이 신설돼 관련 보건조치가 의무화됨에 따라, 사업주는 작업장에 체감온도계를 배치하고 장소별 체감온도, 조치사항 등을 보관해야 한다. 케이웨더 폭염 관리솔루션은 이러한...",
       "source": "전자신문",
       "date": "2026-07-12",
       "url": "https://www.etnews.com/20260713000014"
@@ -61,7 +61,7 @@ window.CURRENT_WEEK = {
     {
       "category": "solution",
       "title": "코나투스 ‘투루택시’ 가맹 1만대 돌파",
-      "summary": "모빌리티 플랫폼 기업 코나투스의 가맹 택시 브랜드 ‘투루택시’가 가맹 차량 1만대를 돌파했다.... 코나투스는 2018년 국내 최초 인공지능(AI) 기반 택시 동승 서비스 ‘반반택시’를 출시하며 모빌리티 시장에...",
+      "summary": "사업 영역도 B2C 플랫폼에서 B2B 모빌리티 솔루션으로 확장했다. 코나투스는 2020년부터 택시, 대리운전, 교통약자 이동지원 사업자를 위한 SaaS 솔루션 사업을 키워왔다. 현재 카카오T 교통약자 이동지원, 똑타 등 주요...",
       "source": "이데일리",
       "date": "2026-07-12",
       "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02341926645514192"
@@ -69,26 +69,26 @@ window.CURRENT_WEEK = {
     {
       "category": "solution",
       "title": "“제로 트러스트는 클라우드·AI 시대 기업 보안의 출발점이다”",
-      "summary": "여기에는 데이터 유출, 거버넌스, 안전한 AI 도입 등 AI 관련 리스크를 고객과 논의할 수 있도록 지원하는 활동도 포함된다. 두 번째는 공동 시장 전략 협력이다. 수요 창출, 고객 참여, 솔루션 개발 영역에서 파트너와...",
+      "summary": "고도화된 디지털 경제, 글로벌 경쟁력을 갖춘 기업, 클라우드·모빌리티·AI 기반 전환에 대한 강한 추진력을... 수요 창출, 고객 참여, 솔루션 개발 영역에서 파트너와 긴밀히 협력하고 있다. 세 번째는 서비스 수행 역량...",
       "source": "전자신문",
       "date": "2026-07-12",
       "url": "https://www.etnews.com/20260710000017"
     },
     {
       "category": "solution",
-      "title": "제네시스 스코티시 오픈 흥행…김주형 역사 썼다",
-      "summary": "제네시스는 글로벌 골프 대회를 통해 프리미엄 브랜드 가치를 지속적으로 확대하는 동시에 모터스포츠와 미래 모빌리티를 연결하는 차별화된 경험을 선보이며 글로벌 럭셔리 브랜드로서의 입지를 더욱 강화해...",
-      "source": "pointdaily.co.kr",
+      "title": "중진공·KB금융, 950개 중소기업 산업안전 강화 지원",
+      "summary": "산업안전구축 지원사업의 진행 상황을 점검하고, 안전 관리 우수 사례를 공유했다고 13일 밝혔다.... 연계해 안전 설비와 시스템 구축에 필요한 사업비를 지원하고 있다. 안전 물품 공급 분야에서는 신기술(NET)·신제품(NEP)...",
+      "source": "biz.chosun.com",
       "date": "2026-07-12",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311567"
+      "url": "https://biz.chosun.com/industry/business-venture/2026/07/13/TQ6Q5NO7WVAIJM6AGBOUADAXSA/?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
       "category": "solution",
-      "title": "신상진 \"성남 교통혁신 세계와 연결\"…'2027 EST 포럼' 국제 공조 본격화",
-      "summary": "이 자리에서 성남시의 사람 중심 스마트도시 정책과 미래 모빌리티 전략을 소개했으며, 유엔경제사회국(UN... 참석해 탄소중립 실현과 사람 중심의 지속가능 교통정책, 미래 모빌리티 발전 방안을 공유하는 국제회의다.",
-      "source": "bzeronews.com",
+      "title": "다쏘시스템, '제16회 아크루티 혁신 경진대회' 개최",
+      "summary": "혁신 ▲모빌리티 등 4대 핵심 주제를 중심으로 진행된다. 참가 학생들은 디자인 사고와 엔지니어링... 결선 진출자들은 글로벌 무대에서 자신들의 혁신 프로젝트와 솔루션을 선보이게 된다. 아크루티 참가 신청은...",
+      "source": "ikld.kr",
       "date": "2026-07-12",
-      "url": "https://www.bzeronews.com/news/articleView.html?idxno=819968"
+      "url": "http://www.ikld.kr/news/articleView.html?idxno=337455"
     },
     {
       "category": "bpo",
@@ -100,48 +100,40 @@ window.CURRENT_WEEK = {
     },
     {
       "category": "bpo",
-      "title": "[Tech & Now] SK쉴더스, 프로스트 앤드 설리번 '아태 고객 가치 리더십' ...",
-      "summary": "특히 AI 사이버보안 관제 플랫폼 '시큐디움(Secudium)'을 기반으로 한 대규모 관제 역량과 하이브리드 IT 환경에서의 보안 대응 지원을 높게 평가했다. 이와 함께 관리형 보안 서비스(MSS), 관리형 탐지·대응(MDR), 침해사고...",
-      "source": "ebn.co.kr",
+      "title": "베스핀글로벌, AIA생명 상담 현장에 AI 어시스턴트 심었다 \"폐쇄망서도...",
+      "summary": "폐쇄형 환경에서 SLM 조합만으로 실전 수준의 완성도를 구현한 사례는 국내 AICC(AI 컨택센터) 시장에서도... 기술로 돌파한 이번 사례는 폐쇄망 환경에 놓인 다른 금융사들의 AICC 구축 방향에도 참고점을 남길 전망이다.",
+      "source": "econovill.com",
       "date": "2026-07-12",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1716052"
+      "url": "https://www.econovill.com/news/articleView.html?idxno=744973"
     },
     {
       "category": "bpo",
-      "title": "E8, 261억 규모 식품 자율생산 설비 국책사업 개발 참여",
-      "summary": "피지컬 인공지능(AI) 운영 플랫폼 기업 E8(이에이트)는 한국식품연구원이 주관하는 전략연구사업 '면 제조... E8는 이 가운데 '면 제조 공정 초자동화를 위한 디지털트윈 구축' 과제를 맡아 면 제조공정의 통합 운영·관제와 3D...",
-      "source": "newsis.com",
+      "title": "[Who Is ?] 전선규 미코 대표이사 회장",
+      "summary": "△부뜰정보시스템 인수로 AI·IT 사업 진출 미코가 2025년 12월 AI 컨택센터(AICC) 전문기업 부뜰정보시스템... 미코는 부뜰정보시스템의 AICC 기술과 AICESS의 AI 역량을 그룹 사업에 접목한다는 구상을 하고 있다. 제조...",
+      "source": "businesspost.co.kr",
       "date": "2026-07-12",
-      "url": "https://www.newsis.com/view/NISX20260713_0003706158"
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=441567"
     },
     {
       "category": "bpo",
-      "title": "[인터뷰] \"국산 광트랜시버로 AI 네트워크 시대에 대응한다\"",
-      "summary": "그 노하우를 다음 고객사, 다음 데이터센터에 그대로 적용해 축적된 경험의 데이터베이스가 우리의 자산이 되었고, 비슷한 이슈가 다른 곳에서 재발하면 훨씬 빠르게 원인을 짚어내고 대응할 수 있게 됐다. 국제 표준의...",
-      "source": "아이티데일리",
+      "title": "호반그룹의 한진칼 지분집착 진짜 인수 신호탄일까?",
+      "summary": "또한 4.9%를 보유한 '대신 코어그로쓰 일반사모투자신탁'의 출자자인 SK에너지, 현대차, 기아, 효성, 삼구아이앤씨 등도 지분을 당분간 환매하지 않고 장기 유지하기로 뜻을 모았다. 이들 사모펀드는 2022년 8월 경영권...",
+      "source": "ilemonde.com",
       "date": "2026-07-12",
-      "url": "https://www.itdaily.kr/news/articleView.html?idxno=240347"
+      "url": "https://www.ilemonde.com/news/articleView.html?idxno=30331"
     },
     {
       "category": "bpo",
-      "title": "음성군, '먹깨비' 할인쿠폰 이벤트 진행…1만5000원 이상 주문 5000원 할...",
-      "summary": "소상공인에게 실질적인 혜택이 돌아가도록 다양한 지원 방안을 마련하겠다\"고 말했다. 한편, '먹깨비' 가맹점 등록은 먹깨비 사장님 사이트 또는 고객센터를 통해 가능하며, 소비자는 앱 설치 후 서비스를 이용할 수 있다.",
-      "source": "gukjenews.com",
+      "title": "[창간 34주년 특집] AI와 여행③여행산업 AI 도입 현황 | \"비개발자가 코...",
+      "summary": "노랑풍선 역시 향후 AICC(AI 컨택센터) 도입을 통해 VIP 고객을 대상으로 마치 전문 비서가 케어하는 듯한 컨시어지 형태의 상담 서비스를 제공하겠다는 로드맵을 구상하고 있다. 상품·미디어·상담 기록의 데이터 자산화...",
+      "source": "여행신문",
       "date": "2026-07-12",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3633584"
-    },
-    {
-      "category": "marketing",
-      "title": "코스맥스, 日 후지신과 JV 설립…맞춤형 화장품 선보인다",
-      "summary": "코스맥스가 첫 진출 국가로 일본을 선택한 것은 오프라인 기반 맞춤형 처방·구독 모델을 안착시키기 적합한 시장이라는 판단에서다. 일본은 프리미엄 미용 서비스에 대한 소비자 수용도가 높고 미용사와 소비자 간...",
-      "source": "이데일리",
-      "date": "2026-07-12",
-      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02345206645514192"
+      "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500052"
     },
     {
       "category": "marketing",
       "title": "신세계百, 상반기 외국인 매출 5800억…올해 1조 간다",
-      "summary": "신세계백화점이 운영 중인 외국인 전용 멤버십 프로그램 역시 120여개국의 30만명 이상 가입자 수를 기록 중이다. 관광 명소와 K컬처 품은 랜드마크 전략 통했다 점포별로는 관광 수요와 입지 경쟁력이 실적을...",
+      "summary": "편의 서비스 등이 외국인 고객들의 높은 호응을 이끌었다\"고 설명했다. 국적도 소비도 다양해졌다 외국인... 신세계백화점이 운영 중인 외국인 전용 멤버십 프로그램 역시 120여개국의 30만명 이상 가입자 수를 기록...",
       "source": "view.asiae.co.kr",
       "date": "2026-07-12",
       "url": "https://view.asiae.co.kr/article/2026071308113442144"
@@ -149,186 +141,194 @@ window.CURRENT_WEEK = {
     {
       "category": "marketing",
       "title": "SK텔레콤, 여름 휴가철 로밍·멤버십 프로모션 운영",
-      "summary": "SK텔레콤이 여름 휴가철을 맞아 해외여행객을 위한 로밍 할인과 국내 여행객을 위한 T멤버십 프로모션을... T멤버십의 '클럽 T로밍' 이용 고객에게는 데이터 1GB 추가 제공과 귀국 후 사용할 수 있는 제휴 할인 혜택도...",
+      "summary": "가족 단위 여행객을 위한 '가족로밍' 서비스도 함께 운영한다. 국내 여행객을 위한 T멤버십 혜택도 마련됐다. 13일부터 17일까지 진행되는 'T day Week2'는 'SUMMER LUCKY WEEK'를 주제로 운영되며, 캐리비안 베이와 오션월드...",
       "source": "ngonews.kr",
       "date": "2026-07-12",
       "url": "https://www.ngonews.kr/news/articleView.html?idxno=232755"
     },
     {
       "category": "marketing",
-      "title": "위즈코어, 국산 CAD '캐디안(CADian)' AI 시대 설계 생산성 플랫폼으로 ...",
-      "summary": "지속적인 구독료 부담으로 인해 오토캐드(AutoCAD) 대체 솔루션을 검토하는 기업이 증가하면서 높은... 반복적인 구독 비용 부담을 줄일 수 있다는 점도 기업 고객들의 관심을 끄는 요소다. 최근 기업들이 소프트웨어...",
-      "source": "ikld.kr",
-      "date": "2026-07-12",
-      "url": "http://www.ikld.kr/news/articleView.html?idxno=337457"
-    },
-    {
-      "category": "marketing",
       "title": "SKT, 여름휴가 맞아 ‘첫 로밍 70% 할인’…휴가철 멤버십 혜택 운영",
-      "summary": "T 멤버십 혜택을 운영한다고 13일 밝혔다. SKT는 해외여행객에게는 로밍 요금 할인과 데이터 확대 혜택을, 국내 여행객에게는 워터파크와 호텔 등 휴가 관련 멤버십 혜택을 제공한다. 먼저 해외여행을 준비하는...",
+      "summary": "속도로 서비스 이용할 수 있다. 국내 여행객들을 위한 혜택도 준비돼 있다. 이날부터 17일까지 진행되는 ‘T day Week2’는 여름 휴가 시즌에 맞춰 ‘SUMMER LUCKY WEEK’로 운영된다. T멤버십 고객은 ▷캐리비안 베이...",
       "source": "biz.heraldcorp.com",
       "date": "2026-07-12",
       "url": "https://biz.heraldcorp.com/article/10806363?ref=naver"
     },
     {
-      "category": "welfare",
-      "title": "자폐 치료제 '스페라젠' 허가 제동…아스트로젠 \"개발전략 재검토\"",
-      "summary": "중앙약심은 보건복지부 장관과 식품의약품안전처장 자문에 응해 의약품 등의 안전성과 유효성, 약사 정책을... 아스트로젠은 경북대어린이병원 소아신경과 교수였던 황수경 전문의가 2017년 세운 바이오기업이다. 저분자...",
-      "source": "news1.kr",
+      "category": "marketing",
+      "title": "푸본현대생명, 채용전환형 인턴십 모집...15일 마감",
+      "summary": "이번 인턴십의 모집 분야는 보험대리점(GA) 영업, 법인 영업, 영업 기획, 영업 교육, HR 등 5개 분야다. 지원 자격은 국내 취업과 해외 출장에 결격 사유가 없어야 하며 오는 9월부터 11월까지 3개월 간 푸본현대생명...",
+      "source": "pointdaily.co.kr",
       "date": "2026-07-12",
-      "url": "https://www.news1.kr/bio/pharmaceutical-bio/6225730"
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311569"
+    },
+    {
+      "category": "marketing",
+      "title": "롯데호텔·리조트 홈페이지 통합…객실 최대 20% 할인",
+      "summary": "이번 개편은 호텔 공식 홈페이지에서 호텔과 리조트 서비스를 모두 이용할 수 있는 단일 채널을 구축하고, 롯데호텔 리워즈 회원 약 380만명과 리조트 통합멤버십 회원 약 90만명을 하나의 회원 서비스로 연결해 약 470만...",
+      "source": "view.asiae.co.kr",
+      "date": "2026-07-12",
+      "url": "https://view.asiae.co.kr/article/2026071308381494560"
     },
     {
       "category": "welfare",
-      "title": "제천시, '제천 온(溫) 방문진료 본인부담금 지원…의료기관 협력체계 구...",
-      "summary": "한편, 제천시는 '제천 온(溫) 통합돌봄' 체계를 통해 의료, 요양, 돌봄, 복지 서비스를 통합적으로 제공하고 있으며, 시민들이 익숙한 생활터전에서 안락한 삶을 이어갈 수 있도록 재가 돌봄 서비스를 확대하고 있다.",
-      "source": "gukjenews.com",
-      "date": "2026-07-12",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3633610"
-    },
-    {
-      "category": "welfare",
-      "title": "\"이제야 사람답게 삽니다\"…62년 만에 주민등록증 쥔 남자, 수원시가 만...",
-      "summary": "이제 복지서비스와 의료서비스를 이용하고, 은행계좌도 만들 수 있다. 강 씨는 \"호적을 만들기 위해 오랫동안 여러 관공서를 찾아다녔지만 끝내 만들지 못해 좌절했는데, 베테랑 팀장님의 도움으로 마침내 주민등록증을...",
-      "source": "이투데이",
-      "date": "2026-07-12",
-      "url": "https://www.etoday.co.kr/news/view/2602900"
-    },
-    {
-      "category": "welfare",
-      "title": "서울 강동구, '그냥드림' 사업으로 먹거리 지원부터 복지 상담까지",
-      "summary": "동주민센터로 연계된 대상자는 심층 상담을 통해 기초생활보장, 차상위계층 지원, 긴급복지 등 공공 복지서비스를 안내받게 된다. 아울러 구는 고령이나 중증 장애, 질병 등으로 강동구푸드뱅크마켓을 직접 방문하기...",
-      "source": "dailian.co.kr",
-      "date": "2026-07-12",
-      "url": "https://www.dailian.co.kr/news/view/1666246/?sc=Naver"
-    },
-    {
-      "category": "welfare",
-      "title": "광명시, '그냥드림' 2호점 문 열어…생활권 가까이서 먹거리 지원",
-      "summary": "식료품 지원에 그치지 않고 경제·건강·주거 등 생활 전반의 어려움을 확인해 필요한 복지서비스와 연계하는 것이 특징이다. 이번 2호점은 하안·소하권역 주민들의 이용 편의를 높이기 위해 마련됐다. 그동안 광명동에...",
-      "source": "shinailbo.co.kr",
-      "date": "2026-07-12",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040076"
-    },
-    {
-      "category": "welfare",
-      "title": "군포시, 시민 행정서비스 질 높인다…팀장 공모제 시행",
-      "summary": "공모 대상은 뉴미디어팀장, 조사팀장, 총무팀장, 직소민원팀장, 예술팀장, 기업유치팀장, 동물복지팀장, 청년팀장 등 8개 직위이며, 지원 자격은 무보직을 포함한 6급 직원이다. 군포시는 공모제를 통해 인사의 객관성과...",
-      "source": "gukjenews.com",
-      "date": "2026-07-12",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3633816"
-    },
-    {
-      "category": "welfare",
-      "title": "광주특별시 서구, 민간 기부문화 확산…서구아너스 회원 잇단 참여",
-      "summary": "민관 협력 기반의 나눔문화 확산에 힘을 보태고 있다. 서구는 앞으로도 지역 기업과 소상공인, 주민들의 자발적인 기부 참여를 확대해 지속 가능한 복지 기반을 마련하고, 함께하는 나눔문화 조성에 적극 나설 계획이다.",
-      "source": "m-i.kr",
-      "date": "2026-07-12",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=1390637"
-    },
-    {
-      "category": "welfare",
-      "title": "장성군, 내년도 임산물 분야 보조사업 수요조사 실시… 20일까지 접수",
-      "summary": "‘임산물 유통기반 조성사업’ △잔디 생산장비와 농약살포기 등을 지원하는... 지원을 희망하는 대상자는 오는 7월 20일까지 주민등록 소재지 행정복지센터를...",
-      "source": "브레이크뉴스",
-      "date": "2026-07-12",
-      "url": "http://www.breaknews.com/1221091"
-    },
-    {
-      "category": "welfare",
-      "title": "파라다이스복지재단, 오티즘 엑스포 참가…\"발달장애 지원 이어갈 것\"",
-      "summary": "올해 행사에는 보건복지부와 한국장애인고용공단 등 국내외 120여 개 기관과 기업이 참여했다. 파라다이스복지재단은 이번 행사에 기금을 후원하며 안정적인 박람회 개최를 지원했다. 현장 부스에서는 자체 개발한 교육...",
-      "source": "newsis.com",
-      "date": "2026-07-12",
-      "url": "https://www.newsis.com/view/NISX20260713_0003706100"
-    },
-    {
-      "category": "welfare",
-      "title": "김종훈 한미글로벌 회장, 인구의 날 '모란장' 수훈… \"기업이 인구회복...",
-      "summary": "평소 '기업이 인구회복의 길에 앞장선다'는 신념을 지니고 있는 김종훈 회장은 인구문제를 단순한 복지 문제가 아닌 국가 존립 및 지속가능성과 직결된 과제로 보고 기업의 적극적인 참여와 제도 마련의 필요성을...",
-      "source": "ikld.kr",
-      "date": "2026-07-12",
-      "url": "http://www.ikld.kr/news/articleView.html?idxno=337453"
-    },
-    {
-      "category": "welfare",
-      "title": "'첨생법 1호' 바이젠셀, 첫 환자 투여 임박…내년 조건부 허가·중국 L/O...",
-      "summary": "질병관리청과 보건복지부의 후속 절차가 완료되는 즉시 투여가 시작될 예정이다. 바이젠셀 VT-EBV-N은 지난... 첨생법 대상 환자 15명에게만 적용되는 비용으로 연구개발비와 기업 이익은 거의 반영되지 않은 사실상...",
-      "source": "이데일리",
-      "date": "2026-07-12",
-      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02246806645514192"
-    },
-    {
-      "category": "welfare",
-      "title": "[경남 브리핑 모음(7월13일)] 진주시, ‘월아산 숲속의 진주’, 연간 방...",
-      "summary": "시는 앞으로도 정원문화와 산림복지를 연계한 콘텐츠를 확대하고 계절별 축제와 문화행사, 산림휴양... 군은 시설비 집행 실적과 공기업 집행 목표 달성에서 가점을 획득하며 우수한 성적을 거뒀다. 군은 상반기...",
+      "title": "[부산ㆍ경남 대학 브리핑 모음(7월13일)] 경상국립대 간호대생, 미국 간...",
+      "summary": "◆ 국립창원대 경남CCMC, 예술창의 사회서비스 모델 보건복지부 현장간담회서 호평 초등돌봄 기반... 성장지원 플랫폼을 통해 교원창업기업과 자회사가 글로벌 시장까지 진출할 수 있도록 적극 지원하겠다\"고 말했다....",
       "source": "dnews.co.kr",
       "date": "2026-07-12",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607121204516430812"
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607112314219880786"
     },
     {
       "category": "welfare",
-      "title": "고선희 서해구의회 의장 \"새로운 서해안 시대, 구민 중심 상생 의회 만...",
-      "summary": "이끌어내는 플랫폼 역할을 요구받는 흐름과도 맞닿아 있다. 현장 중심 의정 실현 고 의장은 전반기 의회 슬로건으로 '새로운 미래! 구민과 함께하는 서해구의회'를 제시했다. 그는 \"의회의 답은 현장에 있다\"며 \"복지...",
-      "source": "ppss.kr",
+      "title": "도박이 삼킨 교실, 통장 뜯고 캄보디아 가고…졸업 후 '범죄지옥'",
+      "summary": "공짜로 웹툰을 보려고 접속한 불법 사이트에서 '꽁머니'(공짜 도박 포인트 충전) 이벤트를 한 것입니다. 재미... 염희정(성균관대 사회복지학과 박사과정)씨가 지난해 발표한 '인터넷 도박중독 청소년의 2차범죄 연구'에...",
+      "source": "news.sbs.co.kr",
       "date": "2026-07-12",
-      "url": "https://www.ppss.kr/news/articleView.html?idxno=301884"
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008654172&plink=ORI&cooper=NAVER"
     },
     {
       "category": "welfare",
-      "title": "공장 지붕이 ‘월급’을 준다…경남 산단 ‘햇빛소득’ 실험",
-      "summary": "지속 가능한 친환경 스마트그린산단으로 도약하는 중대한 전환점이 될 것”이라며, “재생에너지 인프라 구축이 기업의 성장과 근로자의 복지로 이어질 수 있도록 각 컨소시엄과 긴밀히 협력해 나가겠다”고 말했다.",
-      "source": "sedaily.com",
+      "title": "국민연금, 외국인 비싸게 팔고 나갈 기회만 줬다[경제 인사이트]",
+      "summary": "10여년 동안 국내 주식 비중을 매년 0.5~0.8%포인트씩 줄여 20%대에서 14%대까지 왔는데, 갑자기 원칙을... 2015년 삼성물산 합병 때 국민연금의 찬성 투표에 외압을 행사한 문형표 전 보건복지부 장관과 홍완선 국민연금...",
+      "source": "view.asiae.co.kr",
       "date": "2026-07-12",
-      "url": "https://www.sedaily.com/article/20066824?ref=naver"
+      "url": "https://view.asiae.co.kr/article/2026071307214114835"
     },
     {
       "category": "welfare",
-      "title": "'70세 이상 버스비 지원' 서울시 조례 의결…시행은 언제?",
-      "summary": "기존에 지하철에만 치우쳐있던 어르신 교통복지 정책을 버스로 확장하는 한편, 수혜 연령을 만 65세에서 상향하고자 하는 것입니다. 실제 시행은 아직 적용 전입니다. 기존 수혜자가 혜택을 보지 못하는 상황이 예상되는...",
-      "source": "mbn.mk.co.kr",
+      "title": "[오늘의 주요일정·13일] '내란 가담' 강호필 전 지작사령관 영장실질심...",
+      "summary": "현판식(기업지원과) ▲ 김상욱 울산시장 10:00 사회복지공동모금회 기후위기 지원사업 배분금 및 성금... 국회소통관) ▲ 플랫폼씨, 3대 메가프로젝트 규탄 기자회견 (13:00 참여연대 2층 아름드리홀) ■ 스포츠...",
+      "source": "safetimes.co.kr",
       "date": "2026-07-12",
-      "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5205481"
+      "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=244146"
     },
     {
       "category": "welfare",
-      "title": "15년 앞서간 가족친화가 표창으로…경과원, '인구정책 유공' 도지사 표...",
-      "summary": "중소·벤처기업 근로자 자녀까지 함께 돌보고 있다. 지역 산업 현장의 보육 공백을 메우는 역할까지 하는... 초기 지원을 강화했다. △배우자 출산 휴가 △난임 치료 휴가 △임신기·육아기 근로시간 단축 등 출산·양육...",
-      "source": "이투데이",
+      "title": "[AFL 칼럼] 지자체의 능동적 '스마트축산' 행정 요구돼",
+      "summary": "지금 축산현장은 경영 악화 속에서 악취 저감과 방역 강화, 폭염 대응, 탄소 감축, 동물복지 등 사회적... (AX) 플랫폼과 스마트화 확산을 단순히 중앙정부의 공모사업이나 예산 배정에만 의존해서는 안 된다. 지자체는 관내...",
+      "source": "aflnews.co.kr",
       "date": "2026-07-12",
-      "url": "https://www.etoday.co.kr/news/view/2602893"
+      "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=324313"
     },
     {
       "category": "welfare",
-      "title": "관악구, 민선9기 6대 전략 58개 과제 확정",
-      "summary": "'혁신과 상생의 더불어 경제' 분야에서는 '관악S밸리 3.0' 사업으로 벤처·창업기업을 1천 개 이상 유치하고... 1인 가구 비율이 63.9%에 이르는 지역 특성을 반영해 노인종합복지타운 건립, 스마트 경로당 등 어르신...",
+      "title": "대웅·삼진·JW중외·종근당·한국유나이티드 '호재'",
+      "summary": "AI 생성 이미지 보건복지부가 혁신형 제약기업 인증 기준을 정비하면서 과거 인증에서... 대표적인 플랫폼 기업으로 2019년부터 2024년까지 총 14건의 기술수출 계약을 성사시켰다. 아리바이오도...",
+      "source": "dailymedi.com",
+      "date": "2026-07-12",
+      "url": "https://www.dailymedi.com/news/news_view.php?wr_id=938276"
+    },
+    {
+      "category": "welfare",
+      "title": "“종로형 일자리·상권 상생… 문화 자부심 지키며 민생 챙길 것”[민선...",
+      "summary": "“교통은 주민의 삶의 질과 도시 경쟁력을 좌우하는 핵심 기반이자 복지다. 평창·부암동은 도심이지만... 2022년 종로구청장 선거에서는 국회의원 출신인 국민의힘 정문헌 후보에게 4.4%포인트 차로 고배를 마셨지만, 6·3...",
+      "source": "seoul.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.seoul.co.kr/news/publicnews/seoul_local/today_seoul/2026/07/13/20260713021001?wlog_tag3=naver"
+    },
+    {
+      "category": "welfare",
+      "title": "김시은, 푸른 드레스와 함께 전한 우아한 근황",
+      "summary": "그는 목걸이와 장식이 돋보이는 액세서리를 더해 포인트를 주었고, \"Happiness\"라는 짧은 글을 남기며 사진을... 지역 복지관에 손편지를 함께 전달하는 기부에 참여해 선한 영향력을 전했다. 또한 롤모델로 전소민을...",
+      "source": "topstarnews.net",
+      "date": "2026-07-12",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16132333"
+    },
+    {
+      "category": "welfare",
+      "title": "수당도 바우처도 '줄줄'…통합 교육복지 시험대",
+      "summary": "꿈드리미 사용 기한이 임박하자 서점이나 안경점에서 먼저 결제한 뒤 매장 포인트나 장부에 잔액을 적립해... 현행 기준에 따라 2027년부터 현금성 복지 지출 비중이 전국 평균보다 높은 상위 8개 교육청은 보통교부금이...",
+      "source": "gjdream.com",
+      "date": "2026-07-12",
+      "url": "http://www.gjdream.com/news/articleView.html?idxno=670919"
+    },
+    {
+      "category": "welfare",
+      "title": "[한경에세이] 퇴직연금, 든든한 노후자금이 되려면",
+      "summary": "한동안 3000선도 넘기 힘들던 코스피 지수가 어느새 9000을 돌파했고, 하루에도 1000~2000포인트씩 오르내리는... 10%포인트 가까이 늘었다. 퇴직연금 계좌를 통한 상장지수펀드(ETF)투자도 48조7000억원 수준으로 최근 3년...",
+      "source": "hankyung.com",
+      "date": "2026-07-12",
+      "url": "https://www.hankyung.com/article/2026071202061"
+    },
+    {
+      "category": "welfare",
+      "title": "화천군 고향사랑 기부금 '10억원 목표' 확대",
+      "summary": "군도 이를 참고해 '화천 명품 농산물' 등 프리미엄 답례품을 집중 개발하고, 민간 플랫폼과의 협업, 지정... 4개 기업체 대표들이 김세훈 화천군수를 방문해 동시에 각각 300만원씩 모두 1200만원의 고향사랑 기부금을...",
+      "source": "kado.net",
+      "date": "2026-07-12",
+      "url": "https://www.kado.net/news/articleView.html?idxno=2060801"
+    },
+    {
+      "category": "welfare",
+      "title": "서울 양천구소상공인연합회, '상생 1.0·2.0·3.0'으로 지역경제 플랫폼...",
+      "summary": "「소상공인기본법」에 따르면 소상공인은 「중소기업기본법」상 소기업 가운데 업종별 매출액 기준을... 확대와 실질적인 혜택 제공을 통해 양천구를 대표하는 지역경제 플랫폼으로 성장해 나가겠다\"고 밝혔다.",
       "source": "gukjenews.com",
       "date": "2026-07-12",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3633807"
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3633643"
     },
     {
       "category": "welfare",
-      "title": "[인사] 대전시",
-      "summary": "이낙중 △기업지원정책과 구본숙 △창업진흥과 백혜성 △에너지정책과 서용필 △자치행정과 김현진 △문화예술과 최경호 △의료정책과 최은영 △식의약안전과 김영아 △장애인복지과 장수진 △교육도서관과 이민호...",
-      "source": "gukjenews.com",
+      "title": "칠곡군, 국내 첫 참외 부산물 활용한 친환경 가죽 개발 성공",
+      "summary": "지난 2024년 10월에는 친환경 식물성 소재 전문 기업과 공동 연구를 시작했고 같은해 12월 참외 가죽 원단... 협업 제품은 크라우드펀딩 플랫폼인 텀블벅에서 오는 15일까지 펀딩을 진행 중이다. 김재욱 칠곡군수는...",
+      "source": "biz.heraldcorp.com",
       "date": "2026-07-12",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3633811"
+      "url": "https://biz.heraldcorp.com/article/10806176?ref=naver"
     },
     {
       "category": "welfare",
-      "title": "광명시, 소하동에 그냥드림 2호점 운영 시작",
-      "summary": "경기 광명시가 13일 소하동 광명푸드뱅크마켓센터 소하점에 '그냥드림 2호점'의 문을 열고 생활밀착형 복지서비스를 확장하고 있다. 그냥드림은 갑작스러운 위기 상황에 놓인 시민에게 별도의 조건 없이 기본적인...",
-      "source": "newsis.com",
+      "title": "새마을금고중앙회, 기부 넘어선 ‘지역문제 해결형 금융’",
+      "summary": "새마을금고중앙회는 지난 9일 지역 복지시설과 경로당의 환경개선 사업을 통합한 사회공헌 브랜드... 2025년 말 전체 연체율은 5.08%로 전년 말 6.81%보다 1.73%포인트 하락했다. 지난해 6월 말 8.37%와 비교하면 3.29%포인트...",
+      "source": "sateconomy.co.kr",
       "date": "2026-07-12",
-      "url": "https://www.newsis.com/view/NISX20260713_0003706109"
+      "url": "http://sateconomy.co.kr/news/view/1065620134439197"
     },
     {
       "category": "welfare",
-      "title": "강동구, 위기가구에 먹거리·생필품 즉시 지원…'그냥드림' 운영",
-      "summary": "강동구는 복잡한 신청 절차 없이 위기 가구에 식품과 생필품을 우선 제공하고, 이후 필요한 복지서비스까지 연계하는 '그냥드림' 사업을 추진하고 있다고 13일 밝혔다. 지원 대상은 생계가 어려운 강동구민이다. 이용을...",
-      "source": "shinailbo.co.kr",
+      "title": "<경상매일신문 민선 9기 단체장 인터뷰> 주낙영 경주시장 “더 큰 경주...",
+      "summary": "APEC 이후의 글로벌 전략, 세계 10대 관광도시 실현, 미래산업 육성, 청년 일자리 창출, 생활복지 확대와... SNS와 숏폼 콘텐츠 등 다양한 디지털 플랫폼을 적극 활용해 시민과 더욱 가까이 소통하고 시민이 정책 결정 과정에...",
+      "source": "ksmnews.co.kr",
       "date": "2026-07-12",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040069"
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=613065"
+    },
+    {
+      "category": "welfare",
+      "title": "[NGO 현장]숫자에도 정치가 있다",
+      "summary": "매해 7월마다 보건복지부가 주최하는 중앙생활보장위원회에서 다음해 수급비를 결정짓는 기준중위소득을... 코스피가 몇 포인트 올랐는지, 자본시장이 얼마나 성장했는지는 매일같이 이야기하니 말이다. 경제 뉴스는...",
+      "source": "khan.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.khan.co.kr/article/202607121951015"
+    },
+    {
+      "category": "welfare",
+      "title": "[지령 10000호 특집] 사랑, 온기를 채우다… 중부일보 사회공헌",
+      "summary": "중부일보는 이 같은 철학 아래 창간 이후 꾸준히 장학사업과 도서보급, 김장나눔, 취약계층 지원, 복지시설... 이는 지역신문이 단순한 정보 전달자가 아니라 공동체를 움직이는 플랫폼이 될 수 있음을 보여준다....",
+      "source": "joongboo.com",
+      "date": "2026-07-12",
+      "url": "https://www.joongboo.com/news/articleView.html?idxno=363731195"
+    },
+    {
+      "category": "welfare",
+      "title": "통합특별시, 13일 청년 ‘드림만남의 날’",
+      "summary": "사회적경제기업, 사회복지기관 등 사업장 270여곳이 참여한다. 참여 사업장은 현장 부스에서 사업장별 직무... 선발 결과는 오는 29일 전남광주청년통합플랫폼, 광주청년 일경험드림 누리집에 각각 게시될 예정이다....",
+      "source": "jndn.com",
+      "date": "2026-07-12",
+      "url": "http://www.jndn.com/article.php?aid=1783849572435926003"
+    },
+    {
+      "category": "welfare",
+      "title": "[인천시 소식] '서울7호선 청라연장 관련 주민간담회' 개최, 2026년 문화...",
+      "summary": "박찬대 인천광역시장이 11일 청라3동 행정복지센터에서 열린 '서울7호선 청라연장 관련 주민간담회'에서... 통합 플랫폼 '문화곳간'을 통해 사업 종료 이후에도 시민·노동자·기업이 참여하고 후원하는 자생적 구조를...",
+      "source": "bizwnews.com",
+      "date": "2026-07-12",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=140472"
+    },
+    {
+      "category": "welfare",
+      "title": "'튼튼머니' 공공체육시설 등록 저조",
+      "summary": "이에 해당지역 주민들은 국고보조금으로 운영되는 전국 단위 복지 제도인 만큼 지역 간 혜택이 갈려서는 안... 튼튼머니는 스포츠 활동으로 포인트를 적립하는 인센티브 제도로 지난 2023년 공단 시범사업으로 시작해...",
+      "source": "kihoilbo.co.kr",
+      "date": "2026-07-12",
+      "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3028706"
     }
   ]
 };
