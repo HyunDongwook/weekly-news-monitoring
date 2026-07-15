@@ -12,10 +12,10 @@
   // 기사는 더 이상 카테고리로 분류하지 않습니다. 카드마다 보기 좋은 변화를 주기 위해
   // 기사 id를 기준으로 이 팔레트 중 하나를 고정적으로(=새로고침해도 항상 같게) 골라 씁니다.
   var PALETTE = [
-    { cls: "cat-welfare", icon: "gift" },
-    { cls: "cat-payment", icon: "wallet" },
-    { cls: "cat-aicc", icon: "headset" },
-    { cls: "cat-safety", icon: "gear" }
+    { cls: "cat-welfare" },
+    { cls: "cat-payment" },
+    { cls: "cat-aicc" },
+    { cls: "cat-safety" }
   ];
 
   function paletteFor(id) {
@@ -54,7 +54,9 @@
     eye:
       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M2.7 12S6 6 12 6s9.3 6 9.3 6-3.3 6-9.3 6-9.3-6-9.3-6Z"/><circle cx="12" cy="12" r="2.6"/></svg>',
     check:
-      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12.5l5 5L20 6"/></svg>'
+      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12.5l5 5L20 6"/></svg>',
+    news:
+      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5.3A1.3 1.3 0 0 1 5.3 4h10.4A1.3 1.3 0 0 1 17 5.3v13.4A1.3 1.3 0 0 0 18.3 20"/><path d="M17 20H5.3A1.3 1.3 0 0 1 4 18.7z"/><path d="M20 8.2v10.5a1.3 1.3 0 0 1-1.3 1.3"/><path d="M17 8.2h3"/><path d="M7.2 8h6.2M7.2 11.2h6.2M7.2 14.4h3.6"/></svg>'
   };
 
   /* ---------------- 유틸 ---------------- */
@@ -123,13 +125,13 @@
     if (size === "dot") {
       return (
         '<span class="archive-row__badge ' + pal.cls + '">' +
-        (ICONS[pal.icon] || "") +
+        ICONS.news +
         "</span>"
       );
     }
     return (
       '<span class="news-card__category ' + pal.cls + '">' +
-      (ICONS[pal.icon] || "") +
+      ICONS.news +
       "</span>"
     );
   }
@@ -147,7 +149,7 @@
     card.innerHTML =
       '<div class="news-card__top">' +
         '<div class="news-card__thumb ' + pal.cls + '" style="background-image:url(\'' + photoUrl + '\')">' +
-          (ICONS[pal.icon] || "") +
+          ICONS.news +
         "</div>" +
         '<div class="news-card__body">' +
           '<h3 class="news-card__title" data-role="title" data-url="' + url + '" data-id="' + id + '">' +
