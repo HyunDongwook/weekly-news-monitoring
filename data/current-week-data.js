@@ -13,21 +13,21 @@ window.CURRENT_WEEK = {
     {
       "title": "베스핀글로벌, AIA생명 상담 현장에 AI 어시스턴트 심었다 \"폐쇄망서도...",
       "summary": "폐쇄형 환경에서 SLM 조합만으로 실전 수준의 완성도를 구현한 사례는 국내 AICC(AI 컨택센터) 시장에서도... 기술로 돌파한 이번 사례는 폐쇄망 환경에 놓인 다른 금융사들의 AICC 구축 방향에도 참고점을 남길 전망이다.",
-      "source": "econovill.com",
+      "source": "ER 이코노믹리뷰",
       "date": "2026-07-12",
       "url": "https://www.econovill.com/news/articleView.html?idxno=744973"
     },
     {
       "title": "서울지노위, 서울신보에 콜센터 노동자 사용자성 있다",
       "summary": "<자료사진 정기훈 기자> 서울지방노동위원회가 서울신용보증재단 고객센터 노동자들에 대한 재단의 사용자성을 인정했다. 위탁업체를 상대로 해결하기 어려웠던 노동환경과 안전 문제를 재단과 직접 교섭할 길이 열린...",
-      "source": "labortoday.co.kr",
+      "source": "매일노동뉴스",
       "date": "2026-07-12",
       "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=235653"
     },
     {
       "title": "경동고객센터 지분매각 토론회...울산시 인수위, 노사 주요쟁점 경청",
       "summary": "울산시청 제공민선 9기 울산시장직 인수위원회가 지난 10일 시청 본관 4층 국제회의실에서 '경동도시가스 고객서비스센터 지분 매각 시민사회 토론회'를 열었다. 토론회에 참석한 경동도시가스, 민주노총 공공운수노조...",
-      "source": "ksilbo.co.kr",
+      "source": "경상일보",
       "date": "2026-07-12",
       "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061901"
     },
@@ -69,7 +69,7 @@ window.CURRENT_WEEK = {
     {
       "title": "메트라이프, MDRT 앞세워 차별화…전속채널 경쟁력 높인다",
       "summary": "최근 보험사들이 GA(법인보험대리점) 의존도를 높이는 가운데 회사는 전속 설계사 경쟁력 강화에 무게를 두며 차별화 전략을 이어가고 있다. 12일 메트라이프에 따르면 최근 2026 메트라이프 MDRT 데이를 개최했다....",
-      "source": "bloter.net",
+      "source": "블로터",
       "date": "2026-07-12",
       "url": "https://www.bloter.net/news/articleView.html?idxno=667867"
     },
@@ -83,28 +83,28 @@ window.CURRENT_WEEK = {
     {
       "title": "‘집토끼’ 꽉 잡아라…이커머스 멤버십 더 큰 혜택",
       "summary": "- 오프라인, 체험 앞세워 방문 유도 이(e)커머스업계가 신규 회원 유치보다 기존 멤버십 회원의 구매 빈도와... 12일 유통업계에 따르면 SSG닷컴은 지난 7일 유료 멤버십 ‘쓱7클럽’ 회원에게 결제액의 14%를 SSG머니로...",
-      "source": "kookje.co.kr",
+      "source": "국제신문",
       "date": "2026-07-12",
       "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260713.22012003434"
     },
     {
       "title": "뉴욕시, 전국 최초 ‘구독 함정’ 금지 규정 시행",
       "summary": "뉴욕시가 소비자들이 구독 서비스를 해지하기 어렵게 만드는 이른바 ‘구독 함정(subscription trap)’과 숨겨진 추가 요금을 막기 위한 소비자 보호 정책을 도입한다. 지난 10일 조란 맘다니 뉴욕시장은 자동 갱신 구독...",
-      "source": "koreadaily.com",
+      "source": "미주중앙일보",
       "date": "2026-07-12",
       "url": "https://www.koreadaily.com/article/20260712164718683"
     },
     {
       "title": "하나카드, AI 30종 구독에 가족 금융사기 보장 결합",
       "summary": "하나카드는 30종의 프리미엄 AI를 한 플랫폼에서 이용하고 가족의 금융사기 피해까지 보장하는 구독 서비스... 여러 생성형 AI 서비스를 각각 구독할 때 발생하는 비용과 계정 관리 부담을 줄이는 데 초점을 맞췄다....",
-      "source": "press9.kr",
+      "source": "프레스나인",
       "date": "2026-07-12",
       "url": "http://www.press9.kr/news/articleView.html?idxno=79293"
     },
     {
       "title": "\"임영웅 팬 잡는다\"…LG헬로비전, 트로트 특화 상품 선봬",
       "summary": "'트롯초이스'는 트로트 예능 장르에 특화된 구독형 서비스로, 두터운 팬덤을 보유한 중장년층 시청자를 겨냥했다. 이용자는 TV조선 대표 트로트 오디션 프로그램인 '미스트롯'과 '미스터트롯' 시즌1부터 최신 시즌까지 한...",
-      "source": "ddaily.co.kr",
+      "source": "디지털데일리",
       "date": "2026-07-12",
       "url": "https://www.ddaily.co.kr/page/view/2026071308233786431"
     },
@@ -139,7 +139,7 @@ window.CURRENT_WEEK = {
     {
       "title": "AICESS·부뜰정보시스템 합병…'미코AI' 출범",
       "summary": "통합 법인은 양사 기술을 결합해 AI 컨택센터(AICC), 상담 지원, 지식관리, 업무 자동화 사업을 강화한다. 기존 컨택센터 구축·운영 역량에 AI 모델 개발 능력을 더해 금융권 중심의 사업을 공공·민간 분야로 확대한다는...",
-      "source": "newsis.com",
+      "source": "뉴시스",
       "date": "2026-07-10",
       "url": "https://www.newsis.com/view/NISX20260710_0003703976"
     },
@@ -153,49 +153,49 @@ window.CURRENT_WEEK = {
     {
       "title": "에즈금융서비스, 허위사실 유포에 법적 대응…\"김앤장 선임·손해배상 ...",
       "summary": "금융당국의 1,200%룰 시행 이후 법인보험대리점(GA) 업계의 설계사 영입 경쟁이 새로운 국면을 맞은 가운데... ◇ 에즈금융서비스, 김앤장 선임…허위사실 유포 법적 대응 10일 보험업계에 따르면 금융당국은 이달부터 GA 소속...",
-      "source": "fins.co.kr",
+      "source": "보험매일",
       "date": "2026-07-10",
       "url": "http://www.fins.co.kr/news/articleView.html?idxno=109127"
     },
     {
       "title": "\"계약자 대신 청약서 서명\"..DB손보 설계사 제재",
       "summary": "/사진=DB손해보험 DB손해보험 소속 보험설계사가 보험계약자의 자필서명을 받지 않고 청약서에 대신 서명한 사실이 적발돼 금융당국의 제재 절차에 올랐다. 10일 금융당국에 따르면 금융감독원은 2일 디비손해보험...",
-      "source": "4th.kr",
+      "source": "포쓰저널",
       "date": "2026-07-10",
       "url": "http://www.4th.kr/news/articleView.html?idxno=2114574"
     },
     {
       "title": "'소득기반 고용보험' 본격 시동…적용 기준 '월 보수 80만원' 개편",
       "summary": "공단은 약 2510만 건에 달하는 국세청 소득 자료와 약 1550만 명의 고용보험 DB 자료를 연계해 개별 노동자의 소득 기반으로 보험료를 부과하고 정산할 수 있는 전산 시스템을 구축 중이다. 또한 사업주와 세무사 등 대행기관...",
-      "source": "mediapen.com",
+      "source": "미디어펜",
       "date": "2026-07-10",
       "url": "https://www.mediapen.com/news/view/1109420"
     },
     {
       "title": "[상조선수금 10조 시대] 2위 오른 교원라이프, 성장의 청구서",
       "summary": "상조업계가 선수금 10조원, 가입자 1000만명 시대에 들어섰다. 고객이 미리 낸 장례비가 커지면서 상조회사의... 교원라이프가 보람그룹을 제치고 상조업계 2위에 올랐다. 장례 중심이던 상조상품을 여행·생활가전·교육...",
-      "source": "bloter.net",
+      "source": "블로터",
       "date": "2026-07-10",
       "url": "https://www.bloter.net/news/articleView.html?idxno=667818"
     },
     {
       "title": "KCC, KISS 2026서 색채와 로봇 융합한 '종합 산업안전 솔루션' 공개",
       "summary": "안전환경디자인 솔루션을 공개했다. 한국산업안전보건공단이 후원하며 올해 300여 개 기업이 1,200개 부스 규모로 참여해 산업재해 예방을 위한 최신 기술을 공유한 이번 전시회에서 KCC는 'Color for Safety(시각안전...",
-      "source": "kr.aving.net",
+      "source": "에이빙",
       "date": "2026-07-10",
       "url": "https://kr.aving.net/news/articleView.html?idxno=1812349"
     },
     {
       "title": "K2 Safety, ‘KISS 2026’서 산업현장 폭염 대응 위한 팬웨어·안전화 전...",
       "summary": "이 밖에도 K2 Safety는 냉감 의류와 계절성 안전용품 등 여름철 현장에 필수적인 제품들을 함께 선보이며, 폭염으로부터 작업자를 안전하게 보호할 수 있는 ‘토털 산업안전 솔루션’을 제안했다. 아울러 단순히 제품을...",
-      "source": "dt.co.kr",
+      "source": "디지털타임스",
       "date": "2026-07-10",
       "url": "https://www.dt.co.kr/article/12072231?ref=naver"
     },
     {
       "title": "승강기안전공단, AI 침수 위험 승강기 안전예보시스템 본격 운영",
       "summary": "특히 침수 시 이용자가 승강기에 갇히는 응급 상황에 대비해, 모바일 앱과 IoT 기기를 연계한 스마트 원격관제 플랫폼 고도화에 역량을 집중하고 있다. 또한 국내 승강기 설치 대수가 세계 3위에 달하는 환경에 맞춰 올해...",
-      "source": "cnbnews.com",
+      "source": "CNB뉴스",
       "date": "2026-07-10",
       "url": "https://www.cnbnews.com/news/articleView.html?idxno=1007762"
     },
@@ -209,14 +209,14 @@ window.CURRENT_WEEK = {
     {
       "title": "SM하이플러스, AI 컨택센터 가동… 24시간 고객 응대 체계 구축",
       "summary": "SM하이플러스는 고객 문의를 연중무휴 24시간 처리할 수 있는 AI 기반 컨택센터(AICC)를 구축하고 'AI 콜봇' 서비스를 운영한다고 8일 밝혔다. 이번 시스템은 아마존웹서비스(AWS)의 클라우드 기반 고객센터 솔루션인...",
-      "source": "pressman.kr",
+      "source": "프레스맨",
       "date": "2026-07-09",
       "url": "https://www.pressman.kr/news/articleView.html?idxno=102689"
     },
     {
       "title": "[단독] KT 상담원이 117명 고객 상품권 '꿀꺽' …전산 허점이 범행 키웠...",
       "summary": "최근 박윤영 KT 대표가 고객센터를 AI컨택센터(AICC)로 고도화하겠다고 밝혔지만 기본적인 고객 보호... 박윤영 대표는 7월 6일 취임 100일 기자간담회에서 AICC를 확대하고 상품과 서비스의 주도권을 고객에게 돌려주는...",
-      "source": "it.chosun.com",
+      "source": "IT조선",
       "date": "2026-07-09",
       "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165411"
     },
@@ -230,14 +230,14 @@ window.CURRENT_WEEK = {
     {
       "title": "[상조선수금 10조 시대] 3조 선수금, 웅진 프리드라이프의 딜레마",
       "summary": "상조업계가 선수금 10조원, 가입자 1000만명 시대에 들어섰다. 고객이 미리 낸 장례비가 커지면서 상조회사의... 상조업계 1위 웅진프리드라이프가 3조원대 선수금을 바탕으로 웅진그룹의 핵심 캐시카우로 떠오르고 있다....",
-      "source": "bloter.net",
+      "source": "블로터",
       "date": "2026-07-09",
       "url": "https://www.bloter.net/news/articleView.html?idxno=667651"
     },
     {
       "title": "옴니케어, KISS 2026서 신체·정신 아우르는 '임직원 통합 복지 솔루션'...",
       "summary": "건강검진부터 복지몰, 정신건강 관리까지 아우르는 맞춤형 솔루션으로 시장을 공략한다는 전략이다.... 비타몰은 비타브릿지 회원들만 이용할 수 있는 폐쇄형 복지몰이다. 건강관리 용품 및 생활복지 상품을...",
-      "source": "kr.aving.net",
+      "source": "에이빙",
       "date": "2026-07-08",
       "url": "https://kr.aving.net/news/articleView.html?idxno=1812278"
     },
@@ -265,35 +265,35 @@ window.CURRENT_WEEK = {
     {
       "title": "현대이지웰, 복지몰 시스템 전면 고도화…AI 추천부터 클라우드 전환까...",
       "summary": "현대이지웰이 7일 차세대 복지 시스템을 도입해 복지몰 이용 편의성과 서비스 안정성을 높이고 고객사 확대 기반을 마련했다. 현대이지웰은 AI 기술과 클라우드 인프라를 적용한 차세대 복지 시스템을 도입하며 선택적...",
-      "source": "ezyeconomy.com",
+      "source": "이지경제",
       "date": "2026-07-07",
       "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=237210"
     },
     {
       "title": "\"쇼핑몰 없이 링크 하나로\" 라온엠앤에스, 구독·렌탈 플랫폼 '나구만' ...",
       "summary": "특히 나구만은 제조사, 총판, 협회, 프랜차이즈, 복지몰, 온라인 판매자, SNS 크리에이터, 인플루언서 등 다양한 사업자가 별도의 개발 비용 없이 렌탈 서비스를 운영할 수 있도록 설계됐다. 라온엠앤에스 관계자는 “렌탈은...",
-      "source": "beyondpost.co.kr",
+      "source": "비욘드포스트",
       "date": "2026-07-07",
       "url": "http://www.beyondpost.co.kr/view.php?ud=202607071446032536d3244b4fed_30"
     },
     {
       "title": "실버주택, '액티브 시니어' 사로잡은 주거 트렌드는?",
       "summary": "자산과 소비력을 갖춘 이른바 '액티브 시니어'층이 실버산업의 소비 주체로 떠올랐기 때문입니다. ▶ 인터뷰 : 심주하 / 남양주시 다산동 - \"은퇴를 그냥 쉬는 게 아니라 제2의 인생이라고 생각하거든요. 청소 식단 같은...",
-      "source": "mbn.co.kr",
+      "source": "MBN",
       "date": "2026-07-07",
       "url": "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1423387"
     },
     {
       "title": "교원라이프, 선수금 1.65조 운용 “고위험 투자 없다”",
       "summary": "측이 “상조업의 사업 특성과 회계기준이 반영된 구조일 뿐, 고위험 투자자산을 운용하고 있지 않다”고... 이에 대해 교원라이프는 “상조업은 고객과 장기간 계약을 유지하는 사업 특성상 단기 유동성 자산과 함께...",
-      "source": "sateconomy.co.kr",
+      "source": "토요경제",
       "date": "2026-07-06",
       "url": "http://sateconomy.co.kr/news/view/1065588445632182"
     },
     {
       "title": "[장석영의 '실버 산업' 현황과 전망] <161> 초고령사회가 주목해야 할 두...",
       "summary": "우리나라는 초고령사회로 진입하면서 노인 돌봄의 중요성이 어느 때보다 커지고 있다. 평균수명의 연장과 함께 치매, 경도인지장애 등 인지기능 저하를 경험하는 어르신들이 증가하면서 돌봄의 개념 또한 단순한 신체...",
-      "source": "youthdaily.co.kr",
+      "source": "청년일보",
       "date": "2026-07-06",
       "url": "https://www.youthdaily.co.kr/news/article.html?no=222336"
     }
