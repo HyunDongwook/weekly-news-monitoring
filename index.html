@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>주간 뉴스 모니터링 | SK m&amp;service</title>
-<link rel="stylesheet" href="assets/style.css?v=59">
+<link rel="stylesheet" href="assets/style.css?v=60">
 </head>
 <body>
 
@@ -47,6 +47,7 @@
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="5" width="17" height="15" rx="2.4"/><path d="M8 3v4M16 3v4M3.5 10h17"/></svg>
               </span>
               <span id="periodLabel">기간 정보 불러오는 중…</span>
+              <span class="count-badge" id="articleCountBadge"></span>
             </span>
           </h1>
           <p class="site-tagline">
@@ -92,6 +93,8 @@
 
     var listEl = document.getElementById("newsList");
     var articles = data.articles || [];
+
+    document.getElementById("articleCountBadge").textContent = "기사 " + articles.length + "건";
 
     if (articles.length === 0) {
       document.getElementById("emptyState").style.display = "block";
