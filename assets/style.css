@@ -580,8 +580,8 @@ img, svg { display: block; }
 }
 
 .news-card__thumb svg {
-  width: 18px;
-  height: 18px;
+  width: 24px;
+  height: 24px;
   color: #fff;
   position: relative;
   z-index: 1;
@@ -611,7 +611,7 @@ img, svg { display: block; }
   margin-bottom: 5px;
 }
 
-.news-card__category svg { width: 12px; height: 12px; }
+.news-card__category svg { width: 16px; height: 16px; }
 
 .news-card__title {
   flex: 1 1 auto;
@@ -852,7 +852,7 @@ img, svg { display: block; }
   justify-content: center;
 }
 
-.archive-row__badge svg { width: 15px; height: 15px; }
+.archive-row__badge svg { width: 19px; height: 19px; }
 
 .archive-row__title {
   flex: 1;

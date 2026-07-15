@@ -56,7 +56,7 @@
     check:
       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12.5l5 5L20 6"/></svg>',
     news:
-      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5.3A1.3 1.3 0 0 1 5.3 4h10.4A1.3 1.3 0 0 1 17 5.3v13.4A1.3 1.3 0 0 0 18.3 20"/><path d="M17 20H5.3A1.3 1.3 0 0 1 4 18.7z"/><path d="M20 8.2v10.5a1.3 1.3 0 0 1-1.3 1.3"/><path d="M17 8.2h3"/><path d="M7.2 8h6.2M7.2 11.2h6.2M7.2 14.4h3.6"/></svg>'
+      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5.3A1.3 1.3 0 0 1 5.3 4h10.4A1.3 1.3 0 0 1 17 5.3v13.4A1.3 1.3 0 0 0 18.3 20"/><path d="M17 20H5.3A1.3 1.3 0 0 1 4 18.7z"/><path d="M20 8.2v10.5a1.3 1.3 0 0 1-1.3 1.3"/><path d="M17 8.2h3"/><path d="M7.2 8h6.2M7.2 11.2h6.2M7.2 14.4h3.6"/></svg>'
   };
 
   /* ---------------- 유틸 ---------------- */
