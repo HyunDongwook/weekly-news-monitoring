@@ -115,6 +115,18 @@ const SOURCE_NAME_MAP = {
     'it.chosun.com': 'IT조선',
     'mediapen.com': '미디어펜',
     'newsis.com': '뉴시스',
+    'economist.co.kr': '이코노미스트',
+    'newstomato.com': '뉴스토마토',
+    'newsprime.co.kr': '프라임경제',
+    'cstimes.com': '컨슈머타임스',
+    'sentv.co.kr': '서울경제TV',
+    'consumernews.co.kr': '소비자가만드는신문',
+    'ktnews.com': '한국섬유신문',
+    'cwn.kr': 'CWN',
+    'zdnet.co.kr': '지디넷코리아',
+    'donga.com': '동아일보',
+    'joongang.co.kr': '중앙일보',
+    'hankyung.com': '한국경제',
 };
 
 const EXCLUDE_URL_SUBSTR = ['msn.com'];
