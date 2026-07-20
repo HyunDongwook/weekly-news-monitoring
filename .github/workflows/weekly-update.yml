@@ -2,8 +2,11 @@ name: Weekly News Candidate Collection
 
 on:
   schedule:
-    # 00:07 UTC every Monday = 09:07 KST every Monday
+    # 00:07 UTC every Monday = 09:07 KST every Monday (primary)
     - cron: '7 0 * * 1'
+    # 23:35 UTC every Sunday = 08:35 KST every Monday (backup, in case the
+    # primary run above is delayed or dropped by GitHub's scheduler)
+    - cron: '35 23 * * 0'
   workflow_dispatch: {}
 
 permissions:
