@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.07.13 ~ 2026.07.19",
   "periodStart": "2026-07-13",
   "periodEnd": "2026-07-19",
-  "generatedAt": "2026-07-21T09:27:47+09:00",
+  "generatedAt": "2026-07-21T09:28:06+09:00",
   "articles": [
     {
       "title": "상위권 GA, 상반기 마지막 달 호실적 마감",
@@ -149,13 +149,6 @@ window.CURRENT_WEEK = {
       "source": "CWN",
       "date": "2026-07-15",
       "url": "https://www.cwn.kr/news/articleView.html?idxno=50476"
-    },
-    {
-      "title": "와따에이아이, 유·무인 물류 장비 통합 운영 플랫폼 'WATON' 공개",
-      "summary": "AI 기반 물류 자동화 솔루션 기업 와따에이아이가 지난 14일 경기 광주시 자사 쇼룸에서 육군종합보급창 관계자를 대상으로 AI 물류 통합 관제 플랫폼 ‘WATON’ 시연회를 개최했다고 15일 밝혔다. WATON은 물류센터 운영...",
-      "source": "한국경제",
-      "date": "2026-07-15",
-      "url": "https://www.hankyung.com/article/202607157341O"
     },
     {
       "title": "베네피아, 게임형 복지 서비스 ‘오피스 타임어택’으로 직장인 잡는다",
