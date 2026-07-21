@@ -148,6 +148,15 @@
       });
 
       renderPage(1);
+
+      details.addEventListener("toggle", function () {
+        if (!details.open) return;
+        var allDetails = listEl.querySelectorAll("details.archive-week");
+        allDetails.forEach(function (d) {
+          if (d !== details) d.open = false;
+        });
+      });
+
       listEl.appendChild(details);
     });
 
