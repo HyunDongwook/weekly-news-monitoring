@@ -421,7 +421,6 @@ img, svg { display: block; }
   background: var(--brand-green-light);
   padding: 3px 10px;
   border-radius: 999px;
-  margin-left: 42px;
 }
 
 .hero-card__divider {
