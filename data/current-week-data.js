@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.07.13 ~ 2026.07.19",
   "periodStart": "2026-07-13",
   "periodEnd": "2026-07-19",
-  "generatedAt": "2026-07-21T08:39:32+09:00",
+  "generatedAt": "2026-07-21T09:05:27+09:00",
   "articles": [
     {
       "title": "상위권 GA, 상반기 마지막 달 호실적 마감",
@@ -81,13 +81,6 @@ window.CURRENT_WEEK = {
       "url": "https://www.dt.co.kr/article/12073200?ref=naver"
     },
     {
-      "title": "KMAC, ‘AXIS 2026’ 2일차 진행…AI시대 CX·컨택센터 방향 논의",
-      "summary": "그중에서 컨택센터는 AI를 결합한 상담 채널(AICC)을 지칭한다. 송광호 KMAC 기업가치혁신그룹장은 한국... 이어 서남희 LG유플러스 상무가 ‘AICC: Designed for Humans’를 주제로 기조강연에 나섰다. 서 상무는 “많은...",
-      "source": "동아일보",
-      "date": "2026-07-16",
-      "url": "https://www.donga.com/news/Economy/article/all/20260716/134311505/1"
-    },
-    {
       "title": "[현장] AI도 해결 못해, 결국엔 사람…AXIS 2026 '사람 중심 AICC'",
       "summary": "AI 컨택센터(AICC) 혁신과 고객 경험, 리스크 관리, AX 실행을 다룬 세션이 이어졌다. AI를 상담사 대체... 메타엠은 27년간 축적한 약 48억건의 컨택센터 데이터를 기반으로 'MetaM AICC'를 선보였다. 상담과 품질관리, 교육...",
       "source": "프라임경제",
@@ -114,13 +107,6 @@ window.CURRENT_WEEK = {
       "source": "아이티데일리",
       "date": "2026-07-15",
       "url": "https://www.itdaily.kr/news/articleView.html?idxno=240428"
-    },
-    {
-      "title": "서남희 LG유플러스 상무, 사람 중심 AICC 미래 제시",
-      "summary": "진정한 AICC(AI 컨택센터)의 성공은 단순히 엔지니어적 수치가 아닌 고객이 체감하는 품질에 있습니다.\" 서남희 LG유플러스(032640) 상무는 15일 서울 코엑스에서 열린 경영 혁신 컨퍼런스 기조 연설에서 이같이 말했다....",
-      "source": "프라임경제",
-      "date": "2026-07-15",
-      "url": "http://www.newsprime.co.kr/news/article.html?no=740474"
     },
     {
       "title": "텔레퍼포먼스코리아 \"AI 성패는 고객 체감\"",
@@ -172,11 +158,11 @@ window.CURRENT_WEEK = {
       "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03916326645514848"
     },
     {
-      "title": "베네피아, 게임형 적립 서비스 출시",
-      "summary": "SK엠앤서비스가 운영하는 선택적 복지 플랫폼 '베네피아'가 7월 15일 신규 적립 서비스 '오피스 타임어택'을 공식 출시했다. 복지 플랫폼 시장에서 이용자 참여를 늘리기 위한 콘텐트 경쟁이 본격화되는 가운데 게임형...",
-      "source": "중앙일보",
+      "title": "F&U, BPO·AICC 결합해 상담 자동화 성과 입증",
+      "summary": "F&U(대표 이규식)는 SK텔레콤(017670)과 협력해 인공지능(AI) 기반 컨택센터(AICC) 사업 확대에 나섰다. F&U는 15일 서울 삼성동 코엑스에서 열린 통합 경영혁신 콘퍼런스 'AXIS 2026'에 참가해 SK텔레콤 AICC 기반 서비스를...",
+      "source": "프라임경제",
       "date": "2026-07-15",
-      "url": "https://www.joongang.co.kr/article/25445239"
+      "url": "http://www.newsprime.co.kr/news/article.html?no=740464"
     },
     {
       "title": "\"대기시간 제로\" 자생한방병원, 24시간 가동 'AI컨택센터' 전격 운영",
@@ -198,13 +184,6 @@ window.CURRENT_WEEK = {
       "source": "청년일보",
       "date": "2026-07-13",
       "url": "https://www.youthdaily.co.kr/news/article.html?no=222826"
-    },
-    {
-      "title": "대기업 5일 vs 중소기업 3일…임금 이어 여름휴가도 '양극화'",
-      "summary": "중소기업 근로자에 '반값휴가' 지원 정부는 중소기업 근로자의 휴식 격차를 줄이기 위해 '근로자 휴가지원사업', 이른바 '반값휴가' 제도를 운영하고 있다. 중소기업 근로자의 국내여행을 지원하기 위해 근로자가 20만...",
-      "source": "뉴스1",
-      "date": "2026-07-13",
-      "url": "https://www.news1.kr/industry/sb-founded/6226334"
     }
   ]
 };
