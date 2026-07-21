@@ -542,13 +542,12 @@ img, svg { display: block; }
   border-radius: var(--radius-md);
   padding: 14px 16px;
   box-shadow: var(--shadow-card);
-  transition: box-shadow 0.15s ease, transform 0.15s ease;
+  transition: box-shadow 0.15s ease;
   min-width: 0;
 }
 
 .news-card:hover {
   box-shadow: var(--shadow-card-hover);
-  transform: translateY(-2px);
 }
 
 .news-card__top {
