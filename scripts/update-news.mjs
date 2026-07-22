@@ -126,6 +126,11 @@ const SOURCE_NAME_MAP = {
     'donga.com': '동아일보',
     'joongang.co.kr': '중앙일보',
     'hankyung.com': '한국경제',
+    'e-science.co.kr': '이코노미사이언스',
+    'koit.co.kr': '정보통신신문',
+    'ulsanpress.net': '울산신문',
+    'whitepaper.co.kr': '화이트페이퍼',
+    'newsdream.kr': '뉴스드림',
 };
 
 const EXCLUDE_URL_SUBSTR = ['msn.com'];
