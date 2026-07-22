@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.07.13 ~ 2026.07.19",
   "periodStart": "2026-07-13",
   "periodEnd": "2026-07-19",
-  "generatedAt": "2026-07-22T15:00:37+09:00",
+  "generatedAt": "2026-07-22T15:09:15+09:00",
   "articles": [
     {
       "title": "상위권 GA, 상반기 마지막 달 호실적 마감",
@@ -53,13 +53,6 @@ window.CURRENT_WEEK = {
       "url": "https://biz.heraldcorp.com/article/10813102?ref=naver"
     },
     {
-      "title": "충남, 반도체·디스플레이 등 중소 제조 AX 지원 시동…공정 데이터 자...",
-      "summary": "제조 현장에 안전관리 고도화가 필요한 기업엔 비전 기반 AI 산업안전 솔루션 도입을 지원한다. AX 레벨 2~4단계 기업에는 충남TP가 제조기술융합센터의 클라우드 플랫폼을 활용해 AI 운영관리(AIOps) 최적화를 통한...",
-      "source": "전자신문",
-      "date": "2026-07-19",
-      "url": "https://www.etnews.com/20260716000293"
-    },
-    {
       "title": "“14분간 울음 들어준 상담원”…AI가 만든 ‘사람의 시간’",
       "summary": "U+’가 지향하는 고객 중심 경험을 AI 컨택센터(AICC)에도 적용해 실현하고 있다. 단순 반복 문의나 조회 업무는 AI가 처리하고, 상담원은 도움이 더 필요한 고객 상담에 집중하는 방식이다. 도입 이후 연결 대기시간은...",
       "source": "동아일보",
@@ -86,13 +79,6 @@ window.CURRENT_WEEK = {
       "source": "한국경제",
       "date": "2026-07-17",
       "url": "https://www.hankyung.com/article/2026071712211"
-    },
-    {
-      "title": "재테크·노후대비 수요 쑥…'연금보험' 신계약 전년비 78%↑",
-      "summary": "17일 법인보험대리점(GA) 토스인슈어런스가 가입 고객 데이터를 분석한 결과에 따르면 상반기 연금보험 신계약 건수는 전년 동기 대비 78.1% 증가했다. 역대급 증시 호황에 힘입어 연금보험 판매량 톱10 상품 중...",
-      "source": "뉴시스",
-      "date": "2026-07-17",
-      "url": "https://www.newsis.com/view/NISX20260716_0003712574"
     },
     {
       "title": "이제너두, 종합건강검진 플랫폼 ‘이젠케어’ 정식 오픈",
@@ -123,25 +109,11 @@ window.CURRENT_WEEK = {
       "url": "http://www.ktnews.com/news/articleView.html?idxno=147249"
     },
     {
-      "title": "전국 도시가스 '외주구조' 도마...임금체불 등 흔들리는 '공공성'",
-      "summary": "대구·경북 경산의 대성에너지는 자회사 형태로, 서울 서북권의 서울도시가스는 별도 법인을 통해 고객 센터를 운영합니다. 경기 남부의 삼천리는 협력 고객 서비스센터를 두고 있습니다. 서울 동부권의 예스코와 충남...",
-      "source": "뉴스토마토",
-      "date": "2026-07-16",
-      "url": "http://www.newstomato.com/ReadNews.aspx?no=1307392&inflow=N"
-    },
-    {
       "title": "보험, 보장 넘어 예방으로…건강관리·소비자보호 강화",
       "summary": "최근 보험업계에서는 의료기관과의 협력을 통한 만성질환 관리, 법인보험대리점(GA)과의 소비자보호 체계... ◇ KB라이프, GA와 소비자보호 협력 확대 KB라이프는 대형 법인보험대리점(GA) 영진에셋과 금융소비자보호 강화를...",
       "source": "이코노미사이언스",
       "date": "2026-07-16",
       "url": "https://www.e-science.co.kr/news/articleView.html?idxno=132079"
-    },
-    {
-      "title": "\"AI가 건설 패러다임 바꾼다\" 기술실증∙강소기업 관심집중",
-      "summary": "현장 내 설치된 복합가스센서와 IoT 게이트웨이를 통해 가스농도 데이터를 실시간 수집·저장하고, 웹·모바일 기반 통합관제 플랫폼에서 원격 관리할 수 있다. ■강소기업 기술 키워드는 '통신' 스마트건설 강소기업...",
-      "source": "정보통신신문",
-      "date": "2026-07-16",
-      "url": "https://www.koit.co.kr/news/articleView.html?idxno=208018"
     },
     {
       "title": "[현장] \"AICC 도입 경쟁, '체감 품질'이 성패 가른다\"",
@@ -198,13 +170,6 @@ window.CURRENT_WEEK = {
       "source": "프라임경제",
       "date": "2026-07-15",
       "url": "http://www.newsprime.co.kr/news/article.html?no=740464"
-    },
-    {
-      "title": "SK이노 울산CLX \"AI 적용도 현장 구성원 소통·공감 뒷받침돼야\"",
-      "summary": "또 현장 안전관리 지원 프로그램인 비전 가디언과 통합관제 플랫폼 소개 세션을 통해 제조업 현장의 AI 전환이 작업장 안전성과 효율성을 높이는 방안도 공유했다. 오후 세션에서는 김종일 안전보건공단...",
-      "source": "울산신문",
-      "date": "2026-07-15",
-      "url": "https://www.ulsanpress.net/news/articleView.html?idxno=579239"
     },
     {
       "title": "대한항공, 드론·UAM 박람회서 'AI·무인기 기반' 미래 항공기술 공개",
