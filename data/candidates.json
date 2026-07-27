@@ -10,13 +10,13 @@
   "periodLabel": "2026.07.20 ~ 2026.07.26",
   "periodStart": "2026-07-20",
   "periodEnd": "2026-07-26",
-  "generatedAt": "2026-07-27T09:56:46+09:00",
-  "candidateCount": 305,
+  "generatedAt": "2026-07-27T21:00:19+09:00",
+  "candidateCount": 302,
   "candidates": [
     {
       "title": "애드웰, 기업 담당자 대상 선택형 실물 선물 무료체험 선착순 지원",
       "summary": "애드웰은 복지몰 구축, 모바일 쿠폰 구매, 실물 배송 발송 등 기업 복지 관련 업무를 하나의 플랫폼에서 관리할 수 있도록 지원하는 서비스다. 여러 채널에 나눠 처리하던 업무를 통합해 운영할 수 있도록 구성한 것이...",
-      "source": "enetnews.co.kr",
+      "source": "이넷뉴스",
       "date": "2026-07-26",
       "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=52750",
       "matchedKeyword": "복지몰"
@@ -152,7 +152,7 @@
     {
       "title": "[60초 복지정책] \"냉방비 폭탄 걱정 끝\"…복지로서 4인 가구 70만원 지원",
       "summary": "폭염과 난방비·전기요금 상승으로 에너지 취약계층의 여름나기에 비상이 걸린 가운데 '복지로'에서 에너지바우처를 신청하면 4인 가구 이상은 70만1300원을 받을 수 있다. 27일 보건복지부에 따르면, 에너지바우처를...",
-      "source": "newspim.com",
+      "source": "뉴스핌",
       "date": "2026-07-26",
       "url": "https://www.newspim.com/news/view/20260727000017",
       "matchedKeyword": "복지정책"
@@ -438,6 +438,14 @@
       "matchedKeyword": "AICC"
     },
     {
+      "title": "KT \"금융권 AI 고객센터 제공 250% 증가\"…AX 성과 낸다",
+      "summary": "KT는 은행 분야에서 AI 챗봇·상담봇 등 에이전틱 AICC를 구축해 상담 영역을 고도화했고, 그룹 통합 AI 플랫폼을 만들어 AI 서비스의 운영 기반을 다졌다. 현재는 에이전트와 데이터, 운영체계를 하나의 플랫폼으로...",
+      "source": "아시아투데이",
+      "date": "2026-07-26",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260726010008984",
+      "matchedKeyword": "AICC"
+    },
+    {
       "title": "KT, 금융 AX 시장 공략⋯ “금융 업무 전반 AX 적용 확대”",
       "summary": "실제로 은행 분야에서는 AI 챗봇·상담봇 등 에이전틱 AICC(AI 컨택센터)를 구축해 상담 영역을 고도화했고, 그룹 통합 AI 플랫폼을 만들어 AI 서비스의 운영 기반을 다졌다. 보험 분야에서는 생성형 AI 기반 세일즈...",
       "source": "브릿지경제",
@@ -454,11 +462,11 @@
       "matchedKeyword": "AICC"
     },
     {
-      "title": "KT \"금융권 AI 고객센터 제공 250% 증가\"…AX 성과 낸다",
-      "summary": "KT는 은행 분야에서 AI 챗봇·상담봇 등 에이전틱 AICC를 구축해 상담 영역을 고도화했고, 그룹 통합 AI 플랫폼을 만들어 AI 서비스의 운영 기반을 다졌다. 현재는 에이전트와 데이터, 운영체계를 하나의 플랫폼으로...",
-      "source": "아시아투데이",
+      "title": "KT, 금융 AX 상반기 22건 수주…5대 은행 중 4곳 AICC 지원",
+      "summary": "국내 5대 시중은행 가운데 4곳의 인공지능컨택센터(AICC) 구축과 운영을 지원하는 등 은행과 보험, 카드... (사진=뉴스토마토) 금융권 AX 수요는 AICC와 AI 에이전트, 데이터 분야를 중심으로 늘고 있습니다. KT는 5대...",
+      "source": "뉴스토마토",
       "date": "2026-07-26",
-      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260726010008984",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1308190&inflow=N",
       "matchedKeyword": "AICC"
     },
     {
@@ -470,27 +478,11 @@
       "matchedKeyword": "AICC"
     },
     {
-      "title": "KT, 금융 AX 상반기 22건 수주…5대 은행 중 4곳 AICC 지원",
-      "summary": "국내 5대 시중은행 가운데 4곳의 인공지능컨택센터(AICC) 구축과 운영을 지원하는 등 은행과 보험, 카드... (사진=뉴스토마토) 금융권 AX 수요는 AICC와 AI 에이전트, 데이터 분야를 중심으로 늘고 있습니다. KT는 5대...",
-      "source": "뉴스토마토",
-      "date": "2026-07-26",
-      "url": "http://www.newstomato.com/ReadNews.aspx?no=1308190&inflow=N",
-      "matchedKeyword": "AICC"
-    },
-    {
       "title": "KT, 금융 AX 모델보다 ‘재무성과’…상반기 22건 수주",
       "summary": "주요 사업은 인공지능 컨택센터(AICC), AI 에이전트, 데이터 플랫폼 구축 등이다. 박철우 KT... 현재 KT는 5대 시중은행 가운데 4곳의 AICC 구축 또는 운영을 지원하고 있다. 에이전틱 AICC와 그룹 통합 AI 플랫폼, AI 개발...",
       "source": "딜사이트",
       "date": "2026-07-26",
       "url": "https://dealsite.co.kr/articles/165922",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "KT, 금융권 AX 사업 확대…구축 넘어 운영 노하우로 '승부수'",
-      "summary": "박철우 KT 엔터프라이즈부문 금융사업본부장은 \"AI컨택센터(AICC)와 AI 에이전트, 데이터 플랫폼을 중심으로... KT는 현재 은행권 고객향 AI 챗봇과 상담봇 등 AICC를 구축하고 그룹 통합 AI 플랫폼 개발에 참여하고 있다....",
-      "source": "news.tf.co.kr",
-      "date": "2026-07-26",
-      "url": "https://news.tf.co.kr/read/economy/2346741.htm",
       "matchedKeyword": "AICC"
     },
     {
@@ -510,19 +502,27 @@
       "matchedKeyword": "AICC"
     },
     {
-      "title": "\"전략수립부터 확산까지\" KT, 금융권 AX 'E2E'로 이끈다",
-      "summary": "국내 5대 시중은행 가운데 4개 은행의 인공지능 컨택센터(AICC)를 구축했다. 특히 KT는 자사 AX 프로젝트를 통해 고객사의 직접적인 재무 성과로 이어질 수 있도록 하는데 집중하고 있다. 박 상무는 \"기업 차원에서 AX는...",
-      "source": "비즈워치",
+      "title": "KT, 금융권 AX 사업 확대…구축 넘어 운영 노하우로 '승부수'",
+      "summary": "박철우 KT 엔터프라이즈부문 금융사업본부장은 \"AI컨택센터(AICC)와 AI 에이전트, 데이터 플랫폼을 중심으로... KT는 현재 은행권 고객향 AI 챗봇과 상담봇 등 AICC를 구축하고 그룹 통합 AI 플랫폼 개발에 참여하고 있다....",
+      "source": "news.tf.co.kr",
       "date": "2026-07-26",
-      "url": "https://news.bizwatch.co.kr/article/mobile/2026/07/24/0027",
+      "url": "https://news.tf.co.kr/read/economy/2346741.htm",
       "matchedKeyword": "AICC"
     },
     {
-      "title": "KT, 금융 AX 정조준…\"5대 은행 4곳 AICC 담당\"",
-      "summary": "가장 두드러진 영역은 콜센터를 AI로 전환하는 AI 컨택센터(AICC)다. 국내 5대 시중은행 중  4곳이 KT의 기술을 채택했다. 박 상무는 \"KT의 AICC는 국내에서 가장 뛰어나다고 자신 있게 말할 수 있고 해외와 비교해도...",
-      "source": "ebn.co.kr",
+      "title": "'금융 AX' 조력자 KT…\"안전한 업무 체계 구축\"",
+      "summary": "현재 KT는 은행 분야에서 AI 챗봇·상담봇 등 에이전틱 AICC를 구축해 상담 영역을 고도화했다. 현재는 에이전트와 데이터, 운영체계를 하나의 플랫폼으로 통합하고, AI 기반 개발·운영체계(AIDLC) 개발에 협력 중이다....",
+      "source": "newsway.co.kr",
       "date": "2026-07-26",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1717786",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026072419401282540",
+      "matchedKeyword": "AICC"
+    },
+    {
+      "title": "KT, 금융권 AI 전환 확대…데이터 중심 AX 본격화",
+      "summary": "은행권에는 AI 챗봇과 상담 붓 등 에이전틱 AICC와 통합 AI 플랫폼을 구축하고 있으며, 보험 분야에는 생성형 AI 기반 상담 지원 시스템을 도입했다. 카드 분야에서는 AI 통합 데이터 플랫폼과 AI 운영 체계를 구축했다....",
+      "source": "yna.co.kr",
+      "date": "2026-07-26",
+      "url": "https://www.yna.co.kr/view/AKR20260724033600017?input=1195m",
       "matchedKeyword": "AICC"
     },
     {
@@ -630,14 +630,6 @@
       "matchedKeyword": "고객센터"
     },
     {
-      "title": "LS證 \"카카오페이, 카카오 가상자산 허브 될 것…목표가 6만1000원\"",
-      "summary": "결제 서비스는 오프라인과 비캡티브(Non-Captive) 가맹점을 중심으로 성장세가 이어지며 매출이 전년 동기 대비 13% 증가할 것으로 예상했다. 특히 수익성이 높은 증권 사업의 매출 비중이 확대되고 카카오페이머니 결제...",
-      "source": "뉴시스",
-      "date": "2026-07-26",
-      "url": "https://www.newsis.com/view/NISX20260727_0003724051",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
       "title": "서울대병원, 줄기세포 단일 배양 통한 이종조직판막 생체 내 재세포화 ...",
       "summary": "아울러 탈세포화·글루타르알데하이드(GA) 고정·항석회화 처리를 거친 이식편에는 쥐 골수유래 줄기세포... 생체 내 실험: 탈세포화 후 글루타르알데하이드(GA) 고정 및 항석회화 처리를 거쳐 재세포화된 이식편이 (A)...",
       "source": "이데일리",
@@ -664,7 +656,7 @@
     {
       "title": "[판세] 타사 보험모집인에게 지급한 수수료, 사회질서 위반비용으로 손...",
       "summary": "이하 'GA'라 한다)인 G 또는 그가 지정한 타사 보험설계사 44명에게 지급한 2,786,886,012원(이하 '이 사건... 변론기일에서의 진술), ㉰ 원고는 D, S가 원고를 위해 활동한 타사 보험설계사였고 E의 경우 B 지사에서 1인 GA...",
-      "source": "sejungilbo.com",
+      "source": "세정일보",
       "date": "2026-07-26",
       "url": "https://www.sejungilbo.com/news/articleView.html?idxno=59212",
       "matchedKeyword": "GA"
@@ -694,6 +686,62 @@
       "matchedKeyword": "GA"
     },
     {
+      "title": "비대면 확산에도 보험 판매 중심은 '사람'… 대면 경쟁력 여전",
+      "summary": "법인보험대리점(GA)을 통해 상품에 가입했으며, 홈쇼핑·인터넷 등 비대면으로 가입한 비율은 3%대에... GA 등 소속 설계사는 31만9106명으로 21만5586명인 전속 설계사를 크게 상회했다. 디지털 전환이 가속화되는...",
+      "source": "한국보험신문",
+      "date": "2026-07-26",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91977",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "[2026 GA 우수인증설계사 ― 축하 인사] 변광식 지에이코리아 대표",
+      "summary": "2026년 영예의 우수인증설계사 및 GA 명장에 선정되신 여러분들께 진심으로 축하의 말씀을 드립니다. 우수인증설계사는 실적뿐만 아니라 윤리, 고객관리 등 소비자보호를 위한 지표를 종합 평가하기에 인증의 의미와...",
+      "source": "한국보험신문",
+      "date": "2026-07-26",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92033",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "[2026 GA 우수인증설계사] 메가, 명장으로 증명한 경쟁력",
+      "summary": "메가는 2005년 10월 법인보험대리점(GA)으로 영업을 개시한 뒤, 2010년 7월 13개 보험대리점을 통합해 설림된 초대형 연합형 GA이다. 2026년 6월 말 기준 전국 426개 지점에서 등록설계사 6557명이 활동하고 있으며, 2026년 기준...",
+      "source": "한국보험신문",
+      "date": "2026-07-26",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91993",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "[2026 GA 우수인증설계사] 지에이코리아 \"전문성과 소비자 신뢰 입증\"",
+      "summary": "지에이코리아가 2026년도 우수인증설계사와 명장을 대거 배출하며 국내 대표 법인보험대리점(GA)의 위상을... 초대형 GA다. 현재 '비전·책임·영광'이라는 경영 이념을 바탕으로 고객들에게 다가서고 있다. 특히 고객의...",
+      "source": "한국보험신문",
+      "date": "2026-07-26",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92035",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "GA 경쟁력 새 기준 '내부통제', 소비자 신뢰 확보 본격화",
+      "summary": "법인보험대리점(GA) 시장의 경쟁 기준이 빠르게 바뀌고 있다. 과거에는 설계사 수와 매출 규모 등 외형 성장... 수준이 GA의 새로운 경쟁력으로 부상하고 있다는 평가다. 금융감독원(이하 금감원)은 지난해 대형 GA를...",
+      "source": "한국보험신문",
+      "date": "2026-07-26",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91966",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "[2026 GA 우수인증설계사 — 협회장 축사] 고객과 함께 쌓아온 신뢰, GA의...",
+      "summary": "2026년 GA 우수인증설계사로 선정되신 2만6591명 여러분께 진심으로 축하드립니다. 5년 이상 연속 선정돼 'GA 명장'의 영예를 안으신 5200명의 설계사 여러분께도 깊은 존경과 감사의 말씀을 드립니다. 2018년 시작된 GA...",
+      "source": "한국보험신문",
+      "date": "2026-07-26",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91972",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "[THE 23rd CMF — 참관기] 뜨거운 열기 속에서 본 GA의 미래",
+      "summary": "지난 17일부터 19일까지 중국 지난(濟南)에서 열린 제23회 CMF는 급변하는 글로벌 보험환경 속에서 우리나라 GA... 행사에 참석한 설계사들이 끊임없이 배우고 자신의 역량을 높이기 위해 노력하는 모습은 한국 GA업계가...",
+      "source": "한국보험신문",
+      "date": "2026-07-26",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92036",
+      "matchedKeyword": "GA"
+    },
+    {
       "title": "[2026 GA 우수인증설계사] GA 신뢰 이끈 설계사 2만6591명 '역대 최대'",
       "summary": "보험설계사들의 전문성과 책임성이 강화되면서 법인보험대리점(GA) 소속 우수인증설계사 수가 제도 시행 이후 가장 높은 수준을 기록했다. 한국보험대리점협회(이하 협회)는 지난 5월 '2026년 GA 소속 우수인증설계사...",
       "source": "한국보험신문",
@@ -715,62 +763,6 @@
       "source": "한국보험신문",
       "date": "2026-07-26",
       "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91971",
-      "matchedKeyword": "GA"
-    },
-    {
-      "title": "[2026 GA 우수인증설계사 — 협회장 축사] 고객과 함께 쌓아온 신뢰, GA의...",
-      "summary": "2026년 GA 우수인증설계사로 선정되신 2만6591명 여러분께 진심으로 축하드립니다. 5년 이상 연속 선정돼 'GA 명장'의 영예를 안으신 5200명의 설계사 여러분께도 깊은 존경과 감사의 말씀을 드립니다. 2018년 시작된 GA...",
-      "source": "한국보험신문",
-      "date": "2026-07-26",
-      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91972",
-      "matchedKeyword": "GA"
-    },
-    {
-      "title": "[THE 23rd CMF — 참관기] 뜨거운 열기 속에서 본 GA의 미래",
-      "summary": "지난 17일부터 19일까지 중국 지난(濟南)에서 열린 제23회 CMF는 급변하는 글로벌 보험환경 속에서 우리나라 GA... 행사에 참석한 설계사들이 끊임없이 배우고 자신의 역량을 높이기 위해 노력하는 모습은 한국 GA업계가...",
-      "source": "한국보험신문",
-      "date": "2026-07-26",
-      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92036",
-      "matchedKeyword": "GA"
-    },
-    {
-      "title": "비대면 확산에도 보험 판매 중심은 '사람'… 대면 경쟁력 여전",
-      "summary": "법인보험대리점(GA)을 통해 상품에 가입했으며, 홈쇼핑·인터넷 등 비대면으로 가입한 비율은 3%대에... GA 등 소속 설계사는 31만9106명으로 21만5586명인 전속 설계사를 크게 상회했다. 디지털 전환이 가속화되는...",
-      "source": "한국보험신문",
-      "date": "2026-07-26",
-      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91977",
-      "matchedKeyword": "GA"
-    },
-    {
-      "title": "[2026 GA 우수인증설계사] 메가, 명장으로 증명한 경쟁력",
-      "summary": "메가는 2005년 10월 법인보험대리점(GA)으로 영업을 개시한 뒤, 2010년 7월 13개 보험대리점을 통합해 설림된 초대형 연합형 GA이다. 2026년 6월 말 기준 전국 426개 지점에서 등록설계사 6557명이 활동하고 있으며, 2026년 기준...",
-      "source": "한국보험신문",
-      "date": "2026-07-26",
-      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91993",
-      "matchedKeyword": "GA"
-    },
-    {
-      "title": "[2026 GA 우수인증설계사] 지에이코리아 \"전문성과 소비자 신뢰 입증\"",
-      "summary": "지에이코리아가 2026년도 우수인증설계사와 명장을 대거 배출하며 국내 대표 법인보험대리점(GA)의 위상을... 초대형 GA다. 현재 '비전·책임·영광'이라는 경영 이념을 바탕으로 고객들에게 다가서고 있다. 특히 고객의...",
-      "source": "한국보험신문",
-      "date": "2026-07-26",
-      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92035",
-      "matchedKeyword": "GA"
-    },
-    {
-      "title": "[2026 GA 우수인증설계사 ― 축하 인사] 변광식 지에이코리아 대표",
-      "summary": "2026년 영예의 우수인증설계사 및 GA 명장에 선정되신 여러분들께 진심으로 축하의 말씀을 드립니다. 우수인증설계사는 실적뿐만 아니라 윤리, 고객관리 등 소비자보호를 위한 지표를 종합 평가하기에 인증의 의미와...",
-      "source": "한국보험신문",
-      "date": "2026-07-26",
-      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92033",
-      "matchedKeyword": "GA"
-    },
-    {
-      "title": "GA 경쟁력 새 기준 '내부통제', 소비자 신뢰 확보 본격화",
-      "summary": "법인보험대리점(GA) 시장의 경쟁 기준이 빠르게 바뀌고 있다. 과거에는 설계사 수와 매출 규모 등 외형 성장... 수준이 GA의 새로운 경쟁력으로 부상하고 있다는 평가다. 금융감독원(이하 금감원)은 지난해 대형 GA를...",
-      "source": "한국보험신문",
-      "date": "2026-07-26",
-      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91966",
       "matchedKeyword": "GA"
     },
     {
@@ -910,19 +902,11 @@
       "matchedKeyword": "멤버십"
     },
     {
-      "title": "효성 ‘에프엠케이’ 6년째 부진…조현준 회장 ‘반등 전략’ 실종",
-      "summary": "올 1월엔 국내 처음으로 마이바흐 고객 전용 멤버십을 내놨고, 미술품 전시와 파인다이닝 초청 같은 프로그램도 잇따라 선보였다. 나아가 올레 칼레니우스 메르세데스-벤츠 그룹 최고경영자(CEO)와 직접 만나 탄소섬유...",
+      "title": "효성 ‘에프엠케이’ 6년째 부진",
+      "summary": "올 1월엔 국내 처음으로 마이바흐 고객 전용 멤버십을 내놨고, 미술품 전시와 파인다이닝 초청 같은 프로그램도 잇따라 선보였다. 나아가 올레 칼레니우스 메르세데스-벤츠 그룹 최고경영자(CEO)와 회동하며 탄소섬유...",
       "source": "dnews.co.kr",
       "date": "2026-07-26",
       "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607261028088040514",
-      "matchedKeyword": "멤버십"
-    },
-    {
-      "title": "[여담:旅談] 영화 ‘호프’의 호포를 걷다, 해남 남창리 시네마 여행",
-      "summary": "한쪽은 수십 년 전으로 가자고 하고, 다른 한쪽은 멤버십 적립을 묻는다. 이런 불균형이 재미있는 곳이다. 촬영 흔적을 박제하지 않고 주민의 오늘과 함께 두었기 때문이다. 과거와 현재가 서로 자리를 조금씩 양보하며...",
-      "source": "sports.donga.com",
-      "date": "2026-07-26",
-      "url": "https://sports.donga.com/life/article/all/20260726/134366262/1",
       "matchedKeyword": "멤버십"
     },
     {
@@ -934,7 +918,23 @@
       "matchedKeyword": "멤버십"
     },
     {
-      "title": "AI 회의에 뒤늦게 끼워 넣은 민생 대책…지원안은 '빈껍데기(?)'",
+      "title": "[여담:旅談] 영화 ‘호프’의 호포를 걷다, 해남 남창리 시네마 여행",
+      "summary": "한쪽은 수십 년 전으로 가자고 하고, 다른 한쪽은 멤버십 적립을 묻는다. 이런 불균형이 재미있는 곳이다. 촬영 흔적을 박제하지 않고 주민의 오늘과 함께 두었기 때문이다. 과거와 현재가 서로 자리를 조금씩 양보하며...",
+      "source": "sports.donga.com",
+      "date": "2026-07-26",
+      "url": "https://sports.donga.com/life/article/all/20260726/134366262/1",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "[유통소식] 신세계, 레드닷 디자인 어워드 3관왕",
+      "summary": "특화 멤버십 '쓱7클럽' 연계 프로모션을 진행한다고 29일 밝혔다. 쓱7클럽은 월 구독료 2900원으로 장보기 결제액의 7%를 고정 적립해주는 멤버십이다. 신세계몰과 신세계백화점몰에서 사용할 수 있는 최대 7% 할인 쿠폰도...",
+      "source": "포쓰저널",
+      "date": "2026-07-26",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2115279",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "AI 회의에 끼워진 민생 대책…실효성은",
       "summary": "정부와 통신사가 민생 안정을 명분으로 멤버십과 제휴 할인 확대에 나선다. 하지만 소비자가 체감할 수 있는... 26일 관련업계에 따르면 이동통신 3사는 7월 중 각 사별로 생활 밀착형 멤버십과 제휴 할인 확대, 청년과...",
       "source": "IT조선",
       "date": "2026-07-26",
@@ -979,14 +979,6 @@
       "source": "kjdaily.com",
       "date": "2026-07-26",
       "url": "http://www.kjdaily.com/article.php?aid=1785056768683099036",
-      "matchedKeyword": "멤버십"
-    },
-    {
-      "title": "불황에도 출점 늘린다…식품업계, 외식사업 다시 키우는 이유는?",
-      "summary": "한화푸드테크도 광화문에 프리미엄 복합 외식공간 '더 플라자 다이닝'을 선보인 데 이어 최근 자사 14개 외식 브랜드 혜택을 묶은 통합 멤버십 '더 플래티넘 다이닝'을 출시하며 고객 접점 확대에 나섰다. 식품기업들이...",
-      "source": "아주경제",
-      "date": "2026-07-26",
-      "url": "https://www.ajunews.com/view/20260726153304012",
       "matchedKeyword": "멤버십"
     },
     {
@@ -1078,19 +1070,19 @@
       "matchedKeyword": "구독"
     },
     {
+      "title": "'엑스더리그' 티파니 영x뱀뱀, MC 출사표 \"'보는 맛' 있는 긴장감 폭발\"",
+      "summary": "‘엑스 더 리그’는 ENA와 라라스테이션이 공동 제작하는 프로젝트로, 200여 개 브랜드와 협업하고 전 세계 약 3억6000만 명의 구독자를 보유한 글로벌 셀러 40인이 총출동한다. 글로벌 커머스 시장을 무대로 한 새로운...",
+      "source": "HBN뉴스",
+      "date": "2026-07-26",
+      "url": "https://hbnpress.com/news/view/1065567026052621",
+      "matchedKeyword": "구독"
+    },
+    {
       "title": "미국 파고드는 '지능적이고 싸며 개방적인 중국 AI'",
       "summary": "K3는 엄청난 인기를 얻어 문샷은 폭발적인 수요로 인해 용량이 거의 한계에 다다르자, 신규 구독을 일시적으로 중단해야 했다. AI 시스템 평가 플랫폼인 아레나(Arena)의 공동 창립자 겸 CEO인 아나스타시오스...",
       "source": "newstown.co.kr",
       "date": "2026-07-26",
       "url": "http://www.newstown.co.kr/news/articleView.html?idxno=710374",
-      "matchedKeyword": "구독"
-    },
-    {
-      "title": "'엑스더리그' 티파니 영x뱀뱀, MC 출사표 \"'보는 맛' 있는 긴장감 폭발\"",
-      "summary": "‘엑스 더 리그’는 ENA와 라라스테이션이 공동 제작하는 프로젝트로, 200여 개 브랜드와 협업하고 전 세계 약 3억6000만 명의 구독자를 보유한 글로벌 셀러 40인이 총출동한다. 글로벌 커머스 시장을 무대로 한 새로운...",
-      "source": "hbnpress.com",
-      "date": "2026-07-26",
-      "url": "https://hbnpress.com/news/view/1065567026052621",
       "matchedKeyword": "구독"
     },
     {
@@ -1142,19 +1134,19 @@
       "matchedKeyword": "구독"
     },
     {
-      "title": "한화생명, 고객패널 '고객신뢰PLUS Frontier' 출범",
-      "summary": "고객패널은 보험 가치 제고를 위한 AI 서비스, 보험금 청구 화면 및 문구 개선, 건강보험 약관 용어 개선, 시니어 고객 대상 치매보험 인식 조사 등 다양한 과제를 수행할 예정이다. 한화생명은 심층 간담회와 온라인...",
-      "source": "보험매일",
-      "date": "2026-07-26",
-      "url": "http://www.fins.co.kr/news/articleView.html?idxno=109342",
-      "matchedKeyword": "시니어"
-    },
-    {
       "title": "[生기업TALK] 하나금융그룹, 기업가치 제고 계획 2.0 선언...밸류업 선순...",
       "summary": "상품 가입 전 단계부터 사후관리까지 모든 프로세스에 손님의 목소리를 직접 반영하는 대학생·소비자·시니어 패널 운영, 소비자 현장 의견을 반영하여 제도로 연계시키는 '애자일랩' 운영, 접점별 만족도 조사를...",
       "source": "sisacast.kr",
       "date": "2026-07-26",
       "url": "http://www.sisacast.kr/news/articleView.html?idxno=98123",
+      "matchedKeyword": "시니어"
+    },
+    {
+      "title": "한화생명, 고객패널 '고객신뢰PLUS Frontier' 출범",
+      "summary": "고객패널은 보험 가치 제고를 위한 AI 서비스, 보험금 청구 화면 및 문구 개선, 건강보험 약관 용어 개선, 시니어 고객 대상 치매보험 인식 조사 등 다양한 과제를 수행할 예정이다. 한화생명은 심층 간담회와 온라인...",
+      "source": "보험매일",
+      "date": "2026-07-26",
+      "url": "http://www.fins.co.kr/news/articleView.html?idxno=109342",
       "matchedKeyword": "시니어"
     },
     {
@@ -1206,19 +1198,19 @@
       "matchedKeyword": "시니어"
     },
     {
-      "title": "세경인베스트, 대구백화점 인수…유통구조 온라인 전환",
-      "summary": "세경인베스트는 본점에 대해 민관 공동 개발 방식을 검토하고 있으며, 주상복합과 시니어 레지던스, 오피스텔 등 다양한 개발 방안을 함께 살피고 있다. 오프라인 위주였던 유통 구조는 온라인 플랫폼 중심으로 전환할...",
-      "source": "한스경제",
-      "date": "2026-07-26",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=852543",
-      "matchedKeyword": "시니어"
-    },
-    {
       "title": "日 엔화 163엔대 숨고르기… 美 이란 공습 중단에 유가·채권금리 하락",
       "summary": "츠루타 케이스케 미츠비시UFJ모건스탠리증권 시니어 채권 스트래티지스트는 중동 정세가 개선 방향으로 선회함에 따라 매수세가 우위를 점하며 국채 선물이 5거래일 만에 반등할 것으로 내다봤다. 특히 일본은행 집행부가...",
       "source": "g-enews.com",
       "date": "2026-07-26",
       "url": "https://www.g-enews.com/view.php?ud=202607270825249061e7e8286d56_1",
+      "matchedKeyword": "시니어"
+    },
+    {
+      "title": "세경인베스트, 대구백화점 인수…유통구조 온라인 전환",
+      "summary": "세경인베스트는 본점에 대해 민관 공동 개발 방식을 검토하고 있으며, 주상복합과 시니어 레지던스, 오피스텔 등 다양한 개발 방안을 함께 살피고 있다. 오프라인 위주였던 유통 구조는 온라인 플랫폼 중심으로 전환할...",
+      "source": "한스경제",
+      "date": "2026-07-26",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=852543",
       "matchedKeyword": "시니어"
     },
     {
@@ -1272,7 +1264,7 @@
     {
       "title": "발전하는 돌봄 AI, ‘지켜보는 기술’에서 ‘돕는 기술’로",
       "summary": "레이버는 미국 시니어 주거시설 운영사 소니다 시니어리빙과의 공동 작업을 바탕으로 개발됐다. 소니다 측에 따르면 당초 전체 인건비를 기존 수준으로 유지하는 것을 목표로 시스템을 적용했으나, 그 과정에서 입주자...",
-      "source": "bravo.etoday.co.kr",
+      "source": "브라보마이라이프",
       "date": "2026-07-26",
       "url": "https://bravo.etoday.co.kr/view/atc_view/19685",
       "matchedKeyword": "시니어"
@@ -1312,7 +1304,7 @@
     {
       "title": "[60초 노인정책] 노인일자리, 숯가마서 쓰러진 남성 구했다",
       "summary": "노인일자리 시니어소방안전지원직을 맡은 조설연 씨는 시니어 소방 일을 하면서 배운 위급 상황 대처법으로 숯가마에서 의식을 잃어가는 남성을 발견하고 응급처치를 시행해 시민의 생명을 구했다. 조 씨는 \"만약 내가 이...",
-      "source": "newspim.com",
+      "source": "뉴스핌",
       "date": "2026-07-26",
       "url": "https://www.newspim.com/news/view/20260727000015",
       "matchedKeyword": "시니어"
@@ -1320,7 +1312,7 @@
     {
       "title": "[요즘말 사전] 나도 모르게 빠진 관계, ‘파라소셜’",
       "summary": "시니어 세대 역시 예외는 아니다. 특정 가수의 방송을 챙겨보고, 공연 소식을 기다리고, 응원하는 가수의 성공에 기뻐하는 모습은 이제 흔한 풍경이 됐다. 트로트 열풍 이후 중장년층 팬덤 문화가 커진 것도 같은 맥락에서...",
-      "source": "bravo.etoday.co.kr",
+      "source": "브라보마이라이프",
       "date": "2026-07-26",
       "url": "https://bravo.etoday.co.kr/view/atc_view/19513",
       "matchedKeyword": "시니어"
@@ -1670,19 +1662,19 @@
       "matchedKeyword": "관제플랫폼"
     },
     {
-      "title": "돈 버는 AI기업들, 일반 상장으로 코스닥 문 두드려",
-      "summary": "이 회사는 생성형 AI 기반 통합관제 플랫폼 젠AMS와 AI에이전트 VIXA를 통해 위험 상황을 자동으로 감지하고 대응하는 사업을 하고 있다. 지난해 매출액 466억원, 영업이익 49억원을 기록했으며 13년 연속 흑자기조를...",
-      "source": "sisajournal-e.com",
-      "date": "2026-07-24",
-      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422655",
-      "matchedKeyword": "관제플랫폼"
-    },
-    {
       "title": "윌로그, 국토교통부 혁신 프리미어 1000 최종 선정",
       "summary": "특허 기반 IoT 센서 디바이스 '윌로그 세이프(Willog Safe)'는 온도·습도·조도·충격·기울기 등 다차원 환경 데이터를 정밀 수집하고, 'SaaS 관제 플랫폼 윌로그 컨트롤 타워(Willog Control Tower)'는 화물 상태 데이터를...",
       "source": "hellot.net",
       "date": "2026-07-24",
       "url": "https://www.hellot.net/news/article.html?no=113958",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
+      "title": "돈 버는 AI기업들, 일반 상장으로 코스닥 문 두드려",
+      "summary": "이 회사는 생성형 AI 기반 통합관제 플랫폼 젠AMS와 AI에이전트 VIXA를 통해 위험 상황을 자동으로 감지하고 대응하는 사업을 하고 있다. 지난해 매출액 466억원, 영업이익 49억원을 기록했으며 13년 연속 흑자기조를...",
+      "source": "sisajournal-e.com",
+      "date": "2026-07-24",
+      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422655",
       "matchedKeyword": "관제플랫폼"
     },
     {
@@ -1816,7 +1808,7 @@
     {
       "title": "LG유플러스 개인화 AI 기술, 세계 정보검색학회 'SIGIR 2026' 논문 채택",
       "summary": "아울러 사내 임직원 업무 지원용 AI 에이전트(B2E) 구축 등 기업 내부 영역까지 활용 범위를 넓히는 방안도 검토 중이다. 전영환 LG유플러스 Personal Agent기술팀장은 \"이번 SIGIR 논문 채택은 LG유플러스가 개발해 온 개인화 AI...",
-      "source": "thepublic.kr",
+      "source": "더퍼블릭",
       "date": "2026-07-23",
       "url": "https://www.thepublic.kr/news/articleView.html?idxno=312369",
       "matchedKeyword": "B2E"
@@ -1824,7 +1816,7 @@
     {
       "title": "LGU+ ‘개인화 AI 기술’ 세계 최고 학회 논문 채택",
       "summary": "이를 인터넷TV(IPTV) 콘텐츠 추천과 고객 상담 등 다양한 서비스에 적용하는 한편 임직원 업무를 지원하는 사내 AI 에이전트(B2E) 분야로도 활용 범위를 확대할 방침이다.",
-      "source": "seoul.co.kr",
+      "source": "서울신문",
       "date": "2026-07-23",
       "url": "https://www.seoul.co.kr/news/peoples/2026/07/24/20260724023007?wlog_tag3=naver",
       "matchedKeyword": "B2E"
@@ -1990,22 +1982,6 @@
       "matchedKeyword": "B2E"
     },
     {
-      "title": "“방학이 걱정인 부모님들 대신 서울시가 챙길것”",
-      "summary": "오 시장은 교육복지 플랫폼 ‘서울런’의 온라인 수업을 들을 수 있는 프로그램실을 둘러봤다. 이어 G3서울기획위원회 동행성장분과의 위원들과 아이들에게 점심을 배식했다. 이 센터는 평소 40명이 찾지만...",
-      "source": "seoul.co.kr",
-      "date": "2026-07-23",
-      "url": "https://www.seoul.co.kr/news/publicnews/local_govern/today_local/2026/07/24/20260724020004?wlog_tag3=naver",
-      "matchedKeyword": "복지플랫폼"
-    },
-    {
-      "title": "구미시, '마음톡톡카페' 개소…라면과 커피로 잇는 복지 안전망",
-      "summary": "단순한 먹거리 제공을 넘어 시민 간 소통을 이끌고 위기가구를 발굴하는 복지 플랫폼으로 활용한다는 점에서 새로운 지역 복지모델로 평가받고 있다. 김장호 구미시장은 \"사회적 고립은 지역사회가 함께 해결해야 할...",
-      "source": "kyongbuk.co.kr",
-      "date": "2026-07-23",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4079138",
-      "matchedKeyword": "복지플랫폼"
-    },
-    {
       "title": "알프레드, CTO로 조영호 전 배달의민족 기술이사 영입",
       "summary": "에이전틱 BPO(Business Process Outsourcing) 고도화에 나선다. 조영호 CTO는 네이버, 카카오, 배달의민족 등에서... 에이전틱 BPO도 한층 고도화한다. AI의 실행 범위를 점진적으로 확대하면서도 전문성과 신뢰성을 유지하는...",
       "source": "datanet.co.kr",
@@ -2056,7 +2032,7 @@
     {
       "title": "롯데건설, AI·로봇 '이종 관제' 시스템 구축···스마트 건설 선두 주...",
       "summary": "건설 자동화의 최종 경쟁력도 로봇 한 대의 성능보다 여러 장비와 센서, AI 모델을 동시에 제어하는 관제 플랫폼에서 갈릴 가능성이 크다. 자재운반 로봇과 토공 장비, 안전 모니터링 시스템이 각각 따로 움직이는 것이...",
-      "source": "womaneconomy.co.kr",
+      "source": "여성경제신문",
       "date": "2026-07-23",
       "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256456",
       "matchedKeyword": "관제플랫폼"
@@ -2128,7 +2104,7 @@
     {
       "title": "네이버, 스마트빌딩 기술 첫 해외 수출...도쿄 복합건물에 '1784 모델' 적...",
       "summary": "아크브레인은 여러 대의 로봇이 수행하는 업무와 이동 경로를 통합 관리하는 클라우드 기반 관제 플랫폼이다. 로봇과 스피드게이트, 엘리베이터 등 건물 내 설비를 연결해 로봇이 사람의 개입 없이 층과 공간을...",
-      "source": "joongangenews.com",
+      "source": "중앙이코노미뉴스",
       "date": "2026-07-23",
       "url": "https://www.joongangenews.com/news/articleView.html?idxno=534745",
       "matchedKeyword": "관제플랫폼"
@@ -2288,7 +2264,7 @@
     {
       "title": "(주)제이바이스그룹, B2B 복지몰 메인 ‘의료관’ 공식 오픈",
       "summary": "이번 서비스의 가장 큰 차별점은 별도의 외부 사이트 구축이 아닌, 이미 활성화된 대형 기업 복지몰의 메인 화면 내에 전용 '의료관'이 직접 배치된다는 점이다. 기업 회원이 복지몰 메인 페이지에 접속해 의료관을...",
-      "source": "hbnpress.com",
+      "source": "HBN뉴스",
       "date": "2026-07-21",
       "url": "https://hbnpress.com/news/view/1065604050781131",
       "matchedKeyword": "복지몰"
@@ -2416,7 +2392,7 @@
     {
       "title": "공정위 문 다시 두드린 한국상조산업협회…'대표성' 논란은 여전",
       "summary": "(공정위)에 상조업계 대표 단체 등록을 재추진한다. 다만 업계 안팎에서는 성사 가능성을 높지 않게 보는 분위기다. 보람상조와 교원라이프, 예다함 등 주요 상조업체들의 참여를 끌어내지 못하면서 대표성 논란을 해소하지...",
-      "source": "newspim.com",
+      "source": "뉴스핌",
       "date": "2026-07-21",
       "url": "https://www.newspim.com/news/view/20260721000660",
       "matchedKeyword": "상조업"
@@ -2432,7 +2408,7 @@
     {
       "title": "대출부터 건강 관리까지... 맞춤형 복지서비스 확대",
       "summary": "삼성전자·LG전자 복지몰과 이지웰·투게더웰 복지몰을 통해 가전과 생활용품을 할인된 가격에 구매할 수 있으며 G마켓 쿠폰과 세스코 할인 서비스도 제공한다. 건강과 문화 분야 혜택도 마련됐다. 건강검진 플랫폼...",
-      "source": "kbiznews.co.kr",
+      "source": "중소기업뉴스",
       "date": "2026-07-20",
       "url": "http://www.kbiznews.co.kr/news/articleView.html?idxno=114545",
       "matchedKeyword": "이지웰"
@@ -2440,7 +2416,7 @@
     {
       "title": "국민클럽 국민복지몰-삼성화재 노동조합, 조합원 복지 증진 MOU 체결",
       "summary": "- 복지포인트 기반 맞춤형 복지 확대…조합원 복지 만족도 향상 기대 국민복지몰 운영사인 ㈜국민클럽이... 이번 협약에 따라 양 기관은 삼성화재 노동조합 조합원을 위한 복지 콘텐츠 협력, 전용 복지몰 구축 및 운영, 복지...",
-      "source": "seoul.co.kr",
+      "source": "서울신문",
       "date": "2026-07-20",
       "url": "https://www.seoul.co.kr/news/economy/2026/07/20/20260720500125?wlog_tag3=naver",
       "matchedKeyword": "복지몰"
@@ -2448,7 +2424,7 @@
     {
       "title": "'자본잠식·파산' 웅진인데…윤석금 \"부자 될 징조\" 책 출간에 주주들 ...",
       "summary": "웅진은 지난해 프리드라이프를 인수하며 상조업 기반의 안정적인 현금흐름을 확보했고, 이를 바탕으로... 웅진은 지난해 상조업계 1위 프리드라이프를 약 8830억원에 인수하며 사업 외형을 크게 넓혔고, 이를 바탕으로...",
-      "source": "thepublic.kr",
+      "source": "더퍼블릭",
       "date": "2026-07-20",
       "url": "https://www.thepublic.kr/news/articleView.html?idxno=311757",
       "matchedKeyword": "상조업"
