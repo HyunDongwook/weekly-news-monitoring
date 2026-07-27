@@ -131,6 +131,13 @@ const SOURCE_NAME_MAP = {
     'ulsanpress.net': '울산신문',
     'whitepaper.co.kr': '화이트페이퍼',
     'newsdream.kr': '뉴스드림',
+    'sejungilbo.com': '세정일보',
+    'bravo.etoday.co.kr': '브라보마이라이프',
+    'womaneconomy.co.kr': '여성경제신문',
+    'hbnpress.com': 'HBN뉴스',
+    'newspim.com': '뉴스핌',
+    'seoul.co.kr': '서울신문',
+    'thepublic.kr': '더퍼블릭',
 };
 
 const EXCLUDE_URL_SUBSTR = ['msn.com'];
