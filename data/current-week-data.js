@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.07.20 ~ 2026.07.26",
   "periodStart": "2026-07-20",
   "periodEnd": "2026-07-26",
-  "generatedAt": "2026-07-27T10:37:19+09:00",
+  "generatedAt": "2026-07-27T11:35:48+09:00",
   "articles": [
     {
       "title": "[판세] 타사 보험모집인에게 지급한 수수료, 사회질서 위반비용으로 손...",
@@ -100,6 +100,27 @@ window.CURRENT_WEEK = {
       "source": "더퍼블릭",
       "date": "2026-07-20",
       "url": "https://www.thepublic.kr/news/articleView.html?idxno=311757"
+    },
+    {
+      "title": "'가입 쉬워졌다'…보험사 인수 문턱 낮추기 경쟁",
+      "summary": "보험사들이 유병자 시장 선점을 위해 가입 문턱 낮추기 경쟁에 돌입했다. 간편심사 상품을 확대하고 보험인수심사(UW·언더라이팅) 경쟁력을 강화하는 등 가입 대상을 넓히며 하반기 법인보험대리점(GA) 영업전에 불을 붙이고 있다...",
+      "source": "신아일보",
+      "date": "2026-07-20",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5042224"
+    },
+    {
+      "title": "여행자보험은 다다익선?…여름휴가철 보험 '오해와 진실'",
+      "summary": "여름휴가철 해외여행 필수품인 여행자보험은 보장을 많이 넣을수록 유리할까. 대형 법인보험대리점(GA) 토스인슈어런스는 이 같은 궁금증을 해소하기 위한 여름휴가철 보험 오해와 진실을 소개했다...",
+      "source": "FETV",
+      "date": "2026-07-20",
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=306671"
+    },
+    {
+      "title": "대출부터 건강 관리까지... 맞춤형 복지서비스 확대",
+      "summary": "삼성전자·LG전자 복지몰과 이지웰·투게더웰 복지몰을 통해 가전과 생활용품을 할인된 가격에 구매할 수 있으며 G마켓 쿠폰과 세스코 할인 서비스도 제공한다. 건강과 문화 분야 혜택도 마련됐다. 건강검진 플랫폼...",
+      "source": "중소기업뉴스",
+      "date": "2026-07-20",
+      "url": "http://www.kbiznews.co.kr/news/articleView.html?idxno=114545"
     }
   ]
 };

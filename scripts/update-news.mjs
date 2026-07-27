@@ -138,6 +138,8 @@ const SOURCE_NAME_MAP = {
     'newspim.com': '뉴스핌',
     'seoul.co.kr': '서울신문',
     'thepublic.kr': '더퍼블릭',
+    'shinailbo.co.kr': '신아일보',
+    'kbiznews.co.kr': '중소기업뉴스',
 };
 
 const EXCLUDE_URL_SUBSTR = ['msn.com'];
