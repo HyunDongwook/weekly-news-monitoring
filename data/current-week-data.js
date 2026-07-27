@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.07.20 ~ 2026.07.26",
   "periodStart": "2026-07-20",
   "periodEnd": "2026-07-26",
-  "generatedAt": "2026-07-27T10:12:15+09:00",
+  "generatedAt": "2026-07-27T10:32:53+09:00",
   "articles": [
     {
       "title": "KT, 상반기 금융권 AX 사업 22건 수주·800명 전담조직 배치…차세대 성...",
@@ -60,25 +60,11 @@ window.CURRENT_WEEK = {
       "url": "https://www.news1.kr/industry/sb-founded/6233141"
     },
     {
-      "title": "“약정 끝나도 놓치지 않는다”…렌털업계, 기존 고객 다시 잡기 경쟁",
-      "summary": "고객이 직접 해결하기 어려운 문제는 기기에서 전송된 정보를 바탕으로 고객센터가 이상 부위를 사전에 파악한 뒤 사후서비스를 접수한다. 자가관리 제품을 선택한 고객에게도 렌털 기간 중 두 차례 무상 방문 관리...",
-      "source": "세계일보",
-      "date": "2026-07-24",
-      "url": "https://www.segye.com/newsView/20260725502084?OutUrl=naver"
-    },
-    {
       "title": "롯데건설, AI·로봇 '이종 관제' 시스템 구축···스마트 건설 선두 주...",
       "summary": "건설 자동화의 최종 경쟁력도 로봇 한 대의 성능보다 여러 장비와 센서, AI 모델을 동시에 제어하는 관제 플랫폼에서 갈릴 가능성이 크다. 자재운반 로봇과 토공 장비, 안전 모니터링 시스템이 각각 따로 움직이는 것이...",
       "source": "여성경제신문",
       "date": "2026-07-23",
       "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256456"
-    },
-    {
-      "title": "네이버, 도쿄에 스마트빌딩 운영 기술 첫 수출...피지컬 AI 해외 영토 확...",
-      "summary": "네이버는 이 건물에 실내 자율주행 로봇 '루키'를 비롯해 멀티 로봇 관제 플랫폼 '아크브레인', 디지털트윈, 비전 기반 측위 기술 '아크아이' 등을 공급한다. 미쓰이부동산은 로봇 배송 서비스와 건물 시설 연계를...",
-      "source": "소비자가만드는신문",
-      "date": "2026-07-23",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=759861"
     },
     {
       "title": "KT CS, 금융·공공 AICC 강화…내년 초까지 ISMS-P 취득 목표",
