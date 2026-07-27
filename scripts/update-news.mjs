@@ -141,6 +141,8 @@ const SOURCE_NAME_MAP = {
     'shinailbo.co.kr': '신아일보',
     'kbiznews.co.kr': '중소기업뉴스',
     'enetnews.co.kr': '이넷뉴스',
+    'ntoday.co.kr': '투데이신문',
+    'joongangenews.com': '중앙이코노미뉴스',
 };
 
 const EXCLUDE_URL_SUBSTR = ['msn.com'];
