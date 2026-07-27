@@ -140,6 +140,7 @@ const SOURCE_NAME_MAP = {
     'thepublic.kr': '더퍼블릭',
     'shinailbo.co.kr': '신아일보',
     'kbiznews.co.kr': '중소기업뉴스',
+    'enetnews.co.kr': '이넷뉴스',
 };
 
 const EXCLUDE_URL_SUBSTR = ['msn.com'];
