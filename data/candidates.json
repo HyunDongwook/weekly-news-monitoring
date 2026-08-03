@@ -10,8 +10,8 @@
   "periodLabel": "2026.07.27 ~ 2026.08.02",
   "periodStart": "2026-07-27",
   "periodEnd": "2026-08-02",
-  "generatedAt": "2026-08-03T10:05:06+09:00",
-  "candidateCount": 325,
+  "generatedAt": "2026-08-03T21:02:43+09:00",
+  "candidateCount": 284,
   "candidates": [
     {
       "title": "다현로앤컨설팅노무법인, '사내근로복지기금' 온라인 교육 성료",
@@ -36,14 +36,6 @@
       "date": "2026-08-02",
       "url": "https://www.public25.com/news/articleView.html?idxno=51888",
       "matchedKeyword": "복지포인트"
-    },
-    {
-      "title": "일도 여행도 품은 전남광주, 워케이션으로 새로운 쉼 제안",
-      "summary": "전남광주통합특별시는 최근 기업 복지와 원격근무 문화 확산에 맞춰 체류형 관광 수요가 증가하는 만큼, 지역 관광과 생활인구 확대에도 이번 사업이 긍정적인 효과를 가져올 것으로 기대하고 있다. 김준원...",
-      "source": "news.mtn.co.kr",
-      "date": "2026-08-02",
-      "url": "https://news.mtn.co.kr/news-detail/2026080220550430961",
-      "matchedKeyword": "기업복지"
     },
     {
       "title": "경주시, 폭염 고위험군 249세대 집중 관리…냉방비 지원도",
@@ -296,7 +288,7 @@
     {
       "title": "장신상 “군민의 목소리를 행정의 출발점으로 삼겠다”",
       "summary": "횡성군에 따르면 지난 1일 횡성전통시장 조합 고객센터에서 민선 9기 첫 ‘횡성 장날 열린 군수실’을 열고 현장 중심의 찾아가는 소통 행정을 펼쳤다. 이날 현장에서는 장을 보러 나온 군민과 전통시장 상인, 방문객들이...",
-      "source": "sportsseoul.com",
+      "source": "스포츠서울",
       "date": "2026-08-02",
       "url": "https://www.sportsseoul.com/news/read/1626171?ref=naver",
       "matchedKeyword": "고객센터"
@@ -352,7 +344,7 @@
     {
       "title": "르노코리아, 그랑 콜레오스 '60일 반납 보장' 8월에도 연장…휴가철 맞...",
       "summary": "르노코리아 관계자는 \"고객의 선택권을 넓히고 초기 부담을 낮추기 위해 반납 보장과 할부·바이백 등 다양한 프로그램을 마련했다\"며 \"상세한 조건과 적용 범위는 전시장 및 고객센터에서 안내받을 수 있다\"고...",
-      "source": "pinpointnews.co.kr",
+      "source": "핀포인트뉴스",
       "date": "2026-08-02",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473643",
       "matchedKeyword": "고객센터"
@@ -454,110 +446,6 @@
       "matchedKeyword": "고객센터"
     },
     {
-      "title": "Circle, ARK 인베스트 대규모 매수에도 주가 75% 급락",
-      "summary": "노무라증권과 공동으로 2027년 일본에서 스테이블코인 기반 외환 결제 서비스를 출시할 계획이다. 이는 기관 외환 시장으로 Circle 인프라를 확대하는 중기 전략의 일환이다. 한편 Circle은 러셀 소형주...",
-      "source": "tokenpost.kr",
-      "date": "2026-08-02",
-      "url": "https://www.tokenpost.kr/news/cryptocurrency/383992",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "[시사 스터디 카페] 촉법소년 만 14세 기준, 왜 바꾸려 할까?",
-      "summary": "더불어 카드 관련 앱은 물론, 카카오페이·토스같이 카드를 앱에 등록해놓고 친구에게 쉽게 돈을 보낼 수 있는 간편 결제 서비스도 스스로 가입할 수 있지. 다만 은행이나 카드 종류에 따라 나이 기준이 다를 수 있으니...",
-      "source": "kids.donga.com",
-      "date": "2026-08-02",
-      "url": "https://kids.donga.com/news/articleView.html?idxno=169398",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "[Who Is ?] 정우진 엔에이치엔 대표이사",
-      "summary": "2019년 7월에는 페이코 간편결제 서비스를 일본에 내놓는다는 계획도 세워뒀다. 엔에이치엔 페이코가 덩치를 키운 만큼 수익성을 끌어올리는 데도 속도를 내고 있다. 정부가 핀테크 사업에 힘을 실어주면서...",
-      "source": "비즈니스포스트",
-      "date": "2026-08-02",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=443485",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "수수료 2%·지자체 동맹…땡겨요가 찾은 ‘착한 배달앱 생존 공식’",
-      "summary": "땡겨요는 서울시 등 주요 지자체와 손잡고 지역화폐·온누리상품권 결제 서비스와 할인쿠폰 등을 제공하며 소비자 혜택을 확대했다. 지난 2021년 베타 서비스 당시 서울 광진구·관악구·마포구·강남구·서초구...",
-      "source": "이코노미스트",
-      "date": "2026-08-02",
-      "url": "https://economist.co.kr/article/view/ecn202607300027",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "“다이소 두고 면세점 왜 가요?”…외국인 역대급 방한에도 지갑 닫혔다...",
-      "summary": "롯데면세점 역시 알리페이와 위챗페이, 유니온페이 등 글로벌 간편결제 서비스를 운영하며 결제 편의성을 높이고 있다. 아울러 BTS 협업 푸드 브랜드 ‘아리(ARIH)’와 롯데호텔 김치 등 K-푸드로 상품군을 강화하고 있다....",
-      "source": "디지털데일리",
-      "date": "2026-08-02",
-      "url": "https://www.ddaily.co.kr/page/view/2026073013360889436",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "개인정보위 제재 기업들, 1심 전패에도 줄소송…왜?",
-      "summary": "카카오페이는 알리페이에 정보를 전송한 행위가 애플 결제 서비스의 부정 사용을 막기 위한 정상적인 업무위탁이라고 주장했다. 전송된 정보도 암호화돼 있어 알리페이가 이용자를 직접 특정할 수 없다는 입장이다. 이...",
-      "source": "nocutnews.co.kr",
-      "date": "2026-08-02",
-      "url": "https://www.nocutnews.co.kr/news/6557045?utm_source=naver&utm_medium=article&utm_campaign=20260803063606",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "카톡 이어 티맵도 '숏폼' 시작",
-      "summary": "이를 맞춤형 추천과 광고, 예약·결제 서비스로 연결할 수 있다. 기존 앱에 새 기능을 붙이면 새 서비스를 내놓는 것보다 비용과 실패 위험도 작다. 이미 확보한 이용자와 데이터, 결제 수단을 곧바로 활용할 수 있다. 티맵...",
-      "source": "한국경제",
-      "date": "2026-08-02",
-      "url": "https://www.hankyung.com/article/2026080201251",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "가상자산 해킹 7월 집중 폭격⋯'콜드카드 피해 급증' 비상",
-      "summary": "크로스체인 브릿지인 완체인(Wanchain)에서 약 1,300만 달러(약 178억 원), 크립토 결제 서비스 트리플에이(Triple-A)에서 약 1,000만 달러(약 137억 원)가 빠져나갔다. 이 외에도 봉조 렌드(Bonzo Lend) 905만 달러(약 124억 원)...",
-      "source": "ilemonde.com",
-      "date": "2026-08-02",
-      "url": "https://www.ilemonde.com/news/articleView.html?idxno=30446",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "삼성전자 급등에 삼성페이 관련주 일제히 함박웃음 왜?",
-      "summary": "업종 강세는 삼성전자를 중심으로 한 AI 스마트폰 경쟁력 강화와 모바일 결제 서비스 확대 기대가 동시에 반영된 결과였다. 디지털 결제와 생체인증, 보안 솔루션 시장의 성장 가능성이 다시 부각되면서 핀테크와 인증...",
-      "source": "pinpointnews.co.kr",
-      "date": "2026-08-02",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473610",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "토스플레이스, 성수동서 골목 상권 환경정화 첫발",
-      "summary": "지난해 9월 안면인식 결제 서비스 '페이스페이'를 출시했으며 올해 6월 기준 누적 가입자는 600만명을 넘어섰다. 최근 한 달간 페이스페이 결제 건수와 거래액도 전달보다 10% 이상 증가했다. 이번 행사에는 가맹점주와...",
-      "source": "신아일보",
-      "date": "2026-08-02",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047027",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "토스 단말기, '온누리상품권 QR 결제' 기능 도입 예정",
-      "summary": "토스 프론트 단말기에 온누리상품권 QR 결제 서비스가 도입될 예정이다. 최근 서울시와 서울페이+ QR 표출 서비스를 시작한 데 이어 다양한 정책결제수단을 지원할 수 있게 될 전망이다. 본지 취재에 따르면...",
-      "source": "전자신문",
-      "date": "2026-08-02",
-      "url": "https://www.etnews.com/20260731000137",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "[위클리 생활금융] 여행·레저·사회공헌으로 경쟁…카드업계, 생활밀착...",
-      "summary": "단순 할인쿠폰 제공을 넘어 고객이 직접 머물고 체험할 수 있는 공간을 마련해 브랜드 노출과 결제 서비스를 함께 유도하는 방식이다. KB국민카드는 인천펜타포트 락 페스티벌 현장에 2층 규모의 고객 라운지와 계단형...",
-      "source": "더비즈",
-      "date": "2026-08-02",
-      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=725437",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "서초구, 8월 주민세 납부 시작…31일까지 개인·사업소분 신고·납부",
-      "summary": "주민세는 서울시 ETAX와 STAX(스마트폰 앱), 카카오페이·네이버페이·토스·신한카드 등 간편결제 서비스, 전용계좌, 무인공과금기(ATM)를 통해 납부할 수 있다. 인터넷이나 스마트폰 사용이 어려운 주민은 ARS(1599-3900)를...",
-      "source": "munhwa.com",
-      "date": "2026-08-02",
-      "url": "https://www.munhwa.com/article/11606577?ref=naver",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
       "title": "올릭스, RNAi 한계 넓힌다…간·지방 유전자 동시 억제 확인",
       "summary": "안질환 분야에서는 기존 황반변성 치료제 프로그램과 새롭게 발굴한 건성 지도모양위축(GA) 관련 표적을 결합하는 전략을 추진한다. 회사는 GA 동물모델에서 각 siRNA를 절반 용량씩 적용한 이중 표적 치료제가 단독...",
       "source": "프레스나인",
@@ -584,7 +472,7 @@
     {
       "title": "보험설계사 없는 시대 올까…\"AI보다 'AI 쓰는 사람'이 먼저 올 것\"",
       "summary": "비교적 높은 수수료와 영업 자율성을 갖춘 법인보험대리점(GA) 소속 설계사가 늘어난 데다 보험사들이 전속조직과 부업형 'N잡 설계사' 모집을 확대한 결과다. 다만 설계사 수가 역대 최대 수준을 기록했다고 모든...",
-      "source": "view.asiae.co.kr",
+      "source": "아시아경제",
       "date": "2026-08-02",
       "url": "https://view.asiae.co.kr/article/2026073115202567188",
       "matchedKeyword": "GA"
@@ -664,7 +552,7 @@
     {
       "title": "신라호텔, VIP 멤버십 경쟁력 강화…8월 가입시 숙박권 경품까지",
       "summary": "호텔신라가 서울신라호텔과 제주신라호텔의 통합 유료 멤버십 '신라에스(Shilla S)'의 리뉴얼을 기념해 8월 한... 신라에스는 서울신라호텔과 제주신라호텔의 객실·레스토랑 혜택을 제공하는 통합 유료 멤버십이다. 최근...",
-      "source": "view.asiae.co.kr",
+      "source": "아시아경제",
       "date": "2026-08-02",
       "url": "https://view.asiae.co.kr/article/2026080308142260606",
       "matchedKeyword": "멤버십"
@@ -704,7 +592,7 @@
     {
       "title": "2분기 나란히 웃는 네이버·카카오…하반기 관건은 'AI 수익화'",
       "summary": "네이버플러스 스토어 성장과 멤버십 가입자 확대, 쇼핑 수수료 인상 등이 실적 개선을 이끌었다. 2026 북중미 월드컵 중계도 이용자 확보에 힘을 보탰다. 네이버는 치지직을 통해 월드컵을 중계하고 멤버십 가입자에게...",
-      "source": "pinpointnews.co.kr",
+      "source": "핀포인트뉴스",
       "date": "2026-08-02",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473253",
       "matchedKeyword": "멤버십"
@@ -742,14 +630,6 @@
       "matchedKeyword": "멤버십"
     },
     {
-      "title": "[8월 3일 캐시워크 돈버는퀴즈 종합]\"소휘,11번가,리얼마이즈,버터쉐이...",
-      "summary": "11번가플러스 무료 멤버십 고객이라면 한장 더! 최대 17,000원 쿠폰 받고 더 알뜰하게 쇼핑하세요. OOO에 들어갈 단어는 무엇일까요? (초성 힌트: ㄹㄹㅇ)\"다. 정답은 '릴레이'다. 네번째 문제는 \"[08.01-08.11]11일간 매일...",
-      "source": "economytalk.kr",
-      "date": "2026-08-02",
-      "url": "http://www.economytalk.kr/news/articleView.html?idxno=423260",
-      "matchedKeyword": "멤버십"
-    },
-    {
       "title": "플래그십부터 해외·셰프 협업…다이닝브랜즈그룹, 브랜드별 성장 전략...",
       "summary": "모바일 앱을 중심으로 사전 주문과 QR 서비스, 멤버십 기능 등을 강화해 이용 편의성을 높였으며 시즌 한정 메뉴와 다양한 프로모션도 지속 운영하고 있다. 메뉴와 서비스 전반을 고도화해 고객 체류시간과 재방문율을...",
       "source": "뉴스투데이",
@@ -763,6 +643,14 @@
       "source": "더벨",
       "date": "2026-08-02",
       "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607291539434880102095",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "[8월 3일 캐시워크 돈버는퀴즈 종합]\"소휘,11번가,리얼마이즈,버터쉐이...",
+      "summary": "11번가플러스 무료 멤버십 고객이라면 한장 더! 최대 17,000원 쿠폰 받고 더 알뜰하게 쇼핑하세요. OOO에 들어갈 단어는 무엇일까요? (초성 힌트: ㄹㄹㅇ)\"다. 정답은 '릴레이'다. 네번째 문제는 \"[08.01-08.11]11일간 매일...",
+      "source": "economytalk.kr",
+      "date": "2026-08-02",
+      "url": "http://www.economytalk.kr/news/articleView.html?idxno=423260",
       "matchedKeyword": "멤버십"
     },
     {
@@ -822,19 +710,19 @@
       "matchedKeyword": "구독"
     },
     {
-      "title": "김부용 “역대 맘보걸 이선정·서유정, 둘 다 이혼해”…맘보걸의 저주...",
-      "summary": "술 마시면서 이런저런 이야기를 하면 구독자 100만 금방 간다”고 새로운 소재를 제안했다. 이에 이선정이 발끈하자 오히려 김부용은 “다 풀고 사는 것”이라며 “풀고 좋게 좋게 지내는 게 좋은 것이다”라며 조언했다....",
-      "source": "sportsseoul.com",
-      "date": "2026-08-02",
-      "url": "https://www.sportsseoul.com/news/read/1626183?ref=naver",
-      "matchedKeyword": "구독"
-    },
-    {
       "title": "멜론·유튜브 프리미엄 라이트 함께 쓴다…T우주 결합상품 출시",
       "summary": "카카오엔터테인먼트의 음악 플랫폼 멜론이 SK텔레콤의 통합 구독 플랫폼 T 우주에서 유튜브 프리미엄 라이트와 멜론을 함께 이용할 수 있는 결합상품을 출시했다고 3일 밝혔다. 결합상품 구독자는 광고 없이...",
       "source": "뉴스1",
       "date": "2026-08-02",
       "url": "https://www.news1.kr/it-science/general-it/6246873",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "김부용 “역대 맘보걸 이선정·서유정, 둘 다 이혼해”…맘보걸의 저주...",
+      "summary": "술 마시면서 이런저런 이야기를 하면 구독자 100만 금방 간다”고 새로운 소재를 제안했다. 이에 이선정이 발끈하자 오히려 김부용은 “다 풀고 사는 것”이라며 “풀고 좋게 좋게 지내는 게 좋은 것이다”라며 조언했다....",
+      "source": "스포츠서울",
+      "date": "2026-08-02",
+      "url": "https://www.sportsseoul.com/news/read/1626183?ref=naver",
       "matchedKeyword": "구독"
     },
     {
@@ -1014,17 +902,9 @@
       "matchedKeyword": "HRM"
     },
     {
-      "title": "써니웨이브텍, K-SAFETY EXPO 2026서 통합 안전솔루션 '오로라' 공개… \"...",
-      "summary": "주력 출품 제품은 통합 산업안전 솔루션 '오로라(Aurora)'이다. 금속표면통신 기반으로 설계된 이 솔루션은 AP-Gateway, Bridge-AP, IoT 단말기, 비상호출벨 등 하드웨어와 통합 안전관제 플랫폼으로 구성된다. 데이터·음성...",
-      "source": "에이빙",
-      "date": "2026-08-02",
-      "url": "https://kr.aving.net/news/articleView.html?idxno=1812820",
-      "matchedKeyword": "산업 안전 솔루션"
-    },
-    {
       "title": "관광공사, 근로자 휴가비 부담 낮춘다…국내여행 최대 50% 할인",
       "summary": "한국관광공사가 여름 휴가철을 맞아 ‘근로자 휴가지원사업’ 참여자를 대상으로 국내여행 할인 프로모션을 진행한다. 근로자 휴가지원사업은 근로자가 20만원을 적립하면 기업과 정부가 각각 10만원을 보태 총...",
-      "source": "sportsworldi.com",
+      "source": "스포츠월드",
       "date": "2026-08-02",
       "url": "https://www.sportsworldi.com/newsView/20260802515122",
       "matchedKeyword": "근로자휴가지원"
@@ -1046,19 +926,19 @@
       "matchedKeyword": "시니어"
     },
     {
-      "title": "삼성물산, AI 돌봄 플랫폼 실버타운 확대… 시니어 케어 시장 공략",
-      "summary": "삼성물산 조혜정DxP본부장(부사장 사진 왼쪽)과 뉴시니어라이프 김민수 대표가 지난 30일 케어링스테이 의정부수목원점에서 업무협약을 맺고 있다/ 삼성물산 제공 삼성물산 건설부문이 인공지능(AI)을 활용한 시니어...",
-      "source": "koreaittimes.com",
-      "date": "2026-08-02",
-      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=155712",
-      "matchedKeyword": "시니어"
-    },
-    {
       "title": "삼성물산, 실버타운에 AI 돌봄 도입...시니어 플랫폼 사업 확대",
       "summary": "삼성물산이 돌봄형 실버타운에 인공지능 기반 시니어 케어 솔루션을 적용하며 시니어 주거 플랫폼 사업을 확대한다. 삼성물산 건설부문은 지난 7월 30일 경기도 포천시 케어링 스테이 의정부수목원점에서 운영사...",
       "source": "HBN뉴스",
       "date": "2026-08-02",
       "url": "https://hbnpress.com/news/view/1065569524737228",
+      "matchedKeyword": "시니어"
+    },
+    {
+      "title": "삼성물산, AI 돌봄 플랫폼 실버타운 확대… 시니어 케어 시장 공략",
+      "summary": "삼성물산 조혜정DxP본부장(부사장 사진 왼쪽)과 뉴시니어라이프 김민수 대표가 지난 30일 케어링스테이 의정부수목원점에서 업무협약을 맺고 있다/ 삼성물산 제공 삼성물산 건설부문이 인공지능(AI)을 활용한 시니어...",
+      "source": "koreaittimes.com",
+      "date": "2026-08-02",
+      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=155712",
       "matchedKeyword": "시니어"
     },
     {
@@ -1123,6 +1003,14 @@
       "source": "sports.donga.com",
       "date": "2026-08-02",
       "url": "https://sports.donga.com/ent/article/all/20260803/134410178/1",
+      "matchedKeyword": "시니어"
+    },
+    {
+      "title": "고양특례시 도서관, 신중년 일자리·맞춤형 문화서비스로 문화복지 넓힌...",
+      "summary": "시니어 독서동아리 활기…65세 이상 어르신 맞춤형 프로그램 풍성 고양시는 어르신들이 책을 통해 삶의 활력을 되찾고, 사회적 교류를 이어갈 수 있도록 맞춤형 독서 문화프로그램을 기획했다. 신원도서관은 '시니어...",
+      "source": "enewstoday.co.kr",
+      "date": "2026-08-02",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2455056",
       "matchedKeyword": "시니어"
     },
     {
@@ -1214,14 +1102,6 @@
       "matchedKeyword": "시니어"
     },
     {
-      "title": "단말기 앞 1초 컷, 40만 가맹점 뚫었다…토스의 이유 있는 ‘오프라인 ...",
-      "summary": "초기 10~30대에 집중됐던 이용자층도 최근 60대 이상 시니어 세대로 빠르게 넓어지는 추세다. 가맹점이 빠르게 늘어난 배경에는 ‘토스 프론트’ 단말기 자체의 경쟁력도 한몫했다. 토스는 단말기를 직접 판매하는 대신 VAN...",
-      "source": "sportsseoul.com",
-      "date": "2026-08-02",
-      "url": "https://www.sportsseoul.com/news/read/1625939?ref=naver",
-      "matchedKeyword": "시니어"
-    },
-    {
       "title": "KT, 딥엑스·세솔과 'AI 엣지박스' 협력… \"전력부담 낮춘 AI영상분석 제...",
       "summary": "KT는 통신망과 관제 플랫폼, 사업개발 역량을 기반으로 서비스 상용화와 시장 확대를 맡는다. 딥엑스는 자체 개발한 저전력 NPU 칩 'DX-M1'과 소프트웨어 개발도구(SDK)를 제공하고, 세솔은 이를 적용한 AI 엣지박스의...",
       "source": "biztribune.co.kr",
@@ -1230,9 +1110,17 @@
       "matchedKeyword": "관제플랫폼"
     },
     {
+      "title": "써니웨이브텍, K-SAFETY EXPO 2026서 통합 안전솔루션 '오로라' 공개… \"...",
+      "summary": "금속표면통신 기반으로 설계된 이 솔루션은 AP-Gateway, Bridge-AP, IoT 단말기, 비상호출벨 등 하드웨어와 통합 안전관제 플랫폼으로 구성된다. 데이터·음성·영상 정보를 수십에서 수백 Mbps급으로 전송해 밀폐 금속...",
+      "source": "에이빙",
+      "date": "2026-08-02",
+      "url": "https://kr.aving.net/news/articleView.html?idxno=1812820",
+      "matchedKeyword": "관제플랫폼"
+    },
+    {
       "title": "[Global Security TOP 100] 황엽 인콘 대표이사 “현장이 원하는 AI 관제로...",
       "summary": "인콘은 20여년간 축적해 온 VMS 개발 경험을 바탕으로 AI 영상분석과 IoT, 외부 이벤트를 연계한 지능형 통합관제 플랫폼을 고도화하며 현장 중심의 보안시장 변화에 대응하고 있다.Q. 인콘에 대한 소개...",
-      "source": "boannews.com",
+      "source": "보안뉴스",
       "date": "2026-08-02",
       "url": "http://www.boannews.com/media/view.asp?idx=144888&kind=6",
       "matchedKeyword": "관제플랫폼"
@@ -1240,7 +1128,7 @@
     {
       "title": "[2026 비상벨 제품 & 솔루션 리포트] ‘보고’ ‘듣고’ ‘대응’하는 ...",
       "summary": "장비 공급에 집중된 사업 구조도 클라우드 기반 통합관제 플랫폼과 원격 유지관리, 소프트웨어 업데이트를 포함하는 서비스형 모델로 확대할 필요가 있다.AI 기능의 활용 범위도 넓어질 전망이다. 비명과 구조 요청을...",
-      "source": "boannews.com",
+      "source": "보안뉴스",
       "date": "2026-08-02",
       "url": "http://www.boannews.com/media/view.asp?idx=144849&kind=6",
       "matchedKeyword": "관제플랫폼"
@@ -1288,18 +1176,10 @@
     {
       "title": "\"망해서 상장폐지라고? 천만에\"…'5000억 실탄' 품고 판 뒤엎는 현대百...",
       "summary": "현대백화점과 한섬, 현대그린푸드, 현대이지웰 등 주요 계열사와 고객 데이터와 멤버십을 통합하고 AI 기반 개인화 추천, 수요 예측, 콘텐츠 제작 자동화, 고객 맞춤형 마케팅을 통해 그룹 전체의 커머스 경쟁력을 높일...",
-      "source": "view.asiae.co.kr",
+      "source": "아시아경제",
       "date": "2026-08-01",
       "url": "https://view.asiae.co.kr/article/2026072018093983123",
       "matchedKeyword": "이지웰"
-    },
-    {
-      "title": "마인드카페 ‘아토머스’, ISO/IEC 27001 인증 획득",
-      "summary": "아토머스는 이 플랫폼을 기반으로 700여 개 기업과 기관에 근로자지원프로그램(EAP)을 제공하며, 개인 멘탈케어를 기업복지와 조직 정신건강 관리 영역으로 확장하고 있다. 최근 기업용 멘탈케어 시장에서는 서비스의...",
-      "source": "livesnews.com",
-      "date": "2026-08-01",
-      "url": "https://www.livesnews.com/news/article.html?no=63087",
-      "matchedKeyword": "기업복지"
     },
     {
       "title": "[단독]출근길 챙기더니 이번엔 등굣길…모두의카드, 아이들도 환급받나",
@@ -1350,54 +1230,6 @@
       "matchedKeyword": "고객센터"
     },
     {
-      "title": "[은행가] 하나금융그룹 '헤드쿼터 청라' 이전·IBK '착한금리 포용대출...",
-      "summary": "특히 이번 시나리오는 프로젝트 아고라 검증의 일환으로 아직 법제화 전단계인 예금토큰 기반 지급결제 서비스를 국내 시중은행 최초로 해외은행(일본 MUFG은행)과 협력하여 외화 기반으로 테스트를 성공하였다는 데...",
-      "source": "slist.kr",
-      "date": "2026-08-01",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=755901",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "토스, 멕시카나와 업무협약…치킨 매장에 '페이스페이' 도입",
-      "summary": "이를 통해 전국 멕시카나 매장에 얼굴 결제 서비스 페이스페이를 도입한다는 계획이다. 협약식에는 오규인 토스 부사장과 진필규 결제부문장, 이주세 멕시카나 대표이사 등 양사 주요 경영진이 참석했다. 2일 토스에...",
-      "source": "bizwnews.com",
-      "date": "2026-08-01",
-      "url": "http://www.bizwnews.com/news/articleView.html?idxno=142041",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "리플 EU MiCA 인가 확보했지만 XRP는 $1.10 여전히 막혀",
-      "summary": "유럽연합(EU) 전역에서 기관 대상 XRP 결제 서비스를 펼칠 수 있는 규제적 발판을 마련한 것이다. 그런데도 XRP 가격은 3거래일 연속 $1.10 저항선을 넘지 못했다. 코인뉴스(cryptonews.com)와 야후파이낸스(finance.yahoo....",
-      "source": "wikitree.co.kr",
-      "date": "2026-08-01",
-      "url": "https://www.wikitree.co.kr/articles/1149843",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "[크립토리뷰] 넷마블 마브렉스, '일곱 개의 대죄: 계명의 부활 NFT' 공개...",
-      "summary": "◇비피엠지 美 자회사 아라코어, 캐나다 버고페이와 글로벌 스테이블코인 결제 서비스 개발 블록체인·AI 기업 비피엠지(BPMG)의 미국 자회사 아라코어(ARACORE)가 글로벌 결제 플랫폼 버고페이(VirgoPAY)와 스테이블코인...",
-      "source": "theguru.co.kr",
-      "date": "2026-08-01",
-      "url": "https://www.theguru.co.kr/news/article.html?no=105235",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "1~2일 대구로페이 택시 이용제한…\"정산사 신규 선정으로 가맹점 등록\"",
-      "summary": "또 대구로페이로 이용이 가능한 '대구로택시'앱 결제 서비스도 대구로택시 운영사와 신 정산사간 앱 결제 연계시스템 개발로 오는 9월말까지 1900여대 법인택시의 온라인 결제가 제한된다. 다만 대구로페이 실물카드와...",
-      "source": "뉴스1",
-      "date": "2026-08-01",
-      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6246129",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "일반결제 적립률 손보는 해피포인트, 왜? [세모금]",
-      "summary": "다만, 9월부터 신규 도입되는 간편결제 서비스 ‘포인트결제’(가칭)를 이용하면 브랜드별 기본 적립률과 관계없이 총 5%가 적립될 예정이다. 포인트결제는 해피포인트 앱에 계좌를 연동해 간편하게 결제할 수 있는...",
-      "source": "헤럴드경제",
-      "date": "2026-08-01",
-      "url": "https://biz.heraldcorp.com/article/10827289?ref=naver",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
       "title": "[단독] DB손해보험도 운전자보험 '현물급부' 도입…대형 손보사 첫 적용",
       "summary": "DB손해보험은 이달 법인보험대리점(GA) 영업 자료에서도 '고객이 선임할 필요 없이 DB손해보험이 보내주는 교통사고 변호사'를 전면에 내세우며 변호사비용 보장과 현물급부 중 선택할 수 있는 신담보 출시를 홍보했다....",
       "source": "신아일보",
@@ -1408,7 +1240,7 @@
     {
       "title": "[ISEC 2026 미리보기] 지란지교 3사, AI 에이전트 결합한 통합 자율보안...",
       "summary": "특히 이번 행사에서 휴먼 리스크 관리(HRM) 플랫폼인 머드픽스 HRM(가칭)을 티저 형태로 최초 공개해 눈길을 끈다. 해당 플랫폼은 임직원의 행동 누적 분석과 리스크 스코어링을 통해 조직 단위의 위험도를...",
-      "source": "boannews.com",
+      "source": "보안뉴스",
       "date": "2026-08-01",
       "url": "http://www.boannews.com/media/view.asp?idx=144923&kind=3",
       "matchedKeyword": "HRM"
@@ -1432,7 +1264,7 @@
     {
       "title": "슈퍼트랙, 과학문화 바우처 공급 기업 선정…\"실습 중심 교육 환경 제공...",
       "summary": "슈퍼트랙의 AI 교육 상품은 현대이지웰 과학문화 바우처 온라인몰에서 구매할 수 있다. 1인당 최대 10만 원까지 사용할 수 있어 경제적 부담 없이 AI 교육을 시작할 수 있다. 특히 슈퍼트랙은 단순한 코딩교구 판매를 넘어...",
-      "source": "view.asiae.co.kr",
+      "source": "아시아경제",
       "date": "2026-07-31",
       "url": "https://view.asiae.co.kr/article/2026073115493895772",
       "matchedKeyword": "이지웰"
@@ -1440,7 +1272,7 @@
     {
       "title": "대한다둥이총연합회, 다자녀가정 지원 '복지몰' 구축 추진",
       "summary": "연합회는 다자녀 가정의 생활비 부담을 줄이기 위한 '다둥이 복지몰 플랫폼 구축 및 생활용품 지원사업'을 첫 번째 정책 과제로 추진한다고 최근 밝혔다. 복지몰은 기저귀와 분유, 식품, 생필품, 학용품 등 다자녀 가정이...",
-      "source": "mhns.co.kr",
+      "source": "더쎈뉴스",
       "date": "2026-07-31",
       "url": "https://www.mhns.co.kr/news/articleView.html?idxno=755083",
       "matchedKeyword": "복지몰"
@@ -1464,7 +1296,7 @@
     {
       "title": "강진군, 청년 25만 원·조부모 월 30만 원... '생활복지' 강화",
       "summary": "다만 복지포인트를 받는 공무원과 청원경찰, 공무직·기간제 근로자 등 공공기관 종사자와 교사, 여성농어인 바우처 지원 대상자는 신청할 수 없다. 문화누리카드 지원 대상자는 문화복지카드 지원금 25만 원을 전액 받을...",
-      "source": "newsworker.co.kr",
+      "source": "뉴스워커",
       "date": "2026-07-31",
       "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=439200",
       "matchedKeyword": "복지포인트"
@@ -1496,7 +1328,7 @@
     {
       "title": "모바일 결제 강자 갤럭시아머니트리, '디지털 상품권 생태계' 영토 넓힌...",
       "summary": "모바일 상품권과 QR결제, 선불카드, 공공복지 플랫폼 등 활용 범위가 넓어질수록 관련 시스템을 구축하거나 운영하는 기업들의 사업 기회도 확대될 수 있다는 분석이다. 한국거래소에 따르면 이날 오전 9시37분 현재...",
-      "source": "pinpointnews.co.kr",
+      "source": "핀포인트뉴스",
       "date": "2026-07-31",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473167",
       "matchedKeyword": "복지플랫폼"
@@ -1520,50 +1352,10 @@
     {
       "title": "국경을 잇는 착취…필리핀과 한국의 콜센터 노동자들은 연결돼 있다[오...",
       "summary": "필리핀 수도 메트로마닐라 케손시티에는 세계에서 가장 많은 BPO 업체가 밀집해 있다. BPO(Business Process Outsourcing)란 기업이 핵심 업무를 제외한 업무 프로세스를 아웃소싱하는 것을 가리킨다. 일손이 부족할 때 인력을...",
-      "source": "weekly.khan.co.kr",
+      "source": "주간경향",
       "date": "2026-07-31",
       "url": "https://weekly.khan.co.kr/article/202608010600031",
       "matchedKeyword": "BPO"
-    },
-    {
-      "title": "ECB, 디지털 유로 앱 접근성 강화…\"EU 법정 기준 상회\"",
-      "summary": "당시 유럽중앙은행은 이 앱이 은행 앱이 작동하지 않을 때 대체 수단이 되고, 이용자가 결제 서비스 제공업체를 바꿔도 새로운 앱을 다시 익힐 필요가 없도록 설계된다고 밝혔다. 유럽중앙은행은 7월 14일 결제 서비스...",
-      "source": "digitaltoday.co.kr",
-      "date": "2026-07-31",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689035",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "간사이전력, 리워드 포인트를 JPYC 스테이블코인으로 전환…폴리곤 온체...",
-      "summary": "결제서비스법(Payment Services Act)상 ‘전자결제수단’으로 분류돼 엔화와 1대1로 교환된다.달러 기반 토큰을 일본 리워드 이용자에게 강제하는 대신 엔화에 페그된 코인을 쓴다는 점이 이번 통합의 핵심이다. 미국이...",
-      "source": "wikitree.co.kr",
-      "date": "2026-07-31",
-      "url": "https://www.wikitree.co.kr/articles/1149736",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "국내 4대 밴사 KSNet, 솔라나와 손잡고 블록체인 결제 시대 연다",
-      "summary": "KSNet은 이미 내부 테스트 중인 AI 기반 결제 시스템에 x402를 접목해 자율 소프트웨어 에이전트가 활용할 미래 결제 서비스에 적합한지를 살펴본다. x402는 HTTP 402 “결제 필요(Payment Required)” 상태 코드를 활용해, AI...",
-      "source": "wikitree.co.kr",
-      "date": "2026-07-31",
-      "url": "https://www.wikitree.co.kr/articles/1149724",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "KB국민, 일본 MUFG은행과 외화 기반 예금토큰 결제 테스트 성공",
-      "summary": "아직 법제화 전단계인 예금토큰 기반 지급결제 서비스를 국내 시중은행으로는 최초로 일본 MUFG은행과 협력하여 테스트를 성공적으로 마쳤다. KB국민은행은 향후 진행될 프로젝트 아고라의 후속 단계에서도...",
-      "source": "newsbrite.net",
-      "date": "2026-07-31",
-      "url": "http://www.newsbrite.net/news/articleView.html?idxno=199547",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "미추홀구, 하반기 체납액 정리 돌입…지방세입 확보 위한 징수 강화",
-      "summary": "최근 지방자치단체들은 모바일 전자고지와 간편결제 서비스를 확대해 자진 납부율을 높이고, 빅데이터를 활용한 체납 분석 등 스마트 징수 행정도 강화하는 추세다. 미추홀구는 하반기 집중 정리 기간 동안 체납 유형별...",
-      "source": "newstown.co.kr",
-      "date": "2026-07-31",
-      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=710995",
-      "matchedKeyword": "결제 서비스"
     },
     {
       "title": "생보사, 간병인 보험 일당 ’20만원‘ 경쟁 재현… 당국도 예의주시",
@@ -1620,38 +1412,6 @@
       "date": "2026-07-31",
       "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520581",
       "matchedKeyword": "보험DB"
-    },
-    {
-      "title": "[TOP's Pick] 폴라리스AI, 제약 현장에 첫 '산업안전 비전 AI' 구축 완료",
-      "summary": "고정형 CCTV를 통한 위험 감지를 넘어 로봇이 현장을 순찰하고 이상 상황을 인식·전달하는 피지컬 AI 기반 산업안전 솔루션으로 사업 영역을 확대한다는 구상이다. 폴라리스AI 관계자는 “이번 구축은 폴라리스 아이가...",
-      "source": "톱데일리",
-      "date": "2026-07-31",
-      "url": "https://www.topdaily.kr/articles/111242",
-      "matchedKeyword": "산업 안전 솔루션"
-    },
-    {
-      "title": "로이인더스, K-SAFETY EXPO 2026서 산업안전 솔루션 '엣지 AI 경보 시스템...",
-      "summary": "주력 출품 제품은 엣지 AI 기반 산업 안전 솔루션이다. 이 시스템은 근로자, 차량, 산업 시설을 실시간으로 보호하도록 설계됐으며, 사고 발생 이후 대응이 아닌 사전 예방에 초점을 맞춘다. Edge AI 비디오 분석과 근접...",
-      "source": "에이빙",
-      "date": "2026-07-31",
-      "url": "https://kr.aving.net/news/articleView.html?idxno=1812770",
-      "matchedKeyword": "산업 안전 솔루션"
-    },
-    {
-      "title": "폴라리스그룹, 산업안전 AI부터 기업 AX까지…B2B AI 사업 확대",
-      "summary": "폴라리스 아이는 기존 CCTV 영상을 AI가 실시간 분석해 안전모와 안전조끼 착용 여부, 위험구역 침입, 지게차 접근, 작업자 쓰러짐, 화재·연기 등을 감지하는 산업안전 솔루션이다. 별도의 카메라 교체 없이 기존 영상...",
-      "source": "테크월드",
-      "date": "2026-07-31",
-      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=405007",
-      "matchedKeyword": "산업 안전 솔루션"
-    },
-    {
-      "title": "폴라리스AI, 산업안전 AI 솔루션 첫 공급…온프레미스·온디바이스 라인...",
-      "summary": "고정형 CCTV를 통한 위험 감지를 넘어 로봇이 현장을 순찰하고 이상 상황을 인식·전달하는 피지컬 AI 기반 산업안전 솔루션으로 사업 영역을 확대한다는 구상이다. 폴라리스AI 관계자는 \"이번 구축은 '폴라리스 아이'가...",
-      "source": "머니투데이",
-      "date": "2026-07-31",
-      "url": "https://www.mt.co.kr/stock/2026/07/31/2026073110221491297",
-      "matchedKeyword": "산업 안전 솔루션"
     },
     {
       "title": "[관광정책 포커스] 하반기, 관광지형 새 판 짜는 관광정책 총력전",
@@ -1792,7 +1552,7 @@
     {
       "title": "영광군, '영광사랑카드 할인·청년 문화복지지원'... 지역 체감혜택 확...",
       "summary": "다만 복지포인트를 지급받는 공공기관 근무자와 학교 밖 청소년 교육수당 대상자, 여성농업인 문화복지생활 지원사업 대상자는 중복 지원을 받을 수 없어 신청 대상에서 제외된다. 신청자는 주민등록상 주소지를...",
-      "source": "newsworker.co.kr",
+      "source": "뉴스워커",
       "date": "2026-07-30",
       "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=439067",
       "matchedKeyword": "복지포인트"
@@ -1846,38 +1606,6 @@
       "matchedKeyword": "복지플랫폼"
     },
     {
-      "title": "계양구, 테크노밸리·교통망 등 공약사업 추진 현황 점검",
-      "summary": "주요 공약사업에는 계양테크노밸리 첨단산업 거점 조성, GTX-D·E 노선 계양 경유 및 대장홍대선 연장 등 광역교통망 확충, 원도심 정비와 도시재생, 골목상권 및 전통시장 활성화, 생애주기별 복지플랫폼 확대, 출산...",
-      "source": "gukjenews.com",
-      "date": "2026-07-30",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3651108",
-      "matchedKeyword": "복지플랫폼"
-    },
-    {
-      "title": "계양구, 민선9기 공약·핵심사업 집중 점검…구정 실행력 높인다",
-      "summary": "주요 점검 대상에는 계양테크노밸리 첨단산업 거점 조성, GTX-D·E 노선 계양 경유와 대장홍대선 연장 등 광역교통망 확충, 원도심 정비 및 도시재생사업, 골목상권과 전통시장 활성화, 계양형 생애주기별 복지플랫폼 확대와...",
-      "source": "newstown.co.kr",
-      "date": "2026-07-30",
-      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=710843",
-      "matchedKeyword": "복지플랫폼"
-    },
-    {
-      "title": "인천 계양구, 민선9기 공약 이행 점검...주요사업 추진력 강화",
-      "summary": "주요 공약사업으로는 계양테크노밸리 첨단산업 거점 조성, GTX-D·E 노선 계양 경유와 대장홍대선 연장 등 광역교통망 확충, 원도심 정비와 도시재생사업, 골목상권 및 전통시장 활성화, 계양형 생애주기별 복지플랫폼...",
-      "source": "kmaeil.com",
-      "date": "2026-07-30",
-      "url": "https://www.kmaeil.com/news/articleView.html?idxno=647051",
-      "matchedKeyword": "복지플랫폼"
-    },
-    {
-      "title": "박형우 계양구청장, '공약·주요사업 추진상황 보고회' 주재",
-      "summary": "생애주기별 복지플랫폼 운영 확대와 출산·소아의료 안심인프라 구축 ▲계양산 역사·문화·생태자원을 활용한 교육문화도시 조성 등 핵심 공약의 추진상황을 점검했다. 이와 함께 주요사업으로는 주민 생활과 밀접한...",
-      "source": "wikitree.co.kr",
-      "date": "2026-07-30",
-      "url": "https://www.wikitree.co.kr/articles/1149396",
-      "matchedKeyword": "복지플랫폼"
-    },
-    {
       "title": "직접 짓고, 지분 넣고, 대신 운영...삼성SDS의 AI 인프라 800MW 셈법",
       "summary": "동탄 서관 AI 데이터센터 20MW와 전남 해남 한국AI컴퓨팅센터(AICC) 40MW, 구미 AI 데이터센터 60MW도 순차적으로 추가한다. 동탄 서관은 올해, 한국 AICC는 2028년, 구미 AI 데이터센터는 2029년 가동이 목표다. 기존...",
       "source": "insight.co.kr",
@@ -1904,7 +1632,7 @@
     {
       "title": "1200%룰에 현금 경쟁 ‘주춤’…설계사 스카우트 공식 바뀌나",
       "summary": "법인보험대리점(GA)까지 모집수수료 규제가 확대되면서 정착지원금을 앞세운 영입 경쟁은 주춤한 반면... 30일 보험업계에 따르면 지난 1일부터 GA 소속 설계사가 받는 첫해 모집수수료도 월납 보험료의 12배 이내로...",
-      "source": "kukinews.com",
+      "source": "쿠키뉴스",
       "date": "2026-07-30",
       "url": "https://www.kukinews.com/article/view/kuk202607300138",
       "matchedKeyword": "GA"
@@ -1920,7 +1648,7 @@
     {
       "title": "[기획] AIA생명, 외부 GA 재가동 검토...'방카슈랑스 편중' 벗어날까",
       "summary": "AIA생명이 외부 법인보험대리점(GA) 채널 재가동을 검토하고 있다. 방카슈랑스에 쏠린 판매 구조를 나누고 보장성 보험 신계약을 늘리기 위한 방안으로 보인다. 다만 외부 GA를 통한 판매가 늘어날 경우 설계사 관리와...",
-      "source": "startuptoday.co.kr",
+      "source": "스타트업투데이",
       "date": "2026-07-30",
       "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=808303",
       "matchedKeyword": "GA"
@@ -1928,7 +1656,7 @@
     {
       "title": "'장기납종신·전속설계사'···영업 전략 바꾼 동양생명",
       "summary": "그간 보험대리점(GA) 채널을 통해 건강보험 판매에 열을 올렸지만, 이번엔 전속설계사(FC) 채널을 강화하고... 반면 그 동안 주력 판매 채널이었던 GA는 7.4% 크게 줄었다. 동양생명은 우리금융에 편입되기 전까지 GA 채널...",
-      "source": "sisajournal-e.com",
+      "source": "시사저널e",
       "date": "2026-07-30",
       "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422780",
       "matchedKeyword": "GA"
@@ -1990,38 +1718,6 @@
       "matchedKeyword": "상조업"
     },
     {
-      "title": "KT, 삼성전자와 산업안전 솔루션 출시 … 기업전용 5G에 갤럭시 워치 연...",
-      "summary": "KT는 이 밖에도 비명이나 도움 요청 등 이상 음원을 감지하는 비상 음성 인식 장치, 운전자의 위험 행동을 경고하는 AI 안전운전 솔루션, CCTV 기반 EVMS, 지능형 화재감지 솔루션 등 산업현장 안전 관련 솔루션을...",
-      "source": "worktoday.co.kr",
-      "date": "2026-07-30",
-      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=87350",
-      "matchedKeyword": "산업 안전 솔루션"
-    },
-    {
-      "title": "[통신] KT·삼성전자 산업안전 워치",
-      "summary": "KT와 삼성전자는 기업전용 통신망과 착용형 기기를 결합한 서비스를 건설·제조·물류 현장으로 확대할 계획이다. KT는 이상 음원 감지와 인공지능 안전운전, 영상 기반 위험 감지 등 산업안전 솔루션도 운영하고 있다.",
-      "source": "webeconomy.co.kr",
-      "date": "2026-07-30",
-      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2251410",
-      "matchedKeyword": "산업 안전 솔루션"
-    },
-    {
-      "title": "KT·삼성전자, 산업현장 안전관리 디지털화…기업전용 5G 기반 '안전관리...",
-      "summary": "KT는 삼성전자와 협력해 기업전용 5G 서비스를 기반으로 한 산업안전 솔루션 '안전관리 Watch'를 출시했다고 30일 밝혔다. 이번 서비스는 KT의 기업전용 5G 네트워크와 삼성전자의 '스마트싱스 프로(SmartThings Pro) 안전관리...",
-      "source": "koreaittimes.com",
-      "date": "2026-07-30",
-      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=155636",
-      "matchedKeyword": "산업 안전 솔루션"
-    },
-    {
-      "title": "\"손목시계가 산업재해를 막는다\"… KT-삼성전자, 안전관리 Watch 왜 지금...",
-      "summary": "그간 산업 안전 솔루션이 CCTV나 센서 중심으로 구축돼온 데 비해 근로자 개인이 착용하는 웨어러블을 표준 안전 장비로 편입시킨 접근이라는 평가가 뒤따른다. 이번 서비스의 기반은 기업전용 5G다. 별도 네트워크...",
-      "source": "ER 이코노믹리뷰",
-      "date": "2026-07-30",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=746629",
-      "matchedKeyword": "산업 안전 솔루션"
-    },
-    {
       "title": "\"조직문화·복지 담당 모여\"...D3 '피플앤컬처 엑스포' 개최",
       "summary": "복지몰과 복지 포인트 운영, 임직원 건강검진과 헬스케어, 조직문화 컨설팅과 팀빌딩 워크숍, 기업교육과 리더십 프로그램, 오피스 솔루션, 인사관리 시스템, 법인 모빌리티 서비스 등 다양한 분야에서 이번 박람회에...",
       "source": "지디넷코리아",
@@ -2040,7 +1736,7 @@
     {
       "title": "결혼정보회사 '젠틀리즈', 웰페어클럽과 제휴…복지포인트로 프라이빗...",
       "summary": "'웰페어클럽'은 공무원과 공기업·대기업 임직원 등을 대상으로 복지 서비스를 제공하는 멤버십 플랫폼으로 제휴처에서 복지카드 결제 때 복지포인트 사용과 다양한 할인 혜택을 지원하고 있다고 한다. 젠틀리즈 측은...",
-      "source": "bizwnews.com",
+      "source": "비즈월드",
       "date": "2026-07-29",
       "url": "http://www.bizwnews.com/news/articleView.html?idxno=141880",
       "matchedKeyword": "복지포인트"
@@ -2072,7 +1768,7 @@
     {
       "title": "화순군, 청년 문화복지카드 2차 모집…1인당 연 최대 25만원 지원",
       "summary": "복지포인트를 지급받는 공공기관 근무자, 학교 밖 청소년 교육수당 지급 대상자, 여성농어업인 행복바우처 지원 대상자는 제외된다. 신청은 NH농협카드 누리집 온라인 신청 또는 주민등록상 주소지 관할 읍·면...",
-      "source": "polinews.co.kr",
+      "source": "폴리뉴스",
       "date": "2026-07-29",
       "url": "https://www.polinews.co.kr/news/articleView.html?idxno=738462",
       "matchedKeyword": "복지포인트"
@@ -2110,19 +1806,19 @@
       "matchedKeyword": "복지포인트"
     },
     {
-      "title": "삼성바이오로직스, 대학생 취업 선호도 4년 연속 제약·바이오 1위",
-      "summary": "이 밖에도 생일 상품권과 복지포인트 지급, 휴양소 지원 등 다양한 복지 프로그램을 운영하며 임직원의 삶의 질 향상에 힘쓴다. 업계에서는 글로벌 생산시설 확대와 지속적인 투자로 인력 수요가 늘어나는 가운데...",
-      "source": "이투데이",
-      "date": "2026-07-29",
-      "url": "https://www.etoday.co.kr/news/view/2608631",
-      "matchedKeyword": "복지포인트"
-    },
-    {
       "title": "[이영준 조세전문변호사의 세금과 법률] 마일리지·포인트 결제액의 부...",
       "summary": "셋째, 복지포인트, 현금 충전 포인트, 외부 발행 포인트 전환분 등 성격이 상이한 포인트가 혼재하는 경우에는 포인트 종류별로 법적 성격을 별도로 검토하여야 한다. 대법원 2023. 6. 1. 선고 2019두58766 판결이...",
       "source": "피앤피뉴스",
       "date": "2026-07-29",
       "url": "https://www.gosiweek.com/article/1065569868621825",
+      "matchedKeyword": "복지포인트"
+    },
+    {
+      "title": "삼성바이오로직스, 대학생 취업 선호도 4년 연속 제약·바이오 1위",
+      "summary": "이 밖에도 생일 상품권과 복지포인트 지급, 휴양소 지원 등 다양한 복지 프로그램을 운영하며 임직원의 삶의 질 향상에 힘쓴다. 업계에서는 글로벌 생산시설 확대와 지속적인 투자로 인력 수요가 늘어나는 가운데...",
+      "source": "이투데이",
+      "date": "2026-07-29",
+      "url": "https://www.etoday.co.kr/news/view/2608631",
       "matchedKeyword": "복지포인트"
     },
     {
@@ -2132,22 +1828,6 @@
       "date": "2026-07-29",
       "url": "https://www.koit.co.kr/news/articleView.html?idxno=208210",
       "matchedKeyword": "복지포인트"
-    },
-    {
-      "title": "영남이공대학교, 공공데이터·AI 결합한 복지 플랫폼...학생들 창업대회...",
-      "summary": "수상작 '복지비서-똑똑'은 공공데이터와 AI 기술을 결합해 사회복지사와 디지털 취약계층을 연결하는 AI 코파일럿 플랫폼이다. 이 서비스는 복지 대상자 발굴, 방문 상담, 복지서비스 추천, 신청서 초안 작성 등 복지 행정...",
-      "source": "gukjenews.com",
-      "date": "2026-07-29",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3650597",
-      "matchedKeyword": "복지플랫폼"
-    },
-    {
-      "title": "[패트롤] 영천시-칠곡군-수성구-영남이공대-대구교육청",
-      "summary": "시상식은 지난 28일 대구디지털혁신진흥원에서 열렸으며, 영남이공대 i-경영회계계열 2학년 차미현 학생과 1학년 백인성 학생으로 구성된 팀은 AI 기반 복지 플랫폼인 '복지비서-똑똑'을 출품해 아이디어 기획 부문...",
-      "source": "ekn.kr",
-      "date": "2026-07-29",
-      "url": "https://www.ekn.kr/web/view.php?key=20260729028217597",
-      "matchedKeyword": "복지플랫폼"
     },
     {
       "title": "투자유치 반년 만에 또 모은다… 페르소나AI, 200억 규모 프리IPO 시동",
@@ -2160,7 +1840,7 @@
     {
       "title": "통신 3사, 인공지능 개발 사활…차별화 전략 통해 시장 선점",
       "summary": "기업 고객 대상 AI 컨택센터AICC 사업도 추진 중이다. 고객 문의 분석부터 상담 시나리오 작성, 품질 점검... 특히 AICC 시장에서는 통신사뿐 아니라 IT서비스 기업들도 사업에 참여하면서 경쟁이 치열해지고 있다. 금융과...",
-      "source": "polinews.co.kr",
+      "source": "폴리뉴스",
       "date": "2026-07-29",
       "url": "https://www.polinews.co.kr/news/articleView.html?idxno=738445",
       "matchedKeyword": "AICC"
@@ -2270,14 +1950,6 @@
       "matchedKeyword": "HRM"
     },
     {
-      "title": "하영ENG, 정밀가공 기술 기반 푸드테크 혁신 선도 [경기도 미래를 이끄...",
-      "summary": "건설현장 안전 시스템 관련 특허 기술을 개발하며 사업 영역을 확대하고 있으며 제조 뿌리기술이 식품기계뿐 아니라 산업 안전 솔루션으로도 확장될 수 있음을 보여주고 있다. 이를 통해 제조와 안전, 푸드테크를...",
-      "source": "kyeonggi.com",
-      "date": "2026-07-29",
-      "url": "https://www.kyeonggi.com/article/20260729580142",
-      "matchedKeyword": "산업 안전 솔루션"
-    },
-    {
       "title": "20만 원이 40만 원 된다…직장인 휴가비 할인 더 커졌다",
       "summary": "부담을 낮추고, 익숙한 관광지를 넘어 지역의 숲과 숙소, 체험공간으로 발길을 넓힐 기회가 될 것으로 보인다. 근로자휴가지원사업,휴가샵,국내여행,여름휴가,전북여행,웰니스여행,가족여행,워터파크할인,한국관광공사",
       "source": "newscj.com",
@@ -2296,7 +1968,7 @@
     {
       "title": "[여행산업 HOT 뉴스] 휴가비 40만원에 최대 50% 할인 얹어…여름휴가 '웰...",
       "summary": "근로자 휴가지원 프로모션 홍보 이미지. 사진=한국관광공사  여름 휴가철을 맞아 근로자들의 휴가비 부담을 줄이고 지역 관광에 활력을 불어넣기 위한 맞춤형 혜택이 찾아온다. 한국관광공사(이하 공사)는 '근로자...",
-      "source": "bizwnews.com",
+      "source": "비즈월드",
       "date": "2026-07-29",
       "url": "http://www.bizwnews.com/news/articleView.html?idxno=141853",
       "matchedKeyword": "근로자휴가지원"
@@ -2334,19 +2006,19 @@
       "matchedKeyword": "근로자휴가지원"
     },
     {
-      "title": "정부가 공개한 '가성비 휴가' 가는 법... 뭐길래?",
-      "summary": "'근로자 휴가지원 사업'은 직장 내 자유로운 휴가 문화와 국내 여행 활성화를 위해 기업과 정부가 국내 여행 경비를 지원하는 사업이다. 해당 사업은 사업에 참여한 기업의 근로자가 20만 원 부담 시 기업과 정부가 각각...",
-      "source": "ggilbo.com",
-      "date": "2026-07-29",
-      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1172131",
-      "matchedKeyword": "근로자휴가지원"
-    },
-    {
       "title": "“아는 만큼 아낀다”…휴가철 행안부 공공서비스",
       "summary": "행안부는 여름철 여행 경비 부담을 낮추고 편의를 높이는 생활밀착형 공공서비스로 ‘디지털관광주민증’, ‘1330 관광통역안내’, ‘근로자 휴가 지원 사업’을 선정해 29일 발표했다. 디지털관광주민증은 강원 태백과...",
       "source": "디지털타임스",
       "date": "2026-07-29",
       "url": "https://www.dt.co.kr/article/12075432?ref=naver",
+      "matchedKeyword": "근로자휴가지원"
+    },
+    {
+      "title": "정부가 공개한 '가성비 휴가' 가는 법... 뭐길래?",
+      "summary": "'근로자 휴가지원 사업'은 직장 내 자유로운 휴가 문화와 국내 여행 활성화를 위해 기업과 정부가 국내 여행 경비를 지원하는 사업이다. 해당 사업은 사업에 참여한 기업의 근로자가 20만 원 부담 시 기업과 정부가 각각...",
+      "source": "ggilbo.com",
+      "date": "2026-07-29",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1172131",
       "matchedKeyword": "근로자휴가지원"
     },
     {
@@ -2422,6 +2094,14 @@
       "matchedKeyword": "근로자휴가지원"
     },
     {
+      "title": "비용 ↓, 만족 ↑... \"휴가 땐 공공서비스 3종 챙기세요\"",
+      "summary": "직장 내 자유로운 휴가 문화 조성과 국내 여행 활성화를 위해 정부와 기업이 함께 근로자의 국내 여행 경비를 지원하는 '근로자 휴가 지원 사업'도 눈에 띈다. 사업에 참여한 기업의 근로자가 20만 원을 부담하면...",
+      "source": "public25.com",
+      "date": "2026-07-29",
+      "url": "https://www.public25.com/news/articleView.html?idxno=51668",
+      "matchedKeyword": "근로자휴가지원"
+    },
+    {
       "title": "'디지털관광주민증' 숙박·음식 할인…여행경비 20만원 지원도",
       "summary": "'디지털관광주민증'을 발급받아 숙박업체와 음식점 등에서 다양한 할인 혜택을 받고, '근로자 휴가지원 사업'을 통해 국내 여행 경비를 지원받을 수 있다. 행정안전부는 본격적인 여름 휴가철을 맞아 여행 경비 부담을...",
       "source": "뉴시스",
@@ -2435,14 +2115,6 @@
       "source": "뉴스1",
       "date": "2026-07-29",
       "url": "https://www.news1.kr/local/moi/6242233",
-      "matchedKeyword": "근로자휴가지원"
-    },
-    {
-      "title": "비용 ↓, 만족 ↑... \"휴가 땐 공공서비스 3종 챙기세요\"",
-      "summary": "직장 내 자유로운 휴가 문화 조성과 국내 여행 활성화를 위해 정부와 기업이 함께 근로자의 국내 여행 경비를 지원하는 '근로자 휴가 지원 사업'도 눈에 띈다. 사업에 참여한 기업의 근로자가 20만 원을 부담하면...",
-      "source": "public25.com",
-      "date": "2026-07-29",
-      "url": "https://www.public25.com/news/articleView.html?idxno=51668",
       "matchedKeyword": "근로자휴가지원"
     },
     {
@@ -2472,7 +2144,7 @@
     {
       "title": "금융·방산·소비재까지 밀렸다… 밸류업 관련주 줄줄이 하락",
       "summary": "현대이지웰은 보합으로 장을 마감했다. 시장이 급락하는 가운데 일부 종목은 방어적인 성격과 개별 실적... 교육과 IT서비스 종목에서는 디지털대성, 메가스터디교육, 컴투스, 솔트웨어, 파수AI, 현대이지웰 등이 혼조세를...",
-      "source": "pinpointnews.co.kr",
+      "source": "핀포인트뉴스",
       "date": "2026-07-28",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472335",
       "matchedKeyword": "이지웰"
@@ -2544,7 +2216,7 @@
     {
       "title": "애드웰, 기업 복지 담당자 대상 ‘무료 선물 체험’ 이벤트 선착순 지원",
       "summary": "애드웰은 복지몰 구축, 모바일 쿠폰 구매, 실물 상품 배송 등 기업 복지와 관련된 여러 업무를 하나의 플랫폼에서 관리할 수 있도록 지원한다. 기존에 여러 채널을 통해 각각 처리하던 업무를 통합해 운영할 수 있다는 점이...",
-      "source": "thepowernews.co.kr",
+      "source": "더파워뉴스",
       "date": "2026-07-27",
       "url": "https://www.thepowernews.co.kr/view.php?ud=202607241138043776cf2d78c68_7",
       "matchedKeyword": "복지몰"
@@ -2584,7 +2256,7 @@
     {
       "title": "[A 데스크칼럼] 불완전판매 비판에 가려진 상조업계의 변화",
       "summary": "웅진프리드라이프는 웅진그룹 편입 이후 소비자 보호 교육을 담당하는 전담 조직을 신설하고 AI 기반 콘택트센터(AICC)를 도입했다. 상담 내용과 이력을 분석해 관련 법규와 내부 기준에 맞게 상품이 설명됐는지 살피는...",
-      "source": "asiaa.co.kr",
+      "source": "아시아에이",
       "date": "2026-07-27",
       "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=256466",
       "matchedKeyword": "AICC"
@@ -2608,7 +2280,7 @@
     {
       "title": "보람그룹(회장 최철홍), 상조를 넘어 '인생 전반의 서비스'로…변화하는...",
       "summary": "이 같은 변화는 상조업계의 경쟁 방식도 바꾸고 있다. 과거에는 '누가 더 많은 회원을 확보하느냐'가... 상조업은 계약부터 서비스 제공까지 수년, 길게는 수십 년이 걸리는 산업인 만큼 고객의 신뢰가 무엇보다 중요하다....",
-      "source": "newsworker.co.kr",
+      "source": "뉴스워커",
       "date": "2026-07-27",
       "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=438453",
       "matchedKeyword": "상조업"
