@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.07.27 ~ 2026.08.02",
   "periodStart": "2026-07-27",
   "periodEnd": "2026-08-02",
-  "generatedAt": "2026-08-03T10:48:08+09:00",
+  "generatedAt": "2026-08-03T10:49:33+09:00",
   "articles": [
     {
       "title": "[중소기업 AI 상담 전환, 온피아①] 콜센터 커스텀 AI 8월 출시…500개사...",
@@ -128,13 +128,6 @@ window.CURRENT_WEEK = {
       "source": "뉴스워커",
       "date": "2026-07-27",
       "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=438453"
-    },
-    {
-      "title": "경동나비엔, 히트펌프 국산화·AI 서비스 통합 구축…난방 전기화 시장...",
-      "summary": "최근에는 룸콘 사진 분석 기반의 '나비엔 AI 서비스'와 지능형 고객센터(AICC)의 'AI 가이드 에벗' 채팅 서비스를 결합해 고장 자가조치 안내 시스템을 구축했다. 이외에도 청각장애인용 '보이는 ARS', 시각장애인용...",
-      "source": "데일리팝",
-      "date": "2026-07-27",
-      "url": "http://www.dailypop.kr/news/articleView.html?idxno=100915"
     },
     {
       "title": "이트너스 하우징, 기업 맞춤형 주거 BPO로 변화 '확대'",
