@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.07.27 ~ 2026.08.02",
   "periodStart": "2026-07-27",
   "periodEnd": "2026-08-02",
-  "generatedAt": "2026-08-03T10:42:55+09:00",
+  "generatedAt": "2026-08-03T10:45:33+09:00",
   "articles": [
     {
       "title": "[중소기업 AI 상담 전환, 온피아①] 콜센터 커스텀 AI 8월 출시…500개사...",
@@ -30,6 +30,13 @@ window.CURRENT_WEEK = {
       "source": "스포츠서울",
       "date": "2026-08-02",
       "url": "https://www.sportsseoul.com/news/read/1625939?ref=naver"
+    },
+    {
+      "title": "관광공사, 근로자 휴가비 부담 낮춘다…국내여행 최대 50% 할인",
+      "summary": "한국관광공사가 여름 휴가철을 맞아 ‘근로자 휴가지원사업’ 참여자를 대상으로 국내여행 할인 프로모션을 진행한다. 근로자 휴가지원사업은 근로자가 20만원을 적립하면 기업과 정부가 각각 10만원을 보태 총...",
+      "source": "스포츠월드",
+      "date": "2026-08-02",
+      "url": "https://www.sportsworldi.com/newsView/20260802515122"
     },
     {
       "title": "대한다둥이총연합회, 다자녀가정 지원 '복지몰' 구축 추진",
