@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.07.27 ~ 2026.08.02",
   "periodStart": "2026-07-27",
   "periodEnd": "2026-08-02",
-  "generatedAt": "2026-08-03T10:16:13+09:00",
+  "generatedAt": "2026-08-03T10:40:31+09:00",
   "articles": [
     {
       "title": "[중소기업 AI 상담 전환, 온피아①] 콜센터 커스텀 AI 8월 출시…500개사...",
@@ -46,13 +46,6 @@ window.CURRENT_WEEK = {
       "url": "http://www.boannews.com/media/view.asp?idx=144849&kind=6"
     },
     {
-      "title": "써니웨이브텍, K-SAFETY EXPO 2026서 통합 안전솔루션 '오로라' 공개… \"...",
-      "summary": "주력 출품 제품은 통합 산업안전 솔루션 '오로라(Aurora)'이다. 금속표면통신 기반으로 설계된 이 솔루션은 AP-Gateway, Bridge-AP, IoT 단말기, 비상호출벨 등 하드웨어와 통합 안전관제 플랫폼으로 구성된다. 데이터·음성...",
-      "source": "에이빙",
-      "date": "2026-08-02",
-      "url": "https://kr.aving.net/news/articleView.html?idxno=1812820"
-    },
-    {
       "title": "마인드카페 ‘아토머스’, ISO/IEC 27001 인증 획득",
       "summary": "아토머스는 이 플랫폼을 기반으로 700여 개 기업과 기관에 근로자지원프로그램(EAP)을 제공하며, 개인 멘탈케어를 기업복지와 조직 정신건강 관리 영역으로 확장하고 있다. 최근 기업용 멘탈케어 시장에서는 서비스의...",
       "source": "라이브뉴스",
@@ -79,20 +72,6 @@ window.CURRENT_WEEK = {
       "source": "일요서울",
       "date": "2026-07-31",
       "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520581"
-    },
-    {
-      "title": "폴라리스AI, 산업안전 AI 솔루션 첫 공급…온프레미스·온디바이스 라인...",
-      "summary": "고정형 CCTV를 통한 위험 감지를 넘어 로봇이 현장을 순찰하고 이상 상황을 인식·전달하는 피지컬 AI 기반 산업안전 솔루션으로 사업 영역을 확대한다는 구상이다. 폴라리스AI 관계자는 \"이번 구축은 '폴라리스 아이'가...",
-      "source": "머니투데이",
-      "date": "2026-07-31",
-      "url": "https://www.mt.co.kr/stock/2026/07/31/2026073110221491297"
-    },
-    {
-      "title": "로이인더스, K-SAFETY EXPO 2026서 산업안전 솔루션 '엣지 AI 경보 시스템...",
-      "summary": "주력 출품 제품은 엣지 AI 기반 산업 안전 솔루션이다. 이 시스템은 근로자, 차량, 산업 시설을 실시간으로 보호하도록 설계됐으며, 사고 발생 이후 대응이 아닌 사전 예방에 초점을 맞춘다. Edge AI 비디오 분석과 근접...",
-      "source": "에이빙",
-      "date": "2026-07-31",
-      "url": "https://kr.aving.net/news/articleView.html?idxno=1812770"
     },
     {
       "title": "국경을 잇는 착취…필리핀과 한국의 콜센터 노동자들은 연결돼 있다[오...",
@@ -128,13 +107,6 @@ window.CURRENT_WEEK = {
       "source": "시사저널e",
       "date": "2026-07-30",
       "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422780"
-    },
-    {
-      "title": "\"손목시계가 산업재해를 막는다\"… KT-삼성전자, 안전관리 Watch 왜 지금...",
-      "summary": "그간 산업 안전 솔루션이 CCTV나 센서 중심으로 구축돼온 데 비해 근로자 개인이 착용하는 웨어러블을 표준 안전 장비로 편입시킨 접근이라는 평가가 뒤따른다. 이번 서비스의 기반은 기업전용 5G다. 별도 네트워크...",
-      "source": "ER 이코노믹리뷰",
-      "date": "2026-07-30",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=746629"
     },
     {
       "title": "코나아이, '튼튼머니' 지역화폐 전환 서비스 시작",
