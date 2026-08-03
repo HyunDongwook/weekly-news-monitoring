@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.07.27 ~ 2026.08.02",
   "periodStart": "2026-07-27",
   "periodEnd": "2026-08-02",
-  "generatedAt": "2026-08-03T10:51:05+09:00",
+  "generatedAt": "2026-08-03T10:53:05+09:00",
   "articles": [
     {
       "title": "[중소기업 AI 상담 전환, 온피아①] 콜센터 커스텀 AI 8월 출시…500개사...",
@@ -79,13 +79,6 @@ window.CURRENT_WEEK = {
       "source": "스타트업투데이",
       "date": "2026-07-30",
       "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=808303"
-    },
-    {
-      "title": "코나아이, '튼튼머니' 지역화폐 전환 서비스 시작",
-      "summary": "스포츠 복지 포인트를 지역화폐로 사용하는 서비스가 시작됐다. 글로벌 핀테크 기업 코나아이(대표 조정일)는 지역사랑상품권 플랫폼인 경기지역화폐와 김포페이가 서울올림픽기념국민체육진흥공단의 '2026년 스포츠활동...",
-      "source": "전자신문",
-      "date": "2026-07-30",
-      "url": "https://www.etnews.com/20260730000085"
     },
     {
       "title": "2분기 선불식 할부거래업체 2곳 폐업…정상영업 총 74개사",
