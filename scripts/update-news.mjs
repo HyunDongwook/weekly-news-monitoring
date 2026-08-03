@@ -81,6 +81,7 @@ const SOURCE_NAME_MAP = {
     'livesnews.com': '라이브뉴스',
     'pinpointnews.co.kr': '핀포인트뉴스',
     'sportsworldi.com': '스포츠월드',
+    'view.asiae.co.kr': '아시아경제',
     'hansbiz.co.kr': '한스경제',
     'ccreview.co.kr': '충청리뷰',
     'kookbang.dema.mil.kr': '국방일보',
