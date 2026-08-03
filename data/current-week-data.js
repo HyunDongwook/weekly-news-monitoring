@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.07.27 ~ 2026.08.02",
   "periodStart": "2026-07-27",
   "periodEnd": "2026-08-02",
-  "generatedAt": "2026-08-03T10:40:31+09:00",
+  "generatedAt": "2026-08-03T10:42:55+09:00",
   "articles": [
     {
       "title": "[중소기업 AI 상담 전환, 온피아①] 콜센터 커스텀 AI 8월 출시…500개사...",
@@ -32,34 +32,6 @@ window.CURRENT_WEEK = {
       "url": "https://www.sportsseoul.com/news/read/1625939?ref=naver"
     },
     {
-      "title": "[Global Security TOP 100] 황엽 인콘 대표이사 “현장이 원하는 AI 관제로...",
-      "summary": "인콘은 20여년간 축적해 온 VMS 개발 경험을 바탕으로 AI 영상분석과 IoT, 외부 이벤트를 연계한 지능형 통합관제 플랫폼을 고도화하며 현장 중심의 보안시장 변화에 대응하고 있다.Q. 인콘에 대한 소개...",
-      "source": "보안뉴스",
-      "date": "2026-08-02",
-      "url": "http://www.boannews.com/media/view.asp?idx=144888&kind=6"
-    },
-    {
-      "title": "[2026 비상벨 제품 & 솔루션 리포트] ‘보고’ ‘듣고’ ‘대응’하는 ...",
-      "summary": "장비 공급에 집중된 사업 구조도 클라우드 기반 통합관제 플랫폼과 원격 유지관리, 소프트웨어 업데이트를 포함하는 서비스형 모델로 확대할 필요가 있다.AI 기능의 활용 범위도 넓어질 전망이다. 비명과 구조 요청을...",
-      "source": "보안뉴스",
-      "date": "2026-08-02",
-      "url": "http://www.boannews.com/media/view.asp?idx=144849&kind=6"
-    },
-    {
-      "title": "마인드카페 ‘아토머스’, ISO/IEC 27001 인증 획득",
-      "summary": "아토머스는 이 플랫폼을 기반으로 700여 개 기업과 기관에 근로자지원프로그램(EAP)을 제공하며, 개인 멘탈케어를 기업복지와 조직 정신건강 관리 영역으로 확장하고 있다. 최근 기업용 멘탈케어 시장에서는 서비스의...",
-      "source": "라이브뉴스",
-      "date": "2026-08-01",
-      "url": "https://www.livesnews.com/news/article.html?no=63087"
-    },
-    {
-      "title": "“저전력 NPU로 CCTV 시장 공략”…KT, 딥엑스·세솔과 공동개발 나서",
-      "summary": "KT는 네트워크와 관제 플랫폼, 사업 개발 역량을 바탕으로 AI 엣지 박스의 상용화와 시장 확대를 담당한다. 딥엑스는 자체 개발한 NPU 칩 ‘DX-M1’과 소프트웨어 개발도구(SDK)를 제공하고, 세솔은 이를 적용한 AI...",
-      "source": "매일경제",
-      "date": "2026-07-31",
-      "url": "https://www.mk.co.kr/article/12113395"
-    },
-    {
       "title": "대한다둥이총연합회, 다자녀가정 지원 '복지몰' 구축 추진",
       "summary": "연합회는 다자녀 가정의 생활비 부담을 줄이기 위한 '다둥이 복지몰 플랫폼 구축 및 생활용품 지원사업'을 첫 번째 정책 과제로 추진한다고 최근 밝혔다. 복지몰은 기저귀와 분유, 식품, 생필품, 학용품 등 다자녀 가정이...",
       "source": "더쎈뉴스",
@@ -72,13 +44,6 @@ window.CURRENT_WEEK = {
       "source": "일요서울",
       "date": "2026-07-31",
       "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520581"
-    },
-    {
-      "title": "국경을 잇는 착취…필리핀과 한국의 콜센터 노동자들은 연결돼 있다[오...",
-      "summary": "필리핀 수도 메트로마닐라 케손시티에는 세계에서 가장 많은 BPO 업체가 밀집해 있다. BPO(Business Process Outsourcing)란 기업이 핵심 업무를 제외한 업무 프로세스를 아웃소싱하는 것을 가리킨다. 일손이 부족할 때 인력을...",
-      "source": "주간경향",
-      "date": "2026-07-31",
-      "url": "https://weekly.khan.co.kr/article/202608010600031"
     },
     {
       "title": "모바일 결제 강자 갤럭시아머니트리, '디지털 상품권 생태계' 영토 넓힌...",
@@ -102,13 +67,6 @@ window.CURRENT_WEEK = {
       "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=808303"
     },
     {
-      "title": "'장기납종신·전속설계사'···영업 전략 바꾼 동양생명",
-      "summary": "그간 보험대리점(GA) 채널을 통해 건강보험 판매에 열을 올렸지만, 이번엔 전속설계사(FC) 채널을 강화하고... 반면 그 동안 주력 판매 채널이었던 GA는 7.4% 크게 줄었다. 동양생명은 우리금융에 편입되기 전까지 GA 채널...",
-      "source": "시사저널e",
-      "date": "2026-07-30",
-      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422780"
-    },
-    {
       "title": "코나아이, '튼튼머니' 지역화폐 전환 서비스 시작",
       "summary": "스포츠 복지 포인트를 지역화폐로 사용하는 서비스가 시작됐다. 글로벌 핀테크 기업 코나아이(대표 조정일)는 지역사랑상품권 플랫폼인 경기지역화폐와 김포페이가 서울올림픽기념국민체육진흥공단의 '2026년 스포츠활동...",
       "source": "전자신문",
@@ -121,13 +79,6 @@ window.CURRENT_WEEK = {
       "source": "뉴스1",
       "date": "2026-07-29",
       "url": "https://www.news1.kr/economy/trend/6242231"
-    },
-    {
-      "title": "투자유치 반년 만에 또 모은다… 페르소나AI, 200억 규모 프리IPO 시동",
-      "summary": "AI컨택센터(AICC) 구축이 주력으로, 기업 내부망(온프레미스)에서도 구동되는 경량 생성형 AI 엔진을 갖췄다는 점이 경쟁력으로 꼽힌다. 업계에서는 페르소나AI가 국내 주요 금융기관의 AICC 구축 파트너로 자리 잡은...",
-      "source": "조선비즈",
-      "date": "2026-07-29",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/07/29/MXV44JXJGREIPPNR637L6DO74U/?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
       "title": "통신 3사, 인공지능 개발 사활…차별화 전략 통해 시장 선점",
