@@ -167,6 +167,7 @@ const SOURCE_NAME_MAP = {
     'lawissue.co.kr': '로이슈',
     'daily.hankooki.com': '데일리한국',
     'pressian.com': '프레시안',
+    'jeonmae.co.kr': '전국매일신문',
 };
 
 const EXCLUDE_URL_SUBSTR = ['msn.com'];

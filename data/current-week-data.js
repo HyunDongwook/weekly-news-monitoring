@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.08.03 ~ 2026.08.09",
   "periodStart": "2026-08-03",
   "periodEnd": "2026-08-09",
-  "generatedAt": "2026-08-10T09:16:44+09:00",
+  "generatedAt": "2026-08-10T09:35:00+09:00",
   "articles": [
     {
       "title": "휴가철 영업 절벽…보험사들, 한시적 인수 완화로 설계사 영업 독려",
@@ -135,6 +135,13 @@ window.CURRENT_WEEK = {
       "source": "정보통신신문",
       "date": "2026-08-06",
       "url": "https://www.koit.co.kr/news/articleView.html?idxno=208350"
+    },
+    {
+      "title": "현대이지웰, 서대문구에 청소년·청년 자립지원 성금 2천만 원 기탁",
+      "summary": "서대문구가 5일 구청장실에서 진행한 '㈜현대이지웰 자립준비청년 대상 지원 후원금 전달식'에서 박운기 구청장(왼쪽 두 번째)과 박종선 현대이지웰 대표이사(가운데)가 관계자들과 기념촬영을 하고 있다. 서대문구는...",
+      "source": "전국매일신문",
+      "date": "2026-08-06",
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281474"
     },
     {
       "title": "\"내가 내 무덤 팠다\"…AI 습격에 무너진 190만 필리핀 외주 시장",
