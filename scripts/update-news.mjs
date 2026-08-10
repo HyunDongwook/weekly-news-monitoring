@@ -168,6 +168,7 @@ const SOURCE_NAME_MAP = {
     'daily.hankooki.com': '데일리한국',
     'pressian.com': '프레시안',
     'jeonmae.co.kr': '전국매일신문',
+    'aitimes.com': 'AI타임스',
 };
 
 const EXCLUDE_URL_SUBSTR = ['msn.com'];

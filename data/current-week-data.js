@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.08.03 ~ 2026.08.09",
   "periodStart": "2026-08-03",
   "periodEnd": "2026-08-09",
-  "generatedAt": "2026-08-10T10:45:00+09:00",
+  "generatedAt": "2026-08-10T10:55:00+09:00",
   "articles": [
     {
       "title": "1200%룰 GA 설계사 적용 한 달… \"지원금보다 성장\"",
@@ -79,6 +79,13 @@ window.CURRENT_WEEK = {
       "source": "시사오늘",
       "date": "2026-08-04",
       "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=203235"
+    },
+    {
+      "title": "마인드로직, AI 모델 골라쓰는 '팩트챗'으로 누적 매출 55억 달성",
+      "summary": "김진욱 마인드로직 공동대표는 \"앞으로도 팩트챗을 지속적으로 고도화해 현장에서 쌓아온 두터운 고객 신뢰를 기반으로 B2B, B2G, B2E를 아우르는 AX 성과를 확대해 나갈 것\"이라고 말했다.",
+      "source": "AI타임스",
+      "date": "2026-08-03",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213494"
     }
   ]
 };
