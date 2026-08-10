@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.08.03 ~ 2026.08.09",
   "periodStart": "2026-08-03",
   "periodEnd": "2026-08-09",
-  "generatedAt": "2026-08-10T10:05:00+09:00",
+  "generatedAt": "2026-08-10T10:20:00+09:00",
   "articles": [
     {
       "title": "휴가철 영업 절벽…보험사들, 한시적 인수 완화로 설계사 영업 독려",
@@ -60,20 +60,6 @@ window.CURRENT_WEEK = {
       "url": "https://www.pressian.com/pages/articles/2026080610473276792?utm_source=naver&utm_medium=search"
     },
     {
-      "title": "\"앱에 계좌 연동하면 5% 적립\"…외식업계, 자사앱 '단골 잡기' 경쟁",
-      "summary": "상미당홀딩스, 간편결제 서비스 도입…앱 통한 결제 규모 확대 9일 유통업계에 따르면 상미당홀딩스 계열 통합멤버십 해피포인트는 다음 달 1일부터 적립 체계를 전면 개편한다. 앱에 은행 계좌를 연동해 결제하는 신규...",
-      "source": "뉴스1",
-      "date": "2026-08-08",
-      "url": "https://www.news1.kr/industry/distribution/6250142"
-    },
-    {
-      "title": "'모니모'는 일상, '월렛'은 해외… 삼성 결제 영토 넓힌다",
-      "summary": "모니모페이는 삼성금융네트웍스 통합 앱인 모니모에서 제공하는 간편결제 서비스다. 최근 마그네틱 보안 전송(MST) 기능을 도입하면서 온라인뿐 아니라 오프라인 가맹점에서도 실물 카드 없이 결제할 수 있게 됐다....",
-      "source": "IT조선",
-      "date": "2026-08-08",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167555"
-    },
-    {
       "title": "'기업복지 플랫폼' 베네피아, 멘탈케어 'EAP 솔루션' 출시... '웰니스 복...",
       "summary": "SK엠앤서비스가 기업 복지 솔루션인 ‘베네피아’를 통해 기업 및 공공 부문 임직원을 위한 B2B 전문 근로자 지원 프로그램(EAP)을 새롭게 선보였다. 이번 EAP 솔루션 도입은 기존의 선택적 복지포인트 배정 및 사용에...",
       "source": "파이낸셜뉴스",
@@ -114,13 +100,6 @@ window.CURRENT_WEEK = {
       "source": "전국매일신문",
       "date": "2026-08-06",
       "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281474"
-    },
-    {
-      "title": "\"내가 내 무덤 팠다\"…AI 습격에 무너진 190만 필리핀 외주 시장",
-      "summary": "5일 영국 BBC 방송은 AI 시스템의 전면 도입으로 필리핀의 핵심 동력인 정보기술 및 업무위탁(BPO) 산업 노동자들이 일자리를 잃을 위험에 노출됐다고 보도했다. 2000년대 초반부터 필리핀은 높은 영어 소통 능력을...",
-      "source": "뉴시스",
-      "date": "2026-08-05",
-      "url": "https://www.newsis.com/view/NISX20260805_0003737750"
     },
     {
       "title": "현대이지웰, 소상공인 전용 복지몰 연다…70만명에 '대기업 복지' 제공",
