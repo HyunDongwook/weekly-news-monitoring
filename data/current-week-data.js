@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.08.03 ~ 2026.08.09",
   "periodStart": "2026-08-03",
   "periodEnd": "2026-08-09",
-  "generatedAt": "2026-08-10T10:35:00+09:00",
+  "generatedAt": "2026-08-10T10:40:00+09:00",
   "articles": [
     {
       "title": "1200%룰 GA 설계사 적용 한 달… \"지원금보다 성장\"",
@@ -16,13 +16,6 @@ window.CURRENT_WEEK = {
       "source": "한국보험신문",
       "date": "2026-08-09",
       "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92142"
-    },
-    {
-      "title": "[RMI보험경영연구소의 보험이슈 톡톡] 보험유통채널 선진화, 'GA 특화형...",
-      "summary": "그러나 2010년대 초반 법인보험대리점(GA) 채널 모델이 확산하기 시작해 2015년을 기점으로 전속 채널을 추월했고, 2026년 현재는 전체 시장의 60% 이상을 장악하고 있다. 보험 영업환경이 GA 중심으로 재편되며 외형적인 양적...",
-      "source": "한국보험신문",
-      "date": "2026-08-09",
-      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92123"
     },
     {
       "title": "생보사 판매채널 구도 변화…전속 설계사 영향력 감소",
