@@ -10,8 +10,8 @@
   "periodLabel": "2026.08.03 ~ 2026.08.09",
   "periodStart": "2026-08-03",
   "periodEnd": "2026-08-09",
-  "generatedAt": "2026-08-10T09:05:38+09:00",
-  "candidateCount": 334,
+  "generatedAt": "2026-08-10T14:09:07+09:00",
+  "candidateCount": 292,
   "candidates": [
     {
       "title": "[인터뷰] \"한국 유아산업 생태계 조성, 함께 세계로 나가는 길 만들겠다...",
@@ -326,22 +326,6 @@
       "matchedKeyword": "복지플랫폼"
     },
     {
-      "title": "통신3사 성장엔진 재편…'AI 데이터센터' 존재감 커진다",
-      "summary": "금융권에서는 상반기 22건의 AX 사업을 수주해 건수 기준 전년 대비 250% 성장했고, 5대 시중은행 중 4곳의 AI 컨택센터(AICC)를 운영 중이다. 투자 규모가 커지면서 전력과 부지 확보를 둘러싼 정책 지원 요구도...",
-      "source": "news.tf.co.kr",
-      "date": "2026-08-09",
-      "url": "https://news.tf.co.kr/read/economy/2351751.htm",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "[중소기업 AI 상담 전환, 온피아②] 자체 AI·서버 기술로 중기 AICC 문턱...",
-      "summary": "인공지능 컨택센터(AICC)는 음성인식과 언어모델, 정보 검색 기술을 전화 상담에 적용해 반복 업무를 자동화하고, 상담원이 판단이 필요한 업무에 집중하도록 돕는 시스템이다. 다만 기존 구축형 AICC는 장비와 서버...",
-      "source": "전자신문",
-      "date": "2026-08-09",
-      "url": "https://www.etnews.com/20260807000066",
-      "matchedKeyword": "AICC"
-    },
-    {
       "title": "롯데렌터카, 허츠 손잡고 해외 영토 확장…8개국 63개 도시 진출",
       "summary": "특히 해외에서 사고나 차량 고장 등 돌발 상황이 발생했을 때 언어 문제로 대응에 어려움을 겪는 이용자를 위해 24시간 한국어 고객센터를 운영한다. 전화뿐 아니라 채팅 상담도 제공한다. 사고가 발생하면 카카오톡이나...",
       "source": "pointdaily.co.kr",
@@ -582,22 +566,6 @@
       "matchedKeyword": "결제 서비스"
     },
     {
-      "title": "딜리셔스·케이앤에스아이앤씨 상장[증시캘린더]",
-      "summary": "의류 도매상과 소매상을 연결하는 거래 플랫폼을 기반으로 결제 서비스 ‘신상페이’, 물류 서비스 ‘신상배송’, 광고 서비스 ‘신상애드’, 구독형 멤버십 등을 운영하며 거래·물류·결제 전 과정을 통합...",
-      "source": "이데일리",
-      "date": "2026-08-09",
-      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01184086645545680",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "\"환전 없이 자국 앱으로 쓱\"… GLN 인터내셔널, 서울페이 연동으로 국내...",
-      "summary": "글로벌 핀테크 전용 결제 네트워크 기업 GLN 인터내셔널(GLN)이 방한 외국인 관광객의 결제 편의성을 획기적으로 높이기 위해 국내 QR결제 서비스 영토를 대폭 확장한다고 9일 밝혔다. GLN은 서울페이 공식 운영 사업자인...",
-      "source": "스마트경제",
-      "date": "2026-08-09",
-      "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=128015",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
       "title": "[집중분석] 보험 K-ICS 비율의 역설…해결책은?",
       "summary": "여기에 GA(법인보험대리점) 등 판매채널에 선지급하는 신계약비(모집수수료) 부담도 겹친다. 관련 이익인 CSM은 수년에 걸쳐 나눠 인식되는 반면, 수수료는 계약 체결 시점에 현금으로 즉시 빠져나가기 때문에 신계약이...",
       "source": "globalepic.co.kr",
@@ -608,7 +576,7 @@
     {
       "title": "휴가철 영업 절벽…보험사들, 한시적 인수 완화로 설계사 영업 독려",
       "summary": "8월까지는 고지평가만으로 가입할 수 있으니 병원에 갈 일도 채혈할 일도 없다는 점을 이 회사는 GA(법인보험대리점) 채널에 강조하고 있다. 미래에셋생명은 간편건강보험에서 암과 뇌·심장을 나눠 심사하는...",
-      "source": "raonnews.com",
+      "source": "라온신문",
       "date": "2026-08-09",
       "url": "https://www.raonnews.com/news/article.html?no=60155",
       "matchedKeyword": "GA"
@@ -646,11 +614,11 @@
       "matchedKeyword": "GA"
     },
     {
-      "title": "1200%룰 GA 설계사 적용 한 달… \"지원금보다 성장\"",
-      "summary": "지난달부터 초년도 월납보험료의 1200% 이내로 모집수수료를 지급하는 이른바 '1200%룰(Rule)'이 법인보험대리점(GA)에 적용되면서 GA 설계사 이직 시장 분위기도 바뀌고 있다. 거액의 선지급 정착지원금을 좇아 회사를...",
+      "title": "[2026 GA 우수인증설계사 ― 축하 인사] 최병채 인카금융서비스 대표",
+      "summary": "2026년 GA 우수인증설계사 및 GA 명장으로 선정되신 모든 분들께 진심으로 축하의 말씀을 드립니다. 최근 보험영업 환경은 예전보다 훨씬 더 높은 전문성과 책임감을 요구하고 있습니다. 고객의 눈높이는 높아지고...",
       "source": "한국보험신문",
       "date": "2026-08-09",
-      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92142",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92152",
       "matchedKeyword": "GA"
     },
     {
@@ -662,14 +630,6 @@
       "matchedKeyword": "GA"
     },
     {
-      "title": "[2026 GA 우수인증설계사 ― 축하 인사] 김종선 글로벌금융판매 대표",
-      "summary": "대한민국 보험산업의 패러다임을 바꾸며 당당히 시장을 선도하고 있는 글로벌금융판매 가족 여러분, 그리고 오늘 'GA 우수인증설계사'와 'GA 명장'의 자리에 오르신 자랑스러운 여러분, 축하합니다! 보험은 미래를 대비하는...",
-      "source": "한국보험신문",
-      "date": "2026-08-09",
-      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92179",
-      "matchedKeyword": "GA"
-    },
-    {
       "title": "[RMI보험경영연구소의 보험이슈 톡톡] 보험유통채널 선진화, 'GA 특화형...",
       "summary": "그러나 2010년대 초반 법인보험대리점(GA) 채널 모델이 확산하기 시작해 2015년을 기점으로 전속 채널을 추월했고, 2026년 현재는 전체 시장의 60% 이상을 장악하고 있다. 보험 영업환경이 GA 중심으로 재편되며 외형적인 양적...",
       "source": "한국보험신문",
@@ -678,11 +638,19 @@
       "matchedKeyword": "GA"
     },
     {
-      "title": "[2026 GA 우수인증설계사 ― 축하 인사] 최병채 인카금융서비스 대표",
-      "summary": "2026년 GA 우수인증설계사 및 GA 명장으로 선정되신 모든 분들께 진심으로 축하의 말씀을 드립니다. 최근 보험영업 환경은 예전보다 훨씬 더 높은 전문성과 책임감을 요구하고 있습니다. 고객의 눈높이는 높아지고...",
+      "title": "[2026 GA 우수인증설계사 ― 축하 인사] 김종선 글로벌금융판매 대표",
+      "summary": "대한민국 보험산업의 패러다임을 바꾸며 당당히 시장을 선도하고 있는 글로벌금융판매 가족 여러분, 그리고 오늘 'GA 우수인증설계사'와 'GA 명장'의 자리에 오르신 자랑스러운 여러분, 축하합니다! 보험은 미래를 대비하는...",
       "source": "한국보험신문",
       "date": "2026-08-09",
-      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92152",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92179",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "1200%룰 GA 설계사 적용 한 달… \"지원금보다 성장\"",
+      "summary": "지난달부터 초년도 월납보험료의 1200% 이내로 모집수수료를 지급하는 이른바 '1200%룰(Rule)'이 법인보험대리점(GA)에 적용되면서 GA 설계사 이직 시장 분위기도 바뀌고 있다. 거액의 선지급 정착지원금을 좇아 회사를...",
+      "source": "한국보험신문",
+      "date": "2026-08-09",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92142",
       "matchedKeyword": "GA"
     },
     {
@@ -720,7 +688,7 @@
     {
       "title": "교육서 시작 방판업계 40년 '맞수', 상조업서도 1·2위 경쟁 '후끈'",
       "summary": "윤석금 웅진그룹 회장, 상조업 1위社 인수해 '웅진프리드라이프'로 탈바꿈 4월초 업계 최초 선수금 3조 돌파... ' 한때 같은 교육회사에서 한솥밥을 먹었던 윤석금 웅진그룹 회장과 장평순 교원그룹 회장이 상조업계에서...",
-      "source": "metroseoul.co.kr",
+      "source": "메트로신문",
       "date": "2026-08-09",
       "url": "http://www.metroseoul.co.kr/article/20260809500084",
       "matchedKeyword": "상조업"
@@ -790,6 +758,14 @@
       "matchedKeyword": "멤버십"
     },
     {
+      "title": "바디프랜드, 건기식 시장 진출…제품 6종 출시",
+      "summary": "제품은 바디프랜드 공식 온라인몰과 멤버십 앱을 중심으로 판매한다. 향후 생활습관과 건강 관심사에 따른 맞춤 큐레이션을 마련하고, 헬스케어로봇의 마사지 프로그램과 건강기능식품을 연계한 건강관리 구독...",
+      "source": "이데일리",
+      "date": "2026-08-09",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02194326645546008",
+      "matchedKeyword": "멤버십"
+    },
+    {
       "title": "하나카드, MG새마을금고 PLCC에 트래블로그 결합",
       "summary": "국내에서는 아파트관리비와 전기·가스요금 등 생활요금을 비롯해 넷플릭스·디즈니플러스·티빙·유튜브프리미엄 등 온라인동영상서비스(OTT), 쿠팡와우·네이버플러스 등 디지털 멤버십 이용금액의 10%를 청구...",
       "source": "프레스나인",
@@ -800,7 +776,7 @@
     {
       "title": "바디프랜드, 건강기능식품 브랜드 론칭...신제품 3종 출시",
       "summary": "제품은 공식 온라인몰과 멤버십 앱을 통해 판매되며, 향후 헬스케어로봇 마사지 프로그램과 건기식을 연계한 구독 서비스도 선보일 계획이다. 바디프랜드 관계자는 \"바디프랜드 헬스케어는 헬스케어로봇으로 몸을...",
-      "source": "daily.hankooki.com",
+      "source": "데일리한국",
       "date": "2026-08-09",
       "url": "https://daily.hankooki.com/news/articleView.html?idxno=1394064",
       "matchedKeyword": "멤버십"
@@ -814,19 +790,19 @@
       "matchedKeyword": "멤버십"
     },
     {
-      "title": "린클, 블루밍데이즈 특가 라이브' 진행…최대 적립 7% 혜택",
-      "summary": "특히 기본 적립과 멤버십·라운지·구매 적립에 앱 구매 적립 1%까지 더해 최대 7% 적립이 가능하며 쿠폰과 적립 혜택을 모두 적용하면 체감 할인률은 최대 49%에 이른다고 한다. 시청 고객 대상 이벤트도 마련됐다. 구매...",
-      "source": "비즈월드",
-      "date": "2026-08-09",
-      "url": "http://www.bizwnews.com/news/articleView.html?idxno=142757",
-      "matchedKeyword": "멤버십"
-    },
-    {
       "title": "한국마사회 영남지역본부, 부산·경남 소셜 임팩트 기업 육성 협약",
       "summary": "신청 자격은 부산·경남 지역 내 소셜캠퍼스 온 멤버십 기업 또는 한국사회적기업진흥원 사회적기업 창업지원사업 참여팀이다. 한국마사회 영남지역본부 관계자는 “이번에 지원되는 기부금이 부산·경남의 혁신적인...",
       "source": "dnews.co.kr",
       "date": "2026-08-09",
       "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608082330102230269",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "린클, 블루밍데이즈 특가 라이브' 진행…최대 적립 7% 혜택",
+      "summary": "특히 기본 적립과 멤버십·라운지·구매 적립에 앱 구매 적립 1%까지 더해 최대 7% 적립이 가능하며 쿠폰과 적립 혜택을 모두 적용하면 체감 할인률은 최대 49%에 이른다고 한다. 시청 고객 대상 이벤트도 마련됐다. 구매...",
+      "source": "비즈월드",
+      "date": "2026-08-09",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=142757",
       "matchedKeyword": "멤버십"
     },
     {
@@ -864,7 +840,7 @@
     {
       "title": "삼성전자, 삼성 월렛에 코레일 승차권 담는다…'종이 없는 승차권' 출시",
       "summary": "이번 서비스는 삼성 월렛의 활용 범위가 결제와 신분증, 멤버십 등을 넘어 철도 이용과 여행 일정 관리까지 확대된다는 데 의미가 있다. 승차권 구매부터 보관, 탑승 알림, 환불까지 하나의 모바일 지갑 안에서 처리할 수...",
-      "source": "econonews.co.kr",
+      "source": "이코노뉴스",
       "date": "2026-08-09",
       "url": "http://www.econonews.co.kr/news/articleView.html?idxno=442573",
       "matchedKeyword": "멤버십"
@@ -918,14 +894,6 @@
       "matchedKeyword": "멤버십"
     },
     {
-      "title": "네이버가 잘해온 것, 잘하려는 것, 잘하고 싶은 것",
-      "summary": "쇼핑의 성장에는 멤버십도 한몫합니다. 최 대표는 \"앱 구매 고객의 80%가 멤버십 이용자로 이어지고 있으며, 무료 배송과 무료 반품 혜택 강화 이후 N배송 멤버십 고객의 구매 빈도는 약 29% 증가했고 거래 비중도 70%를...",
-      "source": "byline.network",
-      "date": "2026-08-09",
-      "url": "https://byline.network/?p=9004111222614589",
-      "matchedKeyword": "멤버십"
-    },
-    {
       "title": "이상일 용인특례시장, 다낭시 초청으로 한국-베트남 페스티벌 주빈 참석",
       "summary": "이와 함께 조아용 사회관계망서비스(SNS) 계정 구독 이벤트를 비롯한 각종 행사도 진행했다. 이상일 시장은 7일 저녁 한국-베트남 페스티벌 개막식 참석을 끝으로 출장 일정을 마치고 8일 귀국길에 올랐다.",
       "source": "매일일보",
@@ -944,7 +912,7 @@
     {
       "title": "'겨울왕국' 한국 초연 13일 개막…19일 신규 티켓 나온다",
       "summary": "샤롯데씨어터 회원과 '겨울왕국' 뉴스레터 구독자를 대상으로 하는 선예매는 8월18일 진행될 예정이다. 국내에서 1000만 관객을 모은 동명 애니메이션을 무대로 옮겼다. 한국 초연에서는 오디션을 통해 선발된 탁월한...",
-      "source": "fnnews.com",
+      "source": "파이낸셜뉴스",
       "date": "2026-08-09",
       "url": "http://www.fnnews.com/news/202608100842531123",
       "matchedKeyword": "구독"
@@ -995,14 +963,6 @@
       "source": "financialpost.co.kr",
       "date": "2026-08-09",
       "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=269704",
-      "matchedKeyword": "구독"
-    },
-    {
-      "title": "강소연, 남산·롯데타워 한눈에…'현실판 천국도' 일상 공개",
-      "summary": "2019년부터 이어 온 채널에는 운동법과 체력 관리 노하우, 촬영 현장 이야기 등이 담겨 있어 국내외 구독자들의 관심을 모으고 있다. 한편, 최근 강소연은 웹드라마 '낮져밤이 오피스'를 통해 직장 생활과 로맨스를 담은...",
-      "source": "topstarnews.net",
-      "date": "2026-08-09",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16159297",
       "matchedKeyword": "구독"
     },
     {
@@ -1094,19 +1054,19 @@
       "matchedKeyword": "시니어"
     },
     {
+      "title": "[신간] \"이래도 웬수, 저래두 웬수\" 그러나 웬수 안 되는법",
+      "summary": "'끝끝내 엄마 육아연구소'를 비롯해 '3060시니어연구소', 'AI책쓰기대학', '코미희망장학회'를 이끌고 있으며 한국디지털문인협회 교육분과위원장으로도 활동 중인 칼럼니스트 겸 수필가다. 인생의 후반기에도 이 모든 일을...",
+      "source": "일요서울",
+      "date": "2026-08-09",
+      "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=521016",
+      "matchedKeyword": "시니어"
+    },
+    {
       "title": "‘2026 자율주행모빌리티산업전’ 25일 코엑스 개막…엔비디아ㆍ현대차...",
       "summary": "기조연설은 CES 2026에서 공개된 엔비디아 자율주행 AI 플랫폼 ‘알파마요’ 핵심 개발자인 마르코 파보네 스탠퍼드대 교수 겸 엔비디아 시니어 디렉터가 맡는다. 산업통상부, 국토교통부 등 정부ㆍ공공기관도 참여해...",
       "source": "dnews.co.kr",
       "date": "2026-08-09",
       "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608100826429020338",
-      "matchedKeyword": "시니어"
-    },
-    {
-      "title": "[신간] \"이래도 웬수, 저래도 웬수\" 그러나 웬수 안 되는법",
-      "summary": "'끝끝내 엄마 육아연구소'를 비롯해 '3060시니어연구소', 'AI책쓰기대학', '코미희망장학회'를 이끌고 있으며 한국디지털문인협회 교육분과위원장으로도 활동 중인 칼럼니스트 겸 수필가다. 인생의 후반기에도 이 모든 일을...",
-      "source": "일요서울",
-      "date": "2026-08-09",
-      "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=521016",
       "matchedKeyword": "시니어"
     },
     {
@@ -1182,6 +1142,14 @@
       "matchedKeyword": "시니어"
     },
     {
+      "title": "“경력직 뽑는데, 어디서 경력 쌓나요?”…지역 사회가 일 경험 제공",
+      "summary": "\"] 어르신들의 사회 활동을 돕는 시니어클럽에서도 청년 인턴이 활약하고 있습니다. 폭염 속, 어르신들의... [남현욱/충주문화시니어클럽 인턴 : \"어르신들의 고충이나 노고, 어떤 일을 하시는지 배울 수 있게 돼서 되게...",
+      "source": "news.kbs.co.kr",
+      "date": "2026-08-09",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632456&ref=A",
+      "matchedKeyword": "시니어"
+    },
+    {
       "title": "도봉구 \"어르신들 더 촘촘히 살펴요\"",
       "summary": "구 복지정책과에서 대상자 관리와 서비스 연계를 담당하고 도봉시니어클럽이 현장 운영을 수행한다. 지원단은 대상 가정을 방문해 서비스 이용 현황과 건강 및 생활 상태 변화 등을 확인한 뒤 결과를 구글폼에 입력...",
       "source": "ebn.co.kr",
@@ -1216,7 +1184,7 @@
     {
       "title": "요양보호사 부족? 해결책은 현장에 있어요[안진이의 일자리 심층대담]",
       "summary": "고현종(종로시니어클럽 관장, 이하 '고') - 시설 근무가 아니라 재가 방식으로 일하는 요양보호사 선생님들의 경우 패턴이 조금 다릅니다. 재가는 방문 요양이니까, 보통 아침에 출근하면 빨래와 청소부터 시작합니다....",
-      "source": "pressian.com",
+      "source": "프레시안",
       "date": "2026-08-09",
       "url": "https://www.pressian.com/pages/articles/2026080610473276792?utm_source=naver&utm_medium=search",
       "matchedKeyword": "시니어"
@@ -1227,22 +1195,6 @@
       "source": "소비자가만드는신문",
       "date": "2026-08-09",
       "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=761023",
-      "matchedKeyword": "시니어"
-    },
-    {
-      "title": "엑소 찬열 이대 꼬마빌딩, 상권 폭망에도 신의 한 수, 왜?",
-      "summary": "☞KB·종근당도 뛰어든 시니어 하우징, 100% 성공 노하우 배우기 최근 이대 및 신촌 일대 상권은 패션·뷰티 업종의 불황과 대학가 유동인구 변화 등으로 공실률이 커지며 상권 침체 우려가 이어져 왔다. 그러나 찬열이...",
-      "source": "realty.chosun.com",
-      "date": "2026-08-09",
-      "url": "https://realty.chosun.com/site/data/html_dir/2026/08/07/2026080702063.html",
-      "matchedKeyword": "시니어"
-    },
-    {
-      "title": "상속의 판을 바꾼 '해결사'…세금·신탁·기업 승계 전문가 7인",
-      "summary": "현재는 법무법인 화우에서 신탁과 상속·후견, 기업 승계, 유산 정리, 시니어 비즈니스 분야를 중심으로 종합... 신탁과 금융·법률에 대한 전문성을 바탕으로 글로벌 상속과 부동산 관리·처분신탁, 시니어타운 등 시니어...",
-      "source": "magazine.hankyung.com",
-      "date": "2026-08-09",
-      "url": "https://magazine.hankyung.com/money/article/202607169738c",
       "matchedKeyword": "시니어"
     },
     {
@@ -1262,11 +1214,19 @@
       "matchedKeyword": "시니어"
     },
     {
-      "title": "[인터뷰] ‘더 글로리’ 사건 AI에 맡겼더니… “연진이 진술, 신빙성 낮...",
-      "summary": "장 대표는 “다수의 민형사 사건을 수행한 시니어 변호사들의 실무 경험을 개발 과정에 반영했다”고... 개발 과정에는 민·형사 사건 경험이 많은 시니어 변호사들의 실무 노하우도 반영했다.” ―수만 페이지의 기록을...",
-      "source": "조선비즈",
+      "title": "상속의 판을 바꾼 '해결사'…세금·신탁·기업 승계 전문가 7인",
+      "summary": "현재는 법무법인 화우에서 신탁과 상속·후견, 기업 승계, 유산 정리, 시니어 비즈니스 분야를 중심으로 종합... 신탁과 금융·법률에 대한 전문성을 바탕으로 글로벌 상속과 부동산 관리·처분신탁, 시니어타운 등 시니어...",
+      "source": "magazine.hankyung.com",
       "date": "2026-08-09",
-      "url": "https://biz.chosun.com/topics/law_firm/2026/08/10/B576VHNDEBA2DAJQJMREW7TJ64/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "url": "https://magazine.hankyung.com/money/article/202607169738c",
+      "matchedKeyword": "시니어"
+    },
+    {
+      "title": "엑소 찬열 이대 꼬마빌딩, 상권 폭망에도 신의 한 수, 왜?",
+      "summary": "☞KB·종근당도 뛰어든 시니어 하우징, 100% 성공 노하우 배우기 최근 이대 및 신촌 일대 상권은 패션·뷰티 업종의 불황과 대학가 유동인구 변화 등으로 공실률이 커지며 상권 침체 우려가 이어져 왔다. 그러나 찬열이...",
+      "source": "realty.chosun.com",
+      "date": "2026-08-09",
+      "url": "https://realty.chosun.com/site/data/html_dir/2026/08/07/2026080702063.html",
       "matchedKeyword": "시니어"
     },
     {
@@ -1334,78 +1294,6 @@
       "matchedKeyword": "고객센터"
     },
     {
-      "title": "GLN인터내셔널, QR결제 가맹점 150만 곳 확보…외국인 간편결제 돕는다",
-      "summary": "GLN 인터내셔널이 방한 외국인 관광객의 편리한 한국여행을 위해 QR결제 서비스를 확장하고 있다고 밝혔다. GLN 인터내셔널은 서울페이 운영 사업자인 쿠콘과의 제휴로 서울지역 소상공인 가맹점 50만 곳을 추가 확보해...",
-      "source": "더퍼블릭",
-      "date": "2026-08-08",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=314277",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "\"앱에 계좌 연동하면 5% 적립\"…외식업계, 자사앱 '단골 잡기' 경쟁",
-      "summary": "상미당홀딩스, 간편결제 서비스 도입…앱 통한 결제 규모 확대 9일 유통업계에 따르면 상미당홀딩스 계열 통합멤버십 해피포인트는 다음 달 1일부터 적립 체계를 전면 개편한다. 앱에 은행 계좌를 연동해 결제하는 신규...",
-      "source": "뉴스1",
-      "date": "2026-08-08",
-      "url": "https://www.news1.kr/industry/distribution/6250142",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "'모니모'는 일상, '월렛'은 해외… 삼성 결제 영토 넓힌다",
-      "summary": "모니모페이는 삼성금융네트웍스 통합 앱인 모니모에서 제공하는 간편결제 서비스다. 최근 마그네틱 보안 전송(MST) 기능을 도입하면서 온라인뿐 아니라 오프라인 가맹점에서도 실물 카드 없이 결제할 수 있게 됐다....",
-      "source": "IT조선",
-      "date": "2026-08-08",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167555",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "\"기획전 넘어 상설 입점으로\"…전통시장 품는 유통업계",
-      "summary": "11번가는 지난 6월 말 온누리상품권 결제 서비스를 도입하고 전국 전통시장과 골목상권 온누리상품권 가맹점 약 1400곳이 참여하는 '11번가 온누리마켓'을 운영 중이다. 현재 약 18만 개 상품을 판매하고 있으며 온누리상품권...",
-      "source": "뉴스1",
-      "date": "2026-08-08",
-      "url": "https://www.news1.kr/industry/distribution/6248766",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "웰스파고, 2026년 가을 토큰화 예금 출시 계획",
-      "summary": "앞서 JP모건도 기관 대상 블록체인 결제 서비스를 확대했으며, 주요 금융기관들도 유사한 상품과 네트워크 개발에 나서고 있다. 오데일리는 토큰화 예금 도입이 회계 처리, 규제 기준, 네트워크 간 상호운용성에 따라...",
-      "source": "tokenpost.kr",
-      "date": "2026-08-08",
-      "url": "https://www.tokenpost.kr/news/breaking/387034",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "카카오, 2분기 영업익 컨센서스 상회…광고·페이·커머스 동반 성장",
-      "summary": "카카오페이는 결제 서비스를 넘어 금융과 증권 등으로 사업 영역을 넓히면서 매출 기반을 확대하고 있다. 이용자가 늘어나고 금융 서비스 이용이 증가하면서 플랫폼 사업의 새로운 성장축으로 자리 잡는 모습이다....",
-      "source": "핀포인트뉴스",
-      "date": "2026-08-08",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475501",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "카카오 영업익 2770억, 예상 웃돌았다…톡비즈·페이 동반 질주",
-      "summary": "결제 서비스를 넘어 금융과 투자 등으로 사업 영역을 확대하면서 플랫폼 기타 사업의 외형 성장에 힘을 보탰다. 카카오페이의 성장은 카카오가 광고 외에도 금융을 새로운 수익원으로 키우고 있다는 점에서 의미가 있다....",
-      "source": "핀포인트뉴스",
-      "date": "2026-08-08",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475504",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "미·영·EU·홍콩, 국경 간 스테이블코인 추적·동결 규칙 구체화",
-      "summary": "소매 결제에 쓰이는 경우에는 결제서비스 규정이 적용된다. 적용 대상은 2027년 10월 25일 이후 인가를 받은 사업자다. 영란은행과 FCA는 재무부가 2009년 은행법에 따라 '시스템적으로 중요한' 발행사로 분류한 사업자를...",
-      "source": "digitaltoday.co.kr",
-      "date": "2026-08-08",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691250",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "\"방한 외국인들, QR결제 쓰세요\" GLN인터내셔널, 서울페이 50만 가맹점 추...",
-      "summary": "GLN인터내셔널은 방한 외국인 관광객의 결제 편의성 강화를 위해 QR결제 서비스 네트워크를 대폭 확장했다고 밝혔다. 쿠콘과의 협력을 통해 서울페이 운영 사업자가 서울지역 소상공인 가맹점 50만 곳을 신규로 추가...",
-      "source": "아시아에이",
-      "date": "2026-08-08",
-      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=258009",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
       "title": "깃허브 코파일럿, /plan·/autopilot 슬래시 명령으로 에이전트 기능 확장",
       "summary": "출시(GA) 소식이다. 여기에 더해 깃허브 코파일럿 앱에는 /plan, /autopilot 같은 슬래시 명령어들이 새로... 깃허브 코파일럿 앱은 마이크로소프트 빌드(Microsoft Build) 2026에서 처음 소개된 뒤 2026년 6월 정식 출시(GA)됐다....",
       "source": "wikitree.co.kr",
@@ -1454,6 +1342,14 @@
       "matchedKeyword": "SK엠앤서비스"
     },
     {
+      "title": "'기업복지 플랫폼' 베네피아, 멘탈케어 'EAP 솔루션' 출시... '웰니스 복...",
+      "summary": "SK엠앤서비스가 기업 복지 솔루션인 ‘베네피아’를 통해 기업 및 공공 부문 임직원을 위한 B2B 전문 근로자 지원 프로그램(EAP)을 새롭게 선보였다. 이번 EAP 솔루션 도입은 기존의 선택적 복지포인트 배정 및 사용에...",
+      "source": "파이낸셜뉴스",
+      "date": "2026-08-07",
+      "url": "http://www.fnnews.com/news/202608060903246342",
+      "matchedKeyword": "SK엠앤서비스"
+    },
+    {
       "title": "베네피아, 표정·목소리 분석 AI 적용한 기업용 EAP 서비스 출시",
       "summary": "-모바일 앱 ‘클라이피’에 FAV 마음측정 기술 탑재…검사 결과별 콘텐츠 연계 -부산시교육청 교직원 대상 운영…기업·공공기관으로 서비스 확대 추진 SK엠앤서비스가 운영하는 선택적 복지 플랫폼 베네피아가 표정과...",
       "source": "이코노미스트",
@@ -1462,27 +1358,11 @@
       "matchedKeyword": "SK엠앤서비스"
     },
     {
-      "title": "'기업복지 플랫폼' 베네피아, 멘탈케어 'EAP 솔루션' 출시... '웰니스 복...",
-      "summary": "SK엠앤서비스가 기업 복지 솔루션인 ‘베네피아’를 통해 기업 및 공공 부문 임직원을 위한 B2B 전문 근로자 지원 프로그램(EAP)을 새롭게 선보였다. 이번 EAP 솔루션 도입은 기존의 선택적 복지포인트 배정 및 사용에...",
-      "source": "fnnews.com",
-      "date": "2026-08-07",
-      "url": "http://www.fnnews.com/news/202608060903246342",
-      "matchedKeyword": "SK엠앤서비스"
-    },
-    {
       "title": "복지플랫폼 '베네피아', EAP 도입…'웰니스 복지'로 영역 확장",
       "summary": "SK엠앤서비스가 운영하는 복지플랫폼 '베네피아'가 기업 및 공공기관 임직원의 정신건강 관리를 지원하는 '근로자 지원 프로그램(EAP)' 서비스를 새로 도입했다고 7일 밝혔다. 이는 쇼핑·여행 등 기존 복지서비스에 웰니스...",
       "source": "디지털데일리",
       "date": "2026-08-07",
       "url": "https://www.ddaily.co.kr/page/view/2026080617050633322",
-      "matchedKeyword": "SK엠앤서비스"
-    },
-    {
-      "title": "베네피아, 기업용 임직원 정신건강 관리 프로그램 출시",
-      "summary": "자료=베네피아 SK엠앤서비스가 운영하는 선택적 복지 플랫폼 '베네피아'가 임직원의 정신건강 관리를 지원하는 기업용 EAP(근로자 지원 프로그램) 서비스를 출시했다고 7일 밝혔다. 베네피아는 이번 서비스 출시를 통해...",
-      "source": "esgeconomy.com",
-      "date": "2026-08-07",
-      "url": "https://www.esgeconomy.com/news/articleView.html?idxno=16297",
       "matchedKeyword": "SK엠앤서비스"
     },
     {
@@ -1496,7 +1376,7 @@
     {
       "title": "베네피아, 부산시교육청에 EAP 서비스 공급",
       "summary": "SK엠앤서비스가 운영하는 복지플랫폼 베네피아가 부산광역시교육청에 EAP 서비스를 공급하고 있다고 밝혔다. EAP는 근로자 지원 프로그램으로, 직무스트레스와 심리적 어려움 등을 관리하기 위한 상담·지원 서비스다....",
-      "source": "rcast.co.kr",
+      "source": "리얼캐스트",
       "date": "2026-08-07",
       "url": "https://www.rcast.co.kr/news/articleView.html?idxno=31406",
       "matchedKeyword": "SK엠앤서비스"
@@ -1507,6 +1387,14 @@
       "source": "businesskorea.co.kr",
       "date": "2026-08-07",
       "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=274315",
+      "matchedKeyword": "SK엠앤서비스"
+    },
+    {
+      "title": "베네피아, 기업용 임직원 정신건강 관리 프로그램 출시",
+      "summary": "자료=베네피아 SK엠앤서비스가 운영하는 선택적 복지 플랫폼 '베네피아'가 임직원의 정신건강 관리를 지원하는 기업용 EAP(근로자 지원 프로그램) 서비스를 출시했다고 7일 밝혔다. 베네피아는 이번 서비스 출시를 통해...",
+      "source": "esgeconomy.com",
+      "date": "2026-08-07",
+      "url": "https://www.esgeconomy.com/news/articleView.html?idxno=16297",
       "matchedKeyword": "SK엠앤서비스"
     },
     {
@@ -1544,7 +1432,7 @@
     {
       "title": "현대이지웰, 전국상인연합회와 '소상공인 복지 증진 업무협약'...'이지웰...",
       "summary": "현대백화점그룹 계열  현대이지웰은 전국 소상공인을 위한 상생형 복지몰을 선보인다고 7일 밝혔다. 현대이지웰은 최근 전국상인연합회와 '소상공인 복지 증진을 위한 업무협약(MOU)'을 체결했다고 말했다....",
-      "source": "econonews.co.kr",
+      "source": "이코노뉴스",
       "date": "2026-08-07",
       "url": "http://www.econonews.co.kr/news/articleView.html?idxno=442493",
       "matchedKeyword": "이지웰"
@@ -1604,70 +1492,6 @@
       "date": "2026-08-07",
       "url": "http://www.domin.co.kr/news/articleView.html?idxno=1564528",
       "matchedKeyword": "복지포인트"
-    },
-    {
-      "title": "트랜스코스모스코리아, AI로 베트남 상담사 교육 효율 높였다",
-      "summary": "생성형 AI와 데이터 분석 기술을 활용해 고객사의 AI 전환을 지원하고 있다. AICC(AI Contact Center)를 비롯해 IT·마케팅·이커머스(EC)·필드서비스(FS)·교육 등 사업 영역에 맞춤형 솔루션을 제공하고 있다.",
-      "source": "프라임경제",
-      "date": "2026-08-07",
-      "url": "http://www.newsprime.co.kr/news/article.html?no=743158",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "[A 주간 서머리] 경제·산업계 \"삼성전자 '갤럭시 Z8' 사전 판매 신기록...",
-      "summary": "AICC, 스마트모빌리티 사업 등을 포함하는 솔루션 부문 수익은 중계메시징 매출이 상승하며 전년 동기 대비 6.8% 늘어난 1346억원으로 집계됐다. 한편, LG유플러스는 지난달 29일 주주가치 제고를 위해 900억원 규모...",
-      "source": "아시아에이",
-      "date": "2026-08-07",
-      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=257936",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "[신한투자증권 ESG-S] 포용금융 확대…고객과 지역사회 동반성장",
-      "summary": "일반 고객으로 구성된 'S프렌즈' 자문단을 통해 상품과 서비스에 대한 의견을 수렴하고 있으며, AI 컨택센터(AICC)를 구축해 상담 품질과 업무 효율을 높였다. 그룹 차원의 보이스피싱 공동 대응 체계를 마련해 피해...",
-      "source": "프레스나인",
-      "date": "2026-08-07",
-      "url": "http://www.press9.kr/news/articleView.html?idxno=80780",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "LG유플러스, 2분기 영업이익 역대 최대-AIDC 성장·비용 효율화 효과",
-      "summary": "인공지능 컨택센터(AICC)와 스마트모빌리티 등을 포함한 솔루션 사업 매출은 1346억원으로 6.8% 늘었고... AICC 사업도 금융권 구축형 프로젝트를 중심으로 확대하고 있다. 하반기에는 상담 어드바이저와 자동...",
-      "source": "mediafine.co.kr",
-      "date": "2026-08-07",
-      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=85921",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "BTCPay 서버, 자금 탈취 가능한 치명적 결함 실제 공격 당해…2.4.2 즉시...",
-      "summary": "중앙화된 결제 서비스와 달리 커스터디(수탁) 구조가 아니어서 특정 회사에 의존하지 않는다는 장점이 있지만, 그만큼 소프트웨어 업데이트와 보안 유지 책임이 개별 가맹점과 서버 관리자에게 넘어간다. 결함이...",
-      "source": "wikitree.co.kr",
-      "date": "2026-08-07",
-      "url": "https://www.wikitree.co.kr/articles/1151152",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "GLN, 서울페이 연계로 QR결제망 확대...방한 외국인 결제 편의 높인다",
-      "summary": "GLN인터내셔널(이하 GNL)은 방한 외국인 관광객의 국내 결제 편의를 높이기 위해 QR결제 서비스 범위를 확대했다고 밝혔다. 이번 서비스 확대는 서울페이 운영 사업자인 쿠콘과의 제휴를 통해 서울지역 소상공인 가맹점...",
-      "source": "eroun.net",
-      "date": "2026-08-07",
-      "url": "https://www.eroun.net/news/articleView.html?idxno=87286",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "[아하 인터뷰] \"흔들림 없는 '기본'이 핵심\"…하나카드의 보안 철학",
-      "summary": "실시간 결제 서비스를 제공하는 카드업 특성을 고려해 분산서비스거부(DDoS) 공격 대응 체계도 구축했다. 외부 통신사의 클린존(Clean Zone) 서비스와 금융보안원의 비상대피소, 자체 대응 체계를 연계해 서비스 연속성을...",
-      "source": "asiatime.co.kr",
-      "date": "2026-08-07",
-      "url": "https://www.asiatime.co.kr/article/20260731500076",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "홀로 연매출 14억 넘기는 '솔로 기업' 급부상 [PADO]",
-      "summary": "결제 서비스 기업 스트라이프(Stripe)의 분석에 따르면, 자사 플랫폼에서 연 매출 100만 달러(14억3000만 원) 이상을 올리는 1인 기업가가 수천 명에 달하며, 그 수가 2023년에서 2025년 사이에 2배로 늘었다. 1000만 달러(약...",
-      "source": "머니투데이",
-      "date": "2026-08-07",
-      "url": "https://www.mt.co.kr/world/2026/08/08/2026080716000127314",
-      "matchedKeyword": "결제 서비스"
     },
     {
       "title": "이민단속·복수국적·SBA 대출 “무엇이든 물어보세요”",
@@ -1736,7 +1560,7 @@
     {
       "title": "상조 선수금 11조 시대...'상조진흥법'은 4년째 표류",
       "summary": "상조업계의 선수금 규모가 11조 원을 넘어서고 가입자가 1,100만 명을 돌파한 가운데, 국회에서는 소비자... 상조업체를 사실상 '투자사'에 준하는 강도로 규율하려는 흐름이 뚜렷해지고 있는 셈이다. 여기에 더해 지난 5월...",
-      "source": "lawissue.co.kr",
+      "source": "로이슈",
       "date": "2026-08-07",
       "url": "http://www.lawissue.co.kr/view.php?ud=2026080717142533449817d053b9_12",
       "matchedKeyword": "상조업"
@@ -1872,7 +1696,7 @@
     {
       "title": "현대이지웰, 서대문구에 청소년·청년 자립지원 성금 2천만 원 기탁",
       "summary": "서대문구가 5일 구청장실에서 진행한 '㈜현대이지웰 자립준비청년 대상 지원 후원금 전달식'에서 박운기 구청장(왼쪽 두 번째)과 박종선 현대이지웰 대표이사(가운데)가 관계자들과 기념촬영을 하고 있다. 서대문구는...",
-      "source": "jeonmae.co.kr",
+      "source": "전국매일신문",
       "date": "2026-08-06",
       "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281474",
       "matchedKeyword": "이지웰"
@@ -1888,7 +1712,7 @@
     {
       "title": "서대문구, 현대이지웰과 청년자립 응원…성금 2000만원 기탁받아",
       "summary": "현대이지웰이 관내 취약계층 청소년 및 청년의 생계와 주거 안정을 돕기 위해 성금 2000만 원을 기탁했다고 6일 밝혔다. ▲ 박운기 서대문구청장(왼쪽)과 박종선 현대이지웰 대표이사가 기념촬영을 하고 있다. [사진...",
-      "source": "megaeconomy.co.kr",
+      "source": "메가경제",
       "date": "2026-08-06",
       "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571203732050",
       "matchedKeyword": "이지웰"
@@ -1948,166 +1772,6 @@
       "date": "2026-08-06",
       "url": "https://biz.heraldcorp.com/article/10833052?ref=naver",
       "matchedKeyword": "B2E"
-    },
-    {
-      "title": "광양시 김후성 팀장, 적극행정 공로로 국무총리 표창",
-      "summary": "김후성 생애복지플랫폼 팀장 전남광주 광양시(시장 박성현)는 최근 정부세종청사에서 열린 '제6회 적극행정 정부포상 시상식'에서 김후성 생애복지플랫폼 팀장이 국무총리 표창을 받았다고 6일 밝혔다. 적극행정...",
-      "source": "jeonmae.co.kr",
-      "date": "2026-08-06",
-      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281526",
-      "matchedKeyword": "복지플랫폼"
-    },
-    {
-      "title": "[기자수첩]AI 사업 질주, 희미해진 통신 본업",
-      "summary": "이 외에도 AI 컨택센터(AICC) 사업도 상담어드바이저, Auto QA 외에 LLM 기반 솔루션으로 상품 라인업을 강화해 실질적인 성과 창출에 나설 계획이다. 기업의 미래 성장과 지속적인 사업 전개를 위해 신사업 발굴은...",
-      "source": "newsway.co.kr",
-      "date": "2026-08-06",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026080617051560396",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "[CAPEX 기업진단] 삼성SDS, 실탄 '장전'⋯AI 인프라 정조준",
-      "summary": "전남 해남에 짓는 한국AI컴퓨팅센터(AICC)는 지분투자형 사업으로 정부와 중소·중견기업, 대학... 한국AICC는 오는 8월 착공에 들어가며, 구미 AI데이터센터 부지는 삼성전자로부터 넘겨받은 1공장 자리로 건물...",
-      "source": "finomy.com",
-      "date": "2026-08-06",
-      "url": "http://www.finomy.com/news/articleView.html?idxno=258733",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "LG유플러스 2분기 영업이익 3455억 '역대 최대'",
-      "summary": "AICC(AI 콘택트센터) , 스마트모빌리티 사업 등을 포함한 솔루션 부문은 6.8% 늘어난 1346억원, 기업회선 수익은 0.2% 증가한 2057억원이었다. LG유플러스는 수도권 최대 규모인 200MW급 파주 AI 데이터센터를 건설...",
-      "source": "newsinside.kr",
-      "date": "2026-08-06",
-      "url": "https://www.newsinside.kr/news/articleView.html?idxno=4899529",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "LGU+, 2분기 영업익 3445억 '역대 최대'…AIDC 성장·효율화 결실",
-      "summary": "AICC, 스마트모빌리티 사업 등을 포함하는 솔루션 부문은 중계메시징 매출이 상승하며 전년 동기 대비 6.8% 늘어난 1346억원의 매출을 올렸다. 기업회선 수익은 같은 기간 0.2% 상승한 2057억원으로 나타났다. 한편...",
-      "source": "ftoday.co.kr",
-      "date": "2026-08-06",
-      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=363160",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "LG U+ \"AIDC‧AICC 두 축으로 기업인프라 사업 강화\"",
-      "summary": "LG유플러스는 2026년 2분기 실적 발표 후 컨퍼런스콜에서 하반기 AI 데이터센터(AIDC)와 AI컨택센터(AICC)를... AICC 사업은 자사가 4000여 상담원을 둔 고객센터를 운영하며 AICC의 실제 수요자로서 축적한 현장의 요구...",
-      "source": "thelec.kr",
-      "date": "2026-08-06",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=60653",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "LGU+, 2분기 영업이익 최대…\"AI 데이터센터에 2조원 투입\"",
-      "summary": "AI 컨택센터(AICC)와 스마트모빌리티 등을 포함한 솔루션 사업 매출도 6.8% 증가했다. LG유플러스는 AI 인프라 투자를 지속 확대한다. 이날 LG유플러스는 약 2조원 규모의 AI 데이터센터 투자 계획을 공개했다....",
-      "source": "한국경제",
-      "date": "2026-08-06",
-      "url": "https://www.hankyung.com/article/2026080693381",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "LGU+ 분기 영업익 역대 최대… AIDC가 매출 견인",
-      "summary": "AI컨택센터(AICC), 스마트모빌리티 사업 등을 포함하는 솔루션 부문 매출은 중계메시징 매출이 상승하며 6.8% 늘어난 1346억원으로 나타났다. 기업회선 수익은 0.2% 상승한 2057억원이었다. LG유플러스가 건설 중인...",
-      "source": "fnnews.com",
-      "date": "2026-08-06",
-      "url": "http://www.fnnews.com/news/202608061809420722",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "LG유플러스, AI 투자 결실 본격화…기업인프라 성장세 이어간다",
-      "summary": "기업용 AICC 사업은 금융권 구축 프로젝트를 중심으로 확대하고 있으며, 하반기에는 LLM 기반 상담... SK텔레콤이 AI 데이터센터 사업을 확대하고, KT가 금융 AX 시장을 공략하는 가운데 LG유플러스는 AIDC와 AICC를...",
-      "source": "위키리크스한국",
-      "date": "2026-08-06",
-      "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190648",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "AIDC 날개 단 LGU+, 실적도 날았다",
-      "summary": "중계메시징, AI 콘택트센터(AICC) 등을 포함한 솔루션 부문은 6.8% 늘어난 1346억원이었다. 이러한 실적 현황은 LG유플러스 사업 구도에도 그대로 드러난다. 전체 매출 중 상당수가 본업인 통신에서 나오고 있으나...",
-      "source": "매일경제",
-      "date": "2026-08-06",
-      "url": "https://www.mk.co.kr/article/12119404",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "LGU+ 역대 분기 최다 영업익…AIDC에 2조원 투자(종합2보)",
-      "summary": "금융권을 중심으로 운영 중인 AICC 사업은 하반기 상담 어드바이저와 Auto QA에 더해 대규모언어모델(LLM) 기반 솔루션을 추가하며 사업 확대에 나설 계획이다. 한편, 회사는 지난달 900억원 규모의 자사주를 추가...",
-      "source": "yna.co.kr",
-      "date": "2026-08-06",
-      "url": "https://www.yna.co.kr/view/AKR20260806048201017?input=1195m",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "LGU+, AIDC에 2조원 투자…'자체 자금·수요 기반' 전략",
-      "summary": "정 담당은 \"AICC는 금융권을 중심으로 수요를 확보하고 있으며 하반기에는 LLM 기반 콜봇과 챗봇 상품 라인업을 확대할 계획\"이라고 말했다. 통신 사업에서는 요금제 구조를 단순화해 가입자 편의성과 마케팅 효율을...",
-      "source": "지디넷코리아",
-      "date": "2026-08-06",
-      "url": "https://zdnet.co.kr/view/?no=20260806153958",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "LG유플러스, 2분기 비용 효율화로 역대 분기 최대 기록 달성...AIDC 지방...",
-      "summary": "AICC 및 스마트모빌리티 등을 포함한 솔루션 부문 수익은 6.8% 증가한 1346억원, 기업회선 수익은 0.2% 증가한 2057억원으로 집계됐다. LG유플러스는 AI 인프라 수요 증가에 대응해 인프라 확장을 추진 중이다. 현재...",
-      "source": "lkp.news",
-      "date": "2026-08-06",
-      "url": "http://www.lkp.news/news/articleView.html?idxno=82718",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "통신사 매출 효자된 AIDC…LG유플, 2분기 역대 최대 실적",
-      "summary": "AICC, 스마트모빌리티 사업 등을 포함하는 솔루션 부문 수익은 전년 동기 대비 6.8% 늘어난 1346억원으로 집계됐다. 정영훈 LG유플러스 기업AI사업담당은 이날 열린 2분기 실적발표 컨퍼런스콜에서 “AIDC 시장은...",
-      "source": "이투데이",
-      "date": "2026-08-06",
-      "url": "https://www.etoday.co.kr/news/view/2611864",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "LG유플러스의 새 성장축 'AI데이터센터'",
-      "summary": "AICC(AI 컨택센터)와 스마트모빌리티 등을 포함한 솔루션 매출은 중계메시징 매출 증가에 힘입어 6.8% 늘어난 1346억원을 기록했다. 기업회선 매출은 2057억원으로 0.2% 증가하는 데 그쳤다. 본업인 통신사업과...",
-      "source": "톱데일리",
-      "date": "2026-08-06",
-      "url": "https://www.topdaily.kr/articles/111339",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "LGU+, 기업인프라 호조에 최대 영업익…외부 조달 없이 AIDC 확대(종합)",
-      "summary": "AICC와 스마트모빌리티 등을 포함한 솔루션 사업도 1346억원으로 6.8% 증가했다. 모바일 사업도 안정적인 성장세를 이어갔다. 모바일 매출은 1조6602억원으로 전년 동기 대비 0.9%, 모바일 서비스수익은 1조5959억원으로...",
-      "source": "디지털데일리",
-      "date": "2026-08-06",
-      "url": "https://www.ddaily.co.kr/page/view/2026080615552651133",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "LGU+, 2분기 영업익 3445억 달성...\"AIDC 투자, 현금흐름 내 안정적 진행...",
-      "summary": "한편, AI콘택트센터(AICC), 스마트모빌리티 등 솔루션 부문 매출은 전년 동기 대비 6.8% 증가한 1346억원으로 집계됐다. AICC 사업은 하반기 상담어드바이저, 오토 QA(Auto QA)에 더해 대형언어모델(LLM) 기반...",
-      "source": "aitimes.com",
-      "date": "2026-08-06",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=213607",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "LGU+, ‘파주 AIDC’ 완공 전인데 벌써 ‘조기 마감’…AI 인프라 구축에...",
-      "summary": "LG유플러스는 4000명 규모의 자사 고객센터에 AI 고객센터(AICC) 솔루션을 적용하며 축적한 운영 경험을 상품화하고 있다. 하반기에는 상담 어드바이저와 자동 품질관리뿐 아니라 대규모언어모델(LLM) 기반 콜봇·챗봇...",
-      "source": "ceoscoredaily.com",
-      "date": "2026-08-06",
-      "url": "https://www.ceoscoredaily.com/page/view/2026080615372895232",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "AI가 돈 벌기 시작했다…카카오는 플랫폼, LGU+는 AIDC로 실적 견인",
-      "summary": "AI 컨택센터(AICC)와 스마트모빌리티 등 솔루션 사업도 성장하며 기업인프라 부문의 실적 개선을... 금융권 중심으로 성과를 낸 AICC에는 하반기 대규모언어모델(LLM) 기반 콜봇·챗봇과 상담 지원 솔루션을 추가한다....",
-      "source": "이데일리",
-      "date": "2026-08-06",
-      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=06340246645544696",
-      "matchedKeyword": "AICC"
-    },
-    {
-      "title": "LG유플러스, AIDC 성장에 역대 최대 영업이익 경신...사업 확대 박차",
-      "summary": "AICC, 스마트모빌리티 사업 등을 포함하는 솔루션 부문 수익은 1346억원으로 전년 동기 대비 6.8% 증가했고 기업회선 수익은 같은 기간 0.2% 상승해 2057억원을 기록했다. 그외 2분기 모바일 부문 전체 수익은 가입회선...",
-      "source": "테크월드",
-      "date": "2026-08-06",
-      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=405260",
-      "matchedKeyword": "AICC"
     },
     {
       "title": "\"장례는 기억과 사랑으로 이어지는 첫 번째 순간\"",
@@ -2224,7 +1888,7 @@
     {
       "title": "DL이앤씨, AI로 현장 위험 예측…작업중지권 포상 확대",
       "summary": "DL이앤씨는 2024년 안전삐삐와 위험구간 센서, CCTV 등을 연계한 통합 스마트 안전관제 플랫폼을 개발하는 등 현장 안전체계를 고도화해 왔다. DL이앤씨 관계자는 “첨단 기술과 현장 중심의 복지를 결합해 사고를...",
-      "source": "megaeconomy.co.kr",
+      "source": "메가경제",
       "date": "2026-08-06",
       "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572842819980",
       "matchedKeyword": "관제플랫폼"
@@ -2272,7 +1936,7 @@
     {
       "title": "복지 양극화 개선…현대이지웰, 소상공인 복지몰 오픈",
       "summary": "현대이지웰이 전국 70만 소상공인을 대상으로 생활·여가·여행 혜택을 제공하고, 운영 수익 일부를 다시 소상공인 판로 지원에 투입하는 상생형 플랫폼 구축에 나선다. 복지솔루션 기업 현대이지웰은 전국상인연합회와...",
-      "source": "megaeconomy.co.kr",
+      "source": "메가경제",
       "date": "2026-08-05",
       "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065597984079107",
       "matchedKeyword": "이지웰"
@@ -2296,7 +1960,7 @@
     {
       "title": "현대이지웰, 소상공인 전용 복지몰 추진…전국상인연합회와 협약",
       "summary": "현대이지웰이 전국상인연합회와 협력해 소상공인을 위한 전용 복지몰을 선보인다. 현대이지웰은 전국상인연합회와 소상공인 복지 증진을 위한 업무협약(MOU)을 체결하고, 이달 말 상생형 복지몰 '이지웰 상생몰(가칭)'을...",
-      "source": "lawissue.co.kr",
+      "source": "로이슈",
       "date": "2026-08-05",
       "url": "http://www.lawissue.co.kr/view.php?ud=202608051143541983204ead0791_12",
       "matchedKeyword": "이지웰"
@@ -2504,7 +2168,7 @@
     {
       "title": "[보험브리핑]DB손보·NH농협손보·교보생명",
       "summary": "지난 4일 남원시 지리산유스캠프에서 열린 '제3회 프로미119 안전리더 캠프' 퇴소식에서 참가 어린이들이 임명장을 받고 기념 촬영을 하고 있다./DB손해보험 DB손해보험이 '제3회 소방관과 함께하는 프로미119 안전리더캠프...",
-      "source": "metroseoul.co.kr",
+      "source": "메트로신문",
       "date": "2026-08-05",
       "url": "http://www.metroseoul.co.kr/article/20260805500328",
       "matchedKeyword": "보험DB"
@@ -2512,7 +2176,7 @@
     {
       "title": "[기획] 상조 계약, '안전장치' 충분…'이것'만 알아도 불안감 지운다",
       "summary": "선불식 할부거래업체는 선불식 상조업체와 적립식 여행상품 판매업체를 포함하는데, 업체 대부분이 상조업을 영위한다. 이들이 받은 선수금은 미래에 상조 서비스 등의 제공을 약속하고 가입자들로부터 정기적으로 받은...",
-      "source": "daily.hankooki.com",
+      "source": "데일리한국",
       "date": "2026-08-05",
       "url": "https://daily.hankooki.com/news/articleView.html?idxno=1393066",
       "matchedKeyword": "상조업"
@@ -2640,7 +2304,7 @@
     {
       "title": "마인드로직, AI 모델 골라쓰는 '팩트챗'으로 누적 매출 55억 달성",
       "summary": "김진욱 마인드로직 공동대표는 \"앞으로도 팩트챗을 지속적으로 고도화해 현장에서 쌓아온 두터운 고객 신뢰를 기반으로 B2B, B2G, B2E를 아우르는 AX 성과를 확대해 나갈 것\"이라고 말했다.",
-      "source": "aitimes.com",
+      "source": "AI타임스",
       "date": "2026-08-03",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=213494",
       "matchedKeyword": "B2E"
