@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.08.03 ~ 2026.08.09",
   "periodStart": "2026-08-03",
   "periodEnd": "2026-08-09",
-  "generatedAt": "2026-08-10T10:40:00+09:00",
+  "generatedAt": "2026-08-10T10:45:00+09:00",
   "articles": [
     {
       "title": "1200%룰 GA 설계사 적용 한 달… \"지원금보다 성장\"",
@@ -23,13 +23,6 @@ window.CURRENT_WEEK = {
       "source": "이투데이",
       "date": "2026-08-09",
       "url": "https://www.etoday.co.kr/news/view/2610890"
-    },
-    {
-      "title": "요양보호사 부족? 해결책은 현장에 있어요[안진이의 일자리 심층대담]",
-      "summary": "고현종(종로시니어클럽 관장, 이하 '고') - 시설 근무가 아니라 재가 방식으로 일하는 요양보호사 선생님들의 경우 패턴이 조금 다릅니다. 재가는 방문 요양이니까, 보통 아침에 출근하면 빨래와 청소부터 시작합니다....",
-      "source": "프레시안",
-      "date": "2026-08-09",
-      "url": "https://www.pressian.com/pages/articles/2026080610473276792?utm_source=naver&utm_medium=search"
     },
     {
       "title": "'기업복지 플랫폼' 베네피아, 멘탈케어 'EAP 솔루션' 출시... '웰니스 복...",
