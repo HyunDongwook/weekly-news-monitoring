@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.08.03 ~ 2026.08.09",
   "periodStart": "2026-08-03",
   "periodEnd": "2026-08-09",
-  "generatedAt": "2026-08-10T10:20:00+09:00",
+  "generatedAt": "2026-08-10T10:25:00+09:00",
   "articles": [
     {
       "title": "휴가철 영업 절벽…보험사들, 한시적 인수 완화로 설계사 영업 독려",
@@ -44,13 +44,6 @@ window.CURRENT_WEEK = {
       "source": "이투데이",
       "date": "2026-08-09",
       "url": "https://www.etoday.co.kr/news/view/2610890"
-    },
-    {
-      "title": "[중소기업 AI 상담 전환, 온피아②] 자체 AI·서버 기술로 중기 AICC 문턱...",
-      "summary": "인공지능 컨택센터(AICC)는 음성인식과 언어모델, 정보 검색 기술을 전화 상담에 적용해 반복 업무를 자동화하고, 상담원이 판단이 필요한 업무에 집중하도록 돕는 시스템이다. 다만 기존 구축형 AICC는 장비와 서버...",
-      "source": "전자신문",
-      "date": "2026-08-09",
-      "url": "https://www.etnews.com/20260807000066"
     },
     {
       "title": "요양보호사 부족? 해결책은 현장에 있어요[안진이의 일자리 심층대담]",
