@@ -158,6 +158,15 @@ const SOURCE_NAME_MAP = {
     'enetnews.co.kr': '이넷뉴스',
     'ntoday.co.kr': '투데이신문',
     'joongangenews.com': '중앙이코노미뉴스',
+    'fnnews.com': '파이낸셜뉴스',
+    'rcast.co.kr': '리얼캐스트',
+    'econonews.co.kr': '이코노뉴스',
+    'raonnews.com': '라온신문',
+    'megaeconomy.co.kr': '메가경제',
+    'metroseoul.co.kr': '메트로신문',
+    'lawissue.co.kr': '로이슈',
+    'daily.hankooki.com': '데일리한국',
+    'pressian.com': '프레시안',
 };
 
 const EXCLUDE_URL_SUBSTR = ['msn.com'];
