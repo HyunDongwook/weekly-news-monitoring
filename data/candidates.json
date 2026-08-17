@@ -10,8 +10,8 @@
   "periodLabel": "2026.08.10 ~ 2026.08.16",
   "periodStart": "2026-08-10",
   "periodEnd": "2026-08-16",
-  "generatedAt": "2026-08-17T08:51:16+09:00",
-  "candidateCount": 306,
+  "generatedAt": "2026-08-17T10:51:25+09:00",
+  "candidateCount": 305,
   "candidates": [
     {
       "title": "경기도주식회사·일자리재단·현대이지웰 업무협약…기관별 역할 분담",
@@ -190,7 +190,7 @@
       "matchedKeyword": "BPO"
     },
     {
-      "title": "‘윤OO: 20만원’ 황당 입금 뒤…‘묶인 통장’ 풀기 위한 고난이 시작...",
+      "title": "모르는 ‘윤OO: 20만원’ 입금 뒤…‘묶인 통장’ 풀기 위한 고난이 시...",
       "summary": "이 돈이 한 모바일페이 서비스를 통해 입금된 사실을 은행 콜센터에서 확인하고, 모바일페이 고객센터에 물었다. 돌아온 답은 불안만 키웠다. 상담원은 ㄱ씨에게 “윤○○ 연락처를 알려줄 테니 20만원을 직접 돌려주는...",
       "source": "hani.co.kr",
       "date": "2026-08-16",
@@ -318,27 +318,19 @@
       "matchedKeyword": "결제 서비스"
     },
     {
+      "title": "[1mm금융톡]금감원, 9월 '소비자보호 대국민 보고대회'…이찬진 첫 작품",
+      "summary": "업권별로는 은행권의 신탁을 통한 상장지수펀드(ETF) 불완전판매 예방 등 내부통제 강화, 보험업권 법인보험대리점(GA)의 제3자 리스크 관리, 금융투자업권의 핀플루언서 사칭 등 불법금융 감시체계 고도화 등이 주요...",
+      "source": "아시아경제",
+      "date": "2026-08-16",
+      "url": "https://view.asiae.co.kr/article/2026081414272919768",
+      "matchedKeyword": "GA"
+    },
+    {
       "title": "설계사 ‘몸값 경쟁’ 변곡점…GA, 신입 육성에 힘 싣는다",
       "summary": "금융당국의 ‘1200%룰’ 시행으로 법인보험대리점(GA)의 설계사 확보 경쟁 방식이 달라지고 있다. 높은 정착지원금을 내걸고 경력 설계사를 데려오기가 어려워지면서 신인을 직접 뽑아 키우는 쪽으로 눈을 돌리는 GA가...",
       "source": "쿠키뉴스",
       "date": "2026-08-16",
       "url": "https://www.kukinews.com/article/view/kuk202608140149",
-      "matchedKeyword": "GA"
-    },
-    {
-      "title": "[2026 GA 우수인증설계사] 한화피플라이프, 현장 전문성으로 맞춤형 금융...",
-      "summary": "한화피플라이프가 2026년 GA 우수인증설계사를 배출하며 전문성과 고객 중심의 금융컨설팅 역량을 입증했다. 2003년 12월 설립된 한화피플라이프는 한화생명 계열 법인보험대리점(GA)이다. 2026년 4월 현재의 사명으로...",
-      "source": "한국보험신문",
-      "date": "2026-08-16",
-      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92237",
-      "matchedKeyword": "GA"
-    },
-    {
-      "title": "근로자 추정제 현실화… 보험영업 '관리의 틀' 바뀐다",
-      "summary": "다만 노동분쟁이 발생했을 때 근로자성을 부인하려면 보험사나 법인보험대리점(GA)이 이를 입증해야 한다는... 설계사는 형식적으로 보험사나 GA와 위촉계약을 맺은 독립 영업인이다. 하지만 실제 현장에서 출퇴근 시간을...",
-      "source": "한국보험신문",
-      "date": "2026-08-16",
-      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92260",
       "matchedKeyword": "GA"
     },
     {
@@ -350,6 +342,30 @@
       "matchedKeyword": "GA"
     },
     {
+      "title": "근로자 추정제 현실화… 보험영업 '관리의 틀' 바뀐다",
+      "summary": "다만 노동분쟁이 발생했을 때 근로자성을 부인하려면 보험사나 법인보험대리점(GA)이 이를 입증해야 한다는... 설계사는 형식적으로 보험사나 GA와 위촉계약을 맺은 독립 영업인이다. 하지만 실제 현장에서 출퇴근 시간을...",
+      "source": "한국보험신문",
+      "date": "2026-08-16",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92260",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "[2026 GA 우수인증설계사] 한화피플라이프, 현장 전문성으로 맞춤형 금융...",
+      "summary": "한화피플라이프가 2026년 GA 우수인증설계사를 배출하며 전문성과 고객 중심의 금융컨설팅 역량을 입증했다. 2003년 12월 설립된 한화피플라이프는 한화생명 계열 법인보험대리점(GA)이다. 2026년 4월 현재의 사명으로...",
+      "source": "한국보험신문",
+      "date": "2026-08-16",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92237",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "아마존, 이용약관 손질…소비자 집단소송 제한",
+      "summary": "이후에도 아마존은 플랫폼에서 판매된 제품의 안전성 문제와 유료 구독 서비스인 프라임 멤버십 해지를 어렵게 했다는 의혹 등을 놓고 집단소송에 대응해왔다. 다만 이번 약관 개정만으로 집단소송 제기가 완전히...",
+      "source": "지디넷코리아",
+      "date": "2026-08-16",
+      "url": "https://zdnet.co.kr/view/?no=20260817082825",
+      "matchedKeyword": "멤버십"
+    },
+    {
       "title": "세븐틴 디노, 국내외 페스티벌 출격",
       "summary": "티켓은 팬클럽 멤버십 선예매 오픈 당일 매진됐으며, 3일간 온라인 생중계도 병행된다. 디노는 본래 모습과 부캐릭터 피철인을 넘나드는 무대를 선보일 예정이다. 디노는 지난 3일 피철인 미니 1집 ‘길보드’를...",
       "source": "bntnews.co.kr",
@@ -358,19 +374,19 @@
       "matchedKeyword": "멤버십"
     },
     {
-      "title": "오아시스마켓, 2Q 영업익 95.5%↑⋯ 직소싱 통해 원가율 낮췄다",
-      "summary": "지난 6월 말에는 실질 구독료를 0원으로 설계한 멤버십 서비스 ‘클럽 오아시스’를 출시했다. 오프라인 매장에는 인공지능(AI) 무인 계산기 ‘루트’를 순차적으로 도입하고 있다. 현재 7개 매장에서 운영 중이며...",
-      "source": "브릿지경제",
-      "date": "2026-08-16",
-      "url": "https://www.viva100.com/article/20260817500041",
-      "matchedKeyword": "멤버십"
-    },
-    {
       "title": "세븐틴 디노, \"캐럿은 제 존재의 이유\"…국내외 페스티벌로 이어가는 무...",
       "summary": "티켓은 FC 멤버십 선예매 오픈 당일 빠르게 매진됐고, 3일간 온라인 라이브 스트리밍이 병행되면서 현장과 온라인을 잇는 방식으로 관객을 만난다. 이 공연에서 디노는 '본캐'와 '부캐'를 오가는 무대를 선보일...",
       "source": "topstarnews.net",
       "date": "2026-08-16",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16165123",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "오아시스마켓, 2Q 영업익 95.5%↑⋯ 직소싱 통해 원가율 낮췄다",
+      "summary": "지난 6월 말에는 실질 구독료를 0원으로 설계한 멤버십 서비스 ‘클럽 오아시스’를 출시했다. 오프라인 매장에는 인공지능(AI) 무인 계산기 ‘루트’를 순차적으로 도입하고 있다. 현재 7개 매장에서 운영 중이며...",
+      "source": "브릿지경제",
+      "date": "2026-08-16",
+      "url": "https://www.viva100.com/article/20260817500041",
       "matchedKeyword": "멤버십"
     },
     {
@@ -446,11 +462,11 @@
       "matchedKeyword": "멤버십"
     },
     {
-      "title": "[유통소식] 깐풍기·마라샹궈도 3980원…이마트, 초저가 델리 확대",
-      "summary": "대구신세계와 광주신세계, 사우스시티, 김해점, 천안아산점에서는 키즈 멤버십도 운영한다. 가입 고객은 아동 상품 구매 시 최대 8% 리워드를 받을 수 있다. 행사 기간 신백멤버스 회원이 제휴카드로 아동 패션·잡화...",
-      "source": "포쓰저널",
+      "title": "\"635마력 야수를 몰고 숲으로\"...디펜더 옥타와 함께한 스노우피크 캠프...",
+      "summary": "숙박 옵션에 따라 이용료가 있지만, 원 멤버십 골드 등급(5년간 3회)과 플래티넘 등급(1년간 1회) 고객에게는 비용이 전액 지원된다. 여기에 현장에서 쓸 수 있는 식음료 쿠폰까지 제공된다. 디펜더 차량을 보유한...",
+      "source": "파이낸셜뉴스",
       "date": "2026-08-16",
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2116445",
+      "url": "http://www.fnnews.com/news/202608141416243788",
       "matchedKeyword": "멤버십"
     },
     {
@@ -462,11 +478,11 @@
       "matchedKeyword": "멤버십"
     },
     {
-      "title": "\"635마력 야수를 몰고 숲으로\"...디펜더 옥타와 함께한 스노우피크 캠프...",
-      "summary": "숙박 옵션에 따라 이용료가 있지만, 원 멤버십 골드 등급(5년간 3회)과 플래티넘 등급(1년간 1회) 고객에게는 비용이 전액 지원된다. 여기에 현장에서 쓸 수 있는 식음료 쿠폰까지 제공된다. 디펜더 차량을 보유한...",
-      "source": "파이낸셜뉴스",
+      "title": "[유통소식] 깐풍기·마라샹궈도 3980원…이마트, 초저가 델리 확대",
+      "summary": "대구신세계와 광주신세계, 사우스시티, 김해점, 천안아산점에서는 키즈 멤버십도 운영한다. 가입 고객은 아동 상품 구매 시 최대 8% 리워드를 받을 수 있다. 행사 기간 신백멤버스 회원이 제휴카드로 아동 패션·잡화...",
+      "source": "포쓰저널",
       "date": "2026-08-16",
-      "url": "http://www.fnnews.com/news/202608141416243788",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2116445",
       "matchedKeyword": "멤버십"
     },
     {
@@ -510,12 +526,12 @@
       "matchedKeyword": "멤버십"
     },
     {
-      "title": "디노, 피철인 '吉BOARD' 무대 비주얼로 팬심 저격",
-      "summary": "서울 잠실실내체육관에서 열리는 '2026 디노X피철인 [吉BOARD SHOW]'는 멤버십 선예매만으로 전석 매진을 기록하며 높은 관심을 입증했다. 향후 예정된 공연과 방송 스케줄을 통해 디노는 본캐와 부캐를 오가며 캐럿들과...",
-      "source": "topstarnews.net",
+      "title": "'빅뱅·블핑' YG 30년…K팝에 개성 강한 힙합 DNA 새겼다",
+      "summary": "2016년 데뷔한 블랙핑크도 전 세계 가수 최초로 유튜브 구독자 1억명을 넘기며 글로벌 시장에서 막강한 영향력을 자랑했다. 블랙핑크가 2022년 낸 정규 2집 '본 핑크'(BORN PINK)는 K팝 걸그룹 최초로 미국 빌보드 메인...",
+      "source": "yna.co.kr",
       "date": "2026-08-16",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16164831",
-      "matchedKeyword": "멤버십"
+      "url": "https://www.yna.co.kr/view/AKR20260709163400005?input=1195m",
+      "matchedKeyword": "구독"
     },
     {
       "title": "가수 송가인, 광복절 한복 자태 뽐낸 무대…'2026 전주세계소리축제' 비...",
@@ -599,7 +615,7 @@
     },
     {
       "title": "[그 영화 어때] 오스카도 안 부럽다, 관객이 동전 던져 뽑아주는 땡그랑...",
-      "summary": "조선닷컴 ‘그 영화 어때’ 구독 링크 https://www.chosun.com/tag/cinema-review 네이버 ‘그 영화 어때’ 구독 링크 https://naver.me/FZ82SAP3 영화는 세상의 창이고 호수이며 거울. 여러분을 그 곁으로 데려다 드립니다. 그 영화 어때...",
+      "summary": "조선닷컴 ‘그 영화 어때’ 구독 링크 https://www.chosun.com/tag/cinema-review 네이버 ‘그 영화 어때’ 구독 링크 https://naver.me/FZ82SAP3 영화는 세상의 창이고 호수이며 거울. 여러분을 그 곁으로 데려다 드립니다. 그 영화 어때 더...",
       "source": "chosun.com",
       "date": "2026-08-16",
       "url": "https://www.chosun.com/culture-life/culture_general/2026/08/17/XQ6IGASXDRHGBAJEMNKCPPC76A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
@@ -654,19 +670,19 @@
       "matchedKeyword": "구독"
     },
     {
-      "title": "“AI에 밀리면 끝”… ‘사스포칼립스’ 공포에 체질 바꾸는 소프트웨어...",
-      "summary": "AI 에이전트의 부상으로 소프트웨어의 구독 기반 수익 모델이 위협을 받으면서 생존 돌파구를 찾는 기업과 대응이 느린 기업간 격차가 벌어지는 등 산업 내 ‘옥석 가리기’가 본격화되고 있다는 평가도 나온다....",
-      "source": "조선비즈",
-      "date": "2026-08-16",
-      "url": "https://biz.chosun.com/it-science/ict/2026/08/17/4PS4YUHWD5DHFAULYQRO2DRTME/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "matchedKeyword": "구독"
-    },
-    {
       "title": "제약·바이오기업 2분기 영업익 40% 증가",
       "summary": "'한경 프리미엄9'을 구독하시면 더 많은 주식 투자 기사를 찾아볼 수 있습니다. 국내 상장 제약·바이오 기업의 올 2분기 영업이익 합계가 지난해 같은 기간보다 40% 이상 증가한 것으로 나타났다. 16일 금융감독원...",
       "source": "한국경제",
       "date": "2026-08-16",
       "url": "https://www.hankyung.com/article/2026081641771",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "“AI에 밀리면 끝”… ‘사스포칼립스’ 공포에 체질 바꾸는 소프트웨어...",
+      "summary": "AI 에이전트의 부상으로 소프트웨어의 구독 기반 수익 모델이 위협을 받으면서 생존 돌파구를 찾는 기업과 대응이 느린 기업간 격차가 벌어지는 등 산업 내 ‘옥석 가리기’가 본격화되고 있다는 평가도 나온다....",
+      "source": "조선비즈",
+      "date": "2026-08-16",
+      "url": "https://biz.chosun.com/it-science/ict/2026/08/17/4PS4YUHWD5DHFAULYQRO2DRTME/?utm_source=naver&utm_medium=original&utm_campaign=biz",
       "matchedKeyword": "구독"
     },
     {
@@ -683,22 +699,6 @@
       "source": "한국경제",
       "date": "2026-08-16",
       "url": "https://www.hankyung.com/article/2026081641921",
-      "matchedKeyword": "구독"
-    },
-    {
-      "title": "[단독] 의정부·구로…정비사업 틈새 뚫는 중견건설사",
-      "summary": "'한경 프리미엄9'을 구독하시면 더 많은 주식 투자 기사를 찾아볼 수 있습니다. 중견 건설사가 틈새시장을 공략해 올해 수도권에서 재건축·재개발 등 도시정비사업 수주를 꾸준히 늘리고 있다. 10대 건설사가 서울...",
-      "source": "한국경제",
-      "date": "2026-08-16",
-      "url": "https://www.hankyung.com/article/2026081641051",
-      "matchedKeyword": "구독"
-    },
-    {
-      "title": "건강 구독 사회, 당신도 건강을 구독하고 있는가?",
-      "summary": "유명 약사인 정재훈은 저서 『건강 구독 사회』를 통해 현대인이 건강을 믿고 소비하는 방식을 과학과... ··· 고립된 채 완벽한 식단을 먹는 것보다, 조금 헐거워도 함께 먹는 것이 낫다.\" _(314쪽) 『건강 구독 사회』...",
-      "source": "readersnews.com",
-      "date": "2026-08-16",
-      "url": "https://www.readersnews.com/news/articleView.html?idxno=200501",
       "matchedKeyword": "구독"
     },
     {
@@ -838,19 +838,19 @@
       "matchedKeyword": "시니어"
     },
     {
-      "title": "배달앱 다회용기 이용 사업 큰 호응…제주도 “내년 전역 확대”",
-      "summary": "세척 및 관리 과정에서 제주시니어클럽과 협업해 노인 인력을 고용함으로써 노인 일자리 창출에도 도움을 준다. 제주도는 해당 서비스 이용을 독려하기 위해 다회용기 이용 때 주문자와 참여 매장에 각각 지역화폐인...",
-      "source": "khan.co.kr",
-      "date": "2026-08-16",
-      "url": "https://www.khan.co.kr/article/202608162055025",
-      "matchedKeyword": "시니어"
-    },
-    {
       "title": "지역 어르신들 손글씨·그림 관광상품화, 곡성 기차마을서 상시 판매",
       "summary": "어르신들이 직접 쓴 손글씨와 그린 그림을 아크릴 열쇠고리와 그립톡 등에 활용한 ‘시니어 굿즈’다. 곡성군은 지역 어르신들이 참여해 만든 시니어 굿즈를 섬진강기차마을 내 관광기념품 판매장 ‘장미의 집’에서...",
       "source": "khan.co.kr",
       "date": "2026-08-16",
       "url": "https://www.khan.co.kr/article/202608162055005",
+      "matchedKeyword": "시니어"
+    },
+    {
+      "title": "배달앱 다회용기 이용 사업 큰 호응…제주도 “내년 전역 확대”",
+      "summary": "세척 및 관리 과정에서 제주시니어클럽과 협업해 노인 인력을 고용함으로써 노인 일자리 창출에도 도움을 준다. 제주도는 해당 서비스 이용을 독려하기 위해 다회용기 이용 때 주문자와 참여 매장에 각각 지역화폐인...",
+      "source": "khan.co.kr",
+      "date": "2026-08-16",
+      "url": "https://www.khan.co.kr/article/202608162055025",
       "matchedKeyword": "시니어"
     },
     {
@@ -1054,19 +1054,19 @@
       "matchedKeyword": "고객센터"
     },
     {
-      "title": "택시 호출부터 버스 예매까지…외국인 '한국 이동' 쉬워진다",
-      "summary": "와우패스 운영사 오렌지스퀘어는 티머니모빌리티와 외국인 대상 모빌리티·결제 서비스 협력을 위한 업무협약(MOU)을 체결했다고 16일 밝혔다. 양사는 이번 협약을 토대로 티머니GO가 제공하는 교통 서비스를 와우패스...",
-      "source": "아주경제",
-      "date": "2026-08-15",
-      "url": "https://www.ajunews.com/view/20260814121555160",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
       "title": "[박수진의 금융人] KB국민카드 김재관, '1등·연임' 두 마리 토끼 정조준",
       "summary": "아우르는 결제 서비스를 선제적으로 마련해 나가고 있다. 또한 'KB Pay'를 개편해 결제 및 카드 관리, 금융·비금융 혜택 이용 등을 개인화한것도 디지털 서비스를 확장한 사례로 평가된다. 올해 상반기 기준 KB Pay의...",
       "source": "newswatch.kr",
       "date": "2026-08-15",
       "url": "http://www.newswatch.kr/news/articleView.html?idxno=80727",
+      "matchedKeyword": "결제 서비스"
+    },
+    {
+      "title": "택시 호출부터 버스 예매까지…외국인 '한국 이동' 쉬워진다",
+      "summary": "와우패스 운영사 오렌지스퀘어는 티머니모빌리티와 외국인 대상 모빌리티·결제 서비스 협력을 위한 업무협약(MOU)을 체결했다고 16일 밝혔다. 양사는 이번 협약을 토대로 티머니GO가 제공하는 교통 서비스를 와우패스...",
+      "source": "아주경제",
+      "date": "2026-08-15",
+      "url": "https://www.ajunews.com/view/20260814121555160",
       "matchedKeyword": "결제 서비스"
     },
     {
@@ -1462,11 +1462,11 @@
       "matchedKeyword": "결제 서비스"
     },
     {
-      "title": "친환경 물류차부터 해외 헬스케어까지, 모빌리티 확장 흐름",
-      "summary": "티머니모빌리티는 외국인 전용 결제·커머스 플랫폼 '와우패스(WOWPASS)' 운영사 오렌지스퀘어와 외국인 대상 모빌리티·결제 서비스 협력을 위한 업무협약을 체결했다고 14일 밝혔다. 이번 협약은 국내 방문 외국인...",
-      "source": "프레스맨",
+      "title": "토스, 상반기 영업이익 2461억원...전년比 59.2%↑",
+      "summary": "얼굴인식 결제 서비스 페이스페이 가입자는 상반기 600만명을 넘어섰으며 지난달 700만명을 돌파했다. 온라인을 넘어 오프라인에서도 서비스 접점이 지속적으로 확대되고 있다는 게 토스 측 설명이다. 토스 관계자는...",
+      "source": "pointdaily.co.kr",
       "date": "2026-08-14",
-      "url": "https://www.pressman.kr/news/articleView.html?idxno=103198",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315651",
       "matchedKeyword": "결제 서비스"
     },
     {
@@ -1579,14 +1579,6 @@
       "source": "fntimes.com",
       "date": "2026-08-14",
       "url": "https://www.fntimes.com/html/view.php?ud=2026081414074950649efc5ce4ae_18",
-      "matchedKeyword": "GA"
-    },
-    {
-      "title": "소비자보호 집중한 이찬진, 은행·보험·자본시장 검사 집중한다",
-      "summary": "금감원은 최대 판매채널인 보험대리점(GA)의 불법 영업행위를 근절하기 위해 종합 감독방안을 마련할 예정이다. 구체적으로 컨설팅업 등 겸영금지 업종을 늘리고, 특별이익을 명확하게 지도할 계획이다. 또 GA 및 소속...",
-      "source": "미디어펜",
-      "date": "2026-08-14",
-      "url": "https://www.mediapen.com/news/view/1116478",
       "matchedKeyword": "GA"
     },
     {
@@ -1942,19 +1934,19 @@
       "matchedKeyword": "BPO"
     },
     {
-      "title": "\"AI 모델 넘어 AI 에이전트 운영 최적화로\"...노타, AICC 선도기업 메타...",
-      "summary": "노타와 공동 개발에 나서는 메타엠은 20년 이상 컨택센터 운영 경험을 보유한 비즈니스 프로세스 아웃소싱(BPO) 전문기업이다. 금융, 유통, 제조, 플랫폼 등 다양한 산업의 컨택센터를 운영하며 축적한 업무 노하우를...",
-      "source": "aitimes.kr",
-      "date": "2026-08-13",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=41434",
-      "matchedKeyword": "BPO"
-    },
-    {
       "title": "노타 AI, 메타엠과 AI 에이전트 공동 개발 계약",
       "summary": "메타엠은 20년 이상 컨택센터 운영 경험을 가진 비즈니스 프로세스 아웃소싱(BPO) 전문기업이다. 금융, 유통, 제조, 플랫폼 등 다양한 산업의 컨택센터를 운영하며 전국 인프라를 기반으로 200여 개 고객사에 아웃소싱...",
       "source": "한스경제",
       "date": "2026-08-13",
       "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=856606",
+      "matchedKeyword": "BPO"
+    },
+    {
+      "title": "\"AI 모델 넘어 AI 에이전트 운영 최적화로\"...노타, AICC 선도기업 메타...",
+      "summary": "노타와 공동 개발에 나서는 메타엠은 20년 이상 컨택센터 운영 경험을 보유한 비즈니스 프로세스 아웃소싱(BPO) 전문기업이다. 금융, 유통, 제조, 플랫폼 등 다양한 산업의 컨택센터를 운영하며 축적한 업무 노하우를...",
+      "source": "aitimes.kr",
+      "date": "2026-08-13",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=41434",
       "matchedKeyword": "BPO"
     },
     {
