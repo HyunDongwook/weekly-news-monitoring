@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.08.10 ~ 2026.08.16",
   "periodStart": "2026-08-10",
   "periodEnd": "2026-08-16",
-  "generatedAt": "2026-08-18T09:30:00+09:00",
+  "generatedAt": "2026-08-18T10:15:00+09:00",
   "articles": [
     {
       "title": "설계사 ‘몸값 경쟁’ 변곡점…GA, 신입 육성에 힘 싣는다",
@@ -100,13 +100,6 @@ window.CURRENT_WEEK = {
       "source": "뉴데일리경제",
       "date": "2026-08-12",
       "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/12/2026081200122.html"
-    },
-    {
-      "title": "[生기업TALK] 고객 부금예수금 8474억…부동산·실물투자 '안전관리' 모...",
-      "summary": "국내 상조업계 맏형 보람상조의 경우 부금예수금을 장례식장 조성 등 부동산과 실물투자를 진행하는 것으로... 것 ▲상조업 외의 수익원을 확보하는 사업 다각화 ▲레버리지를 이용할 수 있는 긍정적 요인 때문인 것으로...",
-      "source": "시사캐스트",
-      "date": "2026-08-12",
-      "url": "http://www.sisacast.kr/news/articleView.html?idxno=98709"
     },
     {
       "title": "인빅㈜, AI 영상보안 기술로 스마트 관제시장 선도 [경기도 미래를 이끄...",
