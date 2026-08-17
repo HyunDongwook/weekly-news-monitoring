@@ -60,6 +60,7 @@ const SOURCE_NAME_MAP = {
     'sisacast.kr': '시사캐스트',
     'kyeonggi.com': '경기일보',
     'mfgkr.com': 'MFG',
+    'g-enews.com': '글로벌이코노믹',
     'edaily.co.kr': '이데일리',
     'sisaon.co.kr': '시사오늘',
     'ilyoseoul.co.kr': '일요서울',
