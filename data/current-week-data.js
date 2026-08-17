@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.08.10 ~ 2026.08.16",
   "periodStart": "2026-08-10",
   "periodEnd": "2026-08-16",
-  "generatedAt": "2026-08-18T10:45:00+09:00",
+  "generatedAt": "2026-08-18T11:00:00+09:00",
   "articles": [
     {
       "title": "설계사 ‘몸값 경쟁’ 변곡점…GA, 신입 육성에 힘 싣는다",
@@ -37,6 +37,13 @@ window.CURRENT_WEEK = {
       "source": "헤럴드경제",
       "date": "2026-08-16",
       "url": "https://biz.heraldcorp.com/article/10841580?ref=naver"
+    },
+    {
+      "title": "만능 멤버십 카드, 4050 격려 포인트… 경남에 뜬 '신개념 복지'",
+      "summary": "각종 복지포인트 지급도 멤버십 카드와 연계하는 방안을 검토한다. 기존 지역화폐나 선불카드 형태로 분야별 지급하던 복지 혜택을 하나의 카드로 통합해 이용 편의성을 높이는 방식이다. 멤버십 카드가 실제 생활에서...",
+      "source": "서울신문",
+      "date": "2026-08-16",
+      "url": "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/08/17/20260817022002?wlog_tag3=naver"
     },
     {
       "title": "NHN페이코, '바나프레소'에 오프라인 결제 서비스 제공",
