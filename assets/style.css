@@ -23,14 +23,14 @@
   --text-muted: #6b7280;
   --white: #ffffff;
 
-  --cat-welfare: #59a84a;
-  --cat-welfare-bg: #eaf5e1;
+  --cat-welfare: #d35400;
+  --cat-welfare-bg: #fbe8dc;
   --cat-payment: #4c7cf5;
   --cat-payment-bg: #eaf0fe;
   --cat-insurance: #e2932a;
   --cat-insurance-bg: #fbf1e2;
-  --cat-aicc: #8a6fd6;
-  --cat-aicc-bg: #f0ecfa;
+  --cat-aicc: #ea002c;
+  --cat-aicc-bg: #fbe3e6;
   --cat-safety: #e2624f;
   --cat-safety-bg: #fbeae7;
 
@@ -593,10 +593,10 @@ img, svg { display: block; }
   inset: 0;
 }
 
-.news-card__thumb.cat-welfare::before   { background: rgba(89, 168, 74, 0.55); }
+.news-card__thumb.cat-welfare::before   { background: rgba(211, 84, 0, 0.55); }
 .news-card__thumb.cat-payment::before   { background: rgba(76, 124, 245, 0.55); }
 .news-card__thumb.cat-insurance::before { background: rgba(226, 147, 42, 0.55); }
-.news-card__thumb.cat-aicc::before      { background: rgba(138, 111, 214, 0.55); }
+.news-card__thumb.cat-aicc::before      { background: rgba(234, 0, 44, 0.55); }
 .news-card__thumb.cat-safety::before    { background: rgba(226, 98, 79, 0.55); }
 
 .news-card__category {
