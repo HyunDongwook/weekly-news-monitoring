@@ -6,18 +6,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
 
 :root {
-  --brand-green: #7bc550;
-  --brand-green-dark: #5fa83a;
-  --brand-green-darker: #4a8a2c;
-  --brand-green-light: #eaf5e1;
-  --brand-green-lighter: #f4faf0;
+  --brand-green: #ff7a00;
+  --brand-green-dark: #ca6202;
+  --brand-green-darker: #a04d00;
+  --brand-green-light: #ffdfc1;
+  --brand-green-lighter: #ffe9d5;
 
   --brand-gray: #dadfe5;
   --brand-gray-dark: #8b94a3;
   --brand-gray-darker: #5b6472;
   --brand-gray-light: #f4f6f8;
   --brand-gray-lighter: #fafbfc;
-  --brand-blend: #a9c0a2; /* 연두 + 회색 중간톤, 그라데이션 연결용 */
+  --brand-blend: #e3a369; /* 오렌지 + 회색 중간톤, 그라데이션 연결용 */
 
   --text-dark: #2e333a;
   --text-muted: #6b7280;
@@ -304,7 +304,7 @@ img, svg { display: block; }
   padding: 8px 18px;
   border-radius: 999px;
   margin-bottom: 22px;
-  box-shadow: 0 4px 12px rgba(123, 197, 80, 0.3);
+  box-shadow: 0 4px 12px rgba(255, 122, 0, 0.3);
 }
 
 .hero-card__kicker svg {
