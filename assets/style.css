@@ -8,7 +8,8 @@
 :root {
   --brand-green: #ff7a00;
   --brand-green-dark: #ca6202;
-  --brand-green-darker: #ea002c;
+  --brand-green-darker: #a04d00;
+  --brand-red: #ea002c;
   --brand-green-light: #ffdfc1;
   --brand-green-lighter: #ffe9d5;
 
@@ -223,14 +224,14 @@ img, svg { display: block; }
 
 .sidebar__link.active {
   background: var(--brand-gray-light);
-  color: var(--brand-green-darker);
+  color: var(--brand-red);
   font-weight: 800;
   font-size: 19px;
   letter-spacing: 0.01em;
   box-shadow: inset 4px 0 0 var(--brand-green);
 }
 
-.sidebar__link.active svg { color: var(--brand-green-darker); }
+.sidebar__link.active svg { color: var(--brand-red); }
 
 .main-area {
   flex: 1;
@@ -987,7 +988,7 @@ img, svg { display: block; }
 }
 
 .site-footer strong {
-  color: var(--brand-green-darker);
+  color: var(--brand-red);
 }
 
 /* ---------------- Responsive ---------------- */
