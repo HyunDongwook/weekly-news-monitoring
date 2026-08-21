@@ -236,6 +236,45 @@ function stripTags(str) {
   return decodeEntities((str || '').replace(/<[^>]*>/g, '')).trim();
 }
 
+function looksTruncated(str) {
+  const t = (str || '').trim();
+  return t.endsWith('...') || t.endsWith('…');
+}
+
+// Naver's search API occasionally returns a title that's been truncated
+// with a trailing ellipsis. When that happens, fetch the article page
+// itself and use the real headline from its og:title/<title> tag instead
+// of publishing a title that's missing its ending.
+async function resolveFullTitle(title, url) {
+  if (!looksTruncated(title)) return title;
+  try {
+    const res = await fetch(url, {
+      redirect: 'follow',
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; WeeklyNewsBot/1.0)' },
+    });
+    if (!res.ok) return title;
+    const html = await res.text();
+    const ogMatch =
+      html.match(/<meta[^>]+property=["']og:title["'][^>]+content=["']([^"']+)["']/i) ||
+      html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:title["']/i);
+    const titleTagMatch = html.match(/<title[^>]*>([^<]+)<\/title>/i);
+    let candidate = ogMatch ? ogMatch[1] : titleTagMatch ? titleTagMatch[1] : null;
+    if (!candidate) return title;
+    candidate = decodeEntities(candidate).trim();
+    // CMS <title> tags often append " - 매체명" / " | 매체명"; strip a short
+    // trailing segment like that so we don't publish "실제 제목 - 뉴스사".
+    candidate = candidate.replace(/\s*[-|·]\s*[^-|·]{1,20}$/, '').trim();
+    const prefix = title.replace(/(\.\.\.|…)\s*$/, '').trim();
+    const prefixHead = prefix.slice(0, Math.min(8, prefix.length));
+    if (candidate.length >= prefix.length && (!prefixHead || candidate.includes(prefixHead))) {
+      return candidate;
+    }
+    return title;
+  } catch {
+    return title;
+  }
+}
+
 function formatDate(pubDate) {
   const d = new Date(pubDate);
   if (Number.isNaN(d.getTime())) return null;
@@ -324,10 +363,12 @@ async function fetchKeywordCandidates(keyword, periodStart, periodEnd) {
       // malformed URL; fall back to using the raw URL as the source label
     }
 
+    const resolvedTitle = await resolveFullTitle(title, articleUrl);
+
     seenUrls.add(articleUrl);
-    selectedTitleBigrams.push(titleBigramSet(title));
+    selectedTitleBigrams.push(titleBigramSet(resolvedTitle));
     results.push({
-      title,
+      title: resolvedTitle,
       summary: decodeEntities(item.description ? stripTags(item.description) : ''),
       source,
       date,
