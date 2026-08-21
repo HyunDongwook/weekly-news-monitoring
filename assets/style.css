@@ -334,7 +334,7 @@ img, svg { display: block; }
   font-family: "Black Han Sans", sans-serif;
   font-weight: 400;
   font-size: 62px;
-  color: var(--brand-green-darker);
+  color: var(--brand-green);
   display: inline-block;
   letter-spacing: 0.01em;
   text-shadow: 2px 2px 0 rgba(46, 51, 58, 0.08);
