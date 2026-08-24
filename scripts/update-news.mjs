@@ -190,6 +190,7 @@ const SOURCE_NAME_MAP = {
     'enewstoday.co.kr': '이뉴스투데이',
     'hankookilbo.com': '한국일보',
     'widedaily.com': '와이드경제',
+    'dailian.co.kr': '데일리안',
 };
 
 const EXCLUDE_URL_SUBSTR = ['msn.com'];
