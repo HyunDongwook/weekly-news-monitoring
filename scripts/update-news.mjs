@@ -183,6 +183,8 @@ const SOURCE_NAME_MAP = {
     'realty.chosun.com': '땅집고',
     'newsway.co.kr': '뉴스웨이',
     'fntimes.com': '한국금융신문',
+    'nocutnews.co.kr': '노컷뉴스',
+    'ekn.kr': '에너지경제',
 };
 
 const EXCLUDE_URL_SUBSTR = ['msn.com'];
