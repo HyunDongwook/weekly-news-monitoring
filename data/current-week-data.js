@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.08.17 ~ 2026.08.23",
   "periodStart": "2026-08-17",
   "periodEnd": "2026-08-23",
-  "generatedAt": "2026-08-24T10:25:00+09:00",
+  "generatedAt": "2026-08-24T10:40:00+09:00",
   "articles": [
     {
       "title": "금감원, 대형 GA 준법감시인협의제 운영방식 변경",
@@ -23,13 +23,6 @@ window.CURRENT_WEEK = {
       "source": "한국보험신문",
       "date": "2026-08-23",
       "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92388"
-    },
-    {
-      "title": "상조 가입자 편의 어디까지 왔나…상품 활용부터 안전망까지",
-      "summary": "보람상조는 카카오톡 고객센터에서 전문 상담원이 실시간으로 문의에 응대하고 AI 음성인식을 활용해 관련 부서 연결이나 정보 제공을 지원한다. 교원라이프도 홈페이지·앱에 챗봇과 보이는 ARS를 도입해 계약 조회와...",
-      "source": "FETV",
-      "date": "2026-08-23",
-      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=308817"
     },
     {
       "title": "\"의료·레저 이어 세무상담까지\" 교원라이프, 전방위 제휴 확대",
@@ -53,25 +46,11 @@ window.CURRENT_WEEK = {
       "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=245108"
     },
     {
-      "title": "유베이스·서울대, 고객 감정·대화 맥락 읽는 상담AI 만든다",
-      "summary": "서울대와 공동 연구 통해 30년 고객 상담 노하우를 AI 학습 데이터로 구현해 사람·AI 동행 상담 목표 인공지능(AI) BPO(Business Process Outsourcing) 테크기업 유베이스 그룹이 서울대학교 자연어처리 연구실과 산학협력...",
-      "source": "매일경제",
-      "date": "2026-08-20",
-      "url": "https://www.mk.co.kr/article/12131949"
-    },
-    {
       "title": "셔클에 자율주행 이식한다...현대차, 차량 넘어 '플랫폼' 영역 확장",
       "summary": "완성차 제조와 자율주행 기술에 호출·배차·지도·관제 플랫폼까지 하나로 연결해 향후 자율주행 시장에서 차량 공급업체를 넘어 서비스 플랫폼 사업자까지 사업 영역을 넓히려는 움직임으로 풀이된다. 현대자동차의...",
       "source": "뉴스핌",
       "date": "2026-08-20",
       "url": "https://www.newspim.com/news/view/20260819000561"
-    },
-    {
-      "title": "달라진 상조산업, 뒤처진 제도…육성 논의는 언제쯤",
-      "summary": "공정거래위원회도 상조업체가 지배주주나 특수관계인에게 신용을 제공하는 행위를 제한하는 등 선수금의... 상조업에 특화된 회계지표 도입과 산업 개념 정립, 육성 정책의 법적 근거 마련 등 주요 과제 역시 구체적인...",
-      "source": "리버티코리아포스트",
-      "date": "2026-08-20",
-      "url": "http://www.lkp.news/news/articleView.html?idxno=83147"
     },
     {
       "title": "베네피아, B2B 서비스 15개 분야 묶은 플랫폼형 ‘기업전용특화혜택’ 서비스 출시",
@@ -93,13 +72,6 @@ window.CURRENT_WEEK = {
       "source": "뉴스핌",
       "date": "2026-08-18",
       "url": "https://www.newspim.com/news/view/20260818000460"
-    },
-    {
-      "title": "“콜센터의 미래, AI와 사람의 공존”…유베이스가 택한 ‘하이브리드 AICC’",
-      "summary": "이데일리는 국내 최대 CS 아웃소싱(BPO) 기업 유베이스를 이끄는 핵심 임원 3명을 만나 AI 컨택센터(AICC)... 아웃소싱(BPO) 기업 유베이스가 내놓은 답은 ‘하이브리드 AICC(AI 컨택센터)’다. 단순 문의나 업무 조회는 AI가...",
-      "source": "이데일리",
-      "date": "2026-08-17",
-      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01590806645548304"
     },
     {
       "title": "호텔 할인부터 세무상담까지…상조업계, 회원 혜택 넓힌다",
