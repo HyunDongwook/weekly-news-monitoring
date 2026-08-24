@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.08.17 ~ 2026.08.23",
   "periodStart": "2026-08-17",
   "periodEnd": "2026-08-23",
-  "generatedAt": "2026-08-24T10:55:00+09:00",
+  "generatedAt": "2026-08-24T11:05:00+09:00",
   "articles": [
     {
       "title": "금감원, 대형 GA 준법감시인협의제 운영방식 변경",
@@ -65,13 +65,6 @@ window.CURRENT_WEEK = {
       "source": "테크월드",
       "date": "2026-08-19",
       "url": "https://www.epnc.co.kr/news/articleView.html?idxno=405303"
-    },
-    {
-      "title": "KS한국고용정보, 인사이터와 합작법인 설립 추진",
-      "summary": "손영득 KS그룹 회장은 \"이번 사업은 단순한 정부지원 사업을 넘어 KS그룹의 BPO 경쟁력을 높이고 AI를 기반으로 새로운 사업과 시장을 만드는 중요한 출발점\"이라며 \"KS그룹의 현장 운영 경험과 인사이터의 AI 역량을...",
-      "source": "뉴스핌",
-      "date": "2026-08-18",
-      "url": "https://www.newspim.com/news/view/20260818000460"
     },
     {
       "title": "\"월말 점심값 경기도가 쏜다\"…일자리재단, 중소기업 청년 식비 지원",
