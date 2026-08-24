@@ -188,6 +188,7 @@ const SOURCE_NAME_MAP = {
     'wowtv.co.kr': '한국경제TV',
     'kyongbuk.co.kr': '경북일보',
     'enewstoday.co.kr': '이뉴스투데이',
+    'hankookilbo.com': '한국일보',
 };
 
 const EXCLUDE_URL_SUBSTR = ['msn.com'];

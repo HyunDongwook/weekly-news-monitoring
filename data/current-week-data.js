@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.08.17 ~ 2026.08.23",
   "periodStart": "2026-08-17",
   "periodEnd": "2026-08-23",
-  "generatedAt": "2026-08-24T11:55:00+09:00",
+  "generatedAt": "2026-08-24T12:05:00+09:00",
   "articles": [
     {
       "title": "오세훈 '손목닥터 9988' 제동…'서울 출퇴근·통학족' 혜택 없애나",
@@ -65,6 +65,13 @@ window.CURRENT_WEEK = {
       "source": "세이프타임즈",
       "date": "2026-08-21",
       "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=245108"
+    },
+    {
+      "title": "비대면 진료받고 '집에서 약' 받게... 복지부 '약 배송' 전면 확대 검토",
+      "summary": "비대면 진료 환자가 처방약을 집에서 받아볼 수 있도록 약 배송을 전면 허용하는 방안이 본격 논의된다. 보건복지부는 비대면 진료 플랫폼의 의약품 도매업 겸업을 제한하는 약사법 개정안이 통과된 직후 약 배송 대상을 전체 비대면 진료 환자로 늘리는 논의에 착수하겠다고 밝혔다.",
+      "source": "한국일보",
+      "date": "2026-08-21",
+      "url": "https://www.hankookilbo.com/news/article/A2026082110010005726"
     },
     {
       "title": "셔클에 자율주행 이식한다...현대차, 차량 넘어 '플랫폼' 영역 확장",
