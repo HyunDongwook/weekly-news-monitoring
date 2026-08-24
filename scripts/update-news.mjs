@@ -186,6 +186,8 @@ const SOURCE_NAME_MAP = {
     'nocutnews.co.kr': '노컷뉴스',
     'ekn.kr': '에너지경제',
     'wowtv.co.kr': '한국경제TV',
+    'kyongbuk.co.kr': '경북일보',
+    'enewstoday.co.kr': '이뉴스투데이',
 };
 
 const EXCLUDE_URL_SUBSTR = ['msn.com'];
