@@ -189,6 +189,7 @@ const SOURCE_NAME_MAP = {
     'kyongbuk.co.kr': '경북일보',
     'enewstoday.co.kr': '이뉴스투데이',
     'hankookilbo.com': '한국일보',
+    'widedaily.com': '와이드경제',
 };
 
 const EXCLUDE_URL_SUBSTR = ['msn.com'];

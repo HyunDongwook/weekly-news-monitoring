@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.08.17 ~ 2026.08.23",
   "periodStart": "2026-08-17",
   "periodEnd": "2026-08-23",
-  "generatedAt": "2026-08-24T12:05:00+09:00",
+  "generatedAt": "2026-08-24T12:15:00+09:00",
   "articles": [
     {
       "title": "오세훈 '손목닥터 9988' 제동…'서울 출퇴근·통학족' 혜택 없애나",
@@ -72,6 +72,13 @@ window.CURRENT_WEEK = {
       "source": "한국일보",
       "date": "2026-08-21",
       "url": "https://www.hankookilbo.com/news/article/A2026082110010005726"
+    },
+    {
+      "title": "비큐AI, 비즈플레이와 공동 사업모델 개발 제휴 계약",
+      "summary": "비큐AI와 비즈플레이가 전략적 제휴 계약을 체결하고 연구개발(R&D)·서비스 협력을 통한 공동 사업모델 개발에 착수한다. 비즈플레이가 보유한 경비정산·출장관리 등 기업직원간거래(B2E) 솔루션과 비큐AI의 AI 기술·데이터 역량을 결합해 새로운 수익 모델을 창출하는 것이 목표다.",
+      "source": "와이드경제",
+      "date": "2026-08-21",
+      "url": "https://www.widedaily.com/news/articleView.html?idxno=299803"
     },
     {
       "title": "셔클에 자율주행 이식한다...현대차, 차량 넘어 '플랫폼' 영역 확장",
