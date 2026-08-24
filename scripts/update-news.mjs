@@ -175,6 +175,14 @@ const SOURCE_NAME_MAP = {
     'pressian.com': '프레시안',
     'jeonmae.co.kr': '전국매일신문',
     'aitimes.com': 'AI타임스',
+    'safetimes.co.kr': '세이프타임즈',
+    'smartbizn.com': '스마트비즈',
+    'fntoday.co.kr': '파이낸스투데이',
+    'naeil.com': '내일신문',
+    'lkp.news': '리버티코리아포스트',
+    'realty.chosun.com': '땅집고',
+    'newsway.co.kr': '뉴스웨이',
+    'fntimes.com': '한국금융신문',
 };
 
 const EXCLUDE_URL_SUBSTR = ['msn.com'];
