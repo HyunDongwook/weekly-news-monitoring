@@ -185,6 +185,7 @@ const SOURCE_NAME_MAP = {
     'fntimes.com': '한국금융신문',
     'nocutnews.co.kr': '노컷뉴스',
     'ekn.kr': '에너지경제',
+    'wowtv.co.kr': '한국경제TV',
 };
 
 const EXCLUDE_URL_SUBSTR = ['msn.com'];
