@@ -1,0 +1,62 @@
+/* ==========================================================================
+   아이프레임 삽입용 페이지 전용 스타일 (embed.html / embed-archive.html)
+   기존 style.css 뒤에 로드되어 topbar/sidebar/footer 관련 레이아웃을 덮어씀
+   ========================================================================== */
+
+body.embed-page {
+  background: #fff;
+}
+
+body.embed-page .app-shell {
+  display: block;
+  min-height: 0;
+}
+
+body.embed-page .sidebar {
+  display: none;
+}
+
+body.embed-page .main-area {
+  width: 100%;
+}
+
+/* ---------------- Tab bar (사이드바 메뉴를 상단 탭으로 전환) ---------------- */
+
+.tabbar {
+  display: flex;
+  gap: 8px;
+  border-bottom: 2px solid var(--brand-gray);
+  padding: 24px 32px 0;
+  background: #fff;
+}
+
+.tabbar__item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 18px 28px;
+  font-size: 19px;
+  font-weight: 800;
+  color: var(--text-muted);
+  border-bottom: 4px solid transparent;
+  cursor: pointer;
+  transition: color 0.15s ease, border-color 0.15s ease, background 0.15s ease;
+  border-radius: 10px 10px 0 0;
+}
+
+.tabbar__item svg {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+
+.tabbar__item:hover {
+  color: var(--text-dark);
+  background: var(--brand-gray-light);
+}
+
+.tabbar__item.active {
+  color: var(--brand-red);
+  border-bottom-color: var(--brand-red);
+  background: var(--brand-gray-light);
+}
