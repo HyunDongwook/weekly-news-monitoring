@@ -44,6 +44,17 @@ const KEYWORDS = [
 // Maps bare hostnames to their real Korean media name (verified by visiting
 // each site directly, not guessed from the domain).
 const SOURCE_NAME_MAP = {
+    'financialpost.co.kr': '파이낸셜포스트',
+    'asiatime.co.kr': '아시아타임즈',
+    'dnews.co.kr': '대한경제',
+    'economytalk.kr': '이코노미톡뉴스',
+    'ngetnews.com': '뉴스저널리즘',
+    'esgeconomy.com': 'ESG경제',
+    's-journal.co.kr': 'S저널',
+    'realfoods.co.kr': '리얼푸드',
+    'weeklytrade.co.kr': '한국무역신문',
+    'seoultimes.news': '서울타임즈',
+    'yna.co.kr': '연합뉴스',
     'ibabynews.com': '베이비뉴스',
     'breaknews.com': '브레이크뉴스',
     'dynews.co.kr': '동양일보',
