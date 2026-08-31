@@ -88,13 +88,6 @@ window.CURRENT_WEEK = {
       "url": "https://bravo.etoday.co.kr/view/atc_view/19969"
     },
     {
-      "title": "IT 공룡들과 맞선 '제논'…\"韓 '액셔너블 AI' 승부수\" [K-챌린저]",
-      "summary": "제논은 올해 3월 전담 랩을 개소하고 시니어 요양 케어용 피지컬 AI '젠피'(GenP)를 공개했다. 향후 실제 산업 현장에서 활용할 수 있는 서비스로 상용화할 계획이다. 제논은 이와 함께 지난달 한국거래소에 코스닥...",
-      "source": "뉴스1",
-      "date": "2026-08-30",
-      "url": "https://www.news1.kr/industry/general-industry/6272907"
-    },
-    {
       "title": "[기고] 생명 지키는 스마트 건설기술",
       "summary": "통합관제플랫폼을 통해 안전기술 및 작업현황을 관리하고, 중장비에 부착된 영상감지형 센서로 협착방지시스템을 가동한다. 근로자들은 웨어러블 장비를 착용해 안전을 보호받는다. 이 같은 스마트 건설기술이 가장...",
       "source": "대한경제",
@@ -158,32 +151,11 @@ window.CURRENT_WEEK = {
       "url": "https://www.boannews.com/news/articleView.html?idxno=145433"
     },
     {
-      "title": "[인터뷰] 구형모 포커스에이아이 대표이사, “현실을 움직이는 ‘Physical AI’로 도약”",
-      "summary": "삼성중공업과 구축한 통합 안전 관제 플랫폼 'ISMP'(Infra Safety Monitoring Platform)는 현장에서 어떤 성과를 거두고 있습니까 ISMP는 카메라와 센서가 현장을 보고(See), AI가 위험 상황을 이해하고(Understand), 필요한 행동을...",
-      "source": "보안뉴스",
-      "date": "2026-08-28",
-      "url": "https://www.boannews.com/news/articleView.html?idxno=145466"
-    },
-    {
-      "title": "[2026 SOAR 솔루션 리포트] 탐지에서 대응... K-보안과 만나 성장하는 SOAR",
-      "summary": "시큐레이어는 \"시장은 단순 '관심 단계'를 넘어 '필수 통합 관제 플랫폼'으로 완전히 안착했으며, SIEM과 SOAR를 결합한 통합 보안운영 플랫폼에 대한 요구가 증가하고 있다\"면서, \"공공과 금융을 중심으로 SIEM과...",
-      "source": "보안뉴스",
-      "date": "2026-08-28",
-      "url": "https://www.boannews.com/news/articleView.html?idxno=145442"
-    },
-    {
       "title": "[스마트클라우드쇼 2026] 박송 SK쉴더스 AI랩장 “방화벽 높이는 시대 끝났다… AI 공격엔 AI로 맞서야”",
       "summary": "SK쉴더스의 통합 보안관제 플랫폼 ‘시큐디움’은 하루 평균 170억건의 위협 이벤트를 처리하고 있다. AI를 활용해 기존 대비 처리 시간을 75% 단축했다는 게 회사 측 설명이다. SK쉴더스는 향후 시큐디움을 여러 AI...",
       "source": "조선비즈",
       "date": "2026-08-27",
       "url": "https://biz.chosun.com/it-science/ict/2026/08/26/RIMNZ5HYB5DAJAZLOAGOX4K57I/?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-      "title": "[2026 전남광주미래산업박람회] 다원디엔에스, AI 개인 맞춤형 비대면 안부 확인 솔루션 홍보",
-      "summary": "이상 상황 발생 시 관제 플랫폼은 지자체 담당자 및 생활 관리사의 스마트폰 앱(AI 안부든든 앱)과 웹 대시보드로 실시간 푸시(Push) 알림 및 단문문자메시지(SMS)를 발송하며, AI 자동 안부콜을 통해 1차 안전을 확인한다....",
-      "source": "전자신문",
-      "date": "2026-08-27",
-      "url": "https://www.etnews.com/20260827000112"
     },
     {
       "title": "[현장] 매출 320% 뛴 풀무원 복지몰...'체감형 복지'에 꽂힌 기업들",
@@ -207,25 +179,11 @@ window.CURRENT_WEEK = {
       "url": "https://www.ngetnews.com/news/articleView.html?idxno=552699"
     },
     {
-      "title": "CS쉐어링, 추석 대비 성수기 고객 응대 체계 구축",
-      "summary": "일반 콜센터 BPO(아웃소싱)는 상세 요건정의서(RFP)를 통한 입찰 방식으로 진행되는 경우가 많다. 반면 CS쉐어링은 자체 CS를 운영하지만 체계화에 어려움을 겪는 기업을 위해 흩어진 자료를 매뉴얼로 정리한다. 이후...",
-      "source": "프라임경제",
-      "date": "2026-08-26",
-      "url": "http://www.newsprime.co.kr/news/article.html?no=745255"
-    },
-    {
       "title": "유베이스, 'AI 에이전트' 상용화…상담 30% 직접 처리",
       "summary": "통화시간 20%·후처리 80% 단축…운영비도 20% 절감 AI 업무처리위탁(BPO) 기업 유베이스 그룹은 컨택센터 상담 업무를 직접 수행하는 'AI 에이전트' 서비스를 본격 상용화한다고 26일 밝혔다. 이는 단순문의 응대를 넘어...",
       "source": "연합뉴스",
       "date": "2026-08-26",
       "url": "https://www.yna.co.kr/view/AKR20260826082100017?input=1195m"
-    },
-    {
-      "title": "상조회사 첫 조사권 받은 금감원",
-      "summary": "26일 금융계에 따르면 지난 20일 국회 본회의를 통과한 할부거래법 개정안에는 상조업에 대한 금감원의 조사... 금융 당국이 상조업에 대한 조사 권한을 갖게 된 것은 이번이 처음이다. 상조업체의 자금 모집·차입 등은...",
-      "source": "서울경제",
-      "date": "2026-08-26",
-      "url": "https://www.sedaily.com/article/20083630?ref=naver"
     },
     {
       "title": "상조 납입금으로 자녀 학원비 낸다···소노아임레디 '교육 전환' 확대",
