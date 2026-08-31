@@ -38,8 +38,8 @@
   --radius-lg: 18px;
   --radius-md: 12px;
   --radius-sm: 8px;
-  --shadow-card: 0 2px 12px rgba(46, 51, 58, 0.06);
-  --shadow-card-hover: 0 6px 20px rgba(46, 51, 58, 0.1);
+  --shadow-card: none;
+  --shadow-card-hover: none;
 }
 
 * { box-sizing: border-box; }
@@ -47,7 +47,7 @@
 body {
   margin: 0;
   font-family: "Pretendard", "Apple SD Gothic Neo", "Malgun Gothic", -apple-system, BlinkMacSystemFont, sans-serif;
-  background: var(--brand-gray-light);
+  background: #fff;
   color: var(--text-dark);
   font-size: 17px;
   line-height: 1.55;
@@ -305,7 +305,7 @@ img, svg { display: block; }
   padding: 8px 18px;
   border-radius: 999px;
   margin-bottom: 22px;
-  box-shadow: 0 4px 12px rgba(255, 122, 0, 0.3);
+  box-shadow: none;
 }
 
 .hero-card__kicker svg {
@@ -338,7 +338,7 @@ img, svg { display: block; }
   color: var(--brand-green);
   display: inline-block;
   letter-spacing: 0.01em;
-  text-shadow: 2px 2px 0 rgba(46, 51, 58, 0.08);
+  text-shadow: none;
 }
 
 .site-title--plain {
@@ -585,7 +585,7 @@ img, svg { display: block; }
   color: #fff;
   position: relative;
   z-index: 1;
-  filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.25));
+  filter: none;
 }
 
 .news-card__thumb::before {
