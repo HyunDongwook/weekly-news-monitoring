@@ -544,6 +544,7 @@ img, svg { display: block; }
   padding: 14px 16px;
   box-shadow: var(--shadow-card);
   transition: box-shadow 0.15s ease;
+  cursor: pointer;
   min-width: 0;
 }
 
@@ -836,6 +837,7 @@ img, svg { display: block; }
   gap: 14px;
   padding: 8px 22px;
   border-top: 1px solid var(--brand-gray-light);
+  cursor: pointer;
 }
 
 .archive-row__badge {
