@@ -550,7 +550,7 @@ img, svg { display: block; }
 
 .news-card:hover {
   box-shadow: var(--shadow-card-hover);
-  background: #eeeeee;
+  background: var(--brand-gray-light);
 }
 
 .news-card__top {
@@ -842,7 +842,7 @@ img, svg { display: block; }
 }
 
 .archive-row:hover {
-  background: #eeeeee;
+  background: var(--brand-gray-light);
 }
 
 .archive-row__badge {
