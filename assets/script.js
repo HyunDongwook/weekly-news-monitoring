@@ -219,16 +219,18 @@
         recBtn.classList.add("is-active");
         return;
       }
-      var titleEl = e.target.closest('[data-role="title"]');
-      if (titleEl) {
-        var tid = titleEl.getAttribute("data-id");
-        var url = titleEl.getAttribute("data-url");
-        var nv = incrementCount("view", tid);
-        var scope = titleEl.closest(".news-card, .archive-row") || document;
-        var vEl = scope.querySelector('[data-role="view-count"][data-id="' + tid + '"]');
-        if (vEl) vEl.textContent = formatNumber(nv);
-        if (url && url !== "#") {
-          window.open(url, "_blank", "noopener");
+      var card = e.target.closest(".news-card, .archive-row");
+      if (card) {
+        var titleEl = card.querySelector('[data-role="title"]');
+        if (titleEl) {
+          var tid = titleEl.getAttribute("data-id");
+          var url = titleEl.getAttribute("data-url");
+          var nv = incrementCount("view", tid);
+          var vEl = card.querySelector('[data-role="view-count"][data-id="' + tid + '"]');
+          if (vEl) vEl.textContent = formatNumber(nv);
+          if (url && url !== "#") {
+            window.open(url, "_blank", "noopener");
+          }
         }
       }
     });
