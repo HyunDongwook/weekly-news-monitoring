@@ -158,6 +158,13 @@ window.CURRENT_WEEK = {
       "url": "https://biz.chosun.com/it-science/ict/2026/08/26/RIMNZ5HYB5DAJAZLOAGOX4K57I/?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+      "title": "현대이지웰, 경기도 내 중소기업 재직청년 식사쿠폰 지원 나서",
+      "summary": "토탈복지솔루션 '현대이지웰'은 최근 경기도일자리재단과 경기도주식회사와 함께 경기도 내 중소기업 재직 청년의 식비 부담 완화와 생활복지 증진을 위한 '든든한끼, 매·마·점' 운영 업무협약을 체결했다. 김충진 현대이지웰...",
+      "source": "SR타임스",
+      "date": "2026-08-27",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=210964"
+    },
+    {
       "title": "[현장] 매출 320% 뛴 풀무원 복지몰...'체감형 복지'에 꽂힌 기업들",
       "summary": "외에 복지몰, 종합건강검진, 자기계발비 지원 등 다양한 복지제도를 마련하면서 우수 인재를 확보하기 위한... 부스 관계자는 \"오늘 50여개 기업에서 관심을 보여 복지몰에 직접 가입해보거나 관련 상담을 진행했다\"며...",
       "source": "스타트업투데이",
