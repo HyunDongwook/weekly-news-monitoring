@@ -20,6 +20,16 @@ body.embed-page .main-area {
   width: 100%;
 }
 
+body.embed-page .wrap {
+  max-width: none;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+body.embed-page .tabbar {
+  padding-left: 0;
+  padding-right: 0;
+}
 /* ---------------- Tab bar (사이드바 메뉴를 상단 탭으로 전환) ---------------- */
 
 .tabbar {
