@@ -21,11 +21,9 @@ body.embed-page .main-area {
 }
 
 body.embed-page .wrap {
-  max-width: none;
   padding-left: 0;
   padding-right: 0;
 }
-
 body.embed-page .tabbar {
   padding-left: 0;
   padding-right: 0;
