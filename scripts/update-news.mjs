@@ -46,6 +46,11 @@ const KEYWORDS = [
 const SOURCE_NAME_MAP = {
     'srtimes.kr': 'SR타임스',
     'financialpost.co.kr': '파이낸셜포스트',
+    'segyebiz.com': '세계비즈',
+    'gukjenews.com': '국제뉴스',
+    'byline.network': '바이라인네트워크',
+    'sisunnews.co.kr': '시선뉴스',
+    'skyedaily.com': '스카이데일리',
     'asiatime.co.kr': '아시아타임즈',
     'dnews.co.kr': '대한경제',
     'economytalk.kr': '이코노미톡뉴스',
