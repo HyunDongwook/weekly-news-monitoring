@@ -8,7 +8,7 @@ window.CURRENT_WEEK = {
   "periodLabel": "2026.09.07 ~ 2026.09.13",
   "periodStart": "2026-09-07",
   "periodEnd": "2026-09-13",
-  "generatedAt": "2026-09-14T10:05:23+09:00",
+  "generatedAt": "2026-09-14T10:09:10+09:00",
   "articles": [
     {
       "title": "네이버페이, 시대인재에 결제 인프라 공급…11개 지점·온라인 우선 적용",
@@ -30,13 +30,6 @@ window.CURRENT_WEEK = {
       "source": "한스경제",
       "date": "2026-09-13",
       "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=864389"
-    },
-    {
-      "title": "생보업계, 새 먹거리 '보험금청구권 신탁' 경쟁 치열",
-      "summary": "법인보험대리점(GA) 소속 설계사가 가입 가능성이 있는 고객을 발굴해 보험사와 연결할 수 있지만 고객 소개 절차와 영업실적 인정, 보상 기준 등이 마련되지 않아 적극적인 채널로 활용하기 어렵다는 지적도 나온다....",
-      "source": "데일리한국",
-      "date": "2026-09-13",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1405361"
     },
     {
       "title": "GA, 이제 '판매' 넘어 '소비자보호'까지 책임에 곤혹",
@@ -79,6 +72,13 @@ window.CURRENT_WEEK = {
       "source": "한국일보",
       "date": "2026-09-13",
       "url": "https://www.hankookilbo.com/news/article/A2026091309110003160?did=NA"
+    },
+    {
+      "title": "홍수 나면 보험금부터 지급…기후보험 '2.0' 온다",
+      "summary": "이상기후로 피해 규모와 유형이 변화하면서 기후보험도 진화하고 있다. 기상 지수 도달 시 손해조사 없이 신속하게 보험금을 지급하는 지수형 기후보험이 주목받고 있으며, 삼성화재·DB손보·한화손보·농협손보·현대해상 등이 '제주도 기후보험' 출시에 참여했고 KB손보도 전통시장 대상 상품을 선보이고 있다.",
+      "source": "매일일보",
+      "date": "2026-09-13",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1412911"
     },
     {
       "title": "[단독] \"내가 만든 계약인데 왜 이직하면 수수료 잃나\"…보험설계사들 ...",
