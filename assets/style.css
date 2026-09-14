@@ -374,6 +374,10 @@ body.legacy-title-font .site-title--plain {
   font-size: 30px;
 }
 
+body.embed-page .site-title--plain {
+     margin-top: 0;
+}
+
 .site-tagline {
   display: block;
   margin: 20px 0 0;
