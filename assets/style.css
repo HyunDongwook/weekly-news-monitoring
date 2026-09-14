@@ -4,6 +4,7 @@
    ========================================================================== */
 
 @import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css');
 
 :root {
   --brand-green: #ff7a00;
@@ -324,23 +325,21 @@ img, svg { display: block; }
 }
 
 .site-title__bold {
-  font-family: "Black Han Sans", sans-serif;
-  font-weight: 400;
-  font-size: 62px;
+  font-family: "Pretendard", sans-serif;
+  font-weight: 700;
+  font-size: 48px;
   color: #3a414d;
   letter-spacing: 0.01em;
 }
-
 .site-title__script {
-  font-family: "Black Han Sans", sans-serif;
-  font-weight: 400;
-  font-size: 62px;
+  font-family: "Pretendard", sans-serif;
+  font-weight: 700;
+  font-size: 48px;
   color: var(--brand-green);
   display: inline-block;
   letter-spacing: 0.01em;
   text-shadow: none;
 }
-
 .site-title--plain {
   display: block;
   font-family: "Black Han Sans", sans-serif;
