@@ -10,8 +10,8 @@
   "periodLabel": "2026.09.14 ~ 2026.09.20",
   "periodStart": "2026-09-14",
   "periodEnd": "2026-09-20",
-  "generatedAt": "2026-09-21T10:34:03+09:00",
-  "candidateCount": 347,
+  "generatedAt": "2026-09-21T13:47:26+09:00",
+  "candidateCount": 338,
   "candidates": [
     {
       "title": "경북도, 추석맞이 우수제품 특판전…최대 30% 할인",
@@ -262,19 +262,19 @@
       "matchedKeyword": "복지정책"
     },
     {
-      "title": "[사설]성장 강조 정책, “국민 삶 개선”으로 방향 조정할 시기",
-      "summary": "새 정책실장은 단순히 경제성장을 관리하는 것이 아니라 민생 현안과 복지정책에 깊은 이해와 전문성을 갖춘 인물 중에서 발탁해야 한다. 성장과 복지는 대립하는 개념이 아니다. 서민의 삶이 안정되고 소득 양극화가...",
-      "source": "경향신문",
-      "date": "2026-09-20",
-      "url": "https://www.khan.co.kr/article/202609201810001",
-      "matchedKeyword": "복지정책"
-    },
-    {
       "title": "추석 전 ‘4급 이상’ 승진 인사···전남광주통합특별시, 인사 시동",
       "summary": "광주청사에서는 복지정책관, 자치정책관, 시민참여보좌관실 등을 비롯해 일부 부서가 무안·동부청사로 이동한다. 무안청사도 새롭게 배치되는 부서를 맞기 위한 공간 정비에 들어가며, 조직 규모가 커진 동부청사 역시...",
       "source": "mdilbo.com",
       "date": "2026-09-20",
       "url": "http://www.mdilbo.com/detail/0kIA7d/758980",
+      "matchedKeyword": "복지정책"
+    },
+    {
+      "title": "[사설]성장 강조 정책, “국민 삶 개선”으로 방향 조정할 시기",
+      "summary": "새 정책실장은 단순히 경제성장을 관리하는 것이 아니라 민생 현안과 복지정책에 깊은 이해와 전문성을 갖춘 인물 중에서 발탁해야 한다. 성장과 복지는 대립하는 개념이 아니다. 서민의 삶이 안정되고 소득 양극화가...",
+      "source": "경향신문",
+      "date": "2026-09-20",
+      "url": "https://www.khan.co.kr/article/202609201810001",
       "matchedKeyword": "복지정책"
     },
     {
@@ -350,19 +350,19 @@
       "matchedKeyword": "BPO"
     },
     {
-      "title": "리벨리온 NPU, SKT AI 서비스 4종 확대 적용…일 트래픽 1400만건",
-      "summary": "리벨리온은 자사 NPU가 에이닷 통화요약을 시작으로 에이닷 음성합성기능, AI 고객센터(AICC), ‘스캠뱅가드’ 미끼문자 탐지 기능 등 SKT의 4개 핵심 서비스에 적용됐다고 21일 밝혔다. 양사는 지난해 6월 SKT 주요 AI...",
-      "source": "이데일리",
-      "date": "2026-09-20",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=02115606645582416&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "matchedKeyword": "고객센터"
-    },
-    {
       "title": "대한항공 2026 세계 100대 항공사 '톱10' 수성…'유일' 국가대표 클래스...",
       "summary": "인공지능(AI)과 클라우드 기술을 활용한 고객센터 구축 및 디지털 혁신 등이 평가 대상에 포함됐다 대한항공은 이와 별도로 진행되는 서비스 품질 평가에서도 스카이트랙스의 최고 등급을 유지하고 있다. 앞서...",
       "source": "더구루",
       "date": "2026-09-20",
       "url": "https://www.theguru.co.kr/news/article.html?no=107342",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "리벨리온 NPU, SKT AI 서비스 4종에 확대 적용…하루 1400만건 처리",
+      "summary": "지난해 12월 에이닷 통화요약에 처음 상용 적용된 이후 반년여 만에 음성합성, AI 고객센터, 보안 서비스까지 확대됐다. 리벨리온은 자사 NPU가 SK텔레콤의 ▲에이닷 통화요약 ▲에이닷 음성합성기능(스트리밍 TTS)...",
+      "source": "테크월드",
+      "date": "2026-09-20",
+      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=407181",
       "matchedKeyword": "고객센터"
     },
     {
@@ -446,19 +446,11 @@
       "matchedKeyword": "고객센터"
     },
     {
-      "title": "신한은행·국민은행·미래에셋증권 등 10개 금융사, 소비자보호 빛났다...",
+      "title": "신한은행·국민은행·미래에셋증권·한국투자증권 등 10개 금융사, 소비자보호 빛났다...",
       "summary": "▲소비자보호조직 부문에서는 한국투자증권(대표 김성환) ▲민원관리/고객센터 부문에서는 신한은행(행장 정상혁)과 교보생명(대표 신창재·조대규)이 공동 수상했고 ▲고령소비자보호 부문에서는 신한라이프(대표...",
       "source": "소비자가만드는신문",
       "date": "2026-09-20",
       "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764177",
-      "matchedKeyword": "고객센터"
-    },
-    {
-      "title": "[금융소비자보호 우수콘텐츠 대상] 교보생명, 분쟁민원 실무협의회·비...",
-      "summary": "소비자가만드는신문이 주최하고 금융위원회와 금융감독원이 후원하는 2026년 금융소비자보호 우수콘텐츠 대상에서 교보생명(대표 신창재·조대규)이 '민원관리 및 고객센터' 부문에서 대상을 수상했다. 보험금 청구 및...",
-      "source": "소비자가만드는신문",
-      "date": "2026-09-20",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764215",
       "matchedKeyword": "고객센터"
     },
     {
@@ -467,6 +459,14 @@
       "source": "소비자가만드는신문",
       "date": "2026-09-20",
       "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764102",
+      "matchedKeyword": "고객센터"
+    },
+    {
+      "title": "[금융소비자보호 우수콘텐츠 대상] 교보생명, 분쟁민원 실무협의회·비...",
+      "summary": "소비자가만드는신문이 주최하고 금융위원회와 금융감독원이 후원하는 2026년 금융소비자보호 우수콘텐츠 대상에서 교보생명(대표 신창재·조대규)이 '민원관리 및 고객센터' 부문에서 대상을 수상했다. 보험금 청구 및...",
+      "source": "소비자가만드는신문",
+      "date": "2026-09-20",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764215",
       "matchedKeyword": "고객센터"
     },
     {
@@ -686,54 +686,6 @@
       "matchedKeyword": "결제 서비스"
     },
     {
-      "title": "KTX 예매, 출발 두 달 전부터 가능…10월 1일 시행",
-      "summary": "철도 예매 기간 확대와 함께 외국인 관광객을 대상으로 한 안내·결제 서비스도 개선한다. 올해 1~8월 외국인 철도 이용객은 669만명으로 지난해 같은 기간보다 68% 늘었다. 국토부와 코레일은 외국어 안내와 해외 결제...",
-      "source": "세계비즈",
-      "date": "2026-09-20",
-      "url": "http://www.segyebiz.com/newsView/20260920507325?OutUrl=naver",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "다음 달부터 KTX 승차권 예매 두 달 전부터 가능",
-      "summary": "추가해 연말까지 지원 언어를 10개로 늘릴 계획입니다. 또 비자·마스터·유니온페이 등 해외 신용카드 외에 중국 간편결제 서비스 위챗페이와 알리페이로도 승차권을 구매할 수 있도록 시스템을 개발하고 있습니다.",
-      "source": "news.sbs.co.kr",
-      "date": "2026-09-20",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762186&plink=ORI&cooper=NAVER",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "KTX표 한 달 더 일찍 잡는다…10월부터 출발 두 달 전 예매",
-      "summary": "외국인 이용객 증가에 맞춰 다국어 안내와 결제 서비스도 확대한다. 올해 1∼8월 외국인 철도 이용객은 669만명으로 지난해 같은 기간보다 68% 늘었다. 현재 영어·중국어·일본어·태국어·베트남어 등 7개 언어를 지원하는...",
-      "source": "kbmaeil.com",
-      "date": "2026-09-20",
-      "url": "https://www.kbmaeil.com/article/20260920500370",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "KTX 승차권, 10월부터 출발 두 달 전 예매 가능…외국인 서비스도 확대",
-      "summary": "현재 비자와 마스터, 유니온페이 등 해외 신용카드를 중심으로 제공하는 결제서비스에 위챗페이와 알리페이 등 글로벌 간편결제를 추가하기 위한 시스템 개발을 추진한다. 김태병 국토부 철도국장은 “다국어 서비스와...",
-      "source": "데일리안",
-      "date": "2026-09-20",
-      "url": "https://www.dailian.co.kr/news/view/1692593/?sc=Naver",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "비씨 없는 우리카드, 페이북과 결별…독자카드 매출 절반 넘어",
-      "summary": "우리카드 관계자는 “독자적인 결제 서비스 경쟁력 강화를 위한 사업 방향을 지속적으로 추진하고 있다”며 “페이북 서비스 종료 이후 우리카드 고객은 우리WON페이를 통해 카드를 이용할 수 있다”고 말했다....",
-      "source": "전자신문",
-      "date": "2026-09-20",
-      "url": "https://www.etnews.com/20260918000040",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "\"글로벌 AI 안전 전략\" 미·중 협력에 달려",
-      "summary": "앱이자 결제 서비스 등을 제공하는 위챗에서 AI 취약점을 발견한 사실을 언급했다. 지난 5월 중순 트럼프 대통령과 시진핑 주석의 베이징 정상회담 이후 중국 관리들은 양국이 인공지능 개발 및 거버넌스에 대한...",
-      "source": "newstown.co.kr",
-      "date": "2026-09-20",
-      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=716361",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
       "title": "[더벨][클리니컬 리포트] 올릭스, 황반변성 물질 2상 돌입 '2000억' 실탄...",
       "summary": "Atrophy, GA)'을 동반한 노인성 황반변성(AMD) 환자를 대상으로 한 'OLX301A'의 호주 임상 2a상 임상시험계획을... 2a상의 대상은 건성 황반변성의 하위 범주인 GA 환자로 한정했다. 습성 황반변성 환자에 대한 구체적 임상...",
       "source": "더벨",
@@ -750,19 +702,19 @@
       "matchedKeyword": "GA"
     },
     {
-      "title": "GA 금융보안원 가입 확대…1억원대 회비 부담에 '평가 연계 기준' 촉각",
-      "summary": "법인보험대리점(GA)의 금융보안원 가입이 확대되면서 업계의 관심이 가입 자체보다 비용과 평가 기준으로 옮겨가고 있다. 금융보안원 가입은 법적 의무가 아니지만, 대형 GA 내부통제 평가에서 정보보안 비중과 가점...",
-      "source": "보험매일",
-      "date": "2026-09-20",
-      "url": "http://www.fins.co.kr/news/articleView.html?idxno=110004",
-      "matchedKeyword": "GA"
-    },
-    {
       "title": "700종신 첫 성적표 나온다…생보·GA '포스트700' 찾기",
       "summary": "이후 다른 생보사들도 원금 회복 시점을 앞당긴 유사 상품을 잇달아 출시하면서 법인보험대리점(GA) 채널의... GA 현장에서는 환급률을 중시하는 고객 수요가 연금보험으로 일부 이동하는 흐름도 나타나고 있다. 700종신이...",
       "source": "보험매일",
       "date": "2026-09-20",
       "url": "http://www.fins.co.kr/news/articleView.html?idxno=110011",
+      "matchedKeyword": "GA"
+    },
+    {
+      "title": "GA 금융보안원 가입 확대…1억원대 회비 부담에 '평가 연계 기준' 촉각",
+      "summary": "법인보험대리점(GA)의 금융보안원 가입이 확대되면서 업계의 관심이 가입 자체보다 비용과 평가 기준으로 옮겨가고 있다. 금융보안원 가입은 법적 의무가 아니지만, 대형 GA 내부통제 평가에서 정보보안 비중과 가점...",
+      "source": "보험매일",
+      "date": "2026-09-20",
+      "url": "http://www.fins.co.kr/news/articleView.html?idxno=110004",
       "matchedKeyword": "GA"
     },
     {
@@ -870,19 +822,19 @@
       "matchedKeyword": "멤버십"
     },
     {
-      "title": "[시선] 과금 유저는 호구?…넥슨 'FC 온라인' 상품 오류가 남긴 박탈감",
-      "summary": "또한 기존 과금 이용자 대상으로는 9월 멤버십 등급에 맞춰 차등 금액의 FC를 보상하고, 전체 이용자를 대상으로는 2000만 BP와 할인 쿠폰, 게임 참여권 등을 수령할 수 있도록 조치했다. 하지만 단편적인 시세 차이만을...",
-      "source": "pointe.co.kr",
-      "date": "2026-09-20",
-      "url": "https://www.pointe.co.kr/news/articleView.html?idxno=84974",
-      "matchedKeyword": "멤버십"
-    },
-    {
       "title": "SKT-LG U+-KT, ��3ȸ ���ѹα� ��ȸ����ġ �佺Ÿ ����...������ ���� ������ ��û ��� ����...",
       "summary": "KT멤버십 고객, 장기고객, Y고객(만19세~34세)이면 누구나 응모할 수 있으며, 총 9천 명의 고객을 초청할 예정이다. KT는 가수 공연 외 현장에서 즐길 수 있는 체험 프로그램과 이벤트를 마련한다. 보야지 페스티벌과...",
       "source": "여성소비자신문",
       "date": "2026-09-20",
       "url": "http://www.wsobi.com/news/articleView.html?idxno=318511",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "[시선] 과금 유저는 호구?…넥슨 'FC 온라인' 상품 오류가 남긴 박탈감",
+      "summary": "또한 기존 과금 이용자 대상으로는 9월 멤버십 등급에 맞춰 차등 금액의 FC를 보상하고, 전체 이용자를 대상으로는 2000만 BP와 할인 쿠폰, 게임 참여권 등을 수령할 수 있도록 조치했다. 하지만 단편적인 시세 차이만을...",
+      "source": "pointe.co.kr",
+      "date": "2026-09-20",
+      "url": "https://www.pointe.co.kr/news/articleView.html?idxno=84974",
       "matchedKeyword": "멤버십"
     },
     {
@@ -942,19 +894,19 @@
       "matchedKeyword": "멤버십"
     },
     {
-      "title": "[정용진 책임경영 100일] 'C커머스' 거센 침투...알리와 협업전선 성과 촉각",
-      "summary": "국내에서는 셀러 지원과 스타배송, 멤버십, 이마트 장보기 등 기존 자산을 강화하고 해외에서는 알리바바 계열 플랫폼을 활용해 국내 판매자의 판로를 넓히는 방식이다. 지마켓에 따르면 글로벌 역직구 사업은 2025년...",
-      "source": "딜사이트",
-      "date": "2026-09-20",
-      "url": "https://dealsite.co.kr/articles/169269",
-      "matchedKeyword": "멤버십"
-    },
-    {
       "title": "신세계百, 최대규모 '글로벌 쇼핑 페스타'...세금 환급부터 상품권",
       "summary": "신세계백화점 글로벌 멤버십에 가입한 외국인 고객이 비짓코리아 회원으로 가입하고 쿠폰을 다운로드하면 무료 음료 쿠폰, 상품권 사은행사 참여권, 설화수 윤조에센스 8ml 무료 교환권 등 17종 혜택을 담은 '메가 스페셜...",
       "source": "slist.kr",
       "date": "2026-09-20",
       "url": "https://www.slist.kr/news/articleView.html?idxno=767600",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "[정용진 책임경영 100일] 'C커머스' 거센 침투...알리와 협업전선 성과 촉각",
+      "summary": "국내에서는 셀러 지원과 스타배송, 멤버십, 이마트 장보기 등 기존 자산을 강화하고 해외에서는 알리바바 계열 플랫폼을 활용해 국내 판매자의 판로를 넓히는 방식이다. 지마켓에 따르면 글로벌 역직구 사업은 2025년...",
+      "source": "딜사이트",
+      "date": "2026-09-20",
+      "url": "https://dealsite.co.kr/articles/169269",
       "matchedKeyword": "멤버십"
     },
     {
@@ -982,19 +934,19 @@
       "matchedKeyword": "멤버십"
     },
     {
-      "title": "신세계百, 외국인 쇼핑 큰손 잡는다…‘글로벌 쇼핑 페스타’ 개최",
-      "summary": "신세계백화점 글로벌 멤버십에 가입한 외국인 고객이 비짓코리아 회원으로 가입하고 쿠폰을 내려받으면 무료 음료 쿠폰, 상품권 사은행사 참여권, 설화수 윤조에센스 8㎖ 무료 교환권 등 총 17종의 혜택이 담긴 ‘메가...",
-      "source": "브릿지경제",
-      "date": "2026-09-20",
-      "url": "https://www.viva100.com/article/20260920500669",
-      "matchedKeyword": "멤버십"
-    },
-    {
       "title": "신세계百, 올해 최대 규모 외국인 쇼핑 행사 연다",
       "summary": "신세계 글로벌 멤버십에 가입한 외국인 고객이 비짓코리아 회원으로 가입하고 쿠폰을 내려받으면 무료 음료 쿠폰과 상품권 사은행사 참여권, 설화수 윤조에센스 교환권 등 17종의 혜택을 받을 수 있다. 알리페이...",
       "source": "digitalchosun.dizzo.com",
       "date": "2026-09-20",
       "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/09/20/2026092080029.html",
+      "matchedKeyword": "멤버십"
+    },
+    {
+      "title": "신세계百, 외국인 쇼핑 큰손 잡는다…‘글로벌 쇼핑 페스타’ 개최",
+      "summary": "신세계백화점 글로벌 멤버십에 가입한 외국인 고객이 비짓코리아 회원으로 가입하고 쿠폰을 내려받으면 무료 음료 쿠폰, 상품권 사은행사 참여권, 설화수 윤조에센스 8㎖ 무료 교환권 등 총 17종의 혜택이 담긴 ‘메가...",
+      "source": "브릿지경제",
+      "date": "2026-09-20",
+      "url": "https://www.viva100.com/article/20260920500669",
       "matchedKeyword": "멤버십"
     },
     {
@@ -1006,11 +958,11 @@
       "matchedKeyword": "멤버십"
     },
     {
-      "title": "\"외국인 관광객 겨냥\"…신세계百, 올해 최대 규모 '글로벌 쇼핑 페스타...",
-      "summary": "신세계백화점 글로벌 멤버십에 가입한 외국인 고객이 비짓코리아 회원으로 가입하고 쿠폰을 다운로드하면 무료 음료 쿠폰, 상품권 사은행사 참여권, 설화수 윤조에센스 8ml 무료 교환권 등 17종 혜택을 담은 '메가...",
-      "source": "businessplus.kr",
+      "title": "배달앱 수수료 상한제 막혔는데… 정부 압박, 법 안팎서 계속",
+      "summary": "이 관계자는 “배달비는 라이더의 보수와 연결돼 있어 단순히 줄일 수 있는 비용이 아니다”라며 “수수료를 제한하면서 다른 비용을 조정하게 되면 결국 소비자에게 배달비 부담이 커지거나 할인·쿠폰·멤버십 혜택이...",
+      "source": "조선비즈",
       "date": "2026-09-20",
-      "url": "https://www.businessplus.kr/news/articleView.html?idxno=117127",
+      "url": "https://biz.chosun.com/distribution/food/2026/09/21/4QCPPER3UNEGPNH7PKT2YMGKSM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
       "matchedKeyword": "멤버십"
     },
     {
@@ -1030,14 +982,6 @@
       "matchedKeyword": "구독"
     },
     {
-      "title": "마포구, 공식 유튜브 'my Mapo' 구독·좋아요 이벤트 진행",
-      "summary": "마포구는 오는 28일까지 공식 유튜브 채널 'my Mapo(마이마포)'에서 '구독&좋아요' 이벤트를 진행한다고 21일 밝혔다. 'my Mapo'는 서울시 자치구 유튜브 채널 중 5만 2000여 명의 구독자를 확보하고 있다. 구정 주요 정책과...",
-      "source": "신아일보",
-      "date": "2026-09-20",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064431",
-      "matchedKeyword": "구독"
-    },
-    {
       "title": "[스타트업 모닝커피 1402회] 피케이씨업사이클링, 소상공인 결제·정산 데이터 통합 인프라 및 핀테크 SaaS",
       "summary": "SaaS 구독료'를 중심으로 설계되었습니다. 나아가 축적된 정규화 정산 데이터를 기반으로 즉시정산, 선지급... SaaS 구독 매출 비중을 얼마나 빠르게 높여갈 수 있는지가 향후 핀테크 인프라 기업으로서의 기업가치를...",
       "source": "platum.kr",
@@ -1046,19 +990,19 @@
       "matchedKeyword": "구독"
     },
     {
+      "title": "마포구, 공식 유튜브 'my Mapo' 구독·좋아요 이벤트 진행",
+      "summary": "마포구는 오는 28일까지 공식 유튜브 채널 'my Mapo(마이마포)'에서 '구독&좋아요' 이벤트를 진행한다고 21일 밝혔다. 'my Mapo'는 서울시 자치구 유튜브 채널 중 5만 2000여 명의 구독자를 확보하고 있다. 구정 주요 정책과...",
+      "source": "신아일보",
+      "date": "2026-09-20",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064431",
+      "matchedKeyword": "구독"
+    },
+    {
       "title": "'2031년까지 파트너' 현대차, 쉘과 인도네시아 고객 접점 확대",
       "summary": "수상자들은 현대차 구독 서비스 '현대 서브스크라이브(Hyundai Subscribe)'를 통해 중형 세단 아이오닉 6를 한 달간 이용할 수 있는 혜택을 받았다. 각 딜러에서 정비 서비스를 가장 꾸준히 이용한 고객에게는 100만...",
       "source": "더구루",
       "date": "2026-09-20",
       "url": "https://www.theguru.co.kr/news/article.html?no=107343",
-      "matchedKeyword": "구독"
-    },
-    {
-      "title": "남규리, 드디어 '10만' 유튜버 \"첫 촬영만 14시간 찍었는데…감격\" (귤멍...",
-      "summary": "실버버튼 언박싱과 구독자 Q&A 함께 해요!'라는 제목의 영상이 게재됐다. 공개된 영상에서 남규리는 유튜브... 제 인생에 없어서는 안 될 보석 같은 채널\"이라고 구독자들을 향한 진심 어린 감사를 전했다. 이어 10만 구독자...",
-      "source": "xportsnews.com",
-      "date": "2026-09-20",
-      "url": "https://www.xportsnews.com/article/2197977",
       "matchedKeyword": "구독"
     },
     {
@@ -1075,6 +1019,14 @@
       "source": "apnews.kr",
       "date": "2026-09-20",
       "url": "https://www.apnews.kr/news/articleView.html?idxno=3051395",
+      "matchedKeyword": "구독"
+    },
+    {
+      "title": "남규리, 드디어 '10만' 유튜버 \"첫 촬영만 14시간 찍었는데…감격\" (귤멍...",
+      "summary": "실버버튼 언박싱과 구독자 Q&A 함께 해요!'라는 제목의 영상이 게재됐다. 공개된 영상에서 남규리는 유튜브... 제 인생에 없어서는 안 될 보석 같은 채널\"이라고 구독자들을 향한 진심 어린 감사를 전했다. 이어 10만 구독자...",
+      "source": "xportsnews.com",
+      "date": "2026-09-20",
+      "url": "https://www.xportsnews.com/article/2197977",
       "matchedKeyword": "구독"
     },
     {
@@ -1126,7 +1078,7 @@
       "matchedKeyword": "구독"
     },
     {
-      "title": "장애 아이 있어 전용 주차했는데…유튜브에 박제한 30대 유죄 판결",
+      "title": "장애아 있어 전용 주차했는데…유튜브에 박제한 30대 ‘유죄’",
       "summary": "재판부는 “피고인은 구독자 수 30만 명이 넘는 자신의 유튜브 채널을 통해 네 차례에 걸쳐 피해자 명예를 훼손하고 개인정보를 공개했다”며 “범행 경위와 내용, 수단과 방법, 횟수 등에 비춰 죄질이 매우 좋지 않을...",
       "source": "동아일보",
       "date": "2026-09-20",
@@ -1206,11 +1158,11 @@
       "matchedKeyword": "구독"
     },
     {
-      "title": "'여수섬박람회' 전체 사업비 1800억 어디로?",
-      "summary": "◇ 1만4900원 게장백반·1t 트럭 뱃노래 도마…조직위 \"보완하겠다\" 구독자 약 64만명을 보유한 음식 리뷰 유튜버 '맛상무'가 최근 박람회장을 방문해 행사장 내부 식당에서 1만4900원짜리 간장게장 백반을 주문한 영상이...",
-      "source": "newswhoplus.com",
+      "title": "[AI핫이슈] 빅테크·스타트업까지...퍼스널 AI 에이전트 초반 레이스 후끈",
+      "summary": "한컴은 12월 말 미국에서 노마디안 베타 서비스를 오픈하고 2027년 구독형 서비스로 상용화한다. AI 워크 에이전트 기업 마드라스체크는 자사 협업툴 플로우(flow)가 오픈AI 챗GPT와 앤트로픽 클로드에 공식 앱으로...",
+      "source": "digitaltoday.co.kr",
       "date": "2026-09-20",
-      "url": "https://www.newswhoplus.com/news/articleView.html?idxno=70118",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701903",
       "matchedKeyword": "구독"
     },
     {
@@ -1366,19 +1318,19 @@
       "matchedKeyword": "시니어"
     },
     {
-      "title": "빈집과 고령화 안은 제주 마을에 스타트업이 들어갔다",
-      "summary": "건강 케어 분야에서는 카카오의 시니어 디지털 교육 키트와 샘봄솔루션의 AI 전화 기반 가족 건강관리 서비스를 소개했다. AI로 과거 모습을 재현한 사진을 촬영해 인화해 주는 프로그램도 함께 진행했다. 빈집 분야에서는...",
-      "source": "platum.kr",
-      "date": "2026-09-20",
-      "url": "https://platum.kr/archives/294905",
-      "matchedKeyword": "시니어"
-    },
-    {
       "title": "[NC신간] 미술관에서 만난 인간 생애의 희로애락",
       "summary": "현대사회는 저속노화나 액티브 시니어 같은 신조어를 양산하며 노년을 끊임없이 관리하고 통제해야 할 프로젝트 취급을 일삼는다. 병들고 쇠약해지는 현상을 개인의 실패라 규정하며 늙음 자체를 공포의 대상처럼...",
       "source": "nc.press",
       "date": "2026-09-20",
       "url": "https://www.nc.press/news/articleView.html?idxno=626904",
+      "matchedKeyword": "시니어"
+    },
+    {
+      "title": "빈집과 고령화 안은 제주 마을에 스타트업이 들어갔다",
+      "summary": "건강 케어 분야에서는 카카오의 시니어 디지털 교육 키트와 샘봄솔루션의 AI 전화 기반 가족 건강관리 서비스를 소개했다. AI로 과거 모습을 재현한 사진을 촬영해 인화해 주는 프로그램도 함께 진행했다. 빈집 분야에서는...",
+      "source": "platum.kr",
+      "date": "2026-09-20",
+      "url": "https://platum.kr/archives/294905",
       "matchedKeyword": "시니어"
     },
     {
@@ -1390,19 +1342,19 @@
       "matchedKeyword": "시니어"
     },
     {
-      "title": "송선숙 시흥시 남부노인복지관장 \"어르신들 '하루가 즐겁다' 느꼈으면\"",
-      "summary": "시니어 뷰티, 생활영어, 디지털 교실, 글쓰기, 여행 일본어, 금융 교실, 캘리그래피, 라인댄스, 서예, 노래 교실 등 배울 거리도 즐비하다. 맞춤 운동과 낙상 예방 체조, 건강 측정과 상담 등 건강 프로그램도 풍성하다....",
-      "source": "incheonilbo.com",
-      "date": "2026-09-20",
-      "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332542",
-      "matchedKeyword": "시니어"
-    },
-    {
       "title": "GH·SH·iH, 공공주택 평가 기준 ‘공급량’서 ‘입주 후 삶의 질’로 전...",
       "summary": "이어 경연에 나선 주제 발표자들은 지역사회 계속 거주(Aging In Community) 실현 위한 공공주택 커뮤니티 서비스 운영 전략, 저출산·고령화 대응한 iH 육아·시니어 커뮤니티 친화 주거모델 등을 발표했다. 종합토론은 임광빈...",
       "source": "쿠키뉴스",
       "date": "2026-09-20",
       "url": "https://www.kukinews.com/article/view/kuk202609210005",
+      "matchedKeyword": "시니어"
+    },
+    {
+      "title": "송선숙 시흥시 남부노인복지관장 \"어르신들 '하루가 즐겁다' 느꼈으면\"",
+      "summary": "시니어 뷰티, 생활영어, 디지털 교실, 글쓰기, 여행 일본어, 금융 교실, 캘리그래피, 라인댄스, 서예, 노래 교실 등 배울 거리도 즐비하다. 맞춤 운동과 낙상 예방 체조, 건강 측정과 상담 등 건강 프로그램도 풍성하다....",
+      "source": "incheonilbo.com",
+      "date": "2026-09-20",
+      "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332542",
       "matchedKeyword": "시니어"
     },
     {
@@ -1446,11 +1398,11 @@
       "matchedKeyword": "시니어"
     },
     {
-      "title": "[금융소비자보호 우수콘텐츠 대상] 하나은행, 초등생 용돈교육부터 어르신 챗GPT까지…생애주기 7개 과정 운영",
-      "summary": "/ 사진=하나은행 제공 고령층 과정인 시니어 금융 교육은 강사가 사회복지 기관을 찾아가는 방식이다. 2026년 교육 기간은 3월 25일부터 12월 31일까지로 사회복지 기관 어르신 900여 명이 대상이다. 가계 재무관리와...",
+      "title": "[금융소비자보호 우수콘텐츠 대상] 신한라이프, AI 상담내용 요약·간편...",
+      "summary": "신한라이프는 생성형 AI 기반 상담 요약 안내 서비스와 고령층 전용 상담 채널인 'SOL메이트 시니어 콜센터... 고령층 고객은 상대적으로 상담 시간이 길고 보험용어를 어려워한다는 점을 고려해 'SOL메이트 시니어 콜센터...",
       "source": "소비자가만드는신문",
       "date": "2026-09-20",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764207",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764227",
       "matchedKeyword": "시니어"
     },
     {
@@ -1540,22 +1492,6 @@
       "date": "2026-09-19",
       "url": "https://www.joongboo.com/news/articleView.html?idxno=363737259",
       "matchedKeyword": "복지플랫폼"
-    },
-    {
-      "title": "[크립토리뷰] 해시드, 아부다비 투자진흥청과 MOU 체결…한국-아부다비...",
-      "summary": "아크는 이번 메인넷 전환과 함께 대출, 외환, 토큰화 자산, 스테이블코인 결제 서비스를 새롭게 선보인다. KRW1도 이 시점에 맞춰 실제 연동을 완료하며 정식 서비스를 시작한다. 더불어 비댁스는 향후 서클의...",
-      "source": "더구루",
-      "date": "2026-09-19",
-      "url": "https://www.theguru.co.kr/news/article.html?no=107315",
-      "matchedKeyword": "결제 서비스"
-    },
-    {
-      "title": "비자, 크로스민트 밈코인 카드 보상 허점 다음 주 차단",
-      "summary": "앞서 로빈후드 월렛(Robinhood Wallet)과 포모(Fomo)에서는 크로스민트 결제 서비스를 통해 신용카드로 밈코인을 구매할 수 있었고, 일부 거래에 일반 카드 포인트나 캐시백이 적용됐다. 크로스민트 기반 밈코인...",
-      "source": "tokenpost.kr",
-      "date": "2026-09-19",
-      "url": "https://www.tokenpost.kr/news/breaking/410854",
-      "matchedKeyword": "결제 서비스"
     },
     {
       "title": "[임상 업데이트] 올릭스, 황반변성 치료제 ‘OLX301A’ 호주 2a상 신청",
@@ -1782,7 +1718,7 @@
       "matchedKeyword": "BPO"
     },
     {
-      "title": "[기획] 상장 시험대 선 뱅크샐러드…‘헬스케어 실적’으로 몸값 입증할...",
+      "title": "[기획] 상장 시험대 선 뱅크샐러드&hellip;&lsquo;헬스케어 실적&rsquo;으로 몸값 입증할까",
       "summary": "법인보험대리점(GA) 영역으로 중심축을 재편하며 수익성 증명에 나서고 있다는 해석이다. 이는 과거 대비... ◇ AI OS 기반 GA 자회사·유전자 검사·AI 에이전트 연계해 수익성 입증 총력 또한 뱅크샐러드는 몸값을 제대로...",
       "source": "서울경제TV",
       "date": "2026-09-18",
@@ -2078,22 +2014,6 @@
       "matchedKeyword": "복지플랫폼"
     },
     {
-      "title": "태양광 발전수익, 취약계층 전기료로…가스공사 '에너지복지 ESG' 확산",
-      "summary": "장기적으로는 이러한 모델을 공공임대주택과 복지시설, 공공청사 등으로 확대할 경우 지역 단위 에너지복지 플랫폼으로 발전할 가능성도 있다. 유휴공간별 발전 잠재량을 발굴하고 시민참여와 공기업의 ESG 사업을...",
-      "source": "energydaily.co.kr",
-      "date": "2026-09-17",
-      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203343",
-      "matchedKeyword": "복지플랫폼"
-    },
-    {
-      "title": "[노동자에게 휴가를] 근로자 휴가지원 9년간 91만명 참여",
-      "summary": "기업복지 플랫폼 위펀, 여행 플랫폼 여기어때 등과 협업해 신규 참여자에게 휴가샵 포인트를 지급하고, 지방 근로자에게 추가 포인트를 주거나 전북지역 여행상품을 할인하는 지역 특화 사업도 추진했다. 관광공사는...",
-      "source": "내일신문",
-      "date": "2026-09-17",
-      "url": "https://www.naeil.com/news/read/602601?ref=naver",
-      "matchedKeyword": "복지플랫폼"
-    },
-    {
       "title": "하나카드ㆍ대한방사선사협회, 제휴카드 업무협약 체결…회원 보수교육비 할인 등 맞춤혜택 - 퍼블릭뉴스통신(Public news",
       "summary": "하나카드가 사단법인 대한방사선사협회와 손잡고 의료 기사 직군 종사자들을 위한 맞춤형 복지 제휴카드를 선보였다. 이들은 9월 17일 업무협약을 맺고 전국 병의원 현장에서 방사선 검사와 영상 진단을 수행하는...",
       "source": "ttlnews.com",
@@ -2116,6 +2036,14 @@
       "date": "2026-09-17",
       "url": "https://www.ibabynews.com/news/articleView.html?idxno=154616",
       "matchedKeyword": "보험DB"
+    },
+    {
+      "title": "[노동자에게 휴가를] 근로자 휴가지원 9년간 91만명 참여",
+      "summary": "정부와 기업이 근로자의 국내여행 경비를 지원하는 ‘근로자 휴가지원사업’이 참여 대상을 중견기업까지 넓히며 보편적 휴가복지 제도로 영역을 확대하고 있다. 내년부터는 사업 명칭을 ‘노동자 휴가지원사업’...",
+      "source": "내일신문",
+      "date": "2026-09-17",
+      "url": "https://www.naeil.com/news/read/602601?ref=naver",
+      "matchedKeyword": "근로자휴가지원"
     },
     {
       "title": "“휴가비 40만원 지원해드립니다”…근로자 휴가지원사업, 배달라이더까지 확대",
