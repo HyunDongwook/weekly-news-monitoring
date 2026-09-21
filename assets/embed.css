@@ -45,6 +45,10 @@ body.embed-page .news-card__source {
   width: 96px;
 }
 
+body.embed-page .archive-row__badge {
+  display: none;
+}
+
 /* ---------------- Tab bar (사이드바 메뉴를 상단 탭으로 전환) ---------------- */
 
 .tabbar {
