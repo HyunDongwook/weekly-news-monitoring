@@ -60,7 +60,7 @@ body.embed-page .news-card__source {
   align-items: center;
   gap: 7px;
   padding: 13px 20px;
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 800;
   color: var(--text-muted);
   border-bottom: 4px solid transparent;
