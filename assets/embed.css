@@ -33,6 +33,14 @@ body.embed-page .news-card__thumb {
   display: none;
 }
 
+body.embed-page .news-card__footer-meta {
+  margin-left: 0;
+}
+
+body.embed-page .news-card__source {
+  width: 96px;
+}
+
 /* ---------------- Tab bar (사이드바 메뉴를 상단 탭으로 전환) ---------------- */
 
 .tabbar {
