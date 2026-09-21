@@ -44,6 +44,12 @@ const KEYWORDS = [
 // Maps bare hostnames to their real Korean media name (verified by visiting
 // each site directly, not guessed from the domain).
 const SOURCE_NAME_MAP = {
+    'news.tf.co.kr': '더팩트',
+    'junggi.co.kr': '중기이코노미',
+    'kpinews.kr': 'KPI뉴스',
+    'venturesquare.net': '벤처스퀘어',
+    'smedaily.co.kr': '중소기업신문',
+    'kmecnews.co.kr': '기계설비신문',
     'srtimes.kr': 'SR타임스',
     'financialpost.co.kr': '파이낸셜포스트',
     'segyebiz.com': '세계비즈',
