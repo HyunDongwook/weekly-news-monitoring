@@ -37,6 +37,10 @@ body.embed-page .news-card__footer-meta {
   margin-left: 0;
 }
 
+body.embed-page .news-card__divider {
+  margin-left: 0;
+}
+
 body.embed-page .news-card__source {
   width: 96px;
 }
