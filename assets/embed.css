@@ -28,22 +28,27 @@ body.embed-page .tabbar {
   padding-left: 0;
   padding-right: 0;
 }
+
+body.embed-page .news-card__thumb {
+  display: none;
+}
+
 /* ---------------- Tab bar (사이드바 메뉴를 상단 탭으로 전환) ---------------- */
 
 .tabbar {
   display: flex;
   gap: 8px;
   border-bottom: 2px solid var(--brand-gray);
-  padding: 24px 32px 0;
+  padding: 0 32px 0;
   background: #fff;
 }
 
 .tabbar__item {
   display: flex;
   align-items: center;
-  gap: 10px;
-  padding: 18px 28px;
-  font-size: 19px;
+  gap: 7px;
+  padding: 13px 20px;
+  font-size: 13px;
   font-weight: 800;
   color: var(--text-muted);
   border-bottom: 4px solid transparent;
@@ -53,8 +58,8 @@ body.embed-page .tabbar {
 }
 
 .tabbar__item svg {
-  width: 24px;
-  height: 24px;
+  width: 17px;
+  height: 17px;
   flex-shrink: 0;
 }
 
