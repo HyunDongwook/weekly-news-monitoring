@@ -965,6 +965,17 @@ body.embed-page .site-title--plain {
   cursor: default;
 }
 
+.weeks-pagination-wrap {
+  background: #fff;
+  border: 1px solid var(--brand-gray);
+  border-radius: var(--radius-lg);
+  margin-top: 4px;
+}
+
+.weeks-pagination-wrap .archive-pagination {
+  border-top: none;
+}
+
 .archive-empty, .stats-empty {
   text-align: center;
   padding: 70px 20px;
