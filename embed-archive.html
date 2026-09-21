@@ -8,7 +8,7 @@
 <link rel="icon" href="assets/favicon-32.png" sizes="32x32" type="image/png">
 <link rel="icon" href="assets/favicon.ico" sizes="any">
 <link rel="apple-touch-icon" href="assets/favicon-180.png">
-<link rel="stylesheet" href="assets/style.css?v=75">
+<link rel="stylesheet" href="assets/style.css?v=76">
 <link rel="stylesheet" href="assets/embed.css?v=3">
 </head>
 <body class="embed-page">
@@ -60,11 +60,12 @@
     }
 
     var PAGE_SIZE = 10;
+    var WEEKS_PAGE_SIZE = 10;
+    var weekEls = [];
 
-    weeks.forEach(function (week, idx) {
+    weeks.forEach(function (week) {
       var details = document.createElement("details");
       details.className = "archive-week";
-      if (idx === 0) details.open = true;
 
       var articles = week.articles || [];
       var count = articles.length;
@@ -125,14 +126,63 @@
 
       details.addEventListener("toggle", function () {
         if (!details.open) return;
-        var allDetails = listEl.querySelectorAll("details.archive-week");
-        allDetails.forEach(function (d) {
+        weekEls.forEach(function (d) {
           if (d !== details) d.open = false;
         });
       });
 
-      listEl.appendChild(details);
+      weekEls.push(details);
     });
+
+    var weeksTotalPages = Math.max(1, Math.ceil(weekEls.length / WEEKS_PAGE_SIZE));
+    var weeksCurrentPage = 1;
+
+    var weeksPaginationWrap = document.createElement("div");
+    weeksPaginationWrap.className = "weeks-pagination-wrap";
+    var weeksPaginationEl = document.createElement("div");
+    weeksPaginationEl.className = "archive-pagination";
+    weeksPaginationWrap.appendChild(weeksPaginationEl);
+
+    function renderWeeksPagination() {
+      if (weeksTotalPages <= 1) {
+        weeksPaginationWrap.style.display = "none";
+        return;
+      }
+      weeksPaginationWrap.style.display = "";
+      var html =
+        '<button type="button" class="archive-pagination__btn" data-page="' + (weeksCurrentPage - 1) + '"' +
+        (weeksCurrentPage === 1 ? " disabled" : "") + '>‹</button>';
+      for (var p = 1; p <= weeksTotalPages; p++) {
+        html +=
+          '<button type="button" class="archive-pagination__btn' + (p === weeksCurrentPage ? " is-active" : "") + '" data-page="' + p + '">' +
+          p + "</button>";
+      }
+      html +=
+        '<button type="button" class="archive-pagination__btn" data-page="' + (weeksCurrentPage + 1) + '"' +
+        (weeksCurrentPage === weeksTotalPages ? " disabled" : "") + '>›</button>';
+      weeksPaginationEl.innerHTML = html;
+    }
+
+    function renderWeeksPage(page) {
+      weeksCurrentPage = page;
+      listEl.innerHTML = "";
+      var start = (page - 1) * WEEKS_PAGE_SIZE;
+      weekEls.slice(start, start + WEEKS_PAGE_SIZE).forEach(function (d, i) {
+        d.open = (i === 0);
+        listEl.appendChild(d);
+      });
+      renderWeeksPagination();
+    }
+
+    weeksPaginationEl.addEventListener("click", function (e) {
+      var btn = e.target.closest(".archive-pagination__btn");
+      if (!btn || btn.disabled) return;
+      var page = parseInt(btn.getAttribute("data-page"), 10);
+      if (page >= 1 && page <= weeksTotalPages) renderWeeksPage(page);
+    });
+
+    renderWeeksPage(1);
+    listEl.parentNode.insertBefore(weeksPaginationWrap, listEl.nextSibling);
 
     window.NewsSite.attachInteractionHandlers(listEl);
   })();
