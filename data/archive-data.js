@@ -123,8 +123,7 @@ window.ARCHIVE_WEEKS = [
       }
     ]
   },
-
-   {
+  {
     "periodLabel": "2026.09.07 ~ 2026.09.13",
     "periodStart": "2026-09-07",
     "periodEnd": "2026-09-13",
