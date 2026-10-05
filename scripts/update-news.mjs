@@ -44,6 +44,9 @@ const KEYWORDS = [
 // Maps bare hostnames to their real Korean media name (verified by visiting
 // each site directly, not guessed from the domain).
 const SOURCE_NAME_MAP = {
+    'seoulfn.com': '서울파이낸스',
+    'news.einfomax.co.kr': '연합인포맥스',
+    'finomy.com': '현대경제신문',
     'news.tf.co.kr': '더팩트',
     'junggi.co.kr': '중기이코노미',
     'kpinews.kr': 'KPI뉴스',
