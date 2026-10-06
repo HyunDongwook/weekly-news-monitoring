@@ -42,7 +42,22 @@ body.embed-page .news-card__divider {
 }
 
 body.embed-page .news-card__source {
-  width: 96px;
+  width: 140px;
+  flex-shrink: 0;
+  overflow: visible;
+  text-overflow: clip;
+}
+
+body.embed-page .archive-row__meta {
+  width: auto;
+  min-width: 216px;
+}
+
+body.embed-page .archive-row__meta .news-card__source {
+  width: auto;
+  min-width: 148px;
+  overflow: visible;
+  text-overflow: clip;
 }
 
 body.embed-page .archive-row__badge {
