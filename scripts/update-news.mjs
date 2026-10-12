@@ -46,6 +46,9 @@ const KEYWORDS = [
 const SOURCE_NAME_MAP = {
     'seoulfn.com': '서울파이낸스',
     'news.einfomax.co.kr': '연합인포맥스',
+    'k-health.com': '코리아헬스로그',
+    'vegannews.co.kr': '비건뉴스',
+    'rightknow.co.kr': '라이트노우',
     'finomy.com': '현대경제신문',
     'news.tf.co.kr': '더팩트',
     'junggi.co.kr': '중기이코노미',
