@@ -25,6 +25,12 @@ const KEYWORDS = [
   '공공 바우처',
   '복지플랫폼',
   '복지 제휴',
+  '코나아이',
+  '식권',
+  '복지카드',
+  '맞춤형복지',
+  '애드웰',
+  '오피스링크',
   'BPO',
   '고객센터',
   '결제 서비스',
@@ -233,7 +239,31 @@ const EXCLUDE_URL_SUBSTR = ['msn.com'];
 
 // Per-keyword cap so one broad keyword (e.g. "구독", "멤버십") can't drown out
 // niche keywords (e.g. "삼구아이앤씨") once everything is merged together.
-const PER_KEYWORD_CAP = 25;
+//
+// 2026-10-12: the old flat cap of 25 (newest-first) meant high-volume keywords
+// were filled entirely by the last 1-3 days of the week (e.g. 170 of 267
+// candidates were dated Sunday, Mon-Wed almost empty), so welfare articles from
+// earlier in the week were silently dropped. Core welfare/vendor keywords now
+// get a much larger cap; other keywords get a moderate default.
+const PER_KEYWORD_CAP = 60;
+const KEYWORD_CAPS = {
+  '이지웰': 150,
+  '베네피아': 150,
+  '복지몰': 150,
+  '복지포인트': 150,
+  '선택적복지': 150,
+  '기업복지': 150,
+  '복지플랫폼': 150,
+  'B2E': 150,
+  '복지 제휴': 150,
+  '코나아이': 150,
+  '식권': 100,
+  '복지카드': 100,
+  '맞춤형복지': 100,
+  '애드웰': 100,
+  '오피스링크': 100,
+};
+const capFor = (keyword) => KEYWORD_CAPS[keyword] ?? PER_KEYWORD_CAP;
 
 // Two article titles that share at least this fraction of character bigrams
 // are treated as "the same event"; only the first (most recent, since results
@@ -427,7 +457,7 @@ async function fetchKeywordCandidates(keyword, periodStart, periodEnd) {
       url: articleUrl,
       matchedKeyword: keyword,
     });
-    if (results.length >= PER_KEYWORD_CAP) break;
+    if (results.length >= capFor(keyword)) break;
   }
   return results;
 }
