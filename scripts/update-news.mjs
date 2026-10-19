@@ -50,6 +50,10 @@ const KEYWORDS = [
 // Maps bare hostnames to their real Korean media name (verified by visiting
 // each site directly, not guessed from the domain).
 const SOURCE_NAME_MAP = {
+    'datanews.co.kr': '데이터뉴스',
+    'sidae.com': '시대일보',
+    'kdpress.co.kr': 'KD프레스',
+    'imaeil.com': '매일신문',
     'seoulfn.com': '서울파이낸스',
     'news.einfomax.co.kr': '연합인포맥스',
     'k-health.com': '코리아헬스로그',
