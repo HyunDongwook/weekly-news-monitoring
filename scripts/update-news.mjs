@@ -50,6 +50,10 @@ const KEYWORDS = [
 // Maps bare hostnames to their real Korean media name (verified by visiting
 // each site directly, not guessed from the domain).
 const SOURCE_NAME_MAP = {
+    'worknworld.kctu.org': '노동과세계',
+    'gokorea.kr': '공감신문',
+    'biztribune.co.kr': '비즈트리뷴',
+    'lcnews.co.kr': '라이센스뉴스',
     'datanews.co.kr': '데이터뉴스',
     'sidae.com': '시대일보',
     'kdpress.co.kr': 'KD프레스',
