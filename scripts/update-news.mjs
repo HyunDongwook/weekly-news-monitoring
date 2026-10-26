@@ -52,6 +52,7 @@ const KEYWORDS = [
 const SOURCE_NAME_MAP = {
     'worknworld.kctu.org': '노동과세계',
     'gokorea.kr': '공감신문',
+    'newsroad.co.kr': '뉴스로드',
     'biztribune.co.kr': '비즈트리뷴',
     'lcnews.co.kr': '라이센스뉴스',
     'datanews.co.kr': '데이터뉴스',
