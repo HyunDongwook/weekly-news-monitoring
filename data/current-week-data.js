@@ -88,13 +88,6 @@ window.CURRENT_WEEK = {
       "url": "https://www.donga.com/news/Economy/article/all/20261030/134933074/2"
     },
     {
-      "title": "340만명 사용 복지포인트 쇼핑몰 '현대이지웰', 해킹으로 개인정보 유출",
-      "summary": "복지포인트 쇼핑몰로 잘 알려진 현대이지웰이 해킹으로 회원정보가 유출됐다. 유출된 항목은 △이름 △생년월일 △성별 △휴대폰번호 △이메일 △주소 등이다. 현대이지웰은 10월 29일 21시경 회원정보 조회 API에 외부의...",
-      "source": "보안뉴스",
-      "date": "2026-10-31",
-      "url": "https://www.boannews.com/news/articleView.html?idxno=146907"
-    },
-    {
       "title": "해외 간편결제 경쟁 불붙었다…시중은행, 결제망 넓히기 총력",
       "summary": "KB국민은행은 국내 금융사 최초로 중국 국가 결제망과 연계한 결제 서비스를 선보였다. 중국의 국가 결제 인프라 기관인 NUCC(Net Union Clearing Corporation), 교통은행, 위챗페이 등 현지 결제사업자와 협력해 중국 위안화 기반...",
       "source": "에너지경제",
