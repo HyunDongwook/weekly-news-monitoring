@@ -50,6 +50,9 @@ const KEYWORDS = [
 // Maps bare hostnames to their real Korean media name (verified by visiting
 // each site directly, not guessed from the domain).
 const SOURCE_NAME_MAP = {
+    'mbn.mk.co.kr': 'MBN',
+    'newswell.co.kr': '뉴스웰',
+    'newsworks.co.kr': '뉴스웍스',
     'worknworld.kctu.org': '노동과세계',
     'gokorea.kr': '공감신문',
     'newsroad.co.kr': '뉴스로드',
