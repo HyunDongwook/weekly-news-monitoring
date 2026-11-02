@@ -7,6 +7,13 @@ on:
     # 23:35 UTC every Sunday = 08:35 KST every Monday (backup, in case the
     # primary run above is delayed or dropped by GitHub's scheduler)
     - cron: '35 23 * * 0'
+    # Extra early triggers (added 2026-11-02): GitHub's scheduler often delays or
+    # drops scheduled runs by 1-4 hours. The period is computed in KST, so any run
+    # after Sun 15:00 UTC yields the correct last Mon-Sun week.
+    # 20:23 UTC = 05:23 KST, 21:53 UTC = 06:53 KST, 22:47 UTC = 07:47 KST (Mon)
+    - cron: '23 20 * * 0'
+    - cron: '53 21 * * 0'
+    - cron: '47 22 * * 0'
   workflow_dispatch: {}
 
 permissions:
