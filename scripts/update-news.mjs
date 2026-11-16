@@ -245,6 +245,10 @@ const SOURCE_NAME_MAP = {
     'khan.co.kr': '경향신문',
     'widedaily.com': '와이드경제',
     'dailian.co.kr': '데일리안',
+    'dailysecu.com': '데일리시큐',
+    'thevaluenews.co.kr': '더밸류뉴스',
+    'ftoday.co.kr': '파이낸셜투데이',
+    'digitaltoday.co.kr': '디지털투데이',
 };
 
 const EXCLUDE_URL_SUBSTR = ['msn.com'];
