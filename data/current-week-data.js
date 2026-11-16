@@ -93,6 +93,20 @@ window.CURRENT_WEEK = {
       "source": "파이낸셜투데이",
       "date": "2026-11-09",
       "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=369208"
+    },
+    {
+      "title": "“회사 건강검진비에 세금 뗀다고?”…국세청, 삼성 계열사에 “이것도 월급”",
+      "summary": "국세청이 삼성 계열사에 회사가 지원한 직원 건강검진비도 근로소득(월급)에 해당한다며 세금을 매겨야 한다는 입장을 밝혔다.",
+      "source": "매일경제",
+      "date": "2026-11-09",
+      "url": "https://www.mk.co.kr/news/economy/12202068"
+    },
+    {
+      "title": "앤트로픽서 국내 기업 계정 100여 건 유출...\"개보위에 정보 유출 신고\"",
+      "summary": "앤트로픽에서 국내 기업 계정 100여 건이 유출돼 개인정보보호위원회에 정보 유출 신고가 접수됐다.",
+      "source": "아이뉴스24",
+      "date": "2026-11-09",
+      "url": "https://www.inews24.com/view/2024097"
     }
   ]
 };
