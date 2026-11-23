@@ -51,6 +51,7 @@ const KEYWORDS = [
 // each site directly, not guessed from the domain).
 const SOURCE_NAME_MAP = {
     'mbn.mk.co.kr': 'MBN',
+    'betanews.net': '베타뉴스',
     'newswell.co.kr': '뉴스웰',
     'newsworks.co.kr': '뉴스웍스',
     'worknworld.kctu.org': '노동과세계',
